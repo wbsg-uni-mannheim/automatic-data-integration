@@ -5,7 +5,6 @@ This repository contains the code, case study data, and pipeline outputs for the
 > **Automatic End-to-End Data Integration using Large Language Models**
 > Aaron Steiner, Christian Bizer
 > Data and Web Science Group, University of Mannheim
-> Beyond SQL Workshop 2026 at ICDE
 
 ## Abstract
 
