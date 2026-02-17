@@ -1,0 +1,3 @@
+Dataset Pair,Auto Variant,Auto Size,Provided Variant,Provided Size,Best Auto Test F1,Best Provided Test F1,Test Delta
+Discogs-Musicbrainz,active_plus_random (logreg),1160,active (logreg),1550,0.990,0.991,-0.2%
+Lastfm-Musicbrainz,faiss_large (logreg),600,faiss_large_plus_random (rf),720,0.968,0.988,-2.0%

@@ -1,0 +1,11 @@
+case,optimization_mode,attribute,resolver,kwargs
+heuristic,none,assets,median,{}
+heuristic,none,city,union,"{""separator"": "",""}"
+heuristic,none,country,most_complete,{}
+heuristic,none,founded,prefer_higher_trust,"{""trust_key"": ""trust_score""}"
+heuristic,none,founders,union,"{""separator"": "",""}"
+heuristic,none,industry,most_complete,{}
+heuristic,none,keypeople_name,longest_string,{}
+heuristic,none,name,longest_string,{}
+heuristic,none,revenue,median,{}
+heuristic,none,website,most_complete,{}

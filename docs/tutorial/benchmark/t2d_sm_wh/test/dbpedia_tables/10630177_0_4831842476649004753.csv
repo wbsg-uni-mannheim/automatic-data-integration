@@ -1,0 +1,225 @@
+rdf-schema#label,floorCount,height,buildingStartDate,startDate,buildingEndDate,openingDate,location
+100 St Georges Terrace,"4, 24",103.0,2006,2006,2009,,Perth
+101 California Street,48,183.0,1979,1979,1982,,"California, California Street (San Francisco), San Francisco"
+108 St Georges Terrace,50,214.0,1981,1981,1988,,Perth
+1201 Walnut,30,130.1,1988,1988,1991,,Missouri
+1221 Avenue of the Americas,51,205.435,1966,1966,1969,,"Sixth Avenue, New York (state), New York City"
+1345 Avenue of the Americas,50,190.5,1966,1966,1969,,"New York (state), New York City"
+200 West Street,44,228.295,2005,2005,2009,,"Battery Park City, Manhattan, New York City"
+20 Fenchurch Street,37,160.0,January 2009,January 2009,April 2014,,London
+28 Liberty Street,60,247.802,January 1957,January 1957,"January 1961 (tower), May 7, 1964 (plaza)",,Manhattan
+2 World Trade Center,82,409.956,"November 10, 2008",2008-11-10,,,"Manhattan, Greenwich Street (Manhattan), New York City"
+30 St Mary Axe,41,180.0,2001,2001,2003,,"London, St Mary Axe"
+321 North Clark,35,155.45,1983,1983,1987,,"Chicago, Illinois"
+33 Arch Street,33,145.39,"Jun 05, 2001","Jun 05, 2001","Aug 04, 2004",,"Massachusetts, Boston, Massachusetts"
+33 Thomas Street,29,167.64,1969,1969,1974,,"Manhattan, New York (state), New York City"
+350 Mission Street,30,"129.235, 138.684",,,2015,,"California, San Francisco"
+3 World Trade Center,80,328.879,2010,2010,2018,,"Manhattan, Greenwich Street, New York City"
+400 George Street,34,150.0,2006,2006,2009,2009-12-09,"George Street, Brisbane, Australia"
+425 Fifth Avenue,55,188.366,2001,2001,2003,,
+4 World Trade Center,78,,,,,,"United States, Manhattan, New York (state), New York City"
+525 William Penn Place,41,158.496,"April 1, 1949",1949-04-01,1951,,"Pennsylvania, Pittsburgh"
+555 Mission Street,33,147.0,2006,2006,2008,,"California, San Francisco"
+55 Water Street,53,,1969,1969,1972,,"Manhattan, New York City"
+590 Madison Avenue,41,183.794,1979,1979,1983,1983-10-04,Manhattan
+599 Lexington Avenue,50,199.034,1984,1984,1986,,"Midtown Manhattan, New York City"
+712 Fifth Avenue,52,198.12,1987,1987,1989,,
+777 Tower,55,220.98,1988,1988,1991,,"California, Los Angeles"
+7 World Trade Center,52,"206.959, 225.857, 226.466","May 7, 2002",2002-05-07,2006,,"Manhattan, Greenwich Street, New York City"
+Adam Clayton Powell Jr. State Office Building,19,,1967,1967,1973,,Manhattan
+Aerial tramway,,,,,,,
+Al Attar Business Tower,30,158.0,1998,1998,2000,,"Dubai, U.A.E."
+Al Tayer Tower,59,249.0,2006,2006,2009,,"United Arab Emirates, Dubai, Sheikh Zayed Road"
+Alexandria,,,,,,,
+Algiers,,,,,,,
+Allison Tower,32,133.807,2001,2001,2002,,"The Woodlands, Texas"
+"Anaconda, Montana",,,,,,,
+Anaconda Smelter Stack,,,,,,,"Anaconda, Montana"
+Anuradhapura,,,,,,,
+Aqua (skyscraper),"5, 82",261.8,2007,2007,2009,,"Chicago, Illinois"
+"Arecibo, Puerto Rico",,,,,,,
+Avicii Arena,,,,,,1989-02-19,"Johanneshov, Stockholm, Sweden"
+Ayala Tower One,35,160.0,1993,1993,1996,,"Makati, Ayala Avenue, Philippines"
+Azrieli Center,"42, 46, 49",187.0,1996,1996,1999,,"Israel, Tel Aviv"
+BNY Mellon Center (Pittsburgh),55,220.98,October 1980,October 1980,June 1984,,"Pennsylvania, Pittsburgh"
+Beauvais,,,,,,,
+Beauvais Cathedral,,,,,,,
+"Beetham Tower, Manchester",47,158.0,2004,2004,2006,,Manchester
+Birmingham,,,,,,,
+Bologna,,,,,,,
+Broadgate Tower,33,165.0,2005,2005,2009,,London
+Broadway (Manhattan),,,,,,,"Westchester County, New York, The Bronx, New York City"
+Brookfield Place (Perth),46,"190.0, 204.0",April 2008,April 2008,2012,,"Perth, St Georges Terrace"
+Bryan Simpson United States Courthouse,14,84.4296,1999,1999,2002,,"United States, Florida, Jacksonville, Florida"
+Bush Tower,30,131.978,August 1916,August 1916,December 1918,,"Manhattan, 42nd Street (Manhattan)"
+CIS Tower,25,118.0,September 1959,September 1959,1962,1962-10-22,Manchester
+CN Tower,,446.5,1973,1973,1976,1976-06-26,
+CN Tower (Edmonton),26,110.92,1964,1964,1966,1966-02-14,Edmonton
+Cairo Tower,62,"143.0, 160.0, 187.0",1956,1956,1961,,"Cairo, Egypt"
+Calgary Courts Centre,25,129.0,2004,2004,2007,,Calgary
+Canton Tower,,,,November 2005,,,
+Carlton Centre,50,223.0,1967,1967,1974,,"Commissioner Street (Johannesburg), Johannesburg"
+Castellana 81,4,107.0,1979,1979,1981,,"Madrid, Spain, Paseo de la Castellana"
+Central Park Tower,,,,2014-09-17,,,
+Chase Tower (Dallas),55,225.0,,,1987,,"Dallas, Texas"
+Chater House,30,,,,,,"Hong Kong, Connaught Road Central, Central, Hong Kong, Chater Road"
+Chifley Tower,53,216.0,1988,1988,1992,,"Australia, Sydney"
+China Zun,109,,"May 15, 2012, September 19, 2011",2012-05-15,"September 30, 2018",,"Beijing, Chaoyang District, Beijing, China, Beijing CBD"
+Cira Centre,29,133.198,2004,2004,,,"Pennsylvania, Philadelphia"
+"City Tower, Manchester",30,107.0,,,,,"England, Manchester"
+City Tower (Prague),27,109.0,"1985 (halted in 1993, then restarted in 2005)",1985,2008,,"Prague, Czech Republic"
+"Clark Tower (Memphis, Tennessee)",34,111.252,"July, 1970","July, 1970","July 9, 1971",,"United States, Memphis, Tennessee, Tennessee"
+Cologne,,,,,,,
+Cologne Cathedral,,,,,,,Cologne
+Cologne Tower,"2, 44",148.5,June 1999,June 1999,November 2001,,"Cologne, Germany"
+Commerce Square,41,172.212,1985 / 1990,1985,Renovated in 2013,,"Pennsylvania, Market Street (Philadelphia), Philadelphia"
+Constellation Place,35,149.5,2001,2001,2003,,"California, Century City, Los Angeles"
+Dariush Grand Hotel,4,,1994,1994,2001,,"Iran, Kish Island"
+Dimona,,,,,,,
+Djamaa el Djazaïr,37,"70.0, 265.0",16 August 2012,2012-08-16,29 April 2019,,"Algeria, Algiers"
+Dubai,,,,,,,
+Duja Tower,53,191.0,2009,2009,2017,,"United Arab Emirates, Dubai"
+Eiffel Tower,3,"276.0, 300.0, 330.0",,1887-01-28,,1889-03-31,"7th arrondissement of Paris, Paris"
+El Escorial,,,,,,,San Lorenzo de El Escorial
+Epcor Tower,28,137.3,2008,2008,2011,,"Canada, Alberta, Edmonton"
+Federation Tower,"63, 97",374.0,"2005, November 28, 2003",2005,"December 7, 2017",2017-12-07,"Russia, Moscow, Moscow International Business Centre"
+Fenn Tower,22,81.0,"November 3, 1929",1929-11-03,1929,,"Euclid Avenue (Cleveland, Ohio), Cleveland, Ohio"
+Figueroa at Wilshire,"4, 53",218.54,1988,1988,1990,,"California, Los Angeles, Figueroa Street"
+Floreasca City Center,37,137.0,2008,2008,2013,2012-10-10,"Romania, Bucharest"
+Forestport Tower,,371.25,,,1950,,"Forestport, New York"
+Fountain Place,63,219.5,1984,1984,1986,,"Dallas, Texas"
+Fourth and Madison Building,,156.06,2000,2000,2002,,"Seattle, Washington"
+Frick Building,20,100.584,1901,1901,"March 15, 1902",1902-03-15,"Pittsburgh, Pennsylvania"
+Gas Company Tower,61,228.3,1988,1988,1991,,"California, Los Angeles"
+Gasometer Oberhausen,,117.5,27 February 1927,1927-02-27,1929,1929-05-15,"Germany, Oberhausen"
+Gate of Europe,26,114.0,1989,1989,1996,,"Madrid, Paseo de la Castellana"
+Gateway Arch,,192.024,,1963-02-12,,1967-06-10,"St. Louis, Missouri"
+General Motors Building (Manhattan),50,214.884,1965,1965,1968,,New York (magazine)
+Gerbrandy Tower,,366.8,,,1961,,"Utrecht province, IJsselstein, Netherlands"
+Gevora Hotel,75,"276.3, 356.33, 357.8","September 3, 2005",2005-09-03,"December 21, 2017",,
+Giza,,,,,,,
+Gliwice Radio Tower,,111.0,,,1935,,"Gliwice, Poland"
+Goldin Finance 117,128,"584.1, 597.0",16 August 2008,2008-08-16,,,"Xiqing District, Tianjin"
+Grand Canyon Skywalk,,,,,,2007-03-28,
+Great American Tower at Queen City Square,"3, 41","147.0, 151.0",November 2008,November 2008,January 2011,,"Cincinnati, Ohio"
+Grosvenor House (Dubai),"3, 48",210.4,"The Residence 2007, West Marina Beach 2002","The Residence 2007, West Marina Beach 2002","The Residence 2011, West Marina Beach 2005",2005-06-21,"United Arab Emirates, Dubai"
+Guangzhou,,,,,,,
+Guangzhou CTF Finance Centre,111,"495.605, 530.047","29 September 2009, July 29, 2010",2010-07-29,,,"Zhujiang New Town, Tianhe District, Guangdong, Guangzhou, China"
+Gulf Tower,44,177.4,1930,1930,1932,,"Grant Street, Pittsburgh, Pennsylvania"
+Gulf of Mexico,,,,,,,American Mediterranean Sea
+Göbekli Tepe,,,,,,,
+Hamburg,,,,,,,
+Hearst Tower (Manhattan),46,181.966,"1927 (original building), April 2003 (tower)","1927, April 2003","1928 (original building), 2006 (tower)",,
+Henninger Turm,33,"107.0, 110.0",1959 (Old) 2014-15 (New),19592014,1961 (Old) 2016 (New),,"Frankfurt, Germany, Hesse"
+High Roller (Ferris wheel),,167.64,,,,2014-03-31,"United States, Paradise, Nevada, Las Vegas Strip, Nevada"
+Houston,,,,,,,
+Houston Methodist Hospital,,,,,,,
+Hạ Long,,,,,,,
+IAC Building,10,44.196,2005,2005,2007,,"Manhattan, New York City"
+INS Kattabomman,,,,,,,"Tirunelveli, Tamil Nadu"
+JW Marriott Indianapolis,34,114.605,,2008-05-29,2011,,"Indianapolis, Indiana"
+Jardine House,52,"168.5, 178.5",,,,,"Hong Kong, Connaught Place (Hong Kong), Central, Hong Kong"
+Jetavanaramaya,,122.0,,,,,"Anuradhapura, North Central Province, Sri Lanka, Sri Lanka"
+Jhalawar,,,,,,,
+Jinping-I Dam,,305.0,2005,,,,"Muli Tibetan Autonomous County, Liangshan Yi Autonomous Prefecture, Sichuan, China, Yanyuan County"
+Jintang Island,,,,,,,
+Joseph Chamberlain Memorial Clock Tower,,,1900,1900,1908,,"Birmingham, University of Birmingham"
+KRDK-TV mast,,627.888,,,,,"United States, Galesburg, North Dakota, North Dakota, Traill County, North Dakota"
+KVLY-TV mast,,,,,inception,,"Blanchard, North Dakota, United States, North Dakota, Traill County, North Dakota"
+Kingda Ka,,,,,,,Six Flags Great Adventure
+Kirya Tower,42,158.0,2001,2001,,,"Israel, Tel Aviv"
+Koppers Tower,34,144.78,1927,1927,"March, 1929",,"Pittsburgh, Pennsylvania"
+Kuala Lumpur International Airport,,,,,,,"Malaysia, Sepang, Selangor"
+Kuwait City,,,,,,,
+Kuwait Towers,,187.0,,,,,"Kuwait, Kuwait City"
+Kyiv,,,,,,,
+Kyiv TV Tower,,385.0,1968,1968,1973,,"Ukraine, Kyiv"
+LUMINA,,121.92,2013,2013,2015–16,,"California, San Francisco"
+Lakhta Center,"3, 87",462.0,,,,,"Lakhta, Saint Petersburg"
+Lakihegy Tower,,314.0,,,"1933 (original), 1946 (rebuilt)",,"Hungary, Szigetszentmiklós"
+Las Vegas,,,,,,,
+Las Vegas City Hall,7,,2010,2010,2012,2012-02-21,Nevada
+Lighthouse of Alexandria,,,,,between 284 & 246 BC.,,"Egypt, Alexandria"
+"Lincoln, England",,,,,,,
+Lincoln Cathedral,,,,,,,"Lincoln, England, Lincolnshire"
+Lloyd's building,14,88.0,1978,1978,1986,,"Lime Street, London"
+Lotte World Tower,123,,"May 2009, January 22, 2010",2010-01-22,"December 22, 2016",2017-04-03,"Sincheon-dong, Seoul, Songpa District, South Korea, Seoul"
+Lualualei VLF transmitter,,458.11,,,1972,,"Hawaii, Lualualei"
+Malmesbury Abbey,,,,,,,"Malmesbury, Wiltshire"
+Manaus,,,,,,,
+Manchester Civil Justice Centre,17,80.0,,,2007,,"Manchester, Spinningfields"
+Mecca,,,,,,,
+MetLife Building,59,246.278,"November 26, 1959",1959-11-26,1963,1963-03-07,"Manhattan, Park Avenue, New York (state)"
+Metropolitan Courthouse,9,53.3,2001,2001,2003,,"Albuquerque, New Mexico"
+Miami Tower,47,190.5,1983,1983,1987,,"Florida, Miami"
+Millau,,,,,,,
+Millau Viaduct,,336.4,,,,"2004-12-14, 2004-12-16",
+Millennium Tower (San Francisco),58,"180.442, 184.404",2005,2005,2009,2009-04-23,"California, San Francisco, Mission Street"
+Mobile Government Plaza,12,99.06,,,1994,,"Mobile, Alabama"
+Mohammed bin Rashid Al Maktoum Solar Park,,,2012,,,2013-10-22,"Dubai, Seih Al-Dahal"
+Moscow,,,,,,,
+Nakheel Tower,200,1000.0,2008,2008,,,"United Arab Emirates, Dubai"
+Nevada Test Site,,,,,,,http://dbpedia.org/resource/Nevada_Test_Site__location__1
+Niederaussem Power Station,,,,,,,"Bergheim, North Rhine-Westphalia"
+North Sea,,,,,,,"Northern Europe, Western Europe"
+OCBC Centre,52,197.7,1975,1975,1976,,"Singapore, Downtown Core"
+OUE Downtown,"1, 2",201.0,1972,1972,"Tower 1: 1975, Tower 2: 1994",,"Singapore, Downtown Core, Shenton Way"
+Old St Paul's Cathedral,,,,,,,
+Olympic Stadium (Montreal),,,"April 28, 1973",,,"1976-07-17, 1977-04-15","Quebec, Montreal"
+One Atlantic Center,50,250.0,1986,1986,1987,,Atlanta
+One Canada Square,50,234.696,1988,1988,,,Canary Wharf
+One Franklin Square,"4, 12","39.6, 64.0",1989,1989,1990,,"United States, Washington D.C., K Street (Washington, D.C.)"
+One George Street,23,153.0,2003,2003,2004,,"Singapore, Downtown Core, Raffles Place"
+One Liberty Plaza,54,226.466,1969,1969,1972,,"United States, Broadway (Manhattan), New York (state), New York City"
+One M&T Plaza,21,97.0,"June 16, 1965",1965-06-16,"May 15, 1967",,"United States, Buffalo, New York, New York (state)"
+One One One Eagle Street,53,195.0,2008,2008,early 2012,2012-08-01,"Queensland, Brisbane, http://dbpedia.org/resource/Eagle_Street"
+One Times Square,25,110.642,,,,,"Manhattan, Times Square, New York (state)"
+One World Trade Center,"28, 94","386.486, 416.966, 541.325, 546.202",,2006-04-27,,,"Manhattan, Fulton Street (Manhattan), New York City"
+Oriental Pearl Tower,,351.0,,1991-07-30,1994,,Shanghai
+Ostankino Tower,120,"360.4, 385.4",1963,1963,1967,,
+PPG Place,40,166.0,"January 28, 1981",1981-01-28,"April 11, 1984",,"Pennsylvania, Pittsburgh"
+Park Avenue West Tower,30,140.208,,,2016,,"United States, Portland, Oregon, Oregon"
+Park Row Building,,,,,,,Manhattan
+Parkview Square,"2, 24",144.0,1999,1999,2002,,"North Bridge Road, Singapore, Downtown Core"
+Parus Business Centre,34,136.0,2004,2004,2007,,"Ukraine, Kyiv"
+Pentominium,"6, 122","471.0, 516.0","July 26, 2008",2008-07-26,,,"United Arab Emirates, Dubai"
+Phoenix Corporate Center,26,103.937,1963,1963,,1965-01-03,"Phoenix, Arizona"
+Pirelli Tower,"2, 32","113.0, 124.0",1956,1956,1958,,"Italy, Milan"
+Platinum Tower (Beirut),35,153.0,,,2008,,"Beirut, Lebanon"
+River Point,52,223.114,2013,2013,2017,,"Chicago, Illinois"
+Roaring Twenties,,,,,,,
+Rotterdam,,,,,,,
+Rouen,,,,,,,
+Rouen Cathedral,,,,,,,"Rouen, France, Normandy"
+Samsung C&T Corporation,,,,,,,
+San Jacinto Monument,,,,,,,"Harris County, Texas"
+Seat of the European Central Bank,48,185.0,Spring 2010,Spring 2010,October 2014,2015-03-18,"Frankfurt, Germany, Hesse"
+Shanghai Tower,"5, 128","587.4, 632.0",21 November 2008,2008-11-21,2 September 2014,2015-02-02,"Lujiazui, Pudong, Shanghai"
+Shenzhen,,,,,,,
+Singer Building,41,,,,,,"Manhattan, Broadway (Manhattan), New York (state), New York City"
+"St. Mary's Church, Stralsund",,,,,before 1298,,"Germany, Stralsund"
+"St. Nicholas Church, Hamburg",,,1189,1189,1195,,Hamburg
+Star Tower,,290.8,,,1991,,"Cincinnati, Ohio"
+Statue of Unity,,,,,,,"Kevadiya, Narmada, Gujarat"
+Stockholm,,,,,,,
+Stralsund,,,,,,,
+Strasbourg,,,,,,,
+Strasbourg Cathedral,,,,,,,
+Swissmill Tower,,118.0,May 2013,May 2013,April 2016,,"Switzerland, Zürich-Hard"
+Taipei,,,,,,,
+Tianjin CTF Finance Centre,97,"439.217, 530.047, 530.352","November 20, 2009, January 3, 2013",2013-01-03,"September 22, 2019",,"Binhai, Tianjin, China"
+Times Square Ball,,,,,,,"Times Square, New York City"
+Tirunelveli,,,,,,,
+Tokyo,,,,,,,
+Tokyo Skytree,"3, 32",,,2008-07-14,,,"Tokyo, Sumida, Tokyo"
+Tokyo Tower,,,,June 1957,,,
+Ulsan,,,,,,,
+Ursa tension leg platform,,,,,,,New Orleans
+Uruk,,,,,,,
+Vehicle Assembly Building,1,,,,1966,,
+Vinnytsia,,,,,,,
+WGME-TV,,,,,,,
+Warsaw radio mast,,646.38,July 1970,July 1970,18 May 1974,,"Gąbin, Poland, Konstantynów (Płock County)"
+Washington Monument,,,,,,,National Mall
+World Trade Center (1973–2001),"1, 2, 3, 4, 5, 6, 7","185.928, 411.0",", 1 WTC: August 6, 1968, 2 WTC: January 1969, 3 WTC: March 1979, 4 WTC: 1974, 5 WTC: 1970, 6 WTC: 1969, 7 WTC: October 2, 1984","2, 3, 4, 5, 6, --08-06, --10-02, ",", 1 WTC: 1972, 2 WTC: April 4, 1973, 3 WTC: April 1, 1981, 4 WTC: 1975, 5 WTC: 1972, 6 WTC: 1973, 7 WTC: March 1987","1970-12-15, 1973-04-04, 1981-07-01","Lower Manhattan, New York City"
+Zumanjaro: Drop of Doom,,,,,,,Six Flags Great Adventure

@@ -1,0 +1,8 @@
+source_dataset,source_column,target_dataset,target_column,score,notes
+lastfm,album_title,Music Release,artist,0.3289644343360408,"vector_method=term_frequencies,similarity=cosine"
+lastfm,album_title,Music Release,name,0.7154233027305249,"vector_method=term_frequencies,similarity=cosine"
+lastfm,album_title,Music Release,tracks_track-name,0.5995221739642048,"vector_method=term_frequencies,similarity=cosine"
+lastfm,band,Music Release,name,0.3446955879944775,"vector_method=term_frequencies,similarity=cosine"
+lastfm,tracks_track-name,Music Release,artist,0.30159159954126263,"vector_method=term_frequencies,similarity=cosine"
+lastfm,tracks_track-name,Music Release,name,0.646204149673576,"vector_method=term_frequencies,similarity=cosine"
+lastfm,tracks_track-name,Music Release,tracks_track-name,0.7986135916309779,"vector_method=term_frequencies,similarity=cosine"

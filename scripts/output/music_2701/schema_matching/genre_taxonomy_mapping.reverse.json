@@ -1,0 +1,70 @@
+{
+  "Pop": [
+    "Pop"
+  ],
+  "Blues Rock": [
+    "Blues|Pop|Rock",
+    "Blues|Rock",
+    "Blues|Rock|Folk, World, & Country"
+  ],
+  "Latin Jazz": [
+    "Jazz|Latin",
+    "Jazz|Latin|Folk, World, & Country",
+    "Jazz|Latin|Reggae|Folk, World, & Country",
+    "Jazz|Pop|Latin",
+    "Jazz|Pop|Latin|Funk / Soul|Hip Hop"
+  ],
+  "Jazz Rap": [
+    "Jazz|Hip Hop"
+  ],
+  "Latin Hip Hop": [
+    "Electronic|Latin|Hip Hop"
+  ],
+  "Reggae Fusion": [
+    "Electronic|Reggae|Hip Hop",
+    "Electronic|Stage & Screen|Pop|Reggae",
+    "Funk / Soul|Reggae",
+    "Pop|Reggae"
+  ],
+  "Latin Urban": [
+    "Electronic|Latin|Funk / Soul",
+    "Electronic|Latin|Funk / Soul|Reggae|Folk, World, & Country",
+    "Latin|Funk / Soul",
+    "Latin|Funk / Soul|Reggae|Folk, World, & Country|Hip Hop"
+  ],
+  "Electropop": [
+    "Electronic|Pop|Funk / Soul|Hip Hop"
+  ],
+  "Latin Pop": [
+    "Electronic|Pop|Latin",
+    "Pop|Latin",
+    "Pop|Latin|Funk / Soul|Rock"
+  ],
+  "Funk Rock": [
+    "Electronic|Funk / Soul|Rock"
+  ],
+  "Dance Pop": [
+    "Pop|Funk / Soul|Hip Hop"
+  ],
+  "Contemporary Jazz": [
+    "Jazz|Pop|Classical"
+  ],
+  "Jazz Rock": [
+    "Jazz|Pop|Rock",
+    "Jazz|Rock|Folk, World, & Country"
+  ],
+  "Jazz Funk": [
+    "Jazz|Funk / Soul|Rock"
+  ],
+  "Reggaeton": [
+    "Electronic|Pop|Reggae|Hip Hop"
+  ],
+  "Reggae": [
+    "Latin|Reggae",
+    "Reggae|Folk, World, & Country"
+  ],
+  "Reggae Rock": [
+    "Pop|Funk / Soul|Rock|Reggae",
+    "Rock|Reggae"
+  ]
+}

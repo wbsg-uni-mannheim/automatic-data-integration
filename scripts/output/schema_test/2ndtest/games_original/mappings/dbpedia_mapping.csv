@@ -1,0 +1,6 @@
+source_dataset,source_column,target_dataset,target_column,score,notes
+dbpedia,name,Videogames,name,0.95,llm_based_matching
+dbpedia,releaseYear,Videogames,releaseYear,0.95,llm_based_matching
+dbpedia,developer,Videogames,developer,0.95,llm_based_matching
+dbpedia,platform,Videogames,platform,0.95,llm_based_matching
+dbpedia,series,Videogames,series,0.95,llm_based_matching

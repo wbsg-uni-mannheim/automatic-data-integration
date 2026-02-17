@@ -1,0 +1,104 @@
+rdf-schema#label,frequency,broadcastStationClass,programmeFormat
+KABC (AM),790000.0,B,Talk radio
+KAHZ,1.6e+06,B,
+KALI-FM,1.063e+08,A,
+KAVL,610000.0,B,Sports radio
+KAZN,1.3e+06,B,
+KBLA,1.58e+06,B,Talk radio
+KBRT,740000.0,D,Christian radio
+KBUL (AM),970000.0,B,Talk radio
+KCMD,9.93e+07,A,Talk radio
+KDAL (AM),610000.0,B,Talk radio
+KDIS (AM),,,
+KENN (AM),1.39e+06,B,News Talk Information
+KEZY,1.24e+06,C,Spanish Religious
+KFAB,1.11e+06,A,Talk radio
+KFI,640000.0,A (Clear channel),Talk radio
+KFOX (AM),1.65e+06,B,Korean language
+KFRN,1.28e+06,B,Christian radio
+KFWB,,B,Regional Mexican
+KGJN-LP,1.067e+08,L1,News Talk Information
+KHFX,1.14e+06,B,Spanish language
+KHJ (AM),930000.0,B,Roman Catholic
+KHTS (AM),1.22e+06,B,Full service (radio format)
+KIRN,,B,Ethnic media
+KKOH,780000.0,B,Talk radio
+KLAA (AM),,,
+KLAC,,B,Sports radio
+KLID,1.34e+06,C,"Oldies, News/Talk"
+KLKS (FM),1.001e+08,C2,Talk radio
+KMPC,1.54e+06,B,Korean language
+KMRB,1.43e+06,B,
+KMRO,9.03e+07,B,Spanish language
+KMZT,,,
+KNUJ (AM),860000.0,D,"Full service (radio format), Talk radio"
+KNWZ,970000.0,B,Talk radio
+KNX (AM),,A,All-news radio
+KOSS,1.38e+06,D,Talk radio
+KOWL,1.49e+06,C,"Talk radio, News radio"
+KPAM,860000.0,B,Talk radio
+KRLA,870000.0,B,Talk radio
+KROX (AM),1.26e+06,B,"Talk radio, Commercial radio"
+KSPA,1.51e+06,B,Dark (broadcasting)
+KSPN,,,
+KSUE,1.24e+06,C,News Talk Information
+KTLK (AM),,,
+KTPI (AM),1.34e+06,C,Talk radio
+KTYM,1.46e+06,B,Catholic radio
+KUAC (FM),8.99e+07,C,"Classical music, Public radio, News/Talk"
+KUMA (AM),1.29e+06,B,"Talk radio, News radio"
+KUTY,1.47e+06,B,Regional Mexican
+KVNR,1.48e+06,B,Vietnamese language
+KWFS (AM),1.29e+06,D,"All-news radio, Talk radio"
+KWKW,,B,Sports radio
+KXEL,1.54e+06,A,"All-news radio, Talk radio"
+KXLE (AM),1.24e+06,C,News Talk Information
+KXMX,,A,Variety (radio)
+KXXX,790000.0,D,"Farm, Classic country music"
+KYCR (AM),1.44e+06,B,Business journalism
+KYPA,1.23e+06,C,Korean language
+KZSB,1.29e+06,D,"Talk radio, News radio"
+W241AP,9.61e+07,D,Talk radio
+WACV,9.31e+07,A,News Talk
+WALG,1.59e+06,B,"All-news radio, Talk radio"
+WASR (AM),1.42e+06,D,"Talk radio, Classic hits"
+WATR,1.32e+06,B,"Full-service radio, Sports radio, Classic hits"
+WATZ (AM),1.45e+06,C,News-Talk
+WBAL (AM),1.09e+06,A (clear channel),"All-news radio, Talk radio"
+WBCF (AM),1.24e+06,C,"Talk radio, News radio"
+WBRP,1.073e+08,A,Talk radio
+WBVP,1.23e+06,"W257EA: D, WBVP: C, WMBA: B",Talk radio
+WCRS (AM),1.45e+06,C,News/Talk
+WDBL,1.59e+06,D,News Talk Information
+WDBO (AM),580000.0,B,Talk radio
+WFDM-FM,9.59e+07,A,Talk radio
+WFEA,1.37e+06,B,Talk radio
+WFHR,1.32e+06,B,News/Talk
+WFLA (AM),"970000.0, 2.587e+07",B,Talk radio
+WFOM,1.23e+06,C,Conservative talk radio
+WFYL,1.18e+06,D,News Talk Information
+WGAI,560000.0,B,Urban contemporary gospel
+WGAN,560000.0,B,Talk radio
+WGAU,1.34e+06,C,"Talk radio, News radio"
+WGIG,1.44e+06,B,News Talk Information
+WHIR,1.23e+06,C,News Talk Information
+WHYN (AM),560000.0,B,Talk radio
+WIBW (AM),580000.0,B,"Talk radio, Sports radio"
+WJR,760000.0,A(clear-channel),Talk radio
+WLAP,630000.0,B,Talk radio
+WMBD (AM),1.47e+06,B,Talk radio
+WMIX (AM),940000.0,B,News/Talk
+WNAV,1.43e+06,B,Full service (radio format)
+WNBF,1.29e+06,B,Talk radio
+WOGO,680000.0,B,Conservative Talk
+WOLB,1.01e+06,D,News/Talk
+WPHM,1.38e+06,B,"All-news radio, Talk radio, Sports radio"
+WREC,600000.0,B,Talk radio
+WROK (AM),1.44e+06,B,"All-news radio, Talk radio"
+WSCC-FM,9.43e+07,C3,"Talk radio, Reggae"
+WSIC,1.4e+06,C,Talk radio
+WSNG,610000.0,B,Talk radio
+WSTA,1.34e+06,B,Variety (radio)
+WTBF-FM,9.47e+07,C3,"Oldies, Talk/Personality"
+WTMA,1.25e+06,B,Talk radio
+WUFT-FM,"8.91e+07, 9.01e+07","WJUF: C2, WUFT-FM: C1","Classical music, Contemporary hit radio, Public radio"

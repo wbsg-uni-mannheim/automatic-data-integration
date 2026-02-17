@@ -1,0 +1,14 @@
+Music python scripts/run_pipeline.py --data-dir usecases/input/music/data --schema usecases/input/music/schemamatching/target_schema.json --output-dir scripts/output/music_2701 --test-dir usecases/input/music/fusion --fusion-val-generation-mode all --fusion-use-test-set --fusion-case all --fusion-iterations 3 --compare-training-sets --comparison-pairs musicbrainz_discogs musicbrainz_lastfm --compare-provided-validation         
+
+Music python scripts/run_pipeline.py --data-dir usecases/input/music/data --schema usecases/input/music/schemamatching/target_schema.json --output-dir scripts/output/music_0302 --test-dir usecases/input/music/fusion --fusion-val-generation-mode all --fusion-use-test-set --fusion-case all --fusion-iterations 3 --compare-training-sets --comparison-pairs musicbrainz_discogs musicbrainz_lastfm --compare-provided-validation         
+
+games python scripts/run_pipeline.py --data-dir usecases/input/games/data --schema usecases/input/games/schemamatching/target_schema.json --output-dir scripts/output/games_0302 --test-dir usecases/input/games/fusion --fusion-val-generation-mode all --fusion-use-test-set --fusion-case all --fusion-iterations 3 --compare-training-sets --comparison-pairs dbpedia_sales dbpedia_metacritic  --compare-provided-validation  
+
+
+Companies % python scripts/run_pipeline.py --data-dir usecases/input/companies/data --schema usecases/input/companies/schemamatching/target_schema_flat.json --output-dir scripts/output/companies_0302  --test-dir usecases/input/companies/fusion --fusion-val-generation-mode all --fusion-use-test-set --fusion-case all --fusion-iterations 3 --compare-training-sets --comparison-pairs dbpedia_forbes forbes_fullcontact
+--compare-provided-validation  
+
+
+
+  python scripts/compare_validation_consistency.py --data-dir usecases/input/music/data --schema usecases/input/music/schemamatching/target_schema.json --provided-validation usecases/input/music/fusion/validation_set.xml --output-dir scripts/output/validation_consistency/music                                                                                         
+                                                                           

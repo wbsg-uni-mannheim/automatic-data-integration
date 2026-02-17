@@ -1,0 +1,31 @@
+{
+  "overall_accuracy": 0.6396396396396397,
+  "total_comparisons": 111,
+  "correct_comparisons": 71,
+  "per_attribute_accuracy": {
+    "label": {
+      "accuracy": 0.35294117647058826,
+      "total": 17
+    },
+    "name": {
+      "accuracy": 0.8695652173913043,
+      "total": 23
+    },
+    "release-date": {
+      "accuracy": 0.782608695652174,
+      "total": 23
+    },
+    "genre": {
+      "accuracy": 0.0,
+      "total": 2
+    },
+    "release-country": {
+      "accuracy": 0.34782608695652173,
+      "total": 23
+    },
+    "artist": {
+      "accuracy": 0.8260869565217391,
+      "total": 23
+    }
+  }
+}

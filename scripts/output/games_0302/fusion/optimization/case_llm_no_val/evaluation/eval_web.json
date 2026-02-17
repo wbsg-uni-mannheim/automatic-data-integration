@@ -1,0 +1,11 @@
+{
+  "overall_accuracy": 0.8666666666666667,
+  "total_comparisons": 15,
+  "correct_comparisons": 13,
+  "per_attribute_accuracy": {
+    "name": {
+      "accuracy": 0.8666666666666667,
+      "total": 15
+    }
+  }
+}

@@ -1,0 +1,1376 @@
+{
+  "Insurance": [
+    "Insurance"
+  ],
+  "Biotechnology": [
+    "Biology",
+    "Biomedicine",
+    "Biotechnology",
+    "Biotechs",
+    "Genomics"
+  ],
+  "Software": [
+    "Software"
+  ],
+  "Entertainment": [
+    "Entertainment"
+  ],
+  "Tobacco": [
+    "Cigar",
+    "Tobacco"
+  ],
+  "Packaged Foods & Meats": [
+    "Baby food",
+    "Baking",
+    "Cat food",
+    "Caviar",
+    "Cereal",
+    "Cheese",
+    "Cheesemaking",
+    "Chocolate",
+    "Confectionery",
+    "Convenience food",
+    "Cooking oil",
+    "Dairy",
+    "Dairy product",
+    "Egg (food)",
+    "Energy bar",
+    "Food",
+    "Food Processing",
+    "Food and Beverage",
+    "Food industry",
+    "Food processing",
+    "Hot sauce",
+    "Ice cream",
+    "Maple syrup",
+    "Meat",
+    "Meat packing industry",
+    "Pascalization",
+    "Pet food",
+    "Potato chip",
+    "Seafood",
+    "Snack",
+    "Snack food",
+    "Sugar",
+    "Tea"
+  ],
+  "Movies & Entertainment": [
+    "Animation",
+    "Animation studio",
+    "Anime",
+    "Anime industry",
+    "Children's film",
+    "Cinema Digital Sound",
+    "Cinema of China",
+    "Cinema of Hong Kong",
+    "Cinema of India",
+    "Computer animation",
+    "Computer-generated imagery",
+    "DVD",
+    "Documentary film",
+    "Exhibition",
+    "Film",
+    "Film distribution",
+    "Film distributor",
+    "Film industry",
+    "Filmmaking",
+    "Filmography",
+    "Flash animation",
+    "Freestyle rap",
+    "Media conglomerate",
+    "Mixed martial arts",
+    "Motion capture",
+    "Movie theater",
+    "Music",
+    "Music industry",
+    "Music licensing",
+    "Outline of entertainment",
+    "Popular music",
+    "Pornographic film",
+    "Pornography",
+    "Production company",
+    "Professional wrestling",
+    "Recording",
+    "Remote recording",
+    "Show business",
+    "Sound",
+    "Sound recording and reproduction",
+    "Special effect",
+    "Sports entertainment",
+    "Stock footage",
+    "Stop motion",
+    "Studio",
+    "Theatre",
+    "Theatrical production",
+    "Video",
+    "Video production"
+  ],
+  "Electric Utilities": [
+    "Efficient energy use",
+    "Electric Utilities",
+    "Electric power",
+    "Electric power distribution",
+    "Electric power industry",
+    "Electric power transmission",
+    "Electric utility",
+    "Electricity",
+    "Electricity generation",
+    "Nuclear power",
+    "Power station",
+    "Transmission system operator"
+  ],
+  "Interactive Home Entertainment": [
+    "Browser game",
+    "Collectible miniatures game",
+    "Home video",
+    "Interactive entertainment",
+    "Massively multiplayer online role-playing game",
+    "Mobile entertainment",
+    "Mobile game",
+    "Online game",
+    "PC game",
+    "Role-playing",
+    "Role-playing game",
+    "Vehicle simulation game",
+    "Video game",
+    "Video game developer",
+    "Video game development",
+    "Video game industry",
+    "Video game publisher"
+  ],
+  "Health Care Services": [
+    "Air medical services",
+    "Ambulance",
+    "Back pain",
+    "Dentistry",
+    "Health",
+    "Health care",
+    "Health care industry",
+    "Health sciences",
+    "Healthcare Services",
+    "Mental health",
+    "Nursing",
+    "Nutrition",
+    "Occupational hygiene",
+    "Patient education",
+    "Veterinary medicine"
+  ],
+  "Industrial Conglomerates": [
+    "Conglomerate (company)",
+    "Conglomerates"
+  ],
+  "Publishing": [
+    "Academic publishing",
+    "Book",
+    "Calendar",
+    "Comics",
+    "Digital comic",
+    "Electronic publishing",
+    "GameWeek Magazine",
+    "Guide book",
+    "Magazine",
+    "Music publisher (sheet music)",
+    "News",
+    "News media",
+    "Newspaper",
+    "Photo-book",
+    "Publication",
+    "Publishing",
+    "Storytelling",
+    "Study guide"
+  ],
+  "Oil Gas & Consumable Fuels": [
+    "Energy industry"
+  ],
+  "Diversified Financial Services": [
+    "BFSI",
+    "Diversified financial",
+    "Finance",
+    "Financial institution",
+    "Financial services",
+    "Investment",
+    "Non-banking financial company"
+  ],
+  "Aerospace & Defense": [
+    "Aerospace",
+    "Aerospace & Defense",
+    "Aerospace engineering",
+    "Aerospace manufacturer",
+    "Aircraft",
+    "Airplane",
+    "Ammunition",
+    "Arms industry",
+    "Avionics",
+    "Defense industry",
+    "Espionage",
+    "Firearm",
+    "General aviation",
+    "Gun",
+    "Military",
+    "Military technology",
+    "Moored balloon",
+    "Private spaceflight",
+    "Rocket engine",
+    "Small arms",
+    "Space",
+    "Space tourism",
+    "Ultralight aviation"
+  ],
+  "Rail Transportation": [
+    "Locomotive",
+    "Private railway",
+    "Rail freight transport",
+    "Rail transport",
+    "Rail transport in New Zealand",
+    "Rail transport operations",
+    "Railroads",
+    "Steam locomotive"
+  ],
+  "Automobile Manufacturers": [
+    "Auto & Truck Manufacturers",
+    "Automobile",
+    "Automotive industry",
+    "Bus manufacturing",
+    "Coachbuilder",
+    "Commercial vehicle",
+    "Electric vehicle",
+    "Motor vehicle",
+    "Recreational vehicle"
+  ],
+  "Steel": [
+    "High-speed steel",
+    "Iron",
+    "Iron & Steel",
+    "Smelting",
+    "Steel",
+    "Steel mill",
+    "Steelmaking"
+  ],
+  "Application Software": [
+    "Anomaly detection",
+    "Application performance management",
+    "Business intelligence",
+    "Business performance management",
+    "Business process management",
+    "Business software",
+    "Computer-aided design",
+    "Content management",
+    "Customer relationship management",
+    "Data management",
+    "Data visualization",
+    "Database",
+    "Digital asset management",
+    "Educational software",
+    "Emulator",
+    "Enterprise software",
+    "Expense management",
+    "Freeware",
+    "Integrated library system",
+    "Machine translation",
+    "Mobile application development",
+    "Mobile application management",
+    "Mobile application software",
+    "Music software",
+    "Office automation",
+    "Operations support system",
+    "Product lifecycle management",
+    "Sales intelligence",
+    "Small business software",
+    "Social software",
+    "Software & Programming",
+    "Software as a service",
+    "Software development",
+    "Software industry",
+    "Software product line",
+    "Software publisher",
+    "Software synthesizer",
+    "Speaker recognition",
+    "Speech analytics",
+    "Static program analysis",
+    "Task management",
+    "Video codec",
+    "Virtual reality",
+    "Workforce management"
+  ],
+  "Interactive Media & Services": [
+    "Comparison shopping website",
+    "Content creation",
+    "Crowdsourcing",
+    "Deal of the day",
+    "Digital media",
+    "Digital video",
+    "Directory service",
+    "Dot-com company",
+    "E-card",
+    "Electronic media",
+    "Genealogy",
+    "Map",
+    "Media service provider",
+    "Mobile social network",
+    "Multimedia",
+    "New media",
+    "Online marketplace",
+    "Social media",
+    "Social network",
+    "Social networking service",
+    "Stock photography",
+    "Streaming media",
+    "Travel website",
+    "Video hosting service",
+    "Web 2.0",
+    "Web analytics",
+    "Web search engine",
+    "Web syndication"
+  ],
+  "Broadline Retail": [
+    "Chain store",
+    "Commerce",
+    "Department Stores",
+    "Department store",
+    "General line of merchandise",
+    "Internet & Catalog Retail",
+    "Online auction",
+    "Online shopping",
+    "Retail"
+  ],
+  "Broadcasting": [
+    "Broadcast automation",
+    "Broadcast syndication",
+    "Broadcasting",
+    "Broadcasting & Cable",
+    "Broadcasting of sports events",
+    "Digital television",
+    "Mass media",
+    "Podcast",
+    "Radio",
+    "Radio broadcasting",
+    "Television",
+    "Television program",
+    "Terrestrial television"
+  ],
+  "Advertising": [
+    "Advertising",
+    "Advertising agency",
+    "Brand management",
+    "Branding agency",
+    "Digital marketing",
+    "Digital signage",
+    "Direct marketing",
+    "Email marketing",
+    "Experience design",
+    "Integrated marketing communications",
+    "Marketing",
+    "Marketing board",
+    "Marketing communications",
+    "Mobile advertising",
+    "Online advertising",
+    "Public relations",
+    "Television advertisement"
+  ],
+  "Leisure Facilities": [
+    "Amusement park",
+    "Art museum",
+    "Auto racing",
+    "Bowling",
+    "Extreme sport",
+    "Formula One",
+    "Health club",
+    "Horse racing",
+    "Kart racing",
+    "Motorsport",
+    "Nightclub",
+    "Physical fitness",
+    "Recreation",
+    "Roller coaster",
+    "Skiing",
+    "Sport industry",
+    "Sport management"
+  ],
+  "Consumer Staples Merchandise Retail": [
+    "Discount Stores",
+    "Discount store",
+    "Fast-moving consumer goods",
+    "Merchandising"
+  ],
+  "Research & Consulting Services": [
+    "Accounting",
+    "Applied research",
+    "Applied science",
+    "Architecture",
+    "Business development",
+    "Business incubator",
+    "Business plan",
+    "Competitive intelligence",
+    "Consultant",
+    "Data analysis",
+    "Design",
+    "Engineer",
+    "Environmental consulting",
+    "Intellectual property",
+    "Law",
+    "Lobbying",
+    "Management consulting",
+    "Market intelligence",
+    "Market research",
+    "Marketing research",
+    "Open innovation",
+    "Opinion poll",
+    "Professional services",
+    "Public affairs",
+    "Rail transport modelling",
+    "Research",
+    "Research and development",
+    "Search for extraterrestrial intelligence",
+    "Supply chain management",
+    "Technology transfer"
+  ],
+  "Restaurants": [
+    "Bakery",
+    "Catering",
+    "Chinese cuisine",
+    "Coffeehouse",
+    "Coffeehouse (disambiguation)",
+    "Fast casual restaurant",
+    "Fast food",
+    "Fast food restaurant",
+    "Foodservice",
+    "Italian cuisine",
+    "Konditorei",
+    "Quick Service",
+    "Restaurant",
+    "Restaurants",
+    "Take-out",
+    "Types of restaurant"
+  ],
+  "Cargo Ground Transportation": [
+    "Cargo",
+    "Freight transport",
+    "Less than truckload shipping",
+    "Road transport",
+    "Transport",
+    "Trucking"
+  ],
+  "Integrated Telecommunication Services": [
+    "Communications in Pakistan",
+    "Fixed\u2013mobile convergence",
+    "Next-generation network",
+    "Telecommunication",
+    "Telecommunications billing",
+    "Telecommunications network",
+    "Telecommunications service",
+    "Telecommunications services",
+    "Telephone exchange",
+    "Telephony"
+  ],
+  "Water Utilities": [
+    "Wastewater",
+    "Water industry",
+    "Water supply"
+  ],
+  "Forest Products": [
+    "Forestry",
+    "Logging",
+    "Lumber"
+  ],
+  "Multi-Utilities": [
+    "Diversified Utilities",
+    "Public utility",
+    "Utility"
+  ],
+  "Life & Health Insurance": [
+    "Health insurance",
+    "Life & Health Insurance",
+    "Life insurance"
+  ],
+  "Building Products": [
+    "Builders hardware",
+    "Building",
+    "Building material",
+    "Door",
+    "Elevator",
+    "HVAC",
+    "Hydronics",
+    "Plumbing",
+    "Plumbing fixture"
+  ],
+  "Construction & Engineering": [
+    "Architectural acoustics",
+    "Architectural firm",
+    "Civil engineering",
+    "Construction",
+    "Construction Services",
+    "Construction management",
+    "Engineering",
+    "Engineering, procurement and construction",
+    "General contractor",
+    "Infrastructure",
+    "Mechanical engineering",
+    "Nuclear engineering",
+    "Railway engineering",
+    "Shipbuilding"
+  ],
+  "Environmental & Facilities Services": [
+    "Carpet cleaning",
+    "Circular economy",
+    "Environmental & Waste",
+    "Environmental organization",
+    "Environmental planning",
+    "Environmental technology",
+    "Facility management",
+    "Landscaping",
+    "Maid service",
+    "Public toilet",
+    "Recycling",
+    "Waste management"
+  ],
+  "Security & Alarm Services": [
+    "Closed-circuit television",
+    "Emergency management",
+    "Law enforcement agency",
+    "Security",
+    "Security Systems",
+    "Security alarm",
+    "Security management"
+  ],
+  "Reinsurance": [
+    "Reinsurance"
+  ],
+  "Other Specialty Retail": [
+    "Auction",
+    "Bookselling",
+    "Collectable",
+    "Recommerce",
+    "Specialty Stores"
+  ],
+  "Consumer Electronics": [
+    "Amplifier",
+    "Audio electronics",
+    "Consumer Electronics",
+    "Consumer electronics",
+    "Display device",
+    "Loudspeaker",
+    "Professional audio"
+  ],
+  "Renewable Electricity": [
+    "Alternative energy",
+    "Biofuel",
+    "Flywheel energy storage",
+    "Hydroelectricity",
+    "Low-carbon economy",
+    "Photovoltaics",
+    "Renewable energy",
+    "Solar energy",
+    "Solar power",
+    "Wind power",
+    "Wind power industry"
+  ],
+  "Agricultural Products & Services": [
+    "Agribusiness",
+    "Agriculture",
+    "Aquaculture",
+    "Fish farming",
+    "Fishing",
+    "Fishing industry",
+    "Horticulture",
+    "Hydroponics",
+    "Local food",
+    "Molasses",
+    "Organic farming",
+    "Ranch"
+  ],
+  "Internet Services & Infrastructure": [
+    "Cloud computing",
+    "Computer network",
+    "Dedicated hosting service",
+    "Domain name registry",
+    "E-commerce",
+    "Internet",
+    "Internet access",
+    "Internet filtering",
+    "Internet hosting service",
+    "Internet service provider",
+    "Mobile Web",
+    "Network management",
+    "Online service provider",
+    "Telematics",
+    "Travel technology",
+    "Weather forecasting",
+    "Web conferencing",
+    "Web hosting service",
+    "Web service",
+    "World Wide Web"
+  ],
+  "Education Services": [
+    "Academia",
+    "E-learning",
+    "Education",
+    "Executive education",
+    "For-profit education",
+    "Gap year",
+    "Special education",
+    "Technology education",
+    "Training and development",
+    "University",
+    "Vocational education"
+  ],
+  "Specialized Consumer Services": [
+    "Automobile repair shop",
+    "Automotive restoration",
+    "Beauty salon",
+    "Bespoke",
+    "Business & Personal Services",
+    "Car rental",
+    "Consumer service",
+    "Cosmetology",
+    "Death care industry",
+    "Event planning",
+    "Floral industry",
+    "Floristry",
+    "Franchising",
+    "Funeral",
+    "Funeral director",
+    "Immigration",
+    "Interior design",
+    "Sports agent",
+    "Tailor",
+    "Talent manager",
+    "Trade fair",
+    "Travel agency",
+    "Wellness"
+  ],
+  "Apparel Accessories & Luxury Goods": [
+    "Apparel/Accessories",
+    "Casual",
+    "Clothing",
+    "Fashion",
+    "Fashion accessory",
+    "Fashion design",
+    "Headgear",
+    "Jewellery",
+    "Luxury goods",
+    "Medal",
+    "Motorcycle helmet",
+    "Sportswear (activewear)",
+    "Uniform",
+    "Watch",
+    "Watchmaker"
+  ],
+  "Asset Management & Custody Banks": [
+    "Asset management",
+    "Financial management",
+    "Hedge fund",
+    "Impact investing",
+    "Investment company",
+    "Investment management",
+    "Pension fund",
+    "Private equity",
+    "Private equity firm",
+    "Wealth management"
+  ],
+  "Semiconductors": [
+    "Digital signal processing",
+    "Fabless manufacturing",
+    "Integrated circuit packaging",
+    "Microelectronics",
+    "Semiconductor",
+    "Semiconductor device",
+    "Semiconductor device fabrication",
+    "Semiconductor industry",
+    "Semiconductor intellectual property core",
+    "Semiconductors",
+    "Video card"
+  ],
+  "Integrated Oil & Gas": [
+    "Fossil fuel",
+    "Hydrocarbon",
+    "Oil",
+    "Oil & Gas Operations",
+    "Petroleum",
+    "Petroleum industry"
+  ],
+  "Electronic Equipment & Instruments": [
+    "Control system",
+    "Electronics",
+    "Global Positioning System",
+    "Instrumentation",
+    "Optical imaging",
+    "Optics",
+    "Radio-frequency identification",
+    "Real Time Kinematic",
+    "Scientific instrument",
+    "Sight (device)",
+    "Traffic enforcement camera",
+    "Vehicle tracking system"
+  ],
+  "IT Consulting & Other Services": [
+    "Computer Services",
+    "Computer repair technician",
+    "Computer security",
+    "Computing",
+    "Customer experience",
+    "Data recovery",
+    "Disaster recovery",
+    "Energy management",
+    "Help desk",
+    "IT service management",
+    "Information and communications technology",
+    "Information privacy",
+    "Information security",
+    "Information technology consulting",
+    "Information technology management",
+    "Interaction design",
+    "Network security",
+    "Service delivery platform",
+    "System administrator",
+    "System integration",
+    "Web design",
+    "Web development"
+  ],
+  "Fertilizers & Agricultural Chemicals": [
+    "Agrochemical",
+    "Fertilizer"
+  ],
+  "Passenger Airlines": [
+    "Air charter",
+    "Airline",
+    "Aviation"
+  ],
+  "Personal Care Products": [
+    "Aesthetics",
+    "Beauty",
+    "Bodybuilding supplement",
+    "Cosmetics",
+    "Hygiene",
+    "Perfume",
+    "Shampoo"
+  ],
+  "Diversified Banks": [
+    "Bank",
+    "Banking in Canada",
+    "Commercial bank",
+    "Islamic banking",
+    "Major Banks",
+    "Private banking",
+    "Retail banking"
+  ],
+  "Office Services & Supplies": [
+    "Business Products & Supplies",
+    "Document imaging",
+    "Office supplies",
+    "Photocopier",
+    "Stationery",
+    "Typewriter",
+    "Virtual office",
+    "Writing implement"
+  ],
+  "Technology Hardware Storage & Peripherals": [
+    "Computer",
+    "Computer Hardware",
+    "Computer Storage Devices",
+    "Computer data storage",
+    "Computer hardware",
+    "Computer memory",
+    "Data storage device",
+    "Printer (computing)",
+    "Solid-state drive",
+    "Supercomputer"
+  ],
+  "Distillers & Vintners": [
+    "Alcoholic beverage",
+    "Distilled beverage",
+    "Sake",
+    "Wine",
+    "Winery"
+  ],
+  "Investment Banking & Brokerage": [
+    "Brokerage firm",
+    "Foreign exchange market",
+    "Investing online",
+    "Investment Services",
+    "Investment banking",
+    "Security (finance)"
+  ],
+  "Communications Equipment": [
+    "Communications Equipment",
+    "Customer-premises equipment",
+    "Mobile phone",
+    "Networking hardware",
+    "Satellite",
+    "Software-defined radio",
+    "Telecommunications equipment"
+  ],
+  "Leisure Products": [
+    "Action figure",
+    "Animatronics",
+    "Baggage",
+    "Barefoot running",
+    "Bicycle",
+    "Bicycle industry",
+    "Board game",
+    "Camping",
+    "Cycling",
+    "Diving equipment",
+    "Doll",
+    "Exercise equipment",
+    "Fishing lure",
+    "Gear",
+    "Golf equipment",
+    "Hiking",
+    "Hot air balloon",
+    "Keyboard instrument",
+    "Lacrosse",
+    "List of watch manufacturers",
+    "Luxury yacht",
+    "Miniature wargaming",
+    "Musical instrument",
+    "Outdoor recreation",
+    "Pipe organ",
+    "Puzzle",
+    "Recreational Products",
+    "Sports equipment",
+    "Toy",
+    "Travel trailer",
+    "Winter sport"
+  ],
+  "Multi-Sector Holdings": [
+    "Holding company"
+  ],
+  "Beverages": [
+    "Beverages",
+    "Drink"
+  ],
+  "Data Processing & Outsourced Services": [
+    "Business process outsourcing",
+    "Contact centre (business)",
+    "Electronic discovery",
+    "Fleet management",
+    "Information technology outsourcing",
+    "Legal outsourcing",
+    "Outsourcing"
+  ],
+  "Hotels Resorts & Cruise Lines": [
+    "Adventure travel",
+    "Cruise line",
+    "Horeca",
+    "Hospitality",
+    "Hospitality industry",
+    "Hotel",
+    "Hotel manager",
+    "Hotels & Motels",
+    "Motel",
+    "Serviced apartment",
+    "Tourism",
+    "Travel"
+  ],
+  "Industrial Machinery & Supplies & Components": [
+    "3D printing",
+    "Assembly line",
+    "Automation",
+    "Blacksmith",
+    "Die casting",
+    "Fire apparatus",
+    "Forklift truck",
+    "Investment casting",
+    "Lifting equipment",
+    "Machine (mechanical)",
+    "Machine tool",
+    "Material handling",
+    "Mechatronics",
+    "Metal fabrication",
+    "Metalworking",
+    "Other Industrial Equipment",
+    "Outline of industrial machinery",
+    "Power tool",
+    "Rapid prototyping",
+    "Robotics",
+    "Roller",
+    "Safe",
+    "Steam engine",
+    "Vending machine"
+  ],
+  "Diversified Real Estate Activities": [
+    "Infrastructure asset management",
+    "Parking lot",
+    "Real Estate",
+    "Real estate"
+  ],
+  "Air Freight & Logistics": [
+    "Air Courier",
+    "Courier",
+    "Logistics",
+    "Supply chain optimization"
+  ],
+  "Textiles": [
+    "Denim",
+    "Textile",
+    "Textile industry",
+    "Textile manufacturing"
+  ],
+  "Food Retail": [
+    "Convenience store",
+    "Delicatessen",
+    "Food Retail",
+    "Grocery store",
+    "Health food store",
+    "Supermarket"
+  ],
+  "Brewers": [
+    "Beer",
+    "Brewing",
+    "Microbrewery",
+    "Trappist beer"
+  ],
+  "Diversified Chemicals": [
+    "Chemical industry",
+    "Diversified Chemicals"
+  ],
+  "Construction Machinery & Heavy Transportation Equipment": [
+    "Concrete mixer",
+    "Crane (machine)",
+    "Heavy Equipment",
+    "Heavy equipment",
+    "Railcar",
+    "Railroad car",
+    "Rolling stock",
+    "Semi-trailer truck"
+  ],
+  "Passenger Ground Transportation": [
+    "Bus",
+    "Carsharing",
+    "Coach (carriage)",
+    "Public transport",
+    "Public transport bus service",
+    "Rapid transit",
+    "Taxicab"
+  ],
+  "Real Estate Development": [
+    "Public housing",
+    "Real estate development"
+  ],
+  "Diversified Metals & Mining": [
+    "Diversified Metals & Mining",
+    "List of mining companies",
+    "Metal",
+    "Metallurgy",
+    "Mining",
+    "Nickel",
+    "Non-ferrous metal",
+    "Titanium alloy",
+    "Uranium mining"
+  ],
+  "Coal & Consumable Fuels": [
+    "Coal",
+    "Coal mining",
+    "Nuclear fuel"
+  ],
+  "Health Care Technology": [
+    "Bioinformatics",
+    "Biomedical engineering",
+    "Health informatics",
+    "Health technology",
+    "Medical software"
+  ],
+  "Energy Equipment & Services": [
+    "Energy"
+  ],
+  "Financial Exchanges & Data": [
+    "Bond credit rating",
+    "Credit rating",
+    "Derivatives market",
+    "Stock market"
+  ],
+  "Motorcycle Manufacturers": [
+    "Custom motorcycle",
+    "Motorcycle",
+    "Scooter (motorcycle)"
+  ],
+  "Home Furnishings": [
+    "Bathroom",
+    "Carpet",
+    "Furniture",
+    "Furniture & Fixtures",
+    "Interior"
+  ],
+  "Automotive Parts & Equipment": [
+    "Aftermarket (automotive)",
+    "Auto & Truck Parts",
+    "Automotive engineering",
+    "Exhaust system"
+  ],
+  "Construction Materials": [
+    "Cement",
+    "Ceramic",
+    "Concrete",
+    "Construction Materials",
+    "Glass",
+    "Pipe (fluid conveyance)",
+    "Stained glass"
+  ],
+  "Information Technology": [
+    "Information technology"
+  ],
+  "Systems Software": [
+    "Antivirus software",
+    "Application security",
+    "Backup",
+    "Embedded system",
+    "Enterprise mobility management",
+    "Internet security",
+    "Mobile security",
+    "Storage virtualization",
+    "Systems management",
+    "Utility software",
+    "Virtualization"
+  ],
+  "Pharmaceuticals": [
+    "Drug",
+    "Medicine",
+    "Pharmaceutical drug",
+    "Pharmaceutical industry",
+    "Pharmaceuticals",
+    "Pharmaceutics"
+  ],
+  "Marine Transportation": [
+    "Boat",
+    "Ferry",
+    "List of boat builders",
+    "List of ship companies",
+    "Marine (ocean)",
+    "Ship transport"
+  ],
+  "Airport Services": [
+    "Air traffic control",
+    "Aircraft ground handling",
+    "Airport"
+  ],
+  "Automotive Retail": [
+    "Car dealership"
+  ],
+  "Electrical Components & Equipment": [
+    "Battery (electricity)",
+    "Electrical engineering",
+    "Electrical equipment",
+    "Electromechanics",
+    "Energy management system",
+    "Fuel cell",
+    "Lighting",
+    "Power transmission"
+  ],
+  "Cable & Satellite": [
+    "Cable television",
+    "Hybrid fibre-coaxial",
+    "IPTV",
+    "Pay television",
+    "Satellite television",
+    "Space shifting"
+  ],
+  "Wireless Telecommunication Services": [
+    "Cell Broadcast",
+    "Mobile network operator",
+    "Mobile technology",
+    "Mobile telephony",
+    "Short Message Service",
+    "Wireless"
+  ],
+  "Health Care Supplies": [
+    "Dental instruments",
+    "Personal protective equipment"
+  ],
+  "Diversified Capital Markets": [
+    "Capital market",
+    "Venture capital"
+  ],
+  "Specialized Finance": [
+    "Crowdfunding",
+    "Microfinance",
+    "Patent monetization"
+  ],
+  "Casinos & Gaming": [
+    "Arcade game",
+    "Bookmaker",
+    "Casino",
+    "Casinos & Gaming",
+    "Gambling",
+    "Lottery",
+    "Online gambling",
+    "Redemption game"
+  ],
+  "Commodity Chemicals": [
+    "Nylon 6-6",
+    "Plastic"
+  ],
+  "Consumer Finance": [
+    "Car finance",
+    "Consumer Financial Services",
+    "Credit (finance)",
+    "Credit counseling",
+    "Personal finance"
+  ],
+  "Life Sciences Tools & Services": [
+    "Histology",
+    "Laboratory",
+    "Life sciences",
+    "Medical research"
+  ],
+  "Tires & Rubber": [
+    "Natural rubber",
+    "Tire"
+  ],
+  "Trading Companies & Distributors": [
+    "Export",
+    "International trade",
+    "Trade",
+    "Trading Companies",
+    "Trading company"
+  ],
+  "Household Appliances": [
+    "Espresso machine",
+    "Home appliance",
+    "Household Appliances",
+    "Major appliance",
+    "Sewing machine",
+    "Small appliance"
+  ],
+  "Distributors": [
+    "Distribution (business)",
+    "Drop shipping",
+    "Wholesale"
+  ],
+  "Health Care Facilities": [
+    "Hospital",
+    "Hospital network",
+    "Nursing home",
+    "Supervised injection site"
+  ],
+  "Housewares & Specialties": [
+    "Clock",
+    "Durable good",
+    "Kitchenware",
+    "Pottery",
+    "Tableware"
+  ],
+  "Paper & Plastic Packaging Products & Materials": [
+    "Canning",
+    "Containerization",
+    "Packaging and labeling"
+  ],
+  "Gas Utilities": [
+    "Coal gas",
+    "Gas",
+    "Liquefied natural gas",
+    "Liquefied petroleum gas",
+    "Natural Gas Utilities",
+    "Natural gas",
+    "Propane"
+  ],
+  "Paper Products": [
+    "Paper",
+    "Paper & Paper Products",
+    "Papermaking",
+    "Pulp and paper industry",
+    "Tissue paper"
+  ],
+  "Managed Health Care": [
+    "Managed Health Care",
+    "Pharmacy benefit management",
+    "Veterans' benefits"
+  ],
+  "Real Estate Services": [
+    "Commercial property",
+    "Estate agent",
+    "Internet real estate",
+    "Landscape architecture",
+    "Property management",
+    "Real estate broker"
+  ],
+  "Soft Drinks & Non-alcoholic Beverages": [
+    "Juice",
+    "Soft drink"
+  ],
+  "Precious Metals & Minerals": [
+    "Molybdenum",
+    "Pearl",
+    "Precious metal"
+  ],
+  "Electronic Manufacturing Services": [
+    "Contract manufacturer",
+    "Electronics manufacturing services"
+  ],
+  "Oil & Gas Exploration & Production": [
+    "Heavy crude oil",
+    "Hydrocarbon exploration",
+    "List of oil exploration and production companies",
+    "Oil field"
+  ],
+  "Footwear": [
+    "Footwear",
+    "Shoemaking"
+  ],
+  "Professional Services": [
+    "Industrial design",
+    "Professional"
+  ],
+  "Commercial Printing": [
+    "Digital printing",
+    "Graphic arts",
+    "Movable type",
+    "Premedia",
+    "Printing",
+    "Printing & Publishing",
+    "Printing press",
+    "RSVP (invitations)",
+    "Screen printing"
+  ],
+  "Media": [
+    "Media (communication)"
+  ],
+  "Health Care Equipment": [
+    "Assistive technology",
+    "Dental implant",
+    "Hearing aid",
+    "Medical Equipment & Supplies",
+    "Medical device",
+    "Medical equipment",
+    "Medical imaging",
+    "Mobility aid",
+    "Mobility scooter",
+    "Precision Healthcare Equipment",
+    "Prosthesis"
+  ],
+  "Copper": [
+    "Copper"
+  ],
+  "Diversified REITs": [
+    "Real estate investment trust"
+  ],
+  "Marine Ports & Services": [
+    "Container terminal",
+    "Free trade zone",
+    "Port",
+    "Port authority",
+    "Port operator",
+    "Ship chandler",
+    "Shipyard"
+  ],
+  "Chemicals": [
+    "Chemical substance"
+  ],
+  "Food Distributors": [
+    "Foodservice distributor"
+  ],
+  "Human Resource & Employment Services": [
+    "Executive search",
+    "Human resources",
+    "Recruitment",
+    "Talent agent"
+  ],
+  "Diversified Support Services": [
+    "Arbitration",
+    "Business operations",
+    "Business service provider",
+    "Collection agency",
+    "Customer service",
+    "Housekeeping",
+    "Language interpretation",
+    "Translation"
+  ],
+  "Transaction & Payment Processing Services": [
+    "Payment",
+    "Payment gateway",
+    "Payment service provider"
+  ],
+  "Electronic Components": [
+    "Optoelectronics",
+    "Printed circuit board"
+  ],
+  "Specialty Chemicals": [
+    "Aroma compound",
+    "Coating",
+    "Electrochemistry",
+    "Fine chemical",
+    "Nanotechnology",
+    "Paint",
+    "Petrochemical",
+    "Specialized Chemicals",
+    "Xanthan gum"
+  ],
+  "Gold": [
+    "Gold",
+    "Gold mining"
+  ],
+  "Semiconductor Materials & Equipment": [
+    "Silicon carbide",
+    "Thin film"
+  ],
+  "Agricultural & Farm Machinery": [
+    "Agricultural machinery"
+  ],
+  "Highways & Railtracks": [
+    "Bridge",
+    "Controlled-access highway",
+    "Road",
+    "Toll road"
+  ],
+  "Commercial & Residential Mortgage Finance": [
+    "Mortgage broker",
+    "Mortgage loan",
+    "Thrifts & Mortgage Finance"
+  ],
+  "Oil & Gas Storage & Transportation": [
+    "Pipeline transport"
+  ],
+  "Regional Banks": [
+    "Postal savings system",
+    "Regional Banks"
+  ],
+  "Independent Power Producers & Energy Traders": [
+    "Energy development"
+  ],
+  "Home Improvement Retail": [
+    "Hardware store",
+    "Home Improvement Retail",
+    "Home improvement"
+  ],
+  "Property & Casualty Insurance": [
+    "Property & Casualty Insurance",
+    "Property insurance",
+    "Vehicle insurance"
+  ],
+  "Data Center REITs": [
+    "Data center"
+  ],
+  "Oil & Gas Equipment & Services": [
+    "List of oilfield service companies",
+    "Oil Services & Equipment"
+  ],
+  "Residential REITs": [
+    "Dormitory"
+  ],
+  "Electrical Equipment": [
+    "Electrical Equipment"
+  ],
+  "Containers & Packaging": [
+    "Containers & Packaging"
+  ],
+  "Multi-line Insurance": [
+    "Diversified Insurance"
+  ],
+  "Household Products": [
+    "Household/Personal Care"
+  ],
+  "Drug Retail": [
+    "Drug Retail"
+  ],
+  "Apparel Retail": [
+    "Apparel/Footwear Retail"
+  ],
+  "Insurance Brokers": [
+    "Insurance Brokers"
+  ],
+  "Aluminum": [
+    "Aluminum"
+  ],
+  "Computer & Electronics Retail": [
+    "Computer & Electronics Retail"
+  ]
+}

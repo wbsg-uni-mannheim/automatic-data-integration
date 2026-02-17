@@ -1,0 +1,99 @@
+rdf-schema#label,revenue,netIncome,numberOfEmployees,assets,industry
+"Aaron's, Inc.",3.94E9,31470000.0,9400,3.29E9,Furniture
+Abbott Laboratories,4.31E10,7070000000.0,113000,7.52E10,"Pharmaceutical industry, Healthcare industry, Medical devices"
+Aflac,2.2106E10,4325000000.0,11729,1.57542E11,"Insurance, Human resources"
+Aircastle,7.96E8,147900000.0,100,7.2E9,Commercial Aircraft Sales and Leasing
+Alexander & Baldwin,3.875E8,-8400000.0,806,2.16E9,Real estate
+Alpha Natural Resources,3917.156,95.551,3000,5.17928,"Metal, Mining"
+Ameren,5.794E9,871000000.0,8615,3.203E10,Utilities
+AmerisourceBergen,2.1399E11,1540000000.0,2021,5.734E10,Pharmaceutical
+Ampco Pittsburgh,299.0,27.8,1300,472.0,Steel
+Anworth Mortgage Asset Corporation,1.54E8,64000000.0,,4.938E9,Real estate investment trust
+Arcos Dorados Holdings,2.65E9,45480000.0,81256,2.36E9,Food industry
+Asbury Automotive Group,9.8E9,532400000.0,14200,8002.0,Car Dealership
+AutoNation,"2.59E10, 2.04E10",550100000.0,21000,"8943.0, 9887.0",Car dealership
+Bank of Hawaii,6.55243E8,181460000.0,2122,1.649E10,Finance
+Best Buy,5.176E10,2450000000.0,,1.75E10,Retail
+Brandywine Realty Trust,5.8E8,34000000.0,337,4.075E9,Commercial Real Estate
+Brink's,3.942E9,56800000.0,62150,2.498E9,"Logistics, Security"
+Brinker International,2.905E9,196690000.0,62200,2.688E9,Restaurant
+Brookfield Infrastructure Partners,3.54E9,574000000.0,,2.95E10,Infrastructure asset management
+CNA Financial,9.366E9,859000000.0,6700,5.5233E10,Insurance
+Cablevision,6.461E9,311440000.0,13656,6.765E9,"Telecommunications, Mass media"
+Campbell Soup Company,8.691E9,1628000000.0,19000,1.2372E10,Food processing
+Canadian Natural Resources,1.7491E10,435.0,9709,7.5276E10,Petroleum industry
+Canon Inc.,3.59E12,125110000000.0,184034,4.77E12,Electronics
+Carnival Corporation & plc,1.908E9,-9501000000.0,150000,5.3344E10,"Hospitality, Tourism"
+Centene Corporation,1.11115E11,1808000000.0,71300,6.8719E10,"Insurance, Managed care"
+Charles Schwab Corporation,1.852E10,5360000000.0,2021,6.6727E11,Financial services
+Cigna,1.741E11,5400000000.0,73800,1.54889E11,"Insurance, Managed care"
+Consolidated Edison,1.3676E10,1383000000.0,14071,6.3116E10,Energy
+Continental Resources,5.719E9,1660000000.0,1254,1.8591E10,Petroleum
+Convergys,2.951E9,169000000.0,130001,2.358E9,"Consultant, Professional Services, Outsourcing, Information Management, Customer Management"
+CoreSite,5.72E8,99000000.0,464,2.1E9,Real estate investment trust
+Corporate Office Properties Trust,6.41E8,191000000.0,394,3.854E9,Real estate investment trust
+Costamare,4.84E8,115100000.0,3,2.714E9,Shipping
+Crown Holdings,1.15E10,579000000.0,33264,7.5E9,Packaging
+DTE Energy,7.288E9,903000000.0,10300,3.9719E10,Public Utility
+Danaher Corporation,2.9453E10,6430000000.0,80000,8.318E10,Conglomerate (company)
+Denbury Resources,1.258E9,56000000.0,716,1.902E9,Petroleum industry
+Deutsche Telekom,1.01E11,4200000000.0,226291,2.649E11,Telecommunication
+Dillard's,6.34,170263000.0,40000,3.431,Retail
+Eastman Chemical Company,1.05E10,857000000.0,14500,1.6008E10,Manufacturing
+Electronic Arts,6.99E9,789000000.0,,1.38E10,Video game industry
+Emcor,8.8E9,132940000.0,33000,5.064E9,"Construction, Engineering"
+EverBank,8.836E8,,3700,1.82E10,"Bank, Financial services"
+Exelon,3.6347E10,1829000000.0,31518,1.33013E11,Energy industry
+First Majestic Silver,2.455E8,,3563,7.71E8,Mining
+Franklin Templeton Investments,8.43E9,1830000000.0,10300,2.417E10,Financial services
+Frost Bank,,323600000.0,4685,4.2391E10,Bank
+GameStop,6.01E9,381000000.0,"2022, 12000, 14000",3.5E9,Retail
+General Dynamics,3.847E10,3260000000.0,103100,5.007E10,"Defense (military), Shipbuilding, Aerospace engineering"
+Gray Television,2.122E9,127000000.0,8018,6.972E9,Terrestrial television
+Havertys,8.0229E8,21865000.0,3425,5.6007E8,Furniture
+Hovnanian Enterprises,1.991E9,4520000.0,1851,1.662E9,Construction
+Howard Hughes Corporation,6.99E8,-3000000.0,600,9.1E9,Real estate development
+Insperity,1.72E9,22400000.0,2900,4.98E8,Professional services
+Investment Technology Group,5.598E8,50900000.0,883,1350.0,Financial services
+KPN,5.283E9,561000000.0,10102,1.208E10,Telecommunications
+Kodak,1.018E9,,4500,1.248E9,"Graphic arts, Final good"
+Laredo Petroleum,6.77E8,874000000.0,257,1.442E9,Petroleum industry
+Las Vegas Sands,3.612E9,,44500,2.0807E10,Hospitality
+Lee Enterprises,5.669E8,27480000.0,3597,6.209E8,Media (communication)
+MBIA,2.82E8,,89,5.751E9,Finance
+Marriott International,1.386E10,1100000000.0,120000,2.555E10,Hospitality industry
+Medtronic,3.169E10,5040000000.0,95000,9.098E10,Medical equipment
+NCR Corporation,7.16E9,97000000.0,38000,1.164E10,Information Technology
+New York Community Bank,,,3096,6.31E10,Commercial bank
+Nordstrom,14.789,178000000.0,62000,8.869E9,Retail
+Nu Skin Enterprises,2.68E9,121890000.0,4900,1.69E9,Multilevel marketing
+OMNOVA Solutions,7.599E8,,2100,6.932E8,Fine chemicals
+Orbital Sciences Corporation,1.37E9,68370000.0,3300,1.28E9,"Defense industry, Aerospace industry, Space industry"
+Oshkosh Corporation,7.71E9,471900000.0,16000,5.29E9,"Arms industry, Automotive industry"
+PS Business Parks,4.29E8,108000000.0,155,2.046E9,Real estate investment trust
+Panasonic,9.09E12,200710000000.0,279385,5.22E12,Conglomerate (company)
+Pembina Pipeline,6202.0,1278.0,1260,26664.0,"Petroleum industry, Pipeline transport"
+Progressive Corporation,4.2658E10,5704000000.0,43000,6.4098E10,Insurance
+Public Service Enterprise Group,"1.0076E10, 9.696E9",1438000000.0,12945,"4.5326E10, 4.773E10",Utilities
+PulteGroup,1.3927E10,1930000000.0,6182,1.3353E10,Home construction
+Range Resources,2.93E9,411000000.0,527,6.66E9,Petroleum industry
+Red Hat,3.4E9,434000000.0,19000,5.588E9,Computer software
+Red Lion Hotels Corporation,1.4292E8,2700000.0,1783,2.8722E8,Hospitality
+Regions Financial Corporation,6.762E9,1094000000.0,19969,1.473E11,Financial services
+Resolute Forest Products,2.8E9,10000000.0,7100,3.73E9,Pulp and paper industry
+Santander Brasil,2.8E10,3000000000.0,50578,2.196E11,Financial services
+Sherwin-Williams,1.994E10,1860000000.0,61626,2.067E10,Paint
+Southwestern Energy,6.667E9,-25000000.0,938,1.1848E10,Petroleum industry
+Stepan Company,1.925E9,91600000.0,2096,1.471E9,Chemicals
+Stifel,4.78E9,824900000.0,8600,3.405E10,Investment
+TCF Financial Corporation,2.1E9,294500000.0,10000,4.67E10,Banking
+Tanger Factory Outlet Centers,4.78E8,87000000.0,285,2.285E9,Real estate investment trust
+Ternium,9.7E9,1022000000.0,21255,1.2122E10,Steel
+The Hertz Corporation,7.336E9,366000000.0,23000,1.9783E10,"Car rental, Lease"
+The Home Depot,1.5116E11,16430000000.0,490600,7.188E10,Retail
+Thompson Creek Metals,8.07E8,,,2.8E9,Mining
+Tupperware Brands,2.3004E8,225600000.0,13500,2015.0,"Multi-level marketing, Household goods"
+Veolia,2.439E10,610000000.0,163226,3.7949E10,Natural environment
+Vonage,1.41E9,-24000000.0,2082,1.39E9,Cloud Communications
+WellCare,1.7007E10,374000000.0,14000,8.365E9,Healthcare
+Zions Bancorporation,2.79E9,539000000.0,10200,8.148E10,Financial services

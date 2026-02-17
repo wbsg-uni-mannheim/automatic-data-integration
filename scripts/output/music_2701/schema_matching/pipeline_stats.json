@@ -1,0 +1,20 @@
+{
+  "discogs": {
+    "rows": 22627,
+    "mappings": 7,
+    "transformed": 21674,
+    "failed": 21346
+  },
+  "lastfm": {
+    "rows": 9865,
+    "mappings": 3,
+    "transformed": 0,
+    "failed": 0
+  },
+  "musicbrainz": {
+    "rows": 4763,
+    "mappings": 5,
+    "transformed": 4450,
+    "failed": 0
+  }
+}

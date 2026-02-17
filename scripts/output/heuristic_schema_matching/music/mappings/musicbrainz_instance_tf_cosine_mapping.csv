@@ -1,0 +1,10 @@
+source_dataset,source_column,target_dataset,target_column,score,notes
+musicbrainz,Attribute_2,Music Release,artist,0.37126843850645974,"vector_method=term_frequencies,similarity=cosine"
+musicbrainz,Attribute_2,Music Release,name,0.8239336673870941,"vector_method=term_frequencies,similarity=cosine"
+musicbrainz,Attribute_2,Music Release,tracks_track-name,0.690789098269854,"vector_method=term_frequencies,similarity=cosine"
+musicbrainz,Attribute_3,Music Release,artist,0.37482630869934264,"vector_method=term_frequencies,similarity=cosine"
+musicbrainz,Attribute_3,Music Release,name,0.7033464694038899,"vector_method=term_frequencies,similarity=cosine"
+musicbrainz,Attribute_3,Music Release,tracks_track-name,0.5933696633432313,"vector_method=term_frequencies,similarity=cosine"
+musicbrainz,Attribute_5,Music Release,release-country,0.8623130355001318,"vector_method=term_frequencies,similarity=cosine"
+musicbrainz,Attribute_6,Music Release,name,0.6256107303307716,"vector_method=term_frequencies,similarity=cosine"
+musicbrainz,Attribute_6,Music Release,tracks_track-name,0.8124189185010694,"vector_method=term_frequencies,similarity=cosine"

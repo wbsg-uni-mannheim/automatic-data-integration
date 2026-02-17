@@ -1,0 +1,61 @@
+{
+  "case_name": "llm_val",
+  "rules": {
+    "ESRB": {
+      "resolver": "voting",
+      "kwargs": {}
+    },
+    "criticScore": {
+      "resolver": "weighted_voting",
+      "kwargs": {
+        "trust_key": "trust_score"
+      }
+    },
+    "developer": {
+      "resolver": "most_complete",
+      "kwargs": {}
+    },
+    "globalSales": {
+      "resolver": "prefer_higher_trust",
+      "kwargs": {
+        "trust_key": "trust_score"
+      }
+    },
+    "name": {
+      "resolver": "favour_sources",
+      "kwargs": {
+        "sources": [
+          "metacritic"
+        ]
+      }
+    },
+    "platform": {
+      "resolver": "most_complete",
+      "kwargs": {}
+    },
+    "publisher": {
+      "resolver": "most_complete",
+      "kwargs": {}
+    },
+    "releaseYear": {
+      "resolver": "prefer_higher_trust",
+      "kwargs": {
+        "trust_key": "trust_score"
+      }
+    },
+    "series": {
+      "resolver": "most_complete",
+      "kwargs": {}
+    },
+    "userScore": {
+      "resolver": "weighted_voting",
+      "kwargs": {
+        "trust_key": "trust_score"
+      }
+    }
+  },
+  "accuracy_by_mode": {},
+  "source_stats": null,
+  "iterations_used": 1,
+  "optimization_mode": "web"
+}

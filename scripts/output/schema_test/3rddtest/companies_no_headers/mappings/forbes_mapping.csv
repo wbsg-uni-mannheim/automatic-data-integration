@@ -1,0 +1,8 @@
+source_dataset,source_column,target_dataset,target_column,score,notes
+forbes,http://www.forbes.com/companies/icbc/,Companies,website,0.95,llm_based_matching
+forbes,ICBC,Companies,name,0.95,llm_based_matching
+forbes,http://www.forbes.com/companies/icbc/.1,Companies,id,0.95,llm_based_matching
+forbes,China,Companies,country,0.95,llm_based_matching
+forbes,Major Banks,Companies,industry,0.95,llm_based_matching
+forbes,3124900000000,Companies,assets,0.95,llm_based_matching
+forbes,148700000000,Companies,revenue,0.95,llm_based_matching

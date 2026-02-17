@@ -1,0 +1,181 @@
+{
+  "case_name": "llm_val_stats",
+  "rules": {
+    "Attribute_6": {
+      "resolver": "union",
+      "kwargs": {
+        "separator": ","
+      }
+    },
+    "Attribute_7": {
+      "resolver": "maximum",
+      "kwargs": {}
+    },
+    "artist": {
+      "resolver": "favour_sources",
+      "kwargs": {
+        "sources": [
+          "discogs"
+        ]
+      }
+    },
+    "genre": {
+      "resolver": "most_complete",
+      "kwargs": {}
+    },
+    "label": {
+      "resolver": "most_complete",
+      "kwargs": {}
+    },
+    "name": {
+      "resolver": "favour_sources",
+      "kwargs": {
+        "sources": [
+          "musicbrainz"
+        ]
+      }
+    },
+    "release-country": {
+      "resolver": "voting",
+      "kwargs": {}
+    },
+    "release-date": {
+      "resolver": "weighted_voting",
+      "kwargs": {
+        "trust_key": "trust_score"
+      }
+    },
+    "tracks_track-name": {
+      "resolver": "favour_sources",
+      "kwargs": {
+        "sources": [
+          "lastfm"
+        ]
+      }
+    }
+  },
+  "accuracy_by_mode": {},
+  "source_stats": {
+    "name": {
+      "musicbrainz": {
+        "source_name": "musicbrainz",
+        "attribute": "name",
+        "correct": 21,
+        "total": 23,
+        "accuracy": 0.913
+      },
+      "lastfm": {
+        "source_name": "lastfm",
+        "attribute": "name",
+        "correct": 9,
+        "total": 13,
+        "accuracy": 0.6923
+      },
+      "discogs": {
+        "source_name": "discogs",
+        "attribute": "name",
+        "correct": 15,
+        "total": 17,
+        "accuracy": 0.8824
+      }
+    },
+    "artist": {
+      "musicbrainz": {
+        "source_name": "musicbrainz",
+        "attribute": "artist",
+        "correct": 21,
+        "total": 23,
+        "accuracy": 0.913
+      },
+      "lastfm": {
+        "source_name": "lastfm",
+        "attribute": "artist",
+        "correct": 8,
+        "total": 13,
+        "accuracy": 0.6154
+      },
+      "discogs": {
+        "source_name": "discogs",
+        "attribute": "artist",
+        "correct": 16,
+        "total": 17,
+        "accuracy": 0.9412
+      }
+    },
+    "release-date": {
+      "musicbrainz": {
+        "source_name": "musicbrainz",
+        "attribute": "release-date",
+        "correct": 17,
+        "total": 23,
+        "accuracy": 0.7391
+      },
+      "discogs": {
+        "source_name": "discogs",
+        "attribute": "release-date",
+        "correct": 12,
+        "total": 17,
+        "accuracy": 0.7059
+      }
+    },
+    "release-country": {
+      "musicbrainz": {
+        "source_name": "musicbrainz",
+        "attribute": "release-country",
+        "correct": 15,
+        "total": 23,
+        "accuracy": 0.6522
+      },
+      "discogs": {
+        "source_name": "discogs",
+        "attribute": "release-country",
+        "correct": 12,
+        "total": 17,
+        "accuracy": 0.7059
+      }
+    },
+    "tracks_track-name": {
+      "musicbrainz": {
+        "source_name": "musicbrainz",
+        "attribute": "tracks_track-name",
+        "correct": 13,
+        "total": 23,
+        "accuracy": 0.5652
+      },
+      "lastfm": {
+        "source_name": "lastfm",
+        "attribute": "tracks_track-name",
+        "correct": 8,
+        "total": 12,
+        "accuracy": 0.6667
+      },
+      "discogs": {
+        "source_name": "discogs",
+        "attribute": "tracks_track-name",
+        "correct": 8,
+        "total": 17,
+        "accuracy": 0.4706
+      }
+    },
+    "label": {
+      "discogs": {
+        "source_name": "discogs",
+        "attribute": "label",
+        "correct": 8,
+        "total": 17,
+        "accuracy": 0.4706
+      }
+    },
+    "genre": {
+      "discogs": {
+        "source_name": "discogs",
+        "attribute": "genre",
+        "correct": 0,
+        "total": 2,
+        "accuracy": 0.0
+      }
+    }
+  },
+  "iterations_used": 1,
+  "optimization_mode": "web"
+}

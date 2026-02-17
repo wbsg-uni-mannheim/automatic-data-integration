@@ -1,0 +1,11 @@
+Target Column,Discogs,Lastfm,Mbrainz
+id,id,id,id
+name,name,name,name
+artist,artist,artist,artist
+release-date,release-date,-,release-date
+release-country,release-country,-,release-country
+label,label,-,-
+genre,genre,-,-
+tracks,-,-,-
+duration,-,duration,duration
+Mapped,7/9,4/9,6/9

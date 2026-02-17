@@ -1,0 +1,59 @@
+{
+  "attribute_rules": {
+    "Attribute_6": {
+      "kwargs": {
+        "separator": ","
+      },
+      "resolver": "union"
+    },
+    "Attribute_7": {
+      "kwargs": {},
+      "resolver": "maximum"
+    },
+    "artist": {
+      "kwargs": {
+        "sources": [
+          "discogs"
+        ]
+      },
+      "resolver": "favour_sources"
+    },
+    "genre": {
+      "kwargs": {},
+      "resolver": "most_complete"
+    },
+    "label": {
+      "kwargs": {
+        "trust_key": "trust_score"
+      },
+      "resolver": "prefer_higher_trust"
+    },
+    "name": {
+      "kwargs": {
+        "sources": [
+          "musicbrainz"
+        ]
+      },
+      "resolver": "favour_sources"
+    },
+    "release-country": {
+      "kwargs": {
+        "trust_key": "trust_score"
+      },
+      "resolver": "prefer_higher_trust"
+    },
+    "release-date": {
+      "kwargs": {},
+      "resolver": "earliest"
+    },
+    "tracks_track-name": {
+      "kwargs": {
+        "sources": [
+          "musicbrainz"
+        ]
+      },
+      "resolver": "favour_sources"
+    }
+  },
+  "main_entity": "music release (album/EP/single)"
+}

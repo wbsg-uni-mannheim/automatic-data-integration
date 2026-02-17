@@ -1,0 +1,4 @@
+source_dataset,source_column,target_dataset,target_column,score,notes
+forbes,id,Companies,website,0.396701949239839,"vector_method=tfidf,similarity=cosine"
+forbes,url,Companies,website,0.396701949239839,"vector_method=tfidf,similarity=cosine"
+forbes,region,Companies,country,0.583711346025367,"vector_method=tfidf,similarity=cosine"

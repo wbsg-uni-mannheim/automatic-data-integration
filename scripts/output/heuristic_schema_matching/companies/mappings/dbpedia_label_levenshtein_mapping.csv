@@ -1,0 +1,8 @@
+source_dataset,source_column,target_dataset,target_column,score,notes
+dbpedia,id,Companies,id,1.0,similarity_function=levenshtein
+dbpedia,org_name,Companies,name,0.5,similarity_function=levenshtein
+dbpedia,nation,Companies,name,0.33333333333333337,similarity_function=levenshtein
+dbpedia,headquarters,Companies,industry,0.33333333333333337,similarity_function=levenshtein
+dbpedia,headquarters,Companies,founders,0.33333333333333337,similarity_function=levenshtein
+dbpedia,total_assets_val,Companies,assets,0.375,similarity_function=levenshtein
+dbpedia,annual_income,Companies,name,0.3076923076923077,similarity_function=levenshtein

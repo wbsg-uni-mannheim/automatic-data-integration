@@ -1,0 +1,20 @@
+% Data fusion results comparing validation set variants
+
+\begin{table}[t]
+\caption{Data fusion test accuracy by validation set origin.}
+\label{tab:fusion_results}
+\centering
+\setlength{\tabcolsep}{4pt}
+\begin{tabular}{@{}lcccc@{}}
+\toprule
+ & \textbf{Human} & \textbf{Human} & \textbf{LLM} & \textbf{LLM} \\
+\textbf{Use Case} & \textbf{Config} & \textbf{Val.\ Set} & \textbf{Val.\ Set} & \textbf{+ RAG} \\
+\midrule
+Games     & .832 & .866 & .866 & .866 \\
+Companies & .803 & .861 & .709 & .744 \\
+Music     & .766 & .721 & .708 & .708 \\
+\midrule
+\textit{Average} & .800 & .816 & .761 & .773 \\
+\bottomrule
+\end{tabular}
+\end{table}

@@ -1,0 +1,52 @@
+Pos,Platform,Genre,Year,Publisher,Japan,Global,North America,Europe,Game,Rest of World
+1,Wii,Sports,2006.0,Nintendo,3.77,79.84,39.42,28.03,Wii Sports,8.62
+2,NES,Platform,1985.0,Nintendo,6.81,40.24,29.08,3.58,Super Mario Bros.,0.77
+3,Wii,Racing,2008.0,Nintendo,3.44,31.55,13.21,11.73,Mario Kart Wii,3.17
+4,GB,Role-Playing,1996.0,Nintendo,10.22,31.37,11.27,8.89,Pok?mon Red / Green / Blue Version,1.0
+5,Wii,Sports,2009.0,Nintendo,2.85,30.69,14.21,10.47,Wii Sports Resort,3.15
+6,GB,Puzzle,1989.0,Nintendo,4.22,30.26,23.2,2.26,Tetris,0.58
+7,Wii,Misc,2006.0,Nintendo,2.93,28.52,13.69,9.07,Wii Play,2.83
+8,NES,Shooter,1984.0,Nintendo,0.28,28.31,26.93,0.63,Duck Hunt,0.47
+9,DS,Platform,2006.0,Nintendo,6.43,26.85,9.62,8.37,New Super Mario Bros.,2.43
+10,DS,Simulation,2005.0,Nintendo,1.93,24.37,9.01,10.71,Nintendogs,2.72
+11,Wii,Platform,2009.0,Nintendo,4.5,24.22,11.7,5.86,New Super Mario Bros. Wii,2.16
+12,GB,Role-Playing,1999.0,Nintendo,7.2,23.1,9.0,6.18,Pok?mon Gold / Silver Version,0.71
+13,DS,Racing,2005.0,Nintendo,4.06,23.08,9.55,7.28,Mario Kart DS,2.2
+14,Wii,Sports,2007.0,Nintendo,3.6,22.7,8.9,8.13,Wii Fit,2.08
+15,Wii,Sports,2009.0,Nintendo,2.49,21.17,8.7,7.79,Wii Fit Plus,2.2
+16,PS2,Action,2004.0,Take-Two Interactive,0.41,20.81,9.43,8.48,Grand Theft Auto: San Andreas,2.49
+17,SNES,Platform,1990.0,Nintendo,3.54,20.61,12.78,3.75,Super Mario World,0.55
+18,DS,Misc,2005.0,Nintendo,4.16,19.95,4.71,9.04,Brain Age: Train Your Brain in Minutes a Day,2.04
+19,GB,Platform,1989.0,Nintendo,4.18,18.14,10.83,2.71,Super Mario Land,0.42
+20,DS,Role-Playing,2006.0,Nintendo,6.04,17.97,6.3,4.29,Pok?mon Diamond / Pearl Version,1.34
+21,NES,Platform,1988.0,Nintendo,3.84,17.28,9.54,3.44,Super Mario Bros. 3,0.46
+22,PS2,Action,2002.0,Take-Two Interactive,0.47,16.15,8.41,5.49,Grand Theft Auto: Vice City,1.78
+23,X360,Misc,2010.0,Microsoft,0.2,15.91,10.47,3.59,Kinect Adventures!,1.65
+24,GBA,Role-Playing,2002.0,Nintendo,5.38,15.85,6.06,3.9,Pok?mon Ruby / Sapphire Version,0.5
+25,DS,Misc,2005.0,Nintendo,5.32,15.2,3.4,5.3,Brain Age 2: More Training in Minutes a Day,1.18
+26,PS2,Racing,2001.0,Sony Computer Entertainment,1.87,14.88,6.85,4.99,Gran Turismo 3: A-Spec,1.16
+27,GB,Role-Playing,1998.0,Nintendo,3.12,14.64,5.89,5.04,Pok?mon Yellow: Special Pikachu Edition,0.59
+28,X360,Shooter,2010.0,Activision,0.07,13.29,8.72,3.19,Call of Duty: Black Ops,1.31
+29,X360,Shooter,2011.0,Activision,0.07,13.28,8.08,3.72,Call of Duty: Modern Warfare 3,1.41
+30,PS2,Action,2001.0,Capcom,0.3,13.1,6.99,4.51,Grand Theft Auto III,1.3
+31,DS,Role-Playing,2010.0,Nintendo,5.53,13.0,4.19,2.54,Pok?mon Black / White Version,0.74
+32,X360,Shooter,2009.0,Activision,0.08,12.7,8.12,3.26,Call of Duty: Modern Warfare 2,1.24
+33,N64,Platform,1996.0,Nintendo,1.91,11.89,6.91,2.85,Super Mario 64,0.23
+34,DS,Simulation,2005.0,Nintendo,5.33,11.74,2.42,3.17,Animal Crossing: Wild World,0.83
+35,X360,Shooter,2007.0,Microsoft,0.13,11.46,7.54,2.63,Halo 3,1.15
+36,PS2,Racing,2004.0,Sony Computer Entertainment,1.1,11.36,3.01,5.63,Gran Turismo 4,1.62
+37,PS3,Shooter,2010.0,Activision,0.4,11.28,5.45,3.69,Call of Duty: Black Ops,1.75
+38,PC,Simulation,2000.0,Electronic Arts,0.0,11.22,11.22,0.0,The Sims,0.0
+39,GB,Platform,1992.0,Nintendo,2.69,11.18,6.16,2.04,Super Mario Land 2: 6 Golden Coins,0.29
+40,PS,Racing,1997.0,Sony Computer Entertainment,2.54,11.15,4.22,3.87,Gran Turismo,0.52
+41,Wii,Fighting,2008.0,Nintendo,2.35,10.93,5.48,2.2,Super Smash Bros. Brawl,0.91
+42,DS,Role-Playing,2009.0,Nintendo,3.96,10.81,3.63,2.45,Pok?mon Heart Gold / Soul Silver Version,0.77
+43,PS3,Shooter,2011.0,Activision,0.35,10.6,4.66,3.8,Call of Duty: Modern Warfare 3,1.79
+44,SNES,Platform,1993.0,Nintendo,2.12,10.55,5.99,2.15,Super Mario All-Stars,0.29
+45,GBA,Role-Playing,2004.0,Nintendo,3.15,10.49,4.34,2.65,Pok?mon FireRed / LeafGreen Version,0.35
+46,Wii,Platform,2007.0,Nintendo,1.2,10.17,4.97,3.01,Super Mario Galaxy,1.0
+47,N64,Racing,1996.0,Nintendo,2.23,9.87,5.55,1.94,Mario Kart 64,0.15
+48,PS3,Shooter,2009.0,Activision,0.37,9.83,4.74,3.21,Call of Duty: Modern Warfare 2,1.51
+49,PS,Role-Playing,1997.0,Sony Computer Entertainment,3.28,9.72,3.01,2.47,Final Fantasy VII,0.96
+50,DS,Platform,2004.0,Nintendo,1.25,9.54,4.52,2.84,Super Mario 64 DS,0.93
+Total,256.81,70.32,143.65,932.83,,,,,462.06,

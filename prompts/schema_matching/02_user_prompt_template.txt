@@ -1,0 +1,35 @@
+Schema Matching - User Prompt Template
+========================================
+Source: PyDI/schemamatching/llm_based.py
+
+Purpose: Provides the LLM with source and target table information for schema matching.
+Includes metadata, column value summaries, and sample rows for both tables.
+The target table is represented as a JSON Schema when available.
+
+Template variables:
+  {source_name}          - Name of the source dataset
+  {source_metadata}      - Dataset metadata (row count, file size, provenance)
+  {source_column_summary}- Per-column statistics: unique count and sample values
+  {source_table}         - Markdown-formatted sample rows from the source
+  {target_name}          - Name of the target dataset/schema
+  {target_metadata}      - Target dataset metadata
+  {target_schema_info}   - JSON Schema definition of the target (field names, types, descriptions)
+  {target_table}         - Markdown-formatted sample rows from the target (if available)
+
+---
+
+Description: Please identify the matching columns between Table A and Table B. For each column in Table A, specify the corresponding column in Table B. If a column in Table A has no corresponding column in Table B, map it to null. Represent every mapping using a pair [Table A column, Table B column or null]. Provide a mapping for each column in Table A.
+
+IMPORTANT: If Table A column names appear to be placeholders (like Attribute_1, col1, etc.), analyze the sample values to determine what each column actually contains.
+
+Question:
+Table A (source: {source_name})
+{source_metadata}
+{source_column_summary}
+{source_table}
+
+Table B (source: {target_name})
+{target_metadata}
+{target_schema_info}{target_table}
+
+Return the final result as JSON in the format {"column_mappings": [["Table A column", "Table B column"], ["Table A column", null], ...]}.

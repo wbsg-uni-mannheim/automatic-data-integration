@@ -1,0 +1,3 @@
+source_dataset,source_column,target_dataset,target_column,score,notes
+forbes,region,Companies,country,0.5692869131176259,"vector_method=term_frequencies,similarity=cosine"
+forbes,business_segment,Companies,industry,0.335063343361607,"vector_method=term_frequencies,similarity=cosine"

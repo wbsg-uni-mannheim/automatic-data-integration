@@ -1,0 +1,21 @@
+company_name,revenue,employees,country,headquarters_phone,contact_email,distance_to_port,warehouse_area,vat_number,iban,temperature_range,annual_growth,currency_code
+Acme Industries GmbH,5.2 MEO,150,Germany,+49 30 12345678,INFO@ACME-INDUSTRIES.DE,45 km,2500 m²,DE123456789,DE89370400440532013000,15°C to 25°C,12.5%,Euro
+TechStart Ltd,2.5 MEUR,  85  ,United Kingdom,+44 20 7946 0958,contact@techstart.co.uk,100 miles,50000 sq ft,GB123456789,GB82WEST12345698765432,-5 to 35 celsius,8.3 percent,GBP
+Global Finance SA,750 kEUR,42,Portugal,00351 21 1234567,sales@globalfinance.pt,3.5 kilometers,1200 m2,PT501234567,PT50000201231234567890154,20-30 °C,+5.7%,EUR
+DataSolutions Inc,10M,$500k marketing,DEU,1-555-123-4567,SUPPORT@datasolutions.com,2500 m,10000 square feet,invalid-vat,invalid-iban,68°F - 86°F,15 percent growth,USD
+Nordic Ventures AB,1.2 billion SEK,320,Sweden,+46 8 123 45 67,info@nordicventures.se,75 km,3000 m²,SE556789012301,SE4550000000058398257466,10 celsius,twenty percent,Swedish Krona
+EuroTrade BV,500 TEUR,28,Nederland,+31 20 123 4567,handel@eurotrade.nl,12.5 km,800 m²,NL123456789B01,NL91ABNA0417164300,18°C,7.2%,EUR
+Asian Manufacturing Co,¥50 million,1200,China,+86 21 1234 5678,contact@asianmfg.cn,500 kilometers,25000 sqm,,,,CNY
+Iberian Partners SL,3.8 MEO,95,ESP,+34 91 123 4567,partners@iberian.es,85 km,4500 m²,ES12345678A,ES9121000418450200051332,22°C - 28°C,9.1%,Euro
+Swiss Precision AG,8.5 MCHF,180,CH,+41 44 123 45 67,info@swissprecision.ch,15 km,6000 m²,CHE-123.456.789,CH9300762011623852957,5 to 20 degrees C,11.4%,CHF
+American Logistics LLC,25M,450,United States of America,(800) 555-0199,logistics@americanlog.com,150 mi,100000 sqft,invalid,US12345678901234567890,50-90°F,6.8%,Dollar
+French Cuisine SARL,1.5 million EUR,35,FRA,01 23 45 67 89,cuisine@frenchcuisine.fr,25 km,1500 m²,FR12345678901,FR7630006000011234567890189,4°C (refrigerated),3.2%,Euro
+Italian Design SpA,4.2 MEUR,120,Italia,+39 02 1234567,design@italiandesign.it,60 km,5500 m²,IT12345678901,IT60X0542811101000000123456,room temperature,14.7%,EUR
+Brazilian Exports Ltda,R$ 10 milhões,200,Brasil,+55 11 1234-5678,exports@brazilexports.com.br,120 km,8000 m²,,BR9712345678901234567890123,tropical,-2.3%,BRL
+Canadian Resources Inc,CAD 15M,380,CAN,+1 (416) 555-0123,resources@canres.ca,200 km,12000 m²,123456789RT0001,CA123456789012345678901234,subzero to 40°C,8.9%,Canadian Dollar
+Australian Mining Pty,AUD 50 million,650,AUS,+61 2 1234 5678,mining@ausmining.com.au,350 km,15000 m²,12 345 678 901,AU123456789012345678901234,-10 to 45 celsius,12.1%,AUD
+Japanese Electronics KK,¥2.5 billion,890,Japan,+81 3-1234-5678,electronics@jpelec.co.jp,80 km,20000 m²,,JP1234567890123456789012345,10-30°C,5.4%,JPY
+Indian Software Pvt,₹50 crore,500,India,+91 11 2345 6789,software@indiasw.in,25 km,7500 m²,,IN123456789012345678901234,15-35 celsius,22.6%,INR
+Russian Energy OOO,5 billion RUB,1500,Russian Federation,+7 495 123-45-67,energy@rusenergy.ru,400 km,30000 m²,,RU123456789012345678901234,-40 to +40°C,-8.5%,RUB
+South African Mining Ltd,ZAR 2.8 billion,2200,ZAF,+27 11 123 4567,mining@samining.co.za,180 km,18000 m²,4123456789,ZA12345678901234567890,5-40°C,7.3%,South African Rand
+Mexican Manufacturing SA de CV,MXN 500 millones,780,Mexico,+52 55 1234 5678,mfg@mexmfg.com.mx,95 km,11000 m²,MEX123456789,MX123456789012345678901234,18-32°C,4.1%,MXN

@@ -1,0 +1,4 @@
+source_dataset,source_column,target_dataset,target_column,score,notes
+lastfm,lastFM_1,Music Release,id,0.95,llm_based_matching
+lastfm,John B -  Fermats Theorem / Sight Beyond,Music Release,name,0.95,llm_based_matching
+lastfm,John B,Music Release,artist,0.95,llm_based_matching

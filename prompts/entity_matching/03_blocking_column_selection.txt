@@ -1,0 +1,37 @@
+Blocking Column Selection
+==========================
+Source: PyDI/pipeline/entity_resolution.py
+
+Purpose: Selects which columns to use for blocking (candidate pair generation)
+in entity matching. The LLM analyzes column coverage and sample values to
+recommend 1-3 blocking strategies (single columns or column combinations).
+
+Template variables:
+  {column_stats_table} - Table showing column names and coverage percentages per dataset
+  {samples}            - Sample values from each column in both datasets
+  {id_column}          - Name of the ID column to exclude
+
+---
+
+Select blocking strategies for entity matching between two datasets.
+
+Available columns with coverage:
+{column_stats_table}
+
+Sample values:
+{samples}
+
+Guidelines:
+- Return 1-3 blocking strategies as a JSON list
+- Each strategy can be a single column ("name") or columns joined with "+" ("name+year")
+- Combined strategies are MORE SELECTIVE than single columns - prefer these when it makes sense
+- Choose columns that help UNIQUELY IDENTIFY the entity:
+  * Primary identifiers: name, title, product_name (high priority)
+  * Secondary qualifiers: year, version, edition (good for combining)
+- AVOID overly broad columns that match too many unrelated records:
+  * Pure location columns alone (city, country) - too generic
+  * Pure category columns alone (genre, type) - too many records share these
+- A good strategy combines a primary identifier with a qualifier, e.g. "title+year" or "name+developer"
+- DO NOT use the internal ID column '{id_column}'
+
+Return ONLY a JSON list, e.g.: ["name+developer", "title", "name+year"]

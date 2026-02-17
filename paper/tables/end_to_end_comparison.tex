@@ -1,0 +1,21 @@
+% End-to-end metrics comparison: Human vs LLM Pipeline
+
+\begin{table}[t]
+\caption{End-to-end integration metrics comparing human versus LLM pipelines.}
+\label{tab:e2e_comparison}
+\centering
+\scriptsize
+\setlength{\tabcolsep}{3pt}
+\resizebox{\columnwidth}{!}{%
+\begin{tabular}{@{}l cc cc cc cc@{}}
+\toprule
+ & \multicolumn{2}{c}{\textbf{Output Records}} & \multicolumn{2}{c}{\textbf{Fusion Ratio}} & \multicolumn{2}{c}{\textbf{Row Gain \%}} & \multicolumn{2}{c}{\textbf{Density $\Delta$}} \\
+\cmidrule(lr){2-3} \cmidrule(lr){4-5} \cmidrule(lr){6-7} \cmidrule(lr){8-9}
+\textbf{Use Case} & Human & LLM & Human & LLM & Human & LLM & Human & LLM \\
+\midrule
+Games & 65,794 & 65,518 & 11.8 & 11.0 & +41.3 & +40.7 & +2.7 & +4.5 \\
+Companies & 11,517 & 12,768 & 15.1 & 8.1 & +14.2 & +26.6 & $-$5.2 & +5.6 \\
+Music & 30,779 & 30,885 & 14.6 & 13.5 & +36.0 & +36.5 & +5.8 & $-$1.8 \\
+\bottomrule
+\end{tabular}}
+\end{table}

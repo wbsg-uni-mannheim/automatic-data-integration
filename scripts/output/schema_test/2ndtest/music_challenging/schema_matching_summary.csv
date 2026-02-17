@@ -1,0 +1,4 @@
+dataset,status,num_mappings,source_columns,mapped_columns
+discogs,matched,7,"['id', 'rec_uid', 'title_str', 'performer', 'pub_dt', 'origin_loc', 'imprint', 'category', 'tracks_track-name']","['id', 'name', 'artist', 'release-date', 'release-country', 'label', 'genre']"
+lastfm,matched,3,"['id', 'item_code', 'album_title', 'band', 'tracks_track-name']","['id', 'name', 'artist']"
+musicbrainz,matched,5,"['id', 'mb_ref', 'release_title', 'creator', 'issued', 'territory', 'tracks_track-name', 'length_sec']","['id', 'name', 'artist', 'release-date', 'release-country']"

@@ -1,0 +1,33 @@
+Well-Known Entity Selection
+=============================
+Source: PyDI/pipeline/fusion_validation_generation.py
+
+Purpose: Selects the most well-known entities from a sample of matched record groups.
+These entities are used for validation set generation because the LLM is more likely
+to have reliable factual knowledge about them. Typically selects ~30 from 100 candidates.
+
+Template variables:
+  {len(sampled_groups)} - Number of entity candidates shown
+  {n_select}            - Number of entities to select
+  {entities_text}       - Formatted entity descriptions showing values from all sources
+
+---
+
+You are helping create a validation dataset for data fusion.
+
+Below are {len(sampled_groups)} entities that appear across multiple data sources.
+Each entity shows values from different sources.
+
+Your task: Select the {n_select} most WELL-KNOWN entities from this list.
+Well-known means: famous, recognizable, entities you have reliable knowledge about.
+
+For example:
+- Famous movies (Titanic, The Matrix) over obscure films
+- Popular artists (The Beatles, Taylor Swift) over unknown bands
+- Major companies (Apple, Google) over small businesses
+
+ENTITIES:
+{entities_text}
+
+Return ONLY a comma-separated list of indices (e.g., "0, 5, 12, 23, ...").
+Select exactly {n_select} indices of the most well-known entities.

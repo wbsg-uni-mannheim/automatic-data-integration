@@ -1,0 +1,199 @@
+{
+  "case_name": "heuristic_stats",
+  "rules": {
+    "assets": {
+      "resolver": "favour_sources",
+      "kwargs": {
+        "sources": [
+          "forbes"
+        ]
+      }
+    },
+    "city": {
+      "resolver": "union",
+      "kwargs": {
+        "separator": ","
+      }
+    },
+    "country": {
+      "resolver": "favour_sources",
+      "kwargs": {
+        "sources": [
+          "fullcontact"
+        ]
+      }
+    },
+    "founded": {
+      "resolver": "prefer_higher_trust",
+      "kwargs": {
+        "trust_key": "trust_score"
+      }
+    },
+    "founders": {
+      "resolver": "union",
+      "kwargs": {
+        "separator": ","
+      }
+    },
+    "industry": {
+      "resolver": "most_complete",
+      "kwargs": {}
+    },
+    "keypeople_name": {
+      "resolver": "longest_string",
+      "kwargs": {}
+    },
+    "name": {
+      "resolver": "longest_string",
+      "kwargs": {}
+    },
+    "revenue": {
+      "resolver": "median",
+      "kwargs": {}
+    },
+    "website": {
+      "resolver": "most_complete",
+      "kwargs": {}
+    }
+  },
+  "accuracy_by_mode": {},
+  "source_stats": {
+    "name": {
+      "forbes": {
+        "source_name": "forbes",
+        "attribute": "name",
+        "correct": 4,
+        "total": 12,
+        "accuracy": 0.3333
+      },
+      "dbpedia": {
+        "source_name": "dbpedia",
+        "attribute": "name",
+        "correct": 5,
+        "total": 12,
+        "accuracy": 0.4167
+      },
+      "fullcontact": {
+        "source_name": "fullcontact",
+        "attribute": "name",
+        "correct": 3,
+        "total": 8,
+        "accuracy": 0.375
+      }
+    },
+    "website": {
+      "forbes": {
+        "source_name": "forbes",
+        "attribute": "website",
+        "correct": 0,
+        "total": 10,
+        "accuracy": 0.0
+      }
+    },
+    "country": {
+      "forbes": {
+        "source_name": "forbes",
+        "attribute": "country",
+        "correct": 9,
+        "total": 11,
+        "accuracy": 0.8182
+      },
+      "dbpedia": {
+        "source_name": "dbpedia",
+        "attribute": "country",
+        "correct": 8,
+        "total": 11,
+        "accuracy": 0.7273
+      },
+      "fullcontact": {
+        "source_name": "fullcontact",
+        "attribute": "country",
+        "correct": 5,
+        "total": 5,
+        "accuracy": 1.0
+      }
+    },
+    "industry": {
+      "dbpedia": {
+        "source_name": "dbpedia",
+        "attribute": "industry",
+        "correct": 1,
+        "total": 7,
+        "accuracy": 0.1429
+      },
+      "forbes": {
+        "source_name": "forbes",
+        "attribute": "industry",
+        "correct": 0,
+        "total": 1,
+        "accuracy": 0.0
+      }
+    },
+    "revenue": {
+      "forbes": {
+        "source_name": "forbes",
+        "attribute": "revenue",
+        "correct": 6,
+        "total": 9,
+        "accuracy": 0.6667
+      },
+      "dbpedia": {
+        "source_name": "dbpedia",
+        "attribute": "revenue",
+        "correct": 2,
+        "total": 5,
+        "accuracy": 0.4
+      }
+    },
+    "assets": {
+      "forbes": {
+        "source_name": "forbes",
+        "attribute": "assets",
+        "correct": 3,
+        "total": 3,
+        "accuracy": 1.0
+      },
+      "dbpedia": {
+        "source_name": "dbpedia",
+        "attribute": "assets",
+        "correct": 3,
+        "total": 3,
+        "accuracy": 1.0
+      }
+    },
+    "city": {
+      "fullcontact": {
+        "source_name": "fullcontact",
+        "attribute": "city",
+        "correct": 0,
+        "total": 1,
+        "accuracy": 0.0
+      },
+      "dbpedia": {
+        "source_name": "dbpedia",
+        "attribute": "city",
+        "correct": 0,
+        "total": 1,
+        "accuracy": 0.0
+      }
+    },
+    "keypeople_name": {
+      "fullcontact": {
+        "source_name": "fullcontact",
+        "attribute": "keypeople_name",
+        "correct": 0,
+        "total": 1,
+        "accuracy": 0.0
+      },
+      "dbpedia": {
+        "source_name": "dbpedia",
+        "attribute": "keypeople_name",
+        "correct": 0,
+        "total": 1,
+        "accuracy": 0.0
+      }
+    }
+  },
+  "iterations_used": 1,
+  "optimization_mode": "llm"
+}

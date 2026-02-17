@@ -1,0 +1,111 @@
+Rang,LÃ¤nge-(km),Max.-Tiefe-(m),Staat(en),FlÃ¤che-(km2),Volumen-(km?),Name
+1.0,1199,1025,Aserbaidschan Russland Kasachstan Turkmenistan Iran,371.0,78.200,Kaspisches-Meer
+2.0,616,405,USA-Kanada,82.414,12.100,Oberer-See
+3.0,322,84,Kenia Tansania Uganda,69.485,2750,Victoriasee
+4.0,397,229,USA-Kanada,59.596,3540,Huronsee
+5.0,517,282,USA,58.016,4918,Michigansee
+6.0,676,1470,Tansania DR-Kongo Sambia Burundi,32.893,18.900,Tanganjikasee
+7.0,636,1680 (2008),Russland,31.5,23.600,Baikalsee
+8.0,373,446,Kanada,31.08,2236,Gro?er-B?rensee
+9.0,579,706,Malawi Mosambik Tansania,30.044,8400,Malawisee
+10.0,480,614,Kanada,28.93,2090,Gro?er-Sklavensee
+11.0,388,64,USA-Kanada,25.719,489,Eriesee
+12.0,425,18,Kanada,23.553,283,Winnipegsee
+13.0,311,244,USA-Kanada,19.477,1639,Ontariosee
+14.0,605,26,Kasachstan,18.428,106,Balchaschsee
+15.0,219,230,Russland,18.13,908,Ladogasee
+16.0,428,-,Kasachstan Usbekistan,17.16,-,Aralsee
+17.0,250,1000,Antarktis,15.69,5400,Wostoksee
+18.0,248,120,Russland,9891.0,280,Onegasee
+19.0,177,281,Bolivien-Peru,8135.0,893,Titicacasee
+20.0,177,26,Nicaragua,8001.0,-,Nicaraguasee
+21.0,335,243,Kanada,7920.0,204,Athabascasee
+22.0,248,109,Kenia-?thiopien,6405.0,204,Turkanasee
+23.0,245,337,Kanada,6330.0,?,Reindeer-Lake
+24.0,182,668,Kirgisistan,6200.0,1738,Issyk-Kul
+25.0,130,16,Iran,6001.0,-,Urmia-See
+26.0,-,-,VR-China,5694.0,-,Koko-Nor
+27.0,140,106,Schweden,5545.0,153,V?nern
+28.0,245,-,Kanada,5403.0,-,Lake-Winnipegosis
+29.0,161,58,Uganda DR-Kongo,5299.0,280,Albertsee
+30.0,-,27,Sambia DR-Kongo,5120.0,-,Mwerusee
+31.0,123,-,Kanada,5051.0,-,Nettilling-Lake
+32.0,-,165,Kanada,4848.0,-,Lake-Nipigon
+33.0,200,-,Kanada,4706.0,-,Lake-Manitoba
+34.0,250,26,Russland,4560.0,-,Taimyrsee
+35.0,80,-,Russland VR-China,4400.0,-,Chankasee
+36.0,120,-,Kanada-USA,4390.0,-,Lake-of-the-Woods
+37.0,-,-,Kanada,3833.0,-,Lake-Dubawnt
+38.0,120,457,T?rkei,3740.0,-,Vansee
+39.0,84,14,?thiopien,3628.0,-,Tanasee
+40.0,143,14,Estland Russland,3555.0,-,Peipussee
+41.0,200,-,Mongolei,3350.0,-,Ubsa-Nor
+42.0,80,-,Kanada,3115.0,-,Amadjuak-Lake
+43.0,250,-,Usbekistan,3000.0,"44,3",Aydar-Ko?l
+44.0,-,450,DR-Kongo Ruanda,2650.0,-,Kiwusee
+45.0,-,54,Kasachstan,2650.0,"58,6",Alakol
+46.0,120,>150,USA,2622.0,-,Iliamna-Lake
+47.0,136,262,Mongolei,2620.0,-,Chubsogol-Nor
+48.0,-,-,Bolivien,2600.0,"4,02",Poop?-See
+49.0,-,-,Kanada,2538.0,-,Lake-Garry
+50.0,65,112,DR-Kongo Uganda,2325.0,-,Eduardsee
+51.0,-,71,Kanada,2286.0,75,Wollaston-Lake
+52.0,-,-,Kanada,2279.0,-,Nueltin-Lake
+53.0,-,-,VR-China,2250.0,-,Tai-Hu
+54.0,-,-,Kanada,2248.0,-,Southern-Indian-Lake
+55.0,-,-,Kanada,2227.0,-,Yathkyed-Lake
+56.0,70,33,VR-China,2207.0,-,Nam-Tso
+57.0,150,-,Kanada,2176.0,-,Lake-Mistassini
+58.0,-,-,VR-China,1960.0,-,Hungtze-Hu
+59.0,-,119,Schweden,1912.0,-,V?ttern
+60.0,56,4,USA,1890.0,-,Lake-Okeechobee
+61.0,-,590,Chile Argentinien,1850.0,-,Lago-Buenos-Aires
+62.0,-,-,Kasachstan,1825.0,-,Tschelkar-Tengis
+63.0,-,-,Mongolei,1760.0,-,Hara-Usa-Nor
+64.0,-,85,Finnland,1760.0,36,Saimaa
+65.0,-,-,?gypten,1709.0,-,Manzalasee
+66.0,-,12,Russland,1700.0,-,Tschanysee
+67.0,72,33,VR-China,1640.0,-,Ziling-Tso
+68.0,64,"4,26",USA,1630.0,-,Lake-Pontchartrain
+69.0,80,2,T?rkei,1620.0,-,Tuz-G?l?
+70.0,-,-,Kasachstan,1590.0,-,Tengis-Ozero
+71.0,-,500,Argentinien,1490.0,-,Lago-Argentino
+72.0,-,-,Kanada,1480.0,-,Baker-Lake
+73.0,59,-,Kanada,1436.0,-,Lake-Claire
+74.0,-,-,Kanada,1425.0,-,Island-Lake
+75.0,241,47,Kanada,1396.0,-,Lac-Seul
+76.0,-,-,Kanada,1386.0,-,Lac-a-l'eau-Claire
+77.0,-,-,Mongolei,1360.0,-,Hirgis-Nur
+78.0,-,-,Kanada,1359.0,-,Moose-Lake
+79.0,-,-,Kanada,1339.0,-,Cedar-Lake
+80.0,-,-,VR-China,1295.0,-,Tangra-Tso
+81.0,100,505,Indonesien,1264.0,240,Tobasee
+82.0,-,-,Kanada,1256.0,-,Lac-Minto
+83.0,90,-,Kanada,1230.0,-,Lake-Aberdeen
+84.0,-,-,Russland,1200.0,-,Wyg-ozero
+85.0,-,-,Kanada,1174.0,-,Lac-La-Martre
+86.0,97,"20,5",Kanada,1168.0,-,Kleiner-Sklavensee
+87.0,-,-,Kanada,1166.0,-,Lac-La-Ronge
+88.0,-,-,Kanada,1155.0,-,Cree-Lake
+89.0,72,13,?thiopien,1150.0,-,Abajasee
+90.0,-,-,Irak,1142.0,-,Hawr-as-Saniyah
+91.0,115,66,Schweden,1140.0,"14,3",M?laren
+92.0,180,121,USA-Kanada,1130.0,-,Lake-Champlain
+93.0,-,-,Russland,1125.0,-,Beloje-Ozero
+94.0,42,"8,2",Kanada-USA,1114.0,4,Lake-St.Clair
+95.0,-,-,Kanada,1100.0,-,Lac-Sakami
+96.0,-,-,Kanada,1080.0,-,Napaktulik-Lake
+97.0,-,-,Kanada,1077.0,-,Kasba-Lake
+98.0,-,95,Finnland,1068.0,-,P?ij?nne
+99.0,-,-,Kanada,1061.0,-,MacKay-Lake
+100.0,80,12,Mexiko,1056.0,-,Chapalasee
+101.0,-,-,Russland,1049.0,-,Top-ozero
+102.0,80,92,Finnland,1040.0,-,Inarisee
+103.0,-,-,Kanada,1036.0,-,Kamilukuak-Lake
+104.0,-,-,Kasachstan,1036.0,-,Kuschmurunsee
+105.0,65,-,Nicaragua,1035.0,-,Managuasee
+106.0,-,-,VR-China,1024.0,-,Ebi-Nor
+107.0,-,-,Kanada,1015.0,-,Lac-Bienville
+108.0,-,-,Kanada,1015.0,-,Granville-Lake
+109.0,-,-,Chile Argentinien,1010.0,-,Lago-San-Martin
+110.0,"43,8",63,Kanada,1003.0,-,Lac-St.-Jean

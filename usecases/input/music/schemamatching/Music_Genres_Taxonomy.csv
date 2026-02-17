@@ -1,0 +1,361 @@
+Genre Code,Genre Name,Subgenre Code,Subgenre Name,Sub-Subgenre Code,Sub-Subgenre Name
+10,Rock,1010,Classic Rock,101010,Classic Rock
+10,Rock,1010,Classic Rock,101020,Arena Rock
+10,Rock,1010,Classic Rock,101030,Southern Rock
+10,Rock,1010,Classic Rock,101040,Heartland Rock
+10,Rock,1020,Hard Rock,102010,Hard Rock
+10,Rock,1020,Hard Rock,102020,Blues Rock
+10,Rock,1020,Hard Rock,102030,Glam Rock
+10,Rock,1030,Metal,103010,Heavy Metal
+10,Rock,1030,Metal,103020,Thrash Metal
+10,Rock,1030,Metal,103030,Death Metal
+10,Rock,1030,Metal,103040,Black Metal
+10,Rock,1030,Metal,103050,Power Metal
+10,Rock,1030,Metal,103060,Doom Metal
+10,Rock,1030,Metal,103070,Progressive Metal
+10,Rock,1030,Metal,103080,Nu Metal
+10,Rock,1030,Metal,103090,Metalcore
+10,Rock,1030,Metal,103100,Deathcore
+10,Rock,1030,Metal,103110,Symphonic Metal
+10,Rock,1030,Metal,103120,Folk Metal
+10,Rock,1030,Metal,103130,Industrial Metal
+10,Rock,1030,Metal,103140,Groove Metal
+10,Rock,1040,Punk,104010,Punk Rock
+10,Rock,1040,Punk,104020,Hardcore Punk
+10,Rock,1040,Punk,104030,Post-Punk
+10,Rock,1040,Punk,104040,Pop Punk
+10,Rock,1040,Punk,104050,Ska Punk
+10,Rock,1040,Punk,104060,Emo
+10,Rock,1040,Punk,104070,Screamo
+10,Rock,1040,Punk,104080,Post-Hardcore
+10,Rock,1050,Alternative Rock,105010,Alternative Rock
+10,Rock,1050,Alternative Rock,105020,Grunge
+10,Rock,1050,Alternative Rock,105030,Britpop
+10,Rock,1050,Alternative Rock,105040,Shoegaze
+10,Rock,1050,Alternative Rock,105050,Dream Pop
+10,Rock,1050,Alternative Rock,105060,Noise Rock
+10,Rock,1050,Alternative Rock,105070,Art Rock
+10,Rock,1060,Indie Rock,106010,Indie Rock
+10,Rock,1060,Indie Rock,106020,Indie Pop
+10,Rock,1060,Indie Rock,106030,Lo-Fi
+10,Rock,1060,Indie Rock,106040,Chamber Pop
+10,Rock,1060,Indie Rock,106050,Bedroom Pop
+10,Rock,1070,Progressive Rock,107010,Progressive Rock
+10,Rock,1070,Progressive Rock,107020,Psychedelic Rock
+10,Rock,1070,Progressive Rock,107030,Space Rock
+10,Rock,1070,Progressive Rock,107040,Krautrock
+10,Rock,1070,Progressive Rock,107050,Post-Rock
+10,Rock,1070,Progressive Rock,107060,Math Rock
+10,Rock,1080,Soft Rock,108010,Soft Rock
+10,Rock,1080,Soft Rock,108020,Adult Contemporary Rock
+10,Rock,1080,Soft Rock,108030,Yacht Rock
+10,Rock,1090,Garage Rock,109010,Garage Rock
+10,Rock,1090,Garage Rock,109020,Garage Rock Revival
+10,Rock,1090,Garage Rock,109030,Surf Rock
+20,Pop,2010,Pop,201010,Pop
+20,Pop,2010,Pop,201020,Dance Pop
+20,Pop,2010,Pop,201030,Synth Pop
+20,Pop,2010,Pop,201040,Electropop
+20,Pop,2010,Pop,201050,Art Pop
+20,Pop,2010,Pop,201060,Baroque Pop
+20,Pop,2020,Teen Pop,202010,Teen Pop
+20,Pop,2020,Teen Pop,202020,Bubblegum Pop
+20,Pop,2020,Teen Pop,202030,Boy Band / Girl Group
+20,Pop,2030,Adult Contemporary,203010,Adult Contemporary
+20,Pop,2030,Adult Contemporary,203020,Easy Listening
+20,Pop,2030,Adult Contemporary,203030,Soft Pop
+20,Pop,2040,K-Pop,204010,K-Pop
+20,Pop,2040,K-Pop,204020,K-Pop Ballad
+20,Pop,2040,K-Pop,204030,K-Pop Dance
+20,Pop,2050,J-Pop,205010,J-Pop
+20,Pop,2050,J-Pop,205020,City Pop
+20,Pop,2050,J-Pop,205030,Shibuya-kei
+20,Pop,2060,Latin Pop,206010,Latin Pop
+20,Pop,2060,Latin Pop,206020,Reggaeton
+20,Pop,2060,Latin Pop,206030,Latin Urban
+20,Pop,2060,Latin Pop,206040,Bachata
+20,Pop,2070,Euro Pop,207010,Europop
+20,Pop,2070,Euro Pop,207020,Eurodance
+20,Pop,2070,Euro Pop,207030,Italo Disco
+30,Hip Hop / Rap,3010,East Coast Hip Hop,301010,East Coast Hip Hop
+30,Hip Hop / Rap,3010,East Coast Hip Hop,301020,Boom Bap
+30,Hip Hop / Rap,3010,East Coast Hip Hop,301030,Mafioso Rap
+30,Hip Hop / Rap,3020,West Coast Hip Hop,302010,West Coast Hip Hop
+30,Hip Hop / Rap,3020,West Coast Hip Hop,302020,G-Funk
+30,Hip Hop / Rap,3020,West Coast Hip Hop,302030,Gangsta Rap
+30,Hip Hop / Rap,3020,West Coast Hip Hop,302040,Hyphy
+30,Hip Hop / Rap,3030,Southern Hip Hop,303010,Southern Hip Hop
+30,Hip Hop / Rap,3030,Southern Hip Hop,303020,Trap
+30,Hip Hop / Rap,3030,Southern Hip Hop,303030,Crunk
+30,Hip Hop / Rap,3030,Southern Hip Hop,303040,Bounce
+30,Hip Hop / Rap,3030,Southern Hip Hop,303050,Drill
+30,Hip Hop / Rap,3030,Southern Hip Hop,303060,Dirty South
+30,Hip Hop / Rap,3040,Alternative Hip Hop,304010,Alternative Hip Hop
+30,Hip Hop / Rap,3040,Alternative Hip Hop,304020,Conscious Hip Hop
+30,Hip Hop / Rap,3040,Alternative Hip Hop,304030,Jazz Rap
+30,Hip Hop / Rap,3040,Alternative Hip Hop,304040,Abstract Hip Hop
+30,Hip Hop / Rap,3050,UK Hip Hop,305010,UK Hip Hop
+30,Hip Hop / Rap,3050,UK Hip Hop,305020,Grime
+30,Hip Hop / Rap,3050,UK Hip Hop,305030,UK Drill
+30,Hip Hop / Rap,3060,Mumble Rap / Cloud Rap,306010,Mumble Rap
+30,Hip Hop / Rap,3060,Mumble Rap / Cloud Rap,306020,Cloud Rap
+30,Hip Hop / Rap,3060,Mumble Rap / Cloud Rap,306030,Emo Rap
+30,Hip Hop / Rap,3060,Mumble Rap / Cloud Rap,306040,SoundCloud Rap
+30,Hip Hop / Rap,3070,Latin Hip Hop,307010,Latin Hip Hop
+30,Hip Hop / Rap,3070,Latin Hip Hop,307020,Chicano Rap
+30,Hip Hop / Rap,3080,Instrumental Hip Hop,308010,Instrumental Hip Hop
+30,Hip Hop / Rap,3080,Instrumental Hip Hop,308020,Lo-Fi Hip Hop
+30,Hip Hop / Rap,3080,Instrumental Hip Hop,308030,Chillhop
+40,Electronic / Dance,4010,House,401010,House
+40,Electronic / Dance,4010,House,401020,Deep House
+40,Electronic / Dance,4010,House,401030,Tech House
+40,Electronic / Dance,4010,House,401040,Progressive House
+40,Electronic / Dance,4010,House,401050,Tropical House
+40,Electronic / Dance,4010,House,401060,Future House
+40,Electronic / Dance,4010,House,401070,Acid House
+40,Electronic / Dance,4010,House,401080,Chicago House
+40,Electronic / Dance,4010,House,401090,Garage House
+40,Electronic / Dance,4020,Techno,402010,Techno
+40,Electronic / Dance,4020,Techno,402020,Detroit Techno
+40,Electronic / Dance,4020,Techno,402030,Minimal Techno
+40,Electronic / Dance,4020,Techno,402040,Industrial Techno
+40,Electronic / Dance,4020,Techno,402050,Acid Techno
+40,Electronic / Dance,4030,Trance,403010,Trance
+40,Electronic / Dance,4030,Trance,403020,Progressive Trance
+40,Electronic / Dance,4030,Trance,403030,Uplifting Trance
+40,Electronic / Dance,4030,Trance,403040,Psytrance
+40,Electronic / Dance,4030,Trance,403050,Goa Trance
+40,Electronic / Dance,4030,Trance,403060,Vocal Trance
+40,Electronic / Dance,4030,Trance,403070,Hard Trance
+40,Electronic / Dance,4040,Drum and Bass,404010,Drum and Bass
+40,Electronic / Dance,4040,Drum and Bass,404020,Liquid Drum and Bass
+40,Electronic / Dance,4040,Drum and Bass,404030,Jungle
+40,Electronic / Dance,4040,Drum and Bass,404040,Neurofunk
+40,Electronic / Dance,4040,Drum and Bass,404050,Jump Up
+40,Electronic / Dance,4050,Dubstep,405010,Dubstep
+40,Electronic / Dance,4050,Dubstep,405020,Brostep
+40,Electronic / Dance,4050,Dubstep,405030,Melodic Dubstep
+40,Electronic / Dance,4050,Dubstep,405040,Future Bass
+40,Electronic / Dance,4050,Dubstep,405050,Riddim
+40,Electronic / Dance,4060,EDM,406010,EDM
+40,Electronic / Dance,4060,EDM,406020,Big Room
+40,Electronic / Dance,4060,EDM,406030,Electro House
+40,Electronic / Dance,4060,EDM,406040,Festival Progressive House
+40,Electronic / Dance,4070,Ambient / Downtempo,407010,Ambient
+40,Electronic / Dance,4070,Ambient / Downtempo,407020,Downtempo
+40,Electronic / Dance,4070,Ambient / Downtempo,407030,Chillout
+40,Electronic / Dance,4070,Ambient / Downtempo,407040,Trip Hop
+40,Electronic / Dance,4070,Ambient / Downtempo,407050,Dark Ambient
+40,Electronic / Dance,4070,Ambient / Downtempo,407060,New Age
+40,Electronic / Dance,4080,Industrial / EBM,408010,Industrial
+40,Electronic / Dance,4080,Industrial / EBM,408020,EBM (Electronic Body Music)
+40,Electronic / Dance,4080,Industrial / EBM,408030,Aggrotech
+40,Electronic / Dance,4080,Industrial / EBM,408040,Dark Electro
+40,Electronic / Dance,4090,UK Garage / Bass,409010,UK Garage
+40,Electronic / Dance,4090,UK Garage / Bass,409020,2-Step
+40,Electronic / Dance,4090,UK Garage / Bass,409030,Bassline
+40,Electronic / Dance,4090,UK Garage / Bass,409040,UK Funky
+40,Electronic / Dance,4100,Breakbeat,410010,Breakbeat
+40,Electronic / Dance,4100,Breakbeat,410020,Big Beat
+40,Electronic / Dance,4100,Breakbeat,410030,Breakcore
+40,Electronic / Dance,4110,Hardcore,411010,Happy Hardcore
+40,Electronic / Dance,4110,Hardcore,411020,Gabber
+40,Electronic / Dance,4110,Hardcore,411030,Hardstyle
+40,Electronic / Dance,4110,Hardcore,411040,Frenchcore
+40,Electronic / Dance,4120,IDM / Experimental,412010,IDM (Intelligent Dance Music)
+40,Electronic / Dance,4120,IDM / Experimental,412020,Glitch
+40,Electronic / Dance,4120,IDM / Experimental,412030,Experimental Electronic
+50,R&B / Soul,5010,Classic Soul,501010,Soul
+50,R&B / Soul,5010,Classic Soul,501020,Motown
+50,R&B / Soul,5010,Classic Soul,501030,Northern Soul
+50,R&B / Soul,5010,Classic Soul,501040,Southern Soul
+50,R&B / Soul,5010,Classic Soul,501050,Philadelphia Soul
+50,R&B / Soul,5020,Contemporary R&B,502010,Contemporary R&B
+50,R&B / Soul,5020,Contemporary R&B,502020,New Jack Swing
+50,R&B / Soul,5020,Contemporary R&B,502030,Quiet Storm
+50,R&B / Soul,5020,Contemporary R&B,502040,Alternative R&B
+50,R&B / Soul,5020,Contemporary R&B,502050,PBR&B
+50,R&B / Soul,5030,Funk,503010,Funk
+50,R&B / Soul,5030,Funk,503020,P-Funk
+50,R&B / Soul,5030,Funk,503030,Boogie
+50,R&B / Soul,5030,Funk,503040,Go-Go
+50,R&B / Soul,5040,Neo-Soul,504010,Neo-Soul
+50,R&B / Soul,5050,Disco,505010,Disco
+50,R&B / Soul,5050,Disco,505020,Nu-Disco
+50,R&B / Soul,5050,Disco,505030,Disco House
+60,Jazz,6010,Traditional Jazz,601010,Dixieland
+60,Jazz,6010,Traditional Jazz,601020,New Orleans Jazz
+60,Jazz,6010,Traditional Jazz,601030,Swing
+60,Jazz,6010,Traditional Jazz,601040,Big Band
+60,Jazz,6010,Traditional Jazz,601050,Ragtime
+60,Jazz,6020,Bebop,602010,Bebop
+60,Jazz,6020,Bebop,602020,Hard Bop
+60,Jazz,6020,Bebop,602030,Post-Bop
+60,Jazz,6030,Cool Jazz,603010,Cool Jazz
+60,Jazz,6030,Cool Jazz,603020,West Coast Jazz
+60,Jazz,6030,Cool Jazz,603030,Modal Jazz
+60,Jazz,6040,Free Jazz / Avant-Garde,604010,Free Jazz
+60,Jazz,6040,Free Jazz / Avant-Garde,604020,Avant-Garde Jazz
+60,Jazz,6040,Free Jazz / Avant-Garde,604030,Free Improvisation
+60,Jazz,6050,Jazz Fusion,605010,Jazz Fusion
+60,Jazz,6050,Jazz Fusion,605020,Jazz Rock
+60,Jazz,6050,Jazz Fusion,605030,Jazz Funk
+60,Jazz,6060,Smooth Jazz,606010,Smooth Jazz
+60,Jazz,6060,Smooth Jazz,606020,Quiet Storm Jazz
+60,Jazz,6070,Latin Jazz,607010,Latin Jazz
+60,Jazz,6070,Latin Jazz,607020,Afro-Cuban Jazz
+60,Jazz,6070,Latin Jazz,607030,Bossa Nova
+60,Jazz,6080,Contemporary Jazz,608010,Contemporary Jazz
+60,Jazz,6080,Contemporary Jazz,608020,Nu Jazz
+60,Jazz,6080,Contemporary Jazz,608030,Acid Jazz
+60,Jazz,6080,Contemporary Jazz,608040,Electro Jazz
+70,Blues,7010,Delta Blues,701010,Delta Blues
+70,Blues,7010,Delta Blues,701020,Country Blues
+70,Blues,7010,Delta Blues,701030,Piedmont Blues
+70,Blues,7020,Chicago Blues,702010,Chicago Blues
+70,Blues,7020,Chicago Blues,702020,Electric Blues
+70,Blues,7030,Texas Blues,703010,Texas Blues
+70,Blues,7030,Texas Blues,703020,West Coast Blues
+70,Blues,7040,British Blues,704010,British Blues
+70,Blues,7040,British Blues,704020,Blues Rock
+70,Blues,7050,Jump Blues,705010,Jump Blues
+70,Blues,7050,Jump Blues,705020,Rhythm and Blues
+70,Blues,7060,Soul Blues,706010,Soul Blues
+70,Blues,7060,Soul Blues,706020,Contemporary Blues
+80,Country,8010,Traditional Country,801010,Honky Tonk
+80,Country,8010,Traditional Country,801020,Western Swing
+80,Country,8010,Traditional Country,801030,Bakersfield Sound
+80,Country,8010,Traditional Country,801040,Nashville Sound
+80,Country,8010,Traditional Country,801050,Outlaw Country
+80,Country,8020,Bluegrass,802010,Bluegrass
+80,Country,8020,Bluegrass,802020,Progressive Bluegrass
+80,Country,8020,Bluegrass,802030,Newgrass
+80,Country,8030,Country Pop,803010,Country Pop
+80,Country,8030,Country Pop,803020,Bro-Country
+80,Country,8030,Country Pop,803030,Stadium Country
+80,Country,8040,Country Rock,804010,Country Rock
+80,Country,8040,Country Rock,804020,Southern Rock
+80,Country,8040,Country Rock,804030,Americana
+80,Country,8050,Alt-Country,805010,Alt-Country
+80,Country,8050,Alt-Country,805020,Cowpunk
+80,Country,8050,Alt-Country,805030,Roots Rock
+80,Country,8060,Contemporary Country,806010,Contemporary Country
+80,Country,8060,Contemporary Country,806020,Country Rap
+90,Classical,9010,Medieval,901010,Medieval
+90,Classical,9010,Medieval,901020,Gregorian Chant
+90,Classical,9020,Renaissance,902010,Renaissance
+90,Classical,9030,Baroque,903010,Baroque
+90,Classical,9030,Baroque,903020,Baroque Opera
+90,Classical,9040,Classical Period,904010,Classical Period
+90,Classical,9040,Classical Period,904020,Viennese School
+90,Classical,9050,Romantic,905010,Early Romantic
+90,Classical,9050,Romantic,905020,Late Romantic
+90,Classical,9050,Romantic,905030,Nationalist Romantic
+90,Classical,9060,20th Century,906010,Impressionism
+90,Classical,9060,20th Century,906020,Expressionism
+90,Classical,9060,20th Century,906030,Neoclassicism
+90,Classical,9060,20th Century,906040,Serialism
+90,Classical,9060,20th Century,906050,Minimalism
+90,Classical,9070,Contemporary Classical,907010,Contemporary Classical
+90,Classical,9070,Contemporary Classical,907020,Avant-Garde Classical
+90,Classical,9070,Contemporary Classical,907030,Electronic Classical
+90,Classical,9080,Opera,908010,Opera
+90,Classical,9080,Opera,908020,Operetta
+90,Classical,9080,Opera,908030,Musical Theatre
+95,Folk,9510,Traditional Folk,951010,Traditional Folk
+95,Folk,9510,Traditional Folk,951020,Celtic Folk
+95,Folk,9510,Traditional Folk,951030,Appalachian Folk
+95,Folk,9510,Traditional Folk,951040,Nordic Folk
+95,Folk,9520,Contemporary Folk,952010,Contemporary Folk
+95,Folk,9520,Contemporary Folk,952020,Folk Rock
+95,Folk,9520,Contemporary Folk,952030,Anti-Folk
+95,Folk,9530,Singer-Songwriter,953010,Singer-Songwriter
+95,Folk,9530,Singer-Songwriter,953020,Acoustic
+95,Folk,9540,World Folk,954010,World Folk
+95,Folk,9540,World Folk,954020,Folk Fusion
+100,World Music,10010,African,1001010,Afrobeat
+100,World Music,10010,African,1001020,Highlife
+100,World Music,10010,African,1001030,Afropop
+100,World Music,10010,African,1001040,Mbalax
+100,World Music,10010,African,1001050,Soukous
+100,World Music,10010,African,1001060,Amapiano
+100,World Music,10020,Caribbean,1002010,Reggae
+100,World Music,10020,Caribbean,1002020,Dancehall
+100,World Music,10020,Caribbean,1002030,Ska
+100,World Music,10020,Caribbean,1002040,Dub
+100,World Music,10020,Caribbean,1002050,Calypso
+100,World Music,10020,Caribbean,1002060,Soca
+100,World Music,10020,Caribbean,1002070,Zouk
+100,World Music,10030,Latin American,1003010,Salsa
+100,World Music,10030,Latin American,1003020,Cumbia
+100,World Music,10030,Latin American,1003030,Merengue
+100,World Music,10030,Latin American,1003040,Tango
+100,World Music,10030,Latin American,1003050,Bossa Nova
+100,World Music,10030,Latin American,1003060,Samba
+100,World Music,10030,Latin American,1003070,MPB (Música Popular Brasileira)
+100,World Music,10030,Latin American,1003080,Forró
+100,World Music,10030,Latin American,1003090,Norteño
+100,World Music,10030,Latin American,1003100,Banda
+100,World Music,10040,Middle Eastern,1004010,Arabic Pop
+100,World Music,10040,Middle Eastern,1004020,Rai
+100,World Music,10040,Middle Eastern,1004030,Turkish Pop
+100,World Music,10040,Middle Eastern,1004040,Persian Pop
+100,World Music,10040,Middle Eastern,1004050,Sufi Music
+100,World Music,10050,South Asian,1005010,Bollywood
+100,World Music,10050,South Asian,1005020,Indian Classical
+100,World Music,10050,South Asian,1005030,Bhangra
+100,World Music,10050,South Asian,1005040,Qawwali
+100,World Music,10050,South Asian,1005050,Filmi
+100,World Music,10060,East Asian,1006010,C-Pop
+100,World Music,10060,East Asian,1006020,Mandopop
+100,World Music,10060,East Asian,1006030,Cantopop
+100,World Music,10060,East Asian,1006040,Enka
+100,World Music,10070,European,1007010,Flamenco
+100,World Music,10070,European,1007020,Fado
+100,World Music,10070,European,1007030,Klezmer
+100,World Music,10070,European,1007040,Polka
+100,World Music,10070,European,1007050,Chanson
+110,Reggae / Dub,11010,Roots Reggae,1101010,Roots Reggae
+110,Reggae / Dub,11010,Roots Reggae,1101020,Rocksteady
+110,Reggae / Dub,11010,Roots Reggae,1101030,Early Reggae
+110,Reggae / Dub,11020,Dancehall,1102010,Dancehall
+110,Reggae / Dub,11020,Dancehall,1102020,Ragga
+110,Reggae / Dub,11020,Dancehall,1102030,Digital Dancehall
+110,Reggae / Dub,11030,Dub,1103010,Dub
+110,Reggae / Dub,11030,Dub,1103020,Dub Techno
+110,Reggae / Dub,11030,Dub,1103030,Dubwise
+110,Reggae / Dub,11040,Ska,1104010,Traditional Ska
+110,Reggae / Dub,11040,Ska,1104020,2 Tone
+110,Reggae / Dub,11040,Ska,1104030,Third Wave Ska
+110,Reggae / Dub,11050,Reggae Fusion,1105010,Reggae Fusion
+110,Reggae / Dub,11050,Reggae Fusion,1105020,Reggae Rock
+120,Gospel / Christian,12010,Gospel,1201010,Traditional Gospel
+120,Gospel / Christian,12010,Gospel,1201020,Southern Gospel
+120,Gospel / Christian,12010,Gospel,1201030,Contemporary Gospel
+120,Gospel / Christian,12010,Gospel,1201040,Urban Gospel
+120,Gospel / Christian,12020,Christian Contemporary,1202010,Christian Contemporary Music (CCM)
+120,Gospel / Christian,12020,Christian Contemporary,1202020,Christian Rock
+120,Gospel / Christian,12020,Christian Contemporary,1202030,Christian Hip Hop
+120,Gospel / Christian,12020,Christian Contemporary,1202040,Worship Music
+120,Gospel / Christian,12030,Spiritual,1203010,Spirituals
+120,Gospel / Christian,12030,Spiritual,1203020,Hymns
+130,Soundtrack / Score,13010,Film Score,1301010,Orchestral Film Score
+130,Soundtrack / Score,13010,Film Score,1301020,Electronic Film Score
+130,Soundtrack / Score,13010,Film Score,1301030,Hybrid Film Score
+130,Soundtrack / Score,13020,Video Game Music,1302010,Video Game Soundtrack
+130,Soundtrack / Score,13020,Video Game Music,1302020,Chiptune
+130,Soundtrack / Score,13020,Video Game Music,1302030,8-bit Music
+130,Soundtrack / Score,13030,TV / Anime,1303010,TV Soundtrack
+130,Soundtrack / Score,13030,TV / Anime,1303020,Anime Soundtrack
+130,Soundtrack / Score,13030,TV / Anime,1303030,J-Rock (Anime)
+140,Experimental / Avant-Garde,14010,Noise,1401010,Noise
+140,Experimental / Avant-Garde,14010,Noise,1401020,Harsh Noise
+140,Experimental / Avant-Garde,14010,Noise,1401030,Power Electronics
+140,Experimental / Avant-Garde,14020,Drone,1402010,Drone
+140,Experimental / Avant-Garde,14020,Drone,1402020,Drone Metal
+140,Experimental / Avant-Garde,14030,Sound Art,1403010,Sound Art
+140,Experimental / Avant-Garde,14030,Sound Art,1403020,Field Recording
+140,Experimental / Avant-Garde,14030,Sound Art,1403030,Musique Concrète
+140,Experimental / Avant-Garde,14040,Experimental Rock,1404010,Experimental Rock
+140,Experimental / Avant-Garde,14040,Experimental Rock,1404020,No Wave
+140,Experimental / Avant-Garde,14040,Experimental Rock,1404030,Zeuhl

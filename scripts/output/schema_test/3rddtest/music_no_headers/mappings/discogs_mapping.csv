@@ -1,0 +1,8 @@
+source_dataset,source_column,target_dataset,target_column,score,notes
+discogs,discogs_3,Music Release,id,0.95,llm_based_matching
+discogs,Fermats Theorem / Sight Beyond,Music Release,name,0.95,llm_based_matching
+discogs,John B,Music Release,artist,0.95,llm_based_matching
+discogs,1996-01-01,Music Release,release-date,0.95,llm_based_matching
+discogs,UK,Music Release,release-country,0.95,llm_based_matching
+discogs,New Identity Recordings,Music Release,label,0.95,llm_based_matching
+discogs,Electronic,Music Release,genre,0.95,llm_based_matching

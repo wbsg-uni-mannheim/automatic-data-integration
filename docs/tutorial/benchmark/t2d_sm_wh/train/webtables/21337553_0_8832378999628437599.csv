@@ -1,0 +1,108 @@
+S. No.,Himal,Zone,Altitude in Meter,Name of the Peaks
+1,Khumbu,Sagrmatha,6812,Ama Dablam
+2,Annapurna,Gandaki,8091,Annapurna I
+3,Anapurrna,Gandaki,7937,Annapurna II
+4,Anapurrna,Gandaki,7555,Annapurna III
+5,Anapurrna,Gandaki,7525,Annapurna IV
+6,Anapurrna,Gandaki South,7219,Annapurna
+7,Gurans,Mahakali,7132,Api
+8,Byas-Rikhi,Darchula,7100,Api West
+9,Barun,Koshi,7129,Barun Tse
+10,Mansiri,Gandaki,6672,Baudha
+11,Mahalangur,Sagarmatha Barun,7319,Chamlang
+12,Peri,Gandaki,6820,Cheo Himal
+13,Rolwaling,Janakpur,6685,Chobuje
+14,Khumbu,Sagarmatha,6440*,Cholatse
+15,Khumbu,Sagarmatha,8201,Cho-oyu
+16,Mahalangur,Sagarmatha,6711,Cho polu
+17,Dhaulagiri,Dhaulagiri,7371,Churen
+18,Khumbu,Sagarmatha,5550*,Chhukungri
+19,Kanchenjunga,Mechi,6855,Drahmo
+20,Mukut,Dhaulagiri,6012*,Dhampus
+21,Dhaulagiri,Dhaulagiri,8167,Dhaulagiri I
+22,Dhaulagiri,Dhaulagiri,7751,Dhaulagiri II
+23,Dhaulagiri,Dhaulagiri,7715,Dhaulagiri III
+24,Dhaulagiri,Dhaulagiri,7661,Dhaulagiri IV
+25,Dhaulagiri,Dhaulagiri,7618,Dhaulagiri V
+26,Dhaulagiri,Dhaulagiri,7668,Dhaulagiri VI
+27,Rolwaling,Japakpur,6801,Drangnag Ri
+28,Saipal,Bajhang Humla,6697,Fimkof
+29,Saipal,Bajhang,6645,Fimkof West
+30,Ganesh,Bagmati,7111,Ganesh II
+31,Ganesh,Bagmati (Salasungo),7110,Ganesh III
+32,Ganesh,Bagmati Pabil,7052,Ganesh IV
+33,Ganesh,Bagmati,6986,Ganesh V
+34,Annapurna,Gandaki,7455,Gangapurna
+35,Rolwaling,Janakpur,7134,Gauri Shanker
+36,Kanchenjunga,Mechi,7350,Gimigela Chuli
+37,Nemjung/Peri Himlal,Gandaki,7038,Gyajikang
+38,Khumbu,Sagarmatha,5450*,Gokyori
+39,Mansiri,Gandaki,7893,Himalchuli E
+40,Mansiri,Gandaki,7371,Himalchuli N
+41,Mansiri,Gandaki,7540,Himachuli West
+42,Peri,Gandaki,7126,Himlung Himal
+43,Mukut,Karnali,6556,Hongde
+44,Jagdula,Karnali,5764,Jagdula Peak
+45,Kanchenjunga,Mechi,7710,Kumbhakarna (Jannu)
+46,Kanchenjunga,Mechi,7903,Kangbachen
+47,Kanjiroba,Karnali,5960*,Kagmara
+48,Patrasi,Karnali,6627,Kande Hiuchuli
+49,Kanchenjunga,Mechi,8586,Kanchenjunga (Main)
+50,Kanchenjunga,Mechi,8476,Kanchenjunga
+51,Kanchenjunga,Mechi,8476,Kanchenjunga (South)
+52,Peri,Gandaki,6981,Kang guru
+53,Khumbu,Sagarmatha,6779,Kangtega (Kantega)
+54,Kanjiroba,Karnali,6612,Kanjeralwa
+55,Kanjiroba,Karnali,6883,Kanijiroba (Main Peak)
+56,Rolwaling,Janakpur,6782,Khatang
+57,Kanjiroba,Karnali,6294*,Kangtokla
+58,Annapurna,Gandaki,6983,Lamjung Himal
+59,Jugal,Bagmati,6427*,Langsisa Ri
+60,Langtang,Bagmati,7234,Langtang Lirung
+61,Khumbu,Sagarmatha,8516,Lhotse
+62,Khumbu,Sagarmatha,8400,Lhotse Shar
+63,Khumbu,Sagarmatha,6145*,Lobuje West
+64,Kanchenjunga,Mechi,6954,Lemgpa Peak
+65,Mahalangur,Koshi,8463,Makalu I
+66,Mahalangur,Koshi,7678,Makalu II (Kangchugtse)
+67,Dhaulagiri,Dhaulagiri,6380*,Manapathi
+68,Mansiri,Gandaki,8163,Manaslu
+69,Mansiri,Gandaki,7157,Manaslu North
+70,Gurans,Mahakali,6755,Nampa
+71,Khumbu,Sagarmatha,7743,Ngojumbakang
+72,Nilgiri,Dhaulagiri,6940,Nilgiri Central
+73,Nilgiri,Dhaulagiri,7061,Nilgiri North
+74,Nilgiri,Dhaulagiri,6839,Nilgiri South
+75,Rolwaling,Sagarmatha,6957,Numbur
+76,Khumbu,Sagarmatha,7855,Nuptse
+77,Mansiri,Gandaki,7871,Ngadi Chuli (Peak 29 Dakura)
+78,Byas-Rikhi,Darchula Bajhang,6580,Nampa South
+79,Patrasi,Karnali,6450*,Patrasi
+80,Khumbu,Sagarmatha,7161,Pumori
+81,Dhaulagiri,Dhaulagiri,7246,Putha Hiunchuli
+82,Kanchenjunga,Mechi,7125,Pathivara Chuli
+83,Mahalangur Khumbu,Sagarmatha,7351,Pasang Lhamu Chuli (Jasamba)
+84,Urai Lekh,Bajhang,6593,Raksha Urai
+85,Lamjung,Gandaki,4499*,Ramdrong
+86,Kanchenjunga,Mechi,4499*,Ramchaur
+87,Kanchenjunga,Mechi,6601,Ramtang
+88,Gurans/Saipal,Mahakali,7031,Saipal
+89,Mahalangur Khumbu,Sagarmatha,7591,Shantishikhar
+90,Khumbu,Sagarmatha,7459,Shartse
+91,Sisne,Karnali,5849*,Sisne
+92,Dhaulagiri,Dhaulagiri,6611,Sita Chuchura
+93,Saipal,Bajhang,6882,"Saipal, East"
+94,Surma Sarovar Lekh,Bajhang,6523,Surma-Sarivar North
+95,Khumbu,Sagarmatha,8848,Sagarmatha
+96,Kanjiroba,Karnali,6139*,Shey Shikar
+97,Khumbu,Sagarmatha,6501,Tawoche
+98,Khumbu,Sagarmatha,6230*,Thamserku
+99,Annapurna,Gandaki,7134,Tilicho Peak
+100,Dhaulagiri,Dhaulagiri,6920,Tukuche Peak
+101,Kanjiroba,Karnali,6563,Tripura Hiunchuli (Hanging Glacier Peak)
+102,Kanjiroba,Dolpa,6518,Tso Jarpo
+103,Annapurna,Gandaki,7193,Tarke Kang
+104,Kanchenjunga,Mechi,6215*,Tengkoma
+105,Annapurna,Dhaulagiri,7647,Varaha Shikar(Fang)
+106,Kanchenjunga,Mechi,8505,Yalung Kang
+107,Langtang,Bagmati,5732*,Yala

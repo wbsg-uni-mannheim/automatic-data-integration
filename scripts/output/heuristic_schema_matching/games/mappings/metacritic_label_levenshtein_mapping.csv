@@ -1,0 +1,7 @@
+source_dataset,source_column,target_dataset,target_column,score,notes
+metacritic,id,Videogames,id,1.0,similarity_function=levenshtein
+metacritic,game_title,Videogames,name,0.30000000000000004,similarity_function=levenshtein
+metacritic,year_published,Videogames,publisher,0.5714285714285714,similarity_function=levenshtein
+metacritic,player_rating,Videogames,platform,0.3076923076923077,similarity_function=levenshtein
+metacritic,age_rating,Videogames,genres,0.30000000000000004,similarity_function=levenshtein
+metacritic,age_rating,Videogames,series,0.30000000000000004,similarity_function=levenshtein

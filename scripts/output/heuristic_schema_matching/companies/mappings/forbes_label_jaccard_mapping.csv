@@ -1,0 +1,2 @@
+source_dataset,source_column,target_dataset,target_column,score,notes
+forbes,id,Companies,id,1.0,similarity_function=jaccard

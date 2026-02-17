@@ -1,0 +1,26 @@
+rdf-schema#label,outflow,inflow,elevation,areaTotal
+Balsam Lake (Ontario),Rosedale River,"Corben Creek (Ontario), Staples River, Gull River (Balsam Lake)",256.3,48000000.0
+Baskatong Reservoir,Gatineau River,Gatineau River,207.0,413000000.0
+Big Rideau Lake,Rideau River,"Black Creek (Big Rideau Lake), Rideau River",123.1,
+Caniapiscau Reservoir,"Caniapiscau River, Laforge River",Caniapiscau River,535.0,4318000000.0
+Dionne Lake,,,27.0,
+Harrison Lake,Harrison River,"Lillooet River, Silver River (British Columbia)",10.0,218000000.0
+Kasba Lake,Kazan River,,336.0,1341000000.0
+Lac la Biche (Alberta),http://dbpedia.org/resource/La_Biche_River,"Owl River, Alberta",544.0,234000000.0
+Lac la Nonne,"Pembina River (Alberta), http://dbpedia.org/resource/MacDonald_Creek",http://dbpedia.org/resource/Majeu_Creek,664.0,12280000.0
+Lake Athabasca,Rivière des Rochers,"Peace River, Rivière des Rochers, Fond du Lac River (Mackenzie River), Athabasca River",213.0,7850000000.0
+Lake Athapapuskow,Goose River (Manitoba-Saskatchewan),"Mistik Creek, Pineroot River, http://dbpedia.org/resource/Schist_Creek",291.0,269000000.0
+Lake Erie,"Welland Canal, Niagara River",Detroit River,173.431,25666800000.0
+Lake Huron,St. Clair River,"Straits of Mackinac, St. Marys River (Michigan–Ontario)",175.87,59587900000.0
+Lake Ontario,St. Lawrence River,Niagara River,74.0664,19010500000.0
+Lake Winnipeg,Nelson River,"Saskatchewan River, Winnipeg River, Red River of the North",217.0,24514000000.0
+Little Shuswap Lake,South Thompson River,Little River (Shuswap),347.0,18100000.0
+Maguse Lake,Maguse River,,,1399000000.0
+Quesnel Lake,Quesnel River,"Horsefly River, Mitchell River (Quesnel River), http://dbpedia.org/resource/Niagara_Creek",728.0,266000000.0
+Rainy Lake,Rainy River (Minnesota-Ontario),"Kabetogama Lake, Seine River (Ontario)",338.0,932000000.0
+Reindeer Lake,Reindeer River (Saskatchewan),Cochrane River (Canada),337.0,6650000000.0
+Shuswap Lake,Little River (Shuswap),"Scotch Creek, British Columbia, Anstey River, Adams River (British Columbia), Shuswap River, Salmon River (Shuswap), Seymour River (Shuswap), Eagle River (Shuswap), http://dbpedia.org/resource/Sicamous_Narrows",347.0,310000000.0
+Skaha Lake,Okanagan River,Okanagan River,339.0,19600000.0
+Slocan Lake,Slocan River,Carpenter Creek,542.0,69290000.0
+Tatla Lake,http://dbpedia.org/resource/Tatla_Lake_Creek,http://dbpedia.org/resource/Tatla_Lake_Creek,910.0,18160000.0
+Wollaston Lake,Fond du Lac River (Mackenzie River),Geikie River (Saskatchewan),398.0,2681000000.0

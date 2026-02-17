@@ -1,0 +1,2 @@
+source_dataset,source_column,target_dataset,target_column,score,notes
+sales,prod_title,Videogames,name,0.43655428047980505,"vector_method=tfidf,similarity=cosine"

@@ -1,0 +1,23 @@
+{
+  "id_column": "id",
+  "include_singletons": true,
+  "rules": {
+    "assets": "weighted_voting",
+    "city": "most_complete",
+    "country": "favour_sources",
+    "founded": "prefer_higher_trust",
+    "founders": "union",
+    "industry": "favour_sources",
+    "keypeople_name": "longest_string",
+    "name": "weighted_voting",
+    "revenue": "favour_sources",
+    "website": "most_complete"
+  },
+  "strategy_name": "llm_val_stats_strategy",
+  "trust_key": "trust_score",
+  "trust_scores": {
+    "dbpedia": 1.0,
+    "forbes": 3.0,
+    "fullcontact": 1.0192534032990288
+  }
+}

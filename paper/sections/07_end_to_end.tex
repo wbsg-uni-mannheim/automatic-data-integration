@@ -1,0 +1,30 @@
+\section{End-to-End Evaluation}
+\label{sec:end_to_end}
+
+The per-step evaluations in the preceding sections rely on manually curated test sets for schema matching, entity matching, and data fusion. While informative, the test sets only cover small subsets of the output data. We therefore complement the step-wise evaluation by reporting end-to-end metrics that compare the size and density of the output datasets to the source datasets.
+
+\textbf{End-to-end Metrics.}\label{sec:e2e_metrics} 
+We calculate the following structural end-to-end metrics: Row gain quantifies the size increase of the output dataset by comparing the number of rows of the output dataset to the largest input dataset.
+The fusion ratio measures the percentage of output records that result from fusing multiple source records (non-singletons clusters), indicating how much cross-source integration actually took place.  Density change measures how data completeness shifts during integration, reflecting whether fusion fills missing values from complementary sources or introduces sparsity through schema expansion. 
+
+\textbf{LLM Pipeline.} \label{sec:e2e_results} Table~\ref{tab:e2e_metrics} presents the structural metrics for the LLM pipeline. Across all three use cases, the pipeline achieves substantial row gains (27--41\%) over the largest input dataset, demonstrating effective cross-source coverage expansion. Fusion ratios remain modest (8--14\%), indicating that most output records originate from a single source while a meaningful fraction results from cross-source fusion. 
+
+\input{tables/end_to_end_metrics}
+
+\textbf{LLM versus Human Pipeline.} 
+Table~\ref{tab:e2e_comparison} contrasts these results against human-configured pipelines. Both approaches produce comparable output sizes for Games (65,794 vs 65,518) and Music (30,779 vs 30,885), with fusion ratios in a similar range (11--15\%). The largest difference appears in Companies: the human pipeline fuses more aggressively (15.1\% vs 8.1\% fusion ratio) but reduces density ($-$5.2pp), while the LLM pipeline improves it (+5.6pp). Conversely, for Music the human pipeline achieves a higher density gain (+5.8pp vs $-$1.8pp).
+
+\input{tables/end_to_end_comparison}
+
+\textbf{Runtime Analysis.}\label{sec:runtime_analysis} We distinguish pipeline configuration, the time spent on producing all artifacts needed to configure a pipeline (schema mappings, labeled training pairs, fusion validation sets), from pipeline execution time, the time spent on the actual data processing once those artifacts exist. All experiments were run on a MacBook Pro (Apple M4, 24\,GB RAM) which calls the OpenAI API for artifact generation. Table~\ref{tab:runtime} summarizes both times per use case. Execution times are comparable, averaging 88\,s for the LLM pipeline and 77\,s for the human-configured one, as data processing is performed by PyDI in both cases. 
+
+The time required for generating the configuration artifacts differs substantially. The LLM pipeline generates all artifacts fully automatically in approximately 1.9\,h per use case, dominated by active learning iterations that repeatedly query the LLM, embed records, and retrain classifiers. For the human pipeline, we estimate a labeling effort of 30\,sec. per entity matching training pair and one minute per fusion validation entity, and add 2--4\,h per use case for non-labeling configuration work: writing schema mappings, implementing normalization rules, and iterative pipeline debugging. These are lower-bound estimates; across the three use cases, the human baseline labels 5,720 training pairs and 60 fusion validation entities, totaling at least 58~person-hours ($\geq$\,19\,h per use case). The time for labeling the test sets is excluded because both pipelines share the same held-out evaluation data. 
+
+\input{tables/runtime_analysis}
+
+
+\textbf{Cost Analysis.}\label{sec:cost_analysis} Table~\ref{tab:pipeline_costs} details the LLM usage costs for a single pipeline run. The costs are based on GPT-5.2 pricing as of February 2026\footnote{\url{https://openai.com/api/pricing/}}. The total across all three use cases is approximately \$27, dominated by the creation of the RAG-based fusion validation sets (\$21) using the OpenAI web search API. The human baselines required an estimated 58~person-hours for schema mapping, training data labeling, and fusion configuration (Section~\ref{sec:runtime_analysis}), resulting in much higher costs.
+
+\input{tables/pipeline_costs}
+
+\textbf{Discussion.}\label{sec:e2e_discussion} The structural convergence between LLM and human pipelines in output size and fusion ratios confirms that LLMs can replace the human inputs to a traditional integration pipeline (schema mappings, training labels, validation sets) without fundamentally changing integration outcomes. Density results are mixed: neither approach consistently dominates, as the relative advantage depends on how well the automatically selected fusion strategy matches the attribute structure of each use case. Execution times are comparable between pipelines, since both use the same underlying operators and differ only in their configuration artifacts. The key difference is configuration effort: the LLM pipeline requires approximately 1.9\,h per use case at a cost of roughly \$9, compared to at least 19 person-hours for the human baseline. This 10$\times$ reduction in configuration effort, with comparable integration quality, suggests that LLM-configured pipelines are a practical alternative to manual configuration for standard data integration scenarios.

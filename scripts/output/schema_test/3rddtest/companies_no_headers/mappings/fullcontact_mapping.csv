@@ -1,0 +1,6 @@
+source_dataset,source_column,target_dataset,target_column,score,notes
+fullcontact,fullcontact_1,Companies,id,0.95,llm_based_matching
+fullcontact,BBMG,Companies,name,0.95,llm_based_matching
+fullcontact,United States,Companies,country,0.95,llm_based_matching
+fullcontact,Brooklyn,Companies,city,0.95,llm_based_matching
+fullcontact,Unnamed: 5,Companies,founded,0.95,llm_based_matching

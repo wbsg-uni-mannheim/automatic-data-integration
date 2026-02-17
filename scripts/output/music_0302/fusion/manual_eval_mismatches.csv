@@ -1,0 +1,64 @@
+id,attribute,type,expected,fused
+mbrainz_6891,tracks_track-name,list,"['Chance', 'Sabotage', 'Sabotage', 'Warrior Poets', 'Relief', 'The Gaspers', 'Falling', 'Fallen', 'Field Of Dreams', 'Substance', 'The Birds And The Bees', 'Birds and the Bees', 'The Get Down', 'Crooked Angles']","['Chance', 'Sabatoge', 'Warrior Poets', 'Relief', 'The Gaspers', 'Falling', 'Field of Dreams', 'Birds and the Bees', 'The Get Down', 'Crooked Angles']"
+mbrainz_6891,duration,date,2798,
+mbrainz_6891,artist,string,Pep Love,P. Love
+mbrainz_5095,tracks_track-name,list,"['...and Before We Knew It Had Happened At All, It Was Over', 'What The Exultant Heart Calls Good', 'Into Sleep To Create A Flame', 'A Whisper of the Eye', 'A Fleeting Glimpse', 'Love Or No Love']","['...and Before We Knew It Had Happened At All, It Was Over', 'What The Exultant Heart Calls Good', 'Into Sleep To Create A Flame', 'A Whisper of the Eye', 'A Fleeting Glimpse', 'Love Or No Love']"
+mbrainz_5095,duration,date,4313,
+mbrainz_1834,tracks_track-name,list,"['Fields of Yesterday', 'Soul Collector', 'Red Light', 'Back to Hell', 'Beyond the Gates', 'The Key', 'Garden of Evil', 'Merciless', 'Silent Cries', 'Dreams', 'Signs', 'Forever Ends']","['Fields Of Yesterday', 'Soul Collector', 'Red Light', 'Back To Hell', 'Beyond The Gates', 'The Key', 'Garden Of Evil', 'Merciless', 'Silent Cries', 'Dreams', 'Signs', 'Forever Ends']"
+mbrainz_1834,duration,date,3080,
+mbrainz_1834,release-country,string,Finland,UK
+mbrainz_2222,tracks_track-name,list,"['Guns at Dawn', 'Ratpack']","['Guns at Dawn', 'Ratpack']"
+mbrainz_2222,duration,numeric,614,
+mbrainz_2222,artist,list,Baron|Pendulum (3),Baron
+mbrainz_2222,name,string,Guns At Dawn,Guns at Dawn / Ratpack
+mbrainz_25432,label,string,,Freedom Rain
+mbrainz_25432,tracks_track-name,list,"[""Let's Come Alive"", 'Face the World', 'Every Road I Travel', 'Frankie', 'Another Day', 'Jezebel', 'Que Pasa Loco Baby?', 'Shine Your Light', 'Where Do We Go From Here', 'Mother of Violence', 'The Bridges You Burn', ""Don't Close Your Eyes"", 'Up in Dreamland']","[""Let's Come Alive"", 'Face The World', 'Every Road I Travel', 'Frankie', 'Another Day', 'Jezebel', 'Que Pasa Loco Baby?', 'Shine Your Light', 'Where Do We Go From Here', 'Mother Of Violence', 'The Bridges You Burn', ""Don't Close Your Eyes"", 'Up In Dreamland']"
+mbrainz_25432,duration,date,3636,
+mbrainz_2807,tracks_track-name,list,"['Essence Of Dreams', 'Dancing In The Mist', 'Evocation', 'One Autumn Day', 'Secret Sanctuary', 'Heart Of Andalucia', 'Midsummer Twilight', 'Incense', 'Rivulet', 'In The Light Of Day']","['Essence Of Dreams', 'Dancing In The Mist', 'Evocation', 'One Autumn Day', 'Secret Sanctuary', 'Heart Of Andalucia', 'Midsummer Twilight', 'Incense', 'Rivulet', 'In The Light Of Day']"
+mbrainz_2807,duration,date,2494,
+mbrainz_2807,release-country,string,Australia,United States of America
+mbrainz_9448,label,string,Metal For Muthas,Cobra (2)
+mbrainz_9448,tracks_track-name,list,"['The Sign Of The Jackal', 'Fear Of The Dark', 'The Ritual', 'Grim Reaper', ""Hell's Reign"", 'Escape Or Die', ""Siren's Call"", ""Damien's Procession (March of the Undead)"", ""Damien's Procession"", 'Vlad ( Bonus )', 'Vlad', 'Phantoms Of Fire ( Bonus )', 'Phantoms of Fire', 'Caretaker', 'Caretaker ( Bonus )', 'Ra (The Curse of Tutankhamen)', 'Ra The Curse Of Tutankhamen ( Bonus )']","['The Sign Of The Jackal', 'Fear Of The Dark', 'The Ritual', 'Grim Reaper', ""Hell's Reign"", 'Escape Or Die', ""Siren's Call"", ""Damien's Procession (March Of The Undead)""]"
+mbrainz_9448,duration,date,3076,
+mbrainz_9448,release-date,date,2003-06-20 00:00:00,1986-01-01
+mbrainz_9448,release-country,string,Germany,Canada
+mbrainz_10613,label,string,Piemont Records,Yoruba Records
+mbrainz_10613,tracks_track-name,list,"['Butterfly (Original Mix)', 'Butterfly (Ryan Davis Remix)']","['Butterfly"" (Git\'s Yoruba Soul Mix)', 'Ur']"
+mbrainz_10613,duration,numeric,868,
+mbrainz_10613,artist,string,Deepfunk,Osunlade
+mbrainz_15458,tracks_track-name,list,"['Partys Over Los Angeles', 'Partys Over Los Angeles (Duke Dumont Remix)', 'Partys Over Los Angeles (Jon Convex Remix)', 'Partys Over Los Angeles (TWR72 Remix)']","['Partys Over Los Angeles', 'Partys Over Los Angeles (Duke Dumont remix)', 'Partys Over Los Angeles (Jon Convex remix)', 'Partys Over Los Angeles (TWR72 remix)']"
+mbrainz_15458,duration,date,1303,
+mbrainz_3787,tracks_track-name,list,"['Butterfly', 'First Wall']","['Butterfly', 'First Wall']"
+mbrainz_3787,duration,numeric,722,
+mbrainz_3787,name,string,Butterfly,Butterfly EP
+mbrainz_20856,tracks_track-name,list,"['Reaching a New Plane of Conscience', 'Misanthropic Supremacy', 'The Misanthropic Fascination of the Black Moon', 'Tristesse', 'Under the Snow I Lay', 'Dawn of Pale Tears']","['Reaching a New Plane of Conscience', 'Misanthropic Supremacy', 'The Misanthropic Fascination of the Black Moon', 'Tristesse', 'Under the Snow I Lay', 'Dawn of Pale Tears']"
+mbrainz_20856,duration,date,1513,
+mbrainz_12766,tracks_track-name,list,"['Go Slow', 'Roforofo Fight', 'Suffering & Smiling']","['Go Slow', 'Roforofo Fight', 'Suffering & Smiling']"
+mbrainz_12766,duration,date,2733,
+mbrainz_3388,tracks_track-name,list,"['Steady, As She Goes', 'Hands', 'Broken Boy Soldier', 'Intimate Secretary', 'Together', 'Level', 'Store Bought Bones', 'Yellow Sun', 'Call It a Day', 'Blue Veins']","['Steady As She Goes', 'Hands', 'Broken Boy Soldier', 'Intimate Secretary', 'Together', 'Level', 'Store Bought Bones', 'Yellow Sun', 'Call It A Day', 'Blue Veins']"
+mbrainz_3388,duration,date,2020,
+mbrainz_13699,tracks_track-name,list,"['Closed Casket Requiem', 'The Blackest Incarnation', 'Burning the Hive', 'Paint It Black']","['Closed Casket Requiem', 'The Blackest Incarnation', 'Burning the Hive', 'Paint It Black']"
+mbrainz_13699,duration,numeric,958,
+mbrainz_13699,artist,string,"Black Dahlia Murder, The",T. Black Dahlia Murder
+mbrainz_5463,tracks_track-name,list,"['Hands Off The Wheel', ""Don't Break My Fall"", 'Fountain & Vine', '30 60 90', 'Rainy Day', 'Off & On', 'Better Luck Next Time', 'Joyride', 'King Of Good Intentions', 'Leave It All Behind', 'Runaway Train']","['Hands Off the Wheel', ""Don't Break My Fall"", 'Fountain & Vine', '30 60 90', 'Rainy Day', 'Off & On', 'Better Luck Next Time', 'Joyride', 'King of Good Intentions', 'Leave it all Behind', 'Runaway Train']"
+mbrainz_5463,duration,date,2517,
+mbrainz_15029,tracks_track-name,list,"['Shadow', '0', 'Love Story', 'Freak Show', 'Mass Media Believer', ""Ain't Got A Clue"", 'Ooh Ooh I Love You', ""I Don't Need To Tell Her"", 'Pills', 'Just Thirteen', 'Countdown', 'Out In The Dark', 'Cyanide', 'Suzie Is A Floozie', 'Cyanide (Pub Version)', 'New Guitar In Town', 'Little Ole Wine Drinker Me', 'This Dirty Town', 'Wolf At The Door', 'Drag You Out', ""Heroin (It's All Over)"", 'Frankenstein Again', ""One Man's Meat"", ""Let's Dance Now (No Time To Be Strangers)"", 'Midnight Hour', 'Shut Out The Light', 'By The Heart', 'Go Ahead Punk Make My Day', 'Lucky John']","['Shadow', 'Love Story', 'Freak Show', 'Mass Media Believer', ""Ain't Got A Clue"", 'Ooh Ooh I Love You', ""I Don't Need To Tell Her"", 'Pills', 'Just Thirteen', 'Countdown', 'Out In The Dark', 'Cyanide', 'Suzie Is A Floozie', 'Cyanide (Pub Version)', 'New Guitar In Town', 'Little Ole Wine Drinker Me', 'This Dirty Town', 'Wolf At The Door', 'Drag You Out', ""Heroin (It's All Over)"", 'Frankenstein Again', ""One Man's Meat"", ""Let's Dance Now (No Time To Be Strangers)"", 'Midnight Hour', 'Shut Out The Light', 'By The Heart', 'Go Ahead Punk Make My Day', 'Lucky John']"
+mbrainz_15029,duration,date,4680,
+mbrainz_15029,release-country,string,United Kingdom of Great Britain and Northern Ireland,UK
+mbrainz_29595,tracks_track-name,list,"['He Had a Long Chain On', ""Never Comin' Back"", 'Portland Town', ""A Hard Rain's A-Gonna Fall"", 'Pretty Boy Floyd', 'Wartime Blues', 'Lullaby', ""Goin' Away, Don't You Wanta Go?"", 'East Virginia Blues', 'The Harvest Song', 'Troubled', 'They Still Go Down']","['He Had a Long Chain On', ""Never Comin' Back"", 'Portland Town', ""A Hard Rain's A-Gonna Fall"", 'Pretty Boy Floyd', 'Wartime Blues', 'Lullaby', ""Goin' Away, Don't You Wanta Go?"", 'East Virginia Blues', 'The Harvest Song', 'Troubled', 'They Still Go Down']"
+mbrainz_29595,duration,numeric,360,
+mbrainz_29595,artist,string,"Weissman, Dick",D. Weissman
+mbrainz_8963,tracks_track-name,list,"['Another Code Against the Gone', 'Install a Beak in the Heart That Clucks Time in Arabic', 'Retreat! Retreat!', 'Default This', 'I Swallowed Hard, Like I Understood', 'The Fall of Math', 'This Cat Is a Landmine', 'The Last Home Recording', 'Hole', 'Fix the Sky a Little', 'Arenâ€™t We All Running?']","['Another Code Against the Gone', 'Install a Beak in the Heart That Clucks Time in Arabic', 'Retreat! Retreat!', 'Default This', 'I Swallowed Hard, Like I Understood', 'The Fall of Math', 'This Cat Is a Landmine', 'The Last Home Recording', 'Hole', 'Fix the Sky a Little', 'Arenâ€™t We All Running?']"
+mbrainz_8963,duration,date,2751,
+mbrainz_159,tracks_track-name,string,The Traveller 1,"['The Traveller 1', 'The Traveller 2', 'The Traveller 3', 'The Traveller 4']"
+mbrainz_159,duration,date,1088,
+mbrainz_9858,tracks_track-name,list,"['Ich bin schlecht', 'Ich such Dich', 'SchÃ¶ne Leute', 'Der Kanal', 'Unter der Haut', 'Gerade Noch Gefehlt', 'Du hast mir gerade noch gefehlt', 'Ganz normale Leute', 'Wann und Wie', 'Wann & Wie', 'Nachbarn', 'Immer nur leben']","['Ich bin schlecht', 'Ich such Dich', 'SchÃ¶ne Leute', 'Der Kanal', 'Unter der Haut', 'Du hast mir gerade noch gefehlt', 'Ganz normale Leute', 'Wann und Wie', 'Nachbarn', 'Immer nur leben']"
+mbrainz_9858,duration,date,2403,
+mbrainz_6947,tracks_track-name,list,"[""Train Kept A Rollin'"", 'Kings And Queens', 'Sweet Emotion', 'Dream On', 'Mama Kin', 'Three Mile Smile / Reefer Head Woman', 'Lord Of The Thighs', 'Major Barbara']","[""Train Kept A Rollin'"", 'Kings And Queens', 'Sweet Emotion', 'Dream On', 'Mama Kin', 'Three Mile Smile / Reefer Head Woman', 'Lord Of The Thighs', 'Major Barbara']"
+mbrainz_6947,duration,date,2292,
+mbrainz_6947,release-date,date,1987-10-01 00:00:00,1986-01-01
+mbrainz_15127,tracks_track-name,list,"['The Final Chord', 'A Day in the Life', 'Man on the Moon', 'Light My Fire', 'Jabberwocky', 'Coffee', 'One Note Samba', 'Ipanema Rap', 'Weather', 'Hockey', 'Behind the Scenes', 'Larry Siegel', 'Music and Love', 'Autobahn']","['The Final Chord', 'A Day In The Life', 'Man On The Moon', 'Light My Fire', 'Jabberwocky', 'Coffee', 'One Note Samba', 'Ipanema Rap', 'Weather', 'Hockey', 'Behind The Scenes', 'Larry Siegel', 'Music And Love', 'Autobahn']"
+mbrainz_15127,duration,date,2295,
+mbrainz_15127,release-country,string,United States of America,Canada
+mbrainz_18462,tracks_track-name,list,"['Scary Looking Thing', 'Du Musst Tanzen! (Oh SÃ¼ÃŸes Lied)', 'WTF? (What the Funk)', 'Aftermath', 'Tinnitus 2k13', 'Warning', 'Klick Klick', 'Whatever It Is...', 'Joking', 'The Machine', 'Humourless Men', ""Stomp'n'Roll"", 'Endgegner']","['Scary Looking Thing', 'Du Musst Tanzen! (Oh Süßes Lied)', 'WTF? (What The Funk)', 'Aftermath', 'Tinnitus 2k13', 'Warning', 'Klick Klick', 'Whatever It Is...', 'Joking', 'The Machine', 'Humourless Men', ""Stomp'n'Roll"", 'Endgegner']"
+mbrainz_18462,duration,date,3100,

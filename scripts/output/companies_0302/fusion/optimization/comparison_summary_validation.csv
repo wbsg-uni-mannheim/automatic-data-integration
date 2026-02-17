@@ -1,0 +1,5 @@
+case,optimization_mode,eval_mode,accuracy,correct,total,acc_revenue,acc_assets,acc_website,acc_name,acc_keypeople_name,acc_city,acc_industry,acc_country
+heuristic,none,llm,0.375,24,64,0.5,0.3,0.0,0.35714285714285715,0.0,0.0,0.14285714285714285,0.9090909090909091
+heuristic,none,llm_omit,0.234375,15,64,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.7272727272727273
+heuristic,none,web,0.171875,11,64,0.1,0.1,0.0,0.07142857142857142,0.0,0.0,0.0,0.7272727272727273
+heuristic,none,web_omit,0.15625,10,64,0.0,0.0,0.0,0.07142857142857142,0.0,0.0,0.0,0.8181818181818182

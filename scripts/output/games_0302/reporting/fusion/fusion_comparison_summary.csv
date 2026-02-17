@@ -1,0 +1,3 @@
+variant,case,validation_accuracy,test_accuracy,test_correct,test_total,acc_ESRB,acc_criticScore,acc_developer,acc_name,acc_platform,acc_publisher,acc_releaseYear,acc_userScore
+auto,llm_no_val,0.9333333333333333,0.8739495798319328,104,119,0.9333333333333333,1.0,0.6666666666666666,1.0,1.0,0.6,1.0,0.7857142857142857
+provided,llm_no_val,0.9166666666666666,0.8739495798319328,104,119,0.9333333333333333,1.0,0.6666666666666666,1.0,1.0,0.6,1.0,0.7857142857142857

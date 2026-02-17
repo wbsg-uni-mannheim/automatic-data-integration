@@ -1,0 +1,215 @@
+No.,Grid Ref,Area,Feet,Met,Trips,?,Name
+1,NY215072,S Fells,3209,978,123456,8,Scafell Pike
+2,NY206064,S Fells,3163,964,1234,6,Sca Fell
+3,NY342151,E Fells,3117,950,1,4,Helvellyn
+4,NY260290,N Fells,3054,931,1,3,Skiddaw
+5,NY226083,S Fells,2986,910,1234567,9,Great End
+6,NY244064,S Fells,2959,902,1234,6,Bow Fell
+7,NY211103,W Fells,2949,899,123,5,Great Gable
+8,NY171121,W Fells,2927,892,1234,9,Pillar
+9,NY343142,E Fells,2923,891,1,4,Nethermost Pike
+10,NY348158,E Fells,2920,890,-,2,Catstye Cam
+11,NY236075,S Fells,2904,885,12345,8,Esk Pike
+12,NY342174,E Fells,2897,883,12,5,Raise
+13,NY358117,E Fells,2864,873,1,4,Fairfield
+14,NY323277,N Fells,2848,868,12,4,Blencathra
+15,NY266277,N Fells,2838,865,1,3,Skiddaw Little Man
+16,NY337166,E Fells,2831,863,1,4,White Side
+17,NY248048,S Fells,2818,859,1234,5,Crinkle Crags
+18,NY346130,E Fells,2815,858,1,4,Dollywaggon Pike
+19,NY341205,E Fells,2812,857,12,5,Great Dodd
+20,NY174203,NW Fells,2795,852,12,4,Grasmoor
+21,NY343189,E Fells,2766,843,12,5,Stybarrow Dodd
+22,NY369134,E Fells,2759,841,1,3,St Sunday Crag
+23,NY159113,W Fells,2759,841,123456,9,Scoat Fell
+24,NY192203,NW Fells,2753,839,12,5,Crag Hill (Eel Crag)
+25,NY440110,Far E Fells,2717,828,1234567,11,High Street
+26,NY165106,W Fells,2710,826,12,4,Red Pike (Wasdale)
+27,NY368112,E Fells,2697,822,12,5,Hart Crag
+28,NY157116,W Fells,2687,819,1,3,Steeple
+29,NY209081,S Fells,2648,807,12,3,Lingmell
+30,NY170148,W Fells,2648,807,123,5,High Stile
+31,SD272978,S Fells,2635,803,1234,6,The Old Man of Coniston
+32,NY448134,Far E Fells,2631,802,1234,6,High Raise (Far E Fells)
+33,NY272005,S Fells,2631,802,1234,5,Swirl How
+34,NY194104,W Fells,2631,802,12,4,Kirk Fell
+35,NY214107,W Fells,2628,801,12,4,Green Gable
+36,NY144107,W Fells,2615,797,123456,8,Haycock
+37,SD270985,S Fells,2612,796,1234,5,Brim Fell
+38,NY374104,E Fells,2598,792,12,5,Dove Crag
+39,NY442128,Far E Fells,2598,792,1234,6,Rampsgill Head
+40,NY198225,NW Fells,2595,791,12,4,Grisedale Pike
+41,NY335195,E Fells,2589,789,1,4,Watson's Dodd
+42,NY270008,S Fells,2575,785,123,4,Great Carrs
+43,NY236085,S Fells,2575,785,123456789,12,Allen Crags
+44,NY431100,Far E Fells,2572,784,1234,7,Thornthwaite Crag
+45,NY246104,S Fells,2569,783,123456,9,Glaramara
+46,NY447125,Far E Fells,2559,780,123,4,Kidsty Pike
+47,SD262977,S Fells,2552,778,1,3,Dow Crag
+48,NY459093,Far E Fells,2552,778,1234,7,Harter Fell (Far E Fells)
+49,NY396087,E Fells,2546,776,1,3,Red Screes
+50,NY259003,S Fells,2536,773,12,3,Grey Friar
+51,NY198202,NW Fells,2536,773,12,3,Sail
+52,NY188197,NW Fells,2533,772,1,3,Wandope
+53,NY185221,NW Fells,2526,770,1,5,Hopegill Head
+54,NY355103,E Fells,2513,766,-,2,Great Rigg
+55,NY417100,Far E Fells,2503,763,12,4,Stony Cove Pike (Caudale Moor)
+56,NY288011,S Fells,2503,763,123,4,Wetherlam
+57,NY210050,S Fells,2500,762,1,2,Slight Side
+58,NY280095,C Fells,2500,762,1234567,8,High Raise (C Fells)
+59,NY448101,Far E Fells,2493,760,1233,5,Mardale Ill Bell
+60,NY436077,Far E Fells,2484,757,12,3,Ill Bell
+61,NY359197,E Fells,2480,756,-,3,Hart Side
+62,NY160154,W Fells,2477,755,123,5,Red Pike (Buttermere)
+63,NY223153,NW Fells,2470,753,123456,8,Dale Head
+64,NY255280,N Fells,2448,746,1,2,Carl Side
+65,NY180140,W Fells,2441,744,123,5,High Crag
+66,NY437127,Far E Fells,2425,739,1,2,The Knott
+67,NY201168,NW Fells,2418,737,1234,6,Robinson
+68,NY286089,C Fells,2415,736,123,4,Sergeant Man
+69,NY281074,C Fells,2415,736,123,4,Harrison Stickle
+70,NY343115,E Fells,2415,736,1,2,Seat Sandal
+71,NY248284,N Fells,2408,734,1,2,Long Side
+72,NY465077,Far E Fells,2395,730,123,5,Kentmere Pike
+73,NY215165,NW Fells,2385,727,1234,6,Hindscarth
+74,NY333225,E Fells,2382,726,12,5,Clough Head
+75,NY291121,C Fells,2382,726,1,3,Ullscarf
+76,NY279079,C Fells,2372,723,123456789,10,Thunacar Knott
+77,NY435085,Far E Fells,2362,720,123,5,Froswick
+78,NY363159,E Fells,2356,718,-,1,Birkhouse Moor
+79,NY285271,N Fells,2346,715,1,2,Lonscale Fell
+80,NY214119,W Fells,2346,715,1234,5,Brandreth
+81,NY477100,Far E Fells,2339,713,12,6,Branstree
+82,NY296329,N Fells,2329,710,1,4,Knott
+83,NY273073,C Fells,2326,709,-,1,Pike of Stickle
+84,NY170219,NW Fells,2320,707,-,3,Whiteside
+85,NY437067,Far E Fells,2316,706,123,4,Yoke
+86,NY271042,S Fells,2313,705,123,4,Pike of Blisco
+87,NY333305,N Fells,2303,702,12,3,Bowscale Fell
+88,NY262035,S Fells,2300,701,123,4,Cold Pike
+89,NY284079,C Fells,2297,700,123,5,Pavey Ark
+90,NY427117,Far E Fells,2293,699,-,3,Gray Crag
+91,NY217125,W Fells,2287,697,123,4,Grey Knotts
+92,NY131109,W Fells,2287,697,1234,7,Caw Fell
+93,NY432137,Far E Fells,2283,696,1,2,Rest Dodd
+94,NY139084,W Fells,2270,692,12,4,Seatallan
+95,NY244288,N Fells,2264,690,1,2,Ullock Pike
+96,NY290311,N Fells,2264,690,1,3,Great Calva
+97,NY335290,N Fells,2241,683,12,3,Bannerdale Crags
+98,NY277071,C Fells,2231,680,-,1,Loft Crag
+99,NY369181,E Fells,2215,675,-,2,Sheffield Pike
+100,NY266307,N Fells,2208,673,-,1,Bakestall
+101,NY208206,NW Fells,2205,672,12,3,Scar Crags
+102,NY456181,Far E Fells,2201,671,-,2,Loadpot Hill
+103,NY455167,Far E Fells,2198,670,-,2,Wether Hill
+104,NY488078,Far E Fells,2178,664,12,4,Tarn Crag
+105,NY341336,N Fells,2175,663,1,3,Carrock Fell
+106,NY180189,NW Fells,2165,660,-,3,Whiteless Pike
+107,NY318350,N Fells,2159,658,1,3,High Pike (N Fells)
+108,NY405169,Far E Fells,2156,657,12,5,Place Fell
+109,NY374088,E Fells,2152,656,-,1,High Pike (Scandale)
+110,NY490111,Far E Fells,2149,655,12,6,Selside Pike
+111,SD218997,S Fells,2146,654,12345,6,Harter Fell (S Fells)
+112,NY397096,E Fells,2146,654,-,1,Middle Dodd
+113,NY234162,NW Fells,2142,653,123,6,High Spy
+114,NY291339,N Fells,2136,651,-,1,Great Sca Fell
+115,NY249075,S Fells,2136,651,123,4,Rossett Pike
+116,NY205141,W Fells,2126,648,123,5,Fleetwith Pike
+117,NY225114,W Fells,2119,646,1,2,Base Brown
+118,NY497072,Far E Fells,2093,638,12,4,Grey Crag
+119,NY218208,NW Fells,2090,637,12,3,Causey Pike
+120,NY387100,E Fells,2090,637,1,3,Little Hart Crag
+121,NY141157,W Fells,2077,633,12,4,Starling Dodd
+122,NY311293,N Fells,2077,633,-,1,Mungrisdale Common
+123,NY173084,W Fells,2057,627,1,3,Yewbarrow
+124,NY380143,E Fells,2041,622,1,3,Birks
+125,NY411118,Far E Fells,2028,618,-,2,Hartsop Dodd
+126,NY123163,W Fells,2021,616,12,5,Great Borne
+127,NY356083,E Fells,2008,612,-,2,Heron Pike
+128,NY169049,S Fells,1998,609,12345,6,Illgill Head
+129,NY287180,C Fells,1995,608,-,1,High Seat
+130,NY229102,S Fells,1972,601,-,1,Seathwaite Fell (Wainwright top)
+131,NY194132,W Fells,1959,597,1234,6,Haystacks
+132,NY286195,C Fells,1936,590,-,1,Bleaberry Fell
+133,NY473062,Far E Fells,1926,587,12,3,Shipman Knotts
+134,NY289351,N Fells,1923,586,-,1,Brae Fell
+135,NY151072,W Fells,1909,582,12,3,Middle Fell
+136,NY207198,NW Fells,1906,581,12,3,Ard Crags
+137,NY434152,Far E Fells,1890,576,-,1,The Nab
+138,NY237182,NW Fells,1886,575,1,3,Maiden Moor
+139,NY110196,W Fells,1880,573,1,3,Blake Fell
+140,NY274113,C Fells,1873,571,-,1,Sergeant?s Crag
+141,NY385121,E Fells,1870,570,1,2,Hartsop Above How
+142,NY211215,NW Fells,1864,568,-,1,Outerside
+143,NY414148,Far E Fells,1860,567,-,1,Angletarn Pikes
+144,NY418136,Far E Fells,1841,561,-,1,Brock Crags
+145,NY197187,NW Fells,1824,556,12,3,Knott Rigg
+146,NY320111,C Fells,1814,553,1,4,Steel Fell
+147,NY204265,NW Fells,1811,552,-,2,Lord's Seat
+148,NY258125,S Fells,1808,551,-,1,Rosthwaite Fell - Bessyboot
+149,NY304093,C Fells,1804,550,1,3,Tarn Crag (Easedale)
+150,NY283337,N Fells,1804,550,-,1,Meal Fell
+151,NY231023,S Fells,1801,549,1234,5,Hard Knott
+152,NY301078,C Fells,1775,541,123,5,Blea Rigg
+153,NY092119,W Fells,1775,541,1,3,Lank Rigg
+154,NY301104,C Fells,1762,537,12,5,Calf Crag
+155,NY396253,E Fells,1762,537,-,1,Great Mell Fell
+156,NY152034,S Fells,1755,535,12,3,Whin Rigg
+157,NY461207,Far E Fells,1749,533,-,1,Arthur?s Pike
+158,NY117184,W Fells,1726,526,1,3,Gavel Fell
+159,NY273333,N Fells,1726,526,-,1,Great Cockup
+160,NY276121,C Fells,1722,525,-,1,Eagle Crag
+161,NY453200,Far E Fells,1719,524,-,1,Bonscale Pike
+162,NY355291,N Fells,1713,522,-,1,Souther Fell
+163,NY097143,W Fells,1706,520,12,3,Crag Fell
+164,NY393107,E Fells,1703,519,-,1,High Hartsop Dodd
+165,NY191251,NW Fells,1696,517,-,1,Whinlatter
+166,NY436040,Far E Fells,1693,516,123,4,Sallows
+167,NY288166,C Fells,1690,515,1,3,High Tove
+168,NY148186,W Fells,1680,512,1,5,Mellbreak
+169,NY195271,NW Fells,1677,511,-,2,Broom Fell
+170,NY429171,Far E Fells,1670,509,-,1,Beda Fell
+171,NY132181,W Fells,1670,509,-,1,Hen Comb
+172,NY373078,E Fells,1667,508,-,1,Low Pike
+173,NY423240,E Fells,1657,505,-,1,Little Mell Fell
+174,NY245273,N Fells,1647,502,-,1,Dodd
+175,NY347092,E Fells,1640,500,-,1,Stone Arthur
+176,SD200982,S Fells,1604,489,12,4,Green Crag
+177,NY403051,Far E Fells,1601,488,-,1,Baystones (Wansfell)
+178,NY085141,W Fells,1594,486,-,1,Grike
+179,NY426031,Far E Fells,1585,483,-,1,Sour Howes
+180,NY276354,N Fells,1585,483,-,1,Longlands Fell
+181,NY407218,E Fells,1578,481,-,2,Gowbarrow Fell
+182,NY298157,C Fells,1572,479,-,1,Armboth Fell
+183,NY110209,W Fells,1558,475,1,3,Burnbank Fell
+184,NY302046,S Fells,1539,469,1234,5,Lingmoor Fell
+185,NY214267,NW Fells,1535,468,-,3,Barf
+186,NY303188,C Fells,1512,461,-,1,Raven Crag
+187,NY227218,NW Fells,1493,455,-,1,Barrow
+188,NY176266,NW Fells,1483,452,-,1,Graystones
+189,NY244199,NW Fells,1480,451,123,5,Cat Bells
+190,NY356073,E Fells,1476,450,-,1,Nab Scar
+191,NY270147,C Fells,1476,450,-,1,Great Crag
+192,NY225355,N Fells,1467,447,-,1,Binsey
+193,NY380175,E Fells,1450,442,-,1,Glenridding Dodd
+194,NY393150,E Fells,1421,433,1,2,Arnison Crag
+195,NY440182,Far E Fells,1417,432,-,1,Steel Knotts
+196,NY137226,W Fells,1388,423,-,2,Low Fell
+197,NY317100,C Fells,1378,420,1,3,Gibson Knott
+198,NY132242,W Fells,1365,416,-,1,Fellbarrow
+199,NY264162,C Fells,1362,415,-,1,Grange Fell
+200,NY136061,W Fells,1329,405,-,1,Buckbarrow
+201,NY327093,C Fells,1299,396,1,3,Helm Crag
+202,NY325066,C Fells,1296,395,1,2,Silver How
+203,NY433198,Far E Fells,1273,388,-,1,Hallin Fell
+204,NY277213,C Fells,1234,376,-,2,Walla Crag
+205,NY179286,NW Fells,1224,373,-,1,Ling Fell
+206,NY279247,N Fells,1204,367,-,1,Latrigg
+207,NY422064,Far E Fells,1194,364,-,1,Troutbeck Tongue
+208,NY308219,C Fells,1171,357,-,2,High Rigg
+209,NY195297,NW Fells,1165,355,-,1,Sale Fell
+210,NY167183,NW Fells,1165,355,-,2,Rannerdale Knotts
+211,NY347051,C Fells,1099,335,1,2,Loughrigg Fell
+212,NY340016,S Fells,1060,323,-,1,Black Fell
+213,NY315006,S Fells,1040,317,-,1,Holme Fell
+214,NY249159,NW Fells,978,298,-,1,Castle Crag

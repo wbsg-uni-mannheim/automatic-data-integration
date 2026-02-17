@@ -1,0 +1,61 @@
+{
+  "case_name": "llm_val",
+  "rules": {
+    "artist": {
+      "resolver": "weighted_voting",
+      "kwargs": {
+        "trust_key": "trust_score"
+      }
+    },
+    "duration": {
+      "resolver": "median",
+      "kwargs": {}
+    },
+    "genre": {
+      "resolver": "favour_sources",
+      "kwargs": {
+        "sources": [
+          "discogs"
+        ]
+      }
+    },
+    "label": {
+      "resolver": "favour_sources",
+      "kwargs": {
+        "sources": [
+          "discogs"
+        ]
+      }
+    },
+    "name": {
+      "resolver": "favour_sources",
+      "kwargs": {
+        "sources": [
+          "musicbrainz"
+        ]
+      }
+    },
+    "release-country": {
+      "resolver": "weighted_voting",
+      "kwargs": {
+        "trust_key": "trust_score"
+      }
+    },
+    "release-date": {
+      "resolver": "weighted_voting",
+      "kwargs": {
+        "trust_key": "trust_score"
+      }
+    },
+    "tracks": {
+      "resolver": "union",
+      "kwargs": {
+        "separator": ","
+      }
+    }
+  },
+  "accuracy_by_mode": {},
+  "source_stats": null,
+  "iterations_used": 1,
+  "optimization_mode": "llm"
+}

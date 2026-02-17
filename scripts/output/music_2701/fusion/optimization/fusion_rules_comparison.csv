@@ -1,0 +1,162 @@
+case,optimization_mode,attribute,resolver,kwargs
+heuristic,none,Attribute_6,union,"{""separator"": "",""}"
+heuristic,none,Attribute_7,most_complete,{}
+heuristic,none,artist,most_complete,{}
+heuristic,none,genre,most_complete,{}
+heuristic,none,label,most_complete,{}
+heuristic,none,name,longest_string,{}
+heuristic,none,release-country,most_complete,{}
+heuristic,none,release-date,prefer_higher_trust,"{""trust_key"": ""trust_score""}"
+heuristic,none,tracks_track-name,union,"{""separator"": "",""}"
+llm_no_val,none,artist,union,"{""separator"": "",""}"
+llm_no_val,none,duration,maximum,{}
+llm_no_val,none,genre,union,"{""separator"": "",""}"
+llm_no_val,none,label,union,"{""separator"": "",""}"
+llm_no_val,none,name,longest_string,{}
+llm_no_val,none,release-country,voting,{}
+llm_no_val,none,release-date,earliest,{}
+llm_no_val,none,tracks_track-name,union,"{""separator"": "",""}"
+llm_val,llm,Attribute_6,union,"{""separator"": "",""}"
+llm_val,llm,Attribute_7,maximum,{}
+llm_val,llm,artist,favour_sources,"{""sources"": [""discogs""]}"
+llm_val,llm,genre,favour_sources,"{""sources"": [""discogs""]}"
+llm_val,llm,label,favour_sources,"{""sources"": [""discogs""]}"
+llm_val,llm,name,favour_sources,"{""sources"": [""musicbrainz""]}"
+llm_val,llm,release-country,voting,{}
+llm_val,llm,release-date,prefer_higher_trust,"{""trust_key"": ""trust_score""}"
+llm_val,llm,tracks_track-name,favour_sources,"{""sources"": [""musicbrainz""]}"
+llm_val,llm_omit,Attribute_6,union,"{""separator"": "",""}"
+llm_val,llm_omit,Attribute_7,maximum,{}
+llm_val,llm_omit,artist,favour_sources,"{""sources"": [""discogs""]}"
+llm_val,llm_omit,genre,favour_sources,"{""sources"": [""discogs""]}"
+llm_val,llm_omit,label,favour_sources,"{""sources"": [""discogs""]}"
+llm_val,llm_omit,name,favour_sources,"{""sources"": [""musicbrainz""]}"
+llm_val,llm_omit,release-country,voting,{}
+llm_val,llm_omit,release-date,most_recent,{}
+llm_val,llm_omit,tracks_track-name,favour_sources,"{""sources"": [""musicbrainz""]}"
+llm_val,web,Attribute_6,union,"{""separator"": "",""}"
+llm_val,web,Attribute_7,maximum,{}
+llm_val,web,artist,favour_sources,"{""sources"": [""discogs""]}"
+llm_val,web,genre,favour_sources,"{""sources"": [""discogs""]}"
+llm_val,web,label,favour_sources,"{""sources"": [""discogs""]}"
+llm_val,web,name,favour_sources,"{""sources"": [""musicbrainz""]}"
+llm_val,web,release-country,prefer_higher_trust,"{""trust_key"": ""trust_score""}"
+llm_val,web,release-date,prefer_higher_trust,"{""trust_key"": ""trust_score""}"
+llm_val,web,tracks_track-name,favour_sources,"{""sources"": [""musicbrainz""]}"
+llm_val,web_omit,Attribute_6,union,"{""separator"": "",""}"
+llm_val,web_omit,Attribute_7,maximum,{}
+llm_val,web_omit,artist,favour_sources,"{""sources"": [""discogs"", ""musicbrainz"", ""lastfm""]}"
+llm_val,web_omit,genre,favour_sources,"{""sources"": [""musicbrainz"", ""lastfm"", ""discogs""]}"
+llm_val,web_omit,label,favour_sources,"{""sources"": [""musicbrainz"", ""discogs"", ""lastfm""]}"
+llm_val,web_omit,name,favour_sources,"{""sources"": [""musicbrainz"", ""discogs"", ""lastfm""]}"
+llm_val,web_omit,release-country,favour_sources,"{""sources"": [""musicbrainz"", ""discogs"", ""lastfm""]}"
+llm_val,web_omit,release-date,earliest,{}
+llm_val,web_omit,tracks_track-name,favour_sources,"{""sources"": [""musicbrainz"", ""lastfm"", ""discogs""]}"
+llm_val_stats,llm,Attribute_6,union,"{""separator"": "",""}"
+llm_val_stats,llm,Attribute_7,maximum,{}
+llm_val_stats,llm,artist,favour_sources,"{""sources"": [""discogs""]}"
+llm_val_stats,llm,genre,most_complete,{}
+llm_val_stats,llm,label,favour_sources,"{""sources"": [""discogs""]}"
+llm_val_stats,llm,name,favour_sources,"{""sources"": [""musicbrainz""]}"
+llm_val_stats,llm,release-country,voting,{}
+llm_val_stats,llm,release-date,weighted_voting,"{""trust_key"": ""trust_score""}"
+llm_val_stats,llm,tracks_track-name,favour_sources,"{""sources"": [""discogs""]}"
+llm_val_stats,llm_omit,Attribute_6,union,"{""separator"": "",""}"
+llm_val_stats,llm_omit,Attribute_7,maximum,{}
+llm_val_stats,llm_omit,artist,favour_sources,"{""sources"": [""discogs""]}"
+llm_val_stats,llm_omit,genre,random_value,{}
+llm_val_stats,llm_omit,label,most_complete,{}
+llm_val_stats,llm_omit,name,favour_sources,"{""sources"": [""musicbrainz""]}"
+llm_val_stats,llm_omit,release-country,voting,{}
+llm_val_stats,llm_omit,release-date,minimum,{}
+llm_val_stats,llm_omit,tracks_track-name,favour_sources,"{""sources"": [""musicbrainz""]}"
+llm_val_stats,web,Attribute_6,union,"{""separator"": "",""}"
+llm_val_stats,web,Attribute_7,maximum,{}
+llm_val_stats,web,artist,favour_sources,"{""sources"": [""discogs""]}"
+llm_val_stats,web,genre,most_complete,{}
+llm_val_stats,web,label,most_complete,{}
+llm_val_stats,web,name,favour_sources,"{""sources"": [""musicbrainz""]}"
+llm_val_stats,web,release-country,voting,{}
+llm_val_stats,web,release-date,weighted_voting,"{""trust_key"": ""trust_score""}"
+llm_val_stats,web,tracks_track-name,favour_sources,"{""sources"": [""lastfm""]}"
+llm_val_stats,web_omit,Attribute_6,union,"{""separator"": "",""}"
+llm_val_stats,web_omit,Attribute_7,maximum,{}
+llm_val_stats,web_omit,artist,favour_sources,"{""sources"": [""discogs""]}"
+llm_val_stats,web_omit,genre,most_complete,{}
+llm_val_stats,web_omit,label,most_complete,{}
+llm_val_stats,web_omit,name,favour_sources,"{""sources"": [""musicbrainz""]}"
+llm_val_stats,web_omit,release-country,voting,{}
+llm_val_stats,web_omit,release-date,most_recent,{}
+llm_val_stats,web_omit,tracks_track-name,favour_sources,"{""sources"": [""lastfm""]}"
+heuristic_stats,llm,Attribute_6,union,"{""separator"": "",""}"
+heuristic_stats,llm,Attribute_7,most_complete,{}
+heuristic_stats,llm,artist,favour_sources,"{""sources"": [""discogs""]}"
+heuristic_stats,llm,genre,most_complete,{}
+heuristic_stats,llm,label,most_complete,{}
+heuristic_stats,llm,name,favour_sources,"{""sources"": [""musicbrainz""]}"
+heuristic_stats,llm,release-country,most_complete,{}
+heuristic_stats,llm,release-date,prefer_higher_trust,"{""trust_key"": ""trust_score""}"
+heuristic_stats,llm,tracks_track-name,union,"{""separator"": "",""}"
+heuristic_stats,llm_omit,Attribute_6,union,"{""separator"": "",""}"
+heuristic_stats,llm_omit,Attribute_7,most_complete,{}
+heuristic_stats,llm_omit,artist,favour_sources,"{""sources"": [""discogs""]}"
+heuristic_stats,llm_omit,genre,most_complete,{}
+heuristic_stats,llm_omit,label,most_complete,{}
+heuristic_stats,llm_omit,name,favour_sources,"{""sources"": [""musicbrainz""]}"
+heuristic_stats,llm_omit,release-country,most_complete,{}
+heuristic_stats,llm_omit,release-date,prefer_higher_trust,"{""trust_key"": ""trust_score""}"
+heuristic_stats,llm_omit,tracks_track-name,union,"{""separator"": "",""}"
+heuristic_stats,web,Attribute_6,union,"{""separator"": "",""}"
+heuristic_stats,web,Attribute_7,most_complete,{}
+heuristic_stats,web,artist,favour_sources,"{""sources"": [""discogs""]}"
+heuristic_stats,web,genre,most_complete,{}
+heuristic_stats,web,label,most_complete,{}
+heuristic_stats,web,name,favour_sources,"{""sources"": [""musicbrainz""]}"
+heuristic_stats,web,release-country,most_complete,{}
+heuristic_stats,web,release-date,prefer_higher_trust,"{""trust_key"": ""trust_score""}"
+heuristic_stats,web,tracks_track-name,union,"{""separator"": "",""}"
+heuristic_stats,web_omit,Attribute_6,union,"{""separator"": "",""}"
+heuristic_stats,web_omit,Attribute_7,most_complete,{}
+heuristic_stats,web_omit,artist,favour_sources,"{""sources"": [""discogs""]}"
+heuristic_stats,web_omit,genre,most_complete,{}
+heuristic_stats,web_omit,label,most_complete,{}
+heuristic_stats,web_omit,name,favour_sources,"{""sources"": [""musicbrainz""]}"
+heuristic_stats,web_omit,release-country,most_complete,{}
+heuristic_stats,web_omit,release-date,prefer_higher_trust,"{""trust_key"": ""trust_score""}"
+heuristic_stats,web_omit,tracks_track-name,union,"{""separator"": "",""}"
+iterative,llm,Attribute_6,union,"{""separator"": "",""}"
+iterative,llm,Attribute_7,maximum,{}
+iterative,llm,artist,favour_sources,"{""sources"": [""discogs""]}"
+iterative,llm,genre,favour_sources,"{""sources"": [""discogs""]}"
+iterative,llm,label,favour_sources,"{""sources"": [""discogs""]}"
+iterative,llm,name,favour_sources,"{""sources"": [""musicbrainz""]}"
+iterative,llm,release-country,weighted_voting,"{""trust_key"": ""trust_score""}"
+iterative,llm,release-date,prefer_higher_trust,"{""trust_key"": ""trust_score""}"
+iterative,llm,tracks_track-name,favour_sources,"{""sources"": [""musicbrainz""]}"
+iterative,llm_omit,Attribute_6,union,"{""separator"": "",""}"
+iterative,llm_omit,Attribute_7,maximum,{}
+iterative,llm_omit,artist,favour_sources,"{""sources"": [""discogs""]}"
+iterative,llm_omit,genre,most_complete,{}
+iterative,llm_omit,label,prefer_higher_trust,"{""trust_key"": ""trust_score""}"
+iterative,llm_omit,name,favour_sources,"{""sources"": [""musicbrainz""]}"
+iterative,llm_omit,release-country,prefer_higher_trust,"{""trust_key"": ""trust_score""}"
+iterative,llm_omit,release-date,earliest,{}
+iterative,llm_omit,tracks_track-name,favour_sources,"{""sources"": [""musicbrainz""]}"
+iterative,web,Attribute_6,union,"{""separator"": "",""}"
+iterative,web,Attribute_7,maximum,{}
+iterative,web,artist,favour_sources,"{""sources"": [""discogs""]}"
+iterative,web,genre,most_complete,{}
+iterative,web,label,most_complete,{}
+iterative,web,name,favour_sources,"{""sources"": [""musicbrainz""]}"
+iterative,web,release-country,voting,{}
+iterative,web,release-date,most_recent,{}
+iterative,web,tracks_track-name,weighted_voting,"{""trust_key"": ""trust_score""}"
+iterative,web_omit,Attribute_6,union,"{""separator"": "",""}"
+iterative,web_omit,Attribute_7,maximum,{}
+iterative,web_omit,artist,favour_sources,"{""sources"": [""discogs""]}"
+iterative,web_omit,genre,most_complete,{}
+iterative,web_omit,label,most_complete,{}
+iterative,web_omit,name,favour_sources,"{""sources"": [""musicbrainz""]}"
+iterative,web_omit,release-country,voting,{}
+iterative,web_omit,release-date,earliest,{}
+iterative,web_omit,tracks_track-name,favour_sources,"{""sources"": [""lastfm""]}"

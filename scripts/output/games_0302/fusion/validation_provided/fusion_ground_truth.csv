@@ -1,0 +1,11 @@
+entity_id,source_ids,name,releaseYear,developer,platform,criticScore,userScore,ESRB,publisher
+entity_0,metacritic_1593,The Legend of Zelda: Twilight Princess HD,2016-03-04,Nintendo Entertainment Planning and Development,Wii U,86.0,8.5,T,
+entity_1,"sales_2567, metacritic_3698, dbpedia_51413",Plants vs Zombies: Garden Warfare 2,2016-02-23,PopCap,PlayStation 4,81.0,7.9,E10+,Electronic Arts
+entity_2,"metacritic_2046, dbpedia_31418",Persona 4 Arena Ultimax,2014-09-30,Arc System Works,PlayStation 3,84.0,7.6,T,
+entity_3,"dbpedia_46911, metacritic_238",Metal Gear Solid 3: Snake Eater,2004-11-17,KCEJ,PlayStation 2,91.0,9.3,M,
+entity_4,metacritic_1695,Final Fantasy X-2,2003-11-18,SquareSoft,PlayStation 2,85.0,7.2,T,
+entity_5,metacritic_336,NBA 2K12,2011-10-04,Visual Concepts,PlayStation 3,90.0,6.8,T,
+entity_6,metacritic_474,FIFA Soccer 13,2012-09-25,Electronic Arts,Xbox 360,90.0,6.7,E,
+entity_7,"metacritic_447, dbpedia_29481",Sid Meier's Civilization V,2010-09-21,Firaxis Games,Windows PC,90.0,8.1,E10+,
+entity_8,"metacritic_2186, dbpedia_5828",Colin McRae Rally 04,2004-03-02,Codemasters,Xbox,84.0,8.2,E,
+entity_9,"metacritic_3871, dbpedia_1194, sales_4990",Darksiders II,2012-08-14,Vigil Games,Windows PC,81.0,7.9,M,Nordic Games

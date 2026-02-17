@@ -1,0 +1,55 @@
+{
+  "attribute_rules": {
+    "artist": {
+      "kwargs": {},
+      "resolver": "voting"
+    },
+    "duration": {
+      "kwargs": {},
+      "resolver": "median"
+    },
+    "genre": {
+      "kwargs": {
+        "sources": [
+          "lastfm"
+        ]
+      },
+      "resolver": "favour_sources"
+    },
+    "label": {
+      "kwargs": {
+        "sources": [
+          "musicbrainz"
+        ]
+      },
+      "resolver": "favour_sources"
+    },
+    "name": {
+      "kwargs": {
+        "sources": [
+          "musicbrainz"
+        ]
+      },
+      "resolver": "favour_sources"
+    },
+    "release-country": {
+      "kwargs": {
+        "sources": [
+          "musicbrainz"
+        ]
+      },
+      "resolver": "favour_sources"
+    },
+    "release-date": {
+      "kwargs": {},
+      "resolver": "earliest"
+    },
+    "tracks": {
+      "kwargs": {
+        "separator": ","
+      },
+      "resolver": "union"
+    }
+  },
+  "main_entity": "music release (album/single/EP) with tracklist metadata"
+}

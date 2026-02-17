@@ -1,0 +1,3 @@
+source_dataset,source_column,target_dataset,target_column,score,notes
+lastfm,id,Music Release,id,1.0,similarity_function=levenshtein
+lastfm,tracks_track-name,Music Release,tracks,0.3529411764705882,similarity_function=levenshtein

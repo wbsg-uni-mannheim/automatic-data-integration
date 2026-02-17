@@ -1,0 +1,12 @@
+source_dataset,source_column,target_dataset,target_column,score,notes
+musicbrainz,Attribute_2,Music Release,artist,0.5230946607839786,"vector_method=tfidf,similarity=cosine"
+musicbrainz,Attribute_2,Music Release,name,0.7916763838491772,"vector_method=tfidf,similarity=cosine"
+musicbrainz,Attribute_2,Music Release,tracks_track-name,0.7814070425550725,"vector_method=tfidf,similarity=cosine"
+musicbrainz,Attribute_3,Music Release,artist,0.5751067558654863,"vector_method=tfidf,similarity=cosine"
+musicbrainz,Attribute_3,Music Release,name,0.6580046267524475,"vector_method=tfidf,similarity=cosine"
+musicbrainz,Attribute_3,Music Release,tracks_track-name,0.6935477818503718,"vector_method=tfidf,similarity=cosine"
+musicbrainz,Attribute_4,Music Release,release-date,0.5433523611426133,"vector_method=tfidf,similarity=cosine"
+musicbrainz,Attribute_5,Music Release,release-country,0.8131964461921725,"vector_method=tfidf,similarity=cosine"
+musicbrainz,Attribute_6,Music Release,artist,0.48806173066512876,"vector_method=tfidf,similarity=cosine"
+musicbrainz,Attribute_6,Music Release,name,0.6636731300366723,"vector_method=tfidf,similarity=cosine"
+musicbrainz,Attribute_6,Music Release,tracks_track-name,0.8185598841419096,"vector_method=tfidf,similarity=cosine"

@@ -1,0 +1,196 @@
+{
+  "case_name": "iterative",
+  "rules": {
+    "artist": {
+      "resolver": "favour_sources",
+      "kwargs": {
+        "sources": [
+          "musicbrainz"
+        ]
+      }
+    },
+    "duration": {
+      "resolver": "median",
+      "kwargs": {}
+    },
+    "genre": {
+      "resolver": "favour_sources",
+      "kwargs": {
+        "sources": [
+          "discogs"
+        ]
+      }
+    },
+    "label": {
+      "resolver": "favour_sources",
+      "kwargs": {
+        "sources": [
+          "discogs"
+        ]
+      }
+    },
+    "name": {
+      "resolver": "favour_sources",
+      "kwargs": {
+        "sources": [
+          "musicbrainz"
+        ]
+      }
+    },
+    "release-country": {
+      "resolver": "favour_sources",
+      "kwargs": {
+        "sources": [
+          "musicbrainz"
+        ]
+      }
+    },
+    "release-date": {
+      "resolver": "favour_sources",
+      "kwargs": {
+        "sources": [
+          "musicbrainz"
+        ]
+      }
+    },
+    "tracks": {
+      "resolver": "union",
+      "kwargs": {
+        "separator": ","
+      }
+    }
+  },
+  "accuracy_by_mode": {},
+  "source_stats": {
+    "name": {
+      "musicbrainz": {
+        "source_name": "musicbrainz",
+        "attribute": "name",
+        "correct": 24,
+        "total": 25,
+        "accuracy": 0.96
+      },
+      "discogs": {
+        "source_name": "discogs",
+        "attribute": "name",
+        "correct": 23,
+        "total": 25,
+        "accuracy": 0.92
+      },
+      "lastfm": {
+        "source_name": "lastfm",
+        "attribute": "name",
+        "correct": 9,
+        "total": 15,
+        "accuracy": 0.6
+      }
+    },
+    "artist": {
+      "musicbrainz": {
+        "source_name": "musicbrainz",
+        "attribute": "artist",
+        "correct": 24,
+        "total": 25,
+        "accuracy": 0.96
+      },
+      "discogs": {
+        "source_name": "discogs",
+        "attribute": "artist",
+        "correct": 22,
+        "total": 25,
+        "accuracy": 0.88
+      },
+      "lastfm": {
+        "source_name": "lastfm",
+        "attribute": "artist",
+        "correct": 7,
+        "total": 15,
+        "accuracy": 0.4667
+      }
+    },
+    "release-date": {
+      "musicbrainz": {
+        "source_name": "musicbrainz",
+        "attribute": "release-date",
+        "correct": 25,
+        "total": 25,
+        "accuracy": 1.0
+      },
+      "discogs": {
+        "source_name": "discogs",
+        "attribute": "release-date",
+        "correct": 20,
+        "total": 24,
+        "accuracy": 0.8333
+      }
+    },
+    "release-country": {
+      "musicbrainz": {
+        "source_name": "musicbrainz",
+        "attribute": "release-country",
+        "correct": 6,
+        "total": 21,
+        "accuracy": 0.2857
+      },
+      "discogs": {
+        "source_name": "discogs",
+        "attribute": "release-country",
+        "correct": 1,
+        "total": 25,
+        "accuracy": 0.04
+      }
+    },
+    "label": {
+      "discogs": {
+        "source_name": "discogs",
+        "attribute": "label",
+        "correct": 21,
+        "total": 25,
+        "accuracy": 0.84
+      }
+    },
+    "genre": {
+      "discogs": {
+        "source_name": "discogs",
+        "attribute": "genre",
+        "correct": 23,
+        "total": 25,
+        "accuracy": 0.92
+      }
+    },
+    "tracks": {
+      "musicbrainz": {
+        "source_name": "musicbrainz",
+        "attribute": "tracks",
+        "correct": 3,
+        "total": 25,
+        "accuracy": 0.12
+      },
+      "discogs": {
+        "source_name": "discogs",
+        "attribute": "tracks",
+        "correct": 3,
+        "total": 25,
+        "accuracy": 0.12
+      },
+      "lastfm": {
+        "source_name": "lastfm",
+        "attribute": "tracks",
+        "correct": 2,
+        "total": 13,
+        "accuracy": 0.1538
+      }
+    },
+    "duration": {
+      "lastfm": {
+        "source_name": "lastfm",
+        "attribute": "duration",
+        "correct": 7,
+        "total": 13,
+        "accuracy": 0.5385
+      }
+    }
+  },
+  "iterations_used": 2,
+  "optimization_mode": "provided"
+}

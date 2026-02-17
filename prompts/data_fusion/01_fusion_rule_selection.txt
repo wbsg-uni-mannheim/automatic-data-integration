@@ -1,0 +1,64 @@
+Fusion Rule Selection
+======================
+Source: PyDI/pipeline/fusion_optimization.py
+
+Purpose: Selects a conflict resolution function for each attribute in the fused dataset.
+The LLM receives the heuristic baseline, attribute diagnostics, dataset overview,
+validation feedback, and optionally source accuracy statistics and previous iteration rules.
+This prompt is used across multiple configuration approaches (LLM-only, LLM+validation,
+LLM+statistics, iterative refinement).
+
+Template variables:
+  {resolver_names}       - List of all available resolver function names
+  {heuristic}            - JSON of heuristic baseline rules (type-inferred defaults)
+  {per_attr}             - Per-attribute diagnostics (inferred types, sample values)
+  {dataset_overview}     - JSON with dataset names, row counts, column counts, trust scores
+  {validation_feedback}  - Qualitative feedback: which source values were correct for sample entities
+  {stats_section}        - (Optional) Per-source accuracy statistics per attribute
+  {previous_section}     - (Optional) Rules from previous iteration (for iterative refinement)
+  {config.trust_key}     - Attribute name used for trust scores in the fused DataFrame
+
+---
+
+We are doing DATA FUSION: merge multiple records that refer to the same real-world entity.
+
+Task:
+1) Infer what the MAIN ENTITY is from dataset names and attribute names.
+2) For EACH attribute, choose EXACTLY ONE conflict resolution function (resolver) from the allowed list.
+3) Use the validation feedback to understand which sources tend to be correct for each attribute.
+
+Allowed resolvers (choose only from this list):
+{resolver_names}
+
+Resolver guidance:
+- Lists/Sets: union, intersection, intersection_k_sources (if you choose union for string-lists, you may set kwargs.separator to ',', ';', or '|')
+- Strings: most_complete, longest_string, shortest_string
+- Numerics: median, average, maximum, minimum, sum_values
+- Dates: most_recent, earliest
+- Source-aware: prefer_higher_trust (use kwargs.trust_key='{config.trust_key}'), voting, weighted_voting, favour_sources (use kwargs.sources=['source1']), random_value
+
+Starting point (heuristic plan you can override):
+{heuristic}
+
+Attribute diagnostics:
+{per_attr}
+
+Dataset overview:
+{dataset_overview}
+
+{validation_feedback}
+{stats_section}
+{previous_section}
+
+Return ONLY strict JSON in this schema:
+{
+  "main_entity": "<string>",
+  "attribute_rules": {
+    "<attribute>": {"resolver": "<resolver_name>", "kwargs": {...}},
+    ...
+  }
+}
+Notes:
+- Include every attribute listed in the heuristic plan.
+- Use kwargs only when needed. Do not invent new resolvers.
+- For attributes where validation shows one source is consistently correct, consider using favour_sources.

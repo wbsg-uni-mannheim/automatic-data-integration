@@ -1,0 +1,5 @@
+Source,Rows,Columns,Data Density,Density in Target Schema (10 cols)
+Dbpedia,10085,9,66.38%,59.74% (9/10 × 66.38%)
+Forbes,2000,7,99.19%,69.43% (7/10 × 99.19%)
+Fullcontact,1931,6,68.25%,40.95% (6/10 × 68.25%)
+Total Input,14016,10 (target),77.94% avg,58.54% weighted avg

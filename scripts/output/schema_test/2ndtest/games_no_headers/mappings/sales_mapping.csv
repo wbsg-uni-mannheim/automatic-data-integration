@@ -1,0 +1,11 @@
+source_dataset,source_column,target_dataset,target_column,score,notes
+sales,sales_1,Videogames,id,0.95,llm_based_matching
+sales,Wii Sports,Videogames,name,0.95,llm_based_matching
+sales,2006-01-01,Videogames,releaseYear,0.95,llm_based_matching
+sales,Nintendo,Videogames,developer,0.95,llm_based_matching
+sales,Nintendo.1,Videogames,publisher,0.95,llm_based_matching
+sales,Wii,Videogames,platform,0.95,llm_based_matching
+sales,76,Videogames,criticScore,0.95,llm_based_matching
+sales,8.0,Videogames,userScore,0.95,llm_based_matching
+sales,E,Videogames,ESRB,0.95,llm_based_matching
+sales,82,Videogames,globalSales,0.95,llm_based_matching

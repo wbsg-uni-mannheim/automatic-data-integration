@@ -1,0 +1,117 @@
+rdf-schema#label,averageDepth,areaTotal,maximumDepth,volume,country,length,wgs84_pos#long
+Adams Lake,299.0,1.37e+08,457.0,2.32e+10,Canada,63000.0,-119.5
+Akhurian Reservoir,,5.4e+07,59.0,5.25e+08,"Turkey, Armenia",20000.0,43.6545
+Amsoldingersee,,381525.0,13.9,2.55268e+06,Switzerland,1100.0,7.57694
+Arkenberger Baggersee,3.14,130000.0,5.77,409151.0,Germany,450.0,13.4111
+Ashokan Reservoir,14.0208,3.35889e+07,57.912,1.229e+11,United States,19312.1,-74.2167
+Baltic Sea,55.0,3.77e+11,459.0,2.17e+13,"Belarus, Denmark, Lithuania, Ukraine, Russia, Germany, Slovakia, Czech Republic, Estonia, Finland, Norway, Latvia, Sweden, Poland",1601000.0,20.0
+Barniner See,2.1,2.55e+06,7.5,5.43e+06,Germany,3170.0,11.7058
+Besh-Tash Lake,111.0,540000.0,,6e+06,Kyrgyzstan,1300.0,72.4961
+Biggesee,,,,1.9e+06,Germany,640.0,7.89583
+Birnbaumteich,,,,30000.0,Germany,140.0,11.0911
+Blithfield Reservoir,,3.19e+06,16.0,1.8172e+07,,3025.57,-1.919
+Borkener See,,1.39e+06,52.5,3.5e+07,Germany,1250.0,9.2669
+Brennsee,15.3,410000.0,26.3,6.27445e+06,Austria,1300.0,13.7514
+Caniapiscau Reservoir,,4.318e+09,49.0,5.38e+10,Canada,120000.0,-69.8456
+Cedar Bluff Reservoir,,2.77979e+07,12.8016,2015.0,United States,14484.1,-99.7784
+Chadwick Lake,2.7432,837699.0,7.62,2.31667e+06,United States,3701.49,-74.0689
+Chaiwopu Lake,,2.8e+07,,,China,6000.0,87.9167
+Derchinger Baggersee,,60000.0,,,Germany,370.0,10.9586
+Detroit Lake,36.8808,1.4164e+07,134.112,3.47e+08,United States,14484.1,-122.203
+Edersee,,1.18e+07,41.7,1.993e+08,Germany,28500.0,9.03785
+Femund,,2.0352e+08,130.0,6e+09,Norway,60000.0,11.8667
+Flughafensee,11.81,306000.0,34.3,3.61e+06,Germany,1000.0,13.2833
+Gaładuś Lake,12.7,7.29e+06,54.8,1.606e+06,"Lithuania, Poland",10600.0,23.4206
+Gorky Reservoir,,1.591e+09,22.0,1.29e+10,Russia,430000.0,43.1667
+Green Lake (Wisconsin),30.48,2.973e+07,72.24,9.39e+08,United States,11750.0,-88.9644
+Großer Wünsdorfer See,6.0,1.8e+06,11.0,,Germany,1800.0,13.4744
+Grünsee (Berchtesgadener Land),5.2,39200.0,9.2,204000.0,Germany,320.0,12.9531
+Haddebyer Noor,3.0,1e+06,5.2,2.951e+06,Germany,1600.0,9.57444
+Hoglinns Water,7.9248,630000.0,17.3736,1.24616e+06,Scotland,531.084,-3.30028
+Hopfensee,4.6,1.94e+06,10.4,8.98e+06,Germany,2145.0,10.6711
+Huechulafquen Lake,142.0,7.82e+07,,1.11e+10,Argentina,30000.0,-71.38
+Jazhincë Lake,5.0,8500.0,12.0,500.0,Republic of Kosovo,125.0,20.9942
+Jääsjärvi,4.58,8.111e+07,28.2,3.72e+08,Finland,10000.0,26.1167
+Kaniv Reservoir,5.5,6.75e+08,,2.6e+09,Ukraine,162000.0,31.4794
+Kanopolis Lake,,1.37836e+07,10.668,2015.0,United States,19312.1,-97.9981
+Keith Sebelius Lake,,8.82619e+06,12.8016,2015.0,United States,15288.8,-99.9319
+Kermajärvi,10.12,8.557e+07,56.07,8.66e+08,Finland,29000.0,28.7
+Khar Lake (Khovd),4.2,5.75e+08,7.0,2.422e+09,"Russia, Mongolia",37000.0,93.2
+Kirwin Reservoir,,2.0554e+07,14.9352,2015.0,United States,14484.1,-99.1611
+Kuybyshev Reservoir,8.0,6.45e+09,41.0,5.73e+10,Russia,500000.0,48.9294
+Kyrösjärvi,10.38,9.6066e+07,47.0,9.98e+08,Finland,36000.0,23.1
+Lac de Chaumeçon,,1.35e+06,,1.9e+07,France,4000.0,3.915
+Lac de Ganivet,,120000.0,,360000.0,France,495.0,3.4125
+Lac de Matemale,,2.23e+06,37.0,2.05e+07,France,2150.0,2.10041
+Lac de Naussac,,1.08e+07,50.0,1.9e+08,France,8000.0,3.79861
+Lac de Pannecière,,5.2e+06,48.0,8.25e+07,France,7200.0,3.89556
+Lac de Serre-Ponçon,,2.8e+07,90.0,1.272e+09,France,20000.0,6.35
+Lac du Bourdon,,2.2e+06,15.0,9.3e+06,France,3000.0,3.10707
+Lago del Barbellino,,,60.0,18.0,Italy,1000.0,10.051
+Lago di Scandarello,,1e+06,41.0,1.2e+07,Italy,3000.0,13.2696
+Lake Alajuela,,5.02e+07,,6e+08,Panama,,-79.5756
+Lake Assad,,5.25e+08,,1e+10,Syria,80000.0,38.1667
+Lake Biel,,3.93e+07,74.0,1.12e+09,Switzerland,15000.0,7.16667
+Lake Bled,,1.45e+06,29.5,2.57e+07,Slovenia,2120.0,14.0947
+Lake Jaala,4.8,196000.0,6.4,940800.0,Estonia,750.0,27.5833
+Lake Kummerow,8.1,3.255e+07,23.3,3e+08,Germany,10750.0,12.8594
+Lake Mainit,128.0,1.734e+08,223.0,1.8e+10,Philippines,29100.0,125.523
+Lake Muhazi,10.0,3.3e+07,14.0,3.3e+08,Rwanda,37000.0,30.4
+Lake Norman,10.2108,"1.31563e+08, 1.31571e+08",34.1376,1.0936e+06,United States,54074.0,-80.9333
+Lake Orta,71.6,1.82e+07,143.0,1.3e+09,Italy,13400.0,8.40667
+Lake Singkarak,149.0,1.078e+08,268.0,1.61e+10,Indonesia,20770.0,100.54
+Lake Tanuki,8.0,312000.0,,1.2e+06,Japan,1000.0,138.561
+Lake Tarnița,,2.15e+06,70.0,7.4e+07,Romania,9000.0,23.2781
+Lake Tharthar,40.0,2.71e+09,,3.518e+10,Iraq,120000.0,43.1833
+Lake Yalchik,"7.89, 8.7","536000.0, 1.285e+06","28.8, 32.0","2580.0, 10439.0",Russia,,48.4083
+Leesville Lake (Ohio),,4.04686e+06,,,United States,7402.98,-81.1947
+Leppävesi,9.43,6.359e+07,45.0,6e+08,Finland,30000.0,25.95
+Loch Avich,30.0228,3.482e+06,57.3024,9.4227e+07,Scotland,5310.84,-5.3355
+Loch Dochart,1.524,186155.0,3.3528,284125.0,Scotland,1062.17,-4.58417
+Loch Laggan,20.7264,2.165e+06,53.0352,1.58603e+08,Scotland,11265.4,-4.4901
+Loch Morar,86.5632,2.67e+07,309.982,2.30773e+09,Scotland,18800.0,-5.67222
+Loch Trool,2.286,556000.0,16.764,3.28534e+06,Scotland,2414.02,-4.49139
+Loch a' Ghobhainn,3.81,1.087e+06,8.5344,1.52938e+06,Scotland,1207.01,-5.5971
+Loch na h-Oidhche,16.4592,1.40426e+06,36.8808,2.31107e+07,Scotland,2816.35,-5.52667
+Lough Eske,,3.64217e+06,,,Ireland,3700.0,-8.0399
+Loughborough Lake,7.55,1.89e+07,38.4,13.2,Canada,24000.0,-76.4114
+Lovewell Reservoir,,1.2088e+07,10.668,2015.0,United States,17702.8,-98.0642
+Luchsee,,72000.0,2.0,,Germany,300.0,13.7975
+Mangrove Creek Dam,,,,1.34e+06,Australia,380.0,151.118
+Nilakka,4.86,1.6851e+08,21.74,8.21e+08,Finland,40000.0,26.5167
+North Sea,95.0,5.7e+11,700.0,5.4e+13,"Schleswig-Holstein, Scotland, Belgium, Denmark, United Kingdom, Germany, Liechtenstein, Luxembourg, Austria, Czech Republic, France, Norway, Italy, Switzerland, Netherlands",960000.0,3.0
+Nydalasjön,3.0,1.4604e+06,6.0,4.784e+06,Sweden,3000.0,20.3476
+Oderteich,,,,42000.0,Germany,153.0,10.5383
+Otisco Lake,10.0584,8.28796e+06,20.1168,7.96123e+07,United States,8690.46,-76.2869
+Parsteiner See,10.0,1.003e+07,31.0,7.7e+07,Germany,6800.0,13.9823
+Quesnel Lake,157.0,2.66e+08,511.0,4.18e+10,Canada,100000.0,-121.033
+Redberry Lake (Saskatchewan),10.668,7.76996e+07,15.8496,,Canada,9656.06,-107.167
+Reschensee,,6.6e+06,28.0,1.2e+08,Italy,,
+Riebener See,1.0,380000.0,,,Germany,1000.0,13.0517
+Ross Creek Reservoir,30.0,,,162000.0,New Zealand,350.0,170.499
+Røssvatnet,,2.1861e+08,"231.0, 240.0","1.26e+10, 1.48e+10",Norway,37000.0,13.9739
+Salzgittersee,2.5,750000.0,17.0,1.875e+06,Germany,2120.0,10.305
+San Andrés de los Tacones Reservoir,,,,199000.0,Spain,434.0,-5.75472
+Sarez Lake,201.8,7.97e+07,505.0,1.6074e+10,Tajikistan,75800.0,72.7575
+Saylorville Lake,,"2.40788e+07, 6.75825e+07",,,United States,38624.3,-93.6997
+Scofield Reservoir,7.9248,1.13919e+07,20.1168,,,7885.79,-111.12
+Selker Noor,3.1,558000.0,5.2,1.737e+06,Germany,1300.0,9.57806
+Snipe Loch,,23350.4,,,,160.02,-4.55256
+Stappitzer See,3.6,36000.0,6.0,130000.0,Austria,216.0,13.1942
+Straussee,9.9,1.36e+06,20.0,1.348e+07,Germany,3800.0,13.8758
+Studen Kladenets,,2.78e+07,60.0,3.88e+08,Bulgaria,29000.0,25.5467
+Tittesworth reservoir,,760000.0,,6.44e+06,,1800.0,-2.013
+Trasona Reservoir,,,,31000.0,Spain,332.0,-5.87833
+Trou Caïman,,1.6e+07,,,Haiti,9000.0,-72.1333
+Trúc Bạch Lake,,90000.0,,,Vietnam,400.0,105.838
+Tulare Lake,,1.78e+09,,,United States,130000.0,-119.788
+Tuttle Creek Lake,,5e+07,15.0,4.1e+08,United States,25000.0,-96.5922
+Vlasina Lake,10.3,1.6e+07,34.0,1.65e+08,Serbia,10500.0,22.3333
+Vuohijärvi,16.28,8.6243e+07,75.51,1.404e+09,Finland,21000.0,26.7
+Waconda Lake,,5.09985e+07,16.764,2015.0,United States,38624.3,-98.3728
+Webster Reservoir,,1.52445e+07,12.8016,2015.0,United States,11265.4,-99.4244
+Wilson Lake (Kansas),,3.66038e+07,19.812,2015.0,United States,38624.3,-98.5567
+Wilson Lake (Maine),"5.1816, 5.8",1.24643e+06,13.4112,6.75777e+06,United States,1607.52,-70.9386
+Zeuthener See,,2.33e+06,4.4,5.84e+06,Germany,4000.0,13.6386
+Ziegeleisee,6.28,47000.0,14.1,294650.0,Germany,350.0,13.3333
+Åraksfjorden,35.0,1.196e+07,89.0,2.123e-07,Norway,32000.0,7.7056

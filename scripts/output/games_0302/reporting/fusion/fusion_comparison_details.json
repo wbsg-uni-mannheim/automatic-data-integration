@@ -1,0 +1,164 @@
+{
+  "auto": {
+    "best_case_key": "llm_no_val",
+    "validation_accuracy": 0.9333333333333333,
+    "test_accuracy": 0.8739495798319328,
+    "per_attribute_accuracy": {
+      "developer": {
+        "accuracy": 0.6666666666666666,
+        "total": 15
+      },
+      "publisher": {
+        "accuracy": 0.6,
+        "total": 15
+      },
+      "userScore": {
+        "accuracy": 0.7857142857142857,
+        "total": 14
+      },
+      "releaseYear": {
+        "accuracy": 1.0,
+        "total": 15
+      },
+      "ESRB": {
+        "accuracy": 0.9333333333333333,
+        "total": 15
+      },
+      "name": {
+        "accuracy": 1.0,
+        "total": 15
+      },
+      "criticScore": {
+        "accuracy": 1.0,
+        "total": 15
+      },
+      "platform": {
+        "accuracy": 1.0,
+        "total": 15
+      }
+    },
+    "rules": {
+      "ESRB": {
+        "kwargs": {},
+        "resolver": "voting"
+      },
+      "criticScore": {
+        "kwargs": {},
+        "resolver": "median"
+      },
+      "developer": {
+        "kwargs": {},
+        "resolver": "most_complete"
+      },
+      "globalSales": {
+        "kwargs": {},
+        "resolver": "median"
+      },
+      "name": {
+        "kwargs": {},
+        "resolver": "longest_string"
+      },
+      "platform": {
+        "kwargs": {},
+        "resolver": "union"
+      },
+      "publisher": {
+        "kwargs": {},
+        "resolver": "most_complete"
+      },
+      "releaseYear": {
+        "kwargs": {},
+        "resolver": "earliest"
+      },
+      "series": {
+        "kwargs": {},
+        "resolver": "most_complete"
+      },
+      "userScore": {
+        "kwargs": {},
+        "resolver": "median"
+      }
+    }
+  },
+  "provided": {
+    "best_case_key": "llm_no_val",
+    "validation_accuracy": 0.9166666666666666,
+    "test_accuracy": 0.8739495798319328,
+    "per_attribute_accuracy": {
+      "developer": {
+        "accuracy": 0.6666666666666666,
+        "total": 15
+      },
+      "publisher": {
+        "accuracy": 0.6,
+        "total": 15
+      },
+      "userScore": {
+        "accuracy": 0.7857142857142857,
+        "total": 14
+      },
+      "releaseYear": {
+        "accuracy": 1.0,
+        "total": 15
+      },
+      "ESRB": {
+        "accuracy": 0.9333333333333333,
+        "total": 15
+      },
+      "name": {
+        "accuracy": 1.0,
+        "total": 15
+      },
+      "criticScore": {
+        "accuracy": 1.0,
+        "total": 15
+      },
+      "platform": {
+        "accuracy": 1.0,
+        "total": 15
+      }
+    },
+    "rules": {
+      "ESRB": {
+        "kwargs": {},
+        "resolver": "voting"
+      },
+      "criticScore": {
+        "kwargs": {},
+        "resolver": "median"
+      },
+      "developer": {
+        "kwargs": {},
+        "resolver": "most_complete"
+      },
+      "globalSales": {
+        "kwargs": {},
+        "resolver": "median"
+      },
+      "name": {
+        "kwargs": {},
+        "resolver": "longest_string"
+      },
+      "platform": {
+        "kwargs": {},
+        "resolver": "union"
+      },
+      "publisher": {
+        "kwargs": {},
+        "resolver": "most_complete"
+      },
+      "releaseYear": {
+        "kwargs": {},
+        "resolver": "earliest"
+      },
+      "series": {
+        "kwargs": {},
+        "resolver": "most_complete"
+      },
+      "userScore": {
+        "kwargs": {},
+        "resolver": "median"
+      }
+    }
+  }
+}

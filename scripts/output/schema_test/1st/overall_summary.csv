@@ -1,0 +1,10 @@
+use_case,header_type,total_datasets,matched,cached,failed,success_rate
+music,original,3,3,0,0,100.0%
+music,challenging,3,3,0,0,100.0%
+music,no_headers,3,3,0,0,100.0%
+games,original,3,0,3,0,100.0%
+games,challenging,3,0,3,0,100.0%
+games,no_headers,3,0,3,0,100.0%
+companies,original,3,3,0,0,100.0%
+companies,challenging,3,3,0,0,100.0%
+companies,no_headers,3,3,0,0,100.0%

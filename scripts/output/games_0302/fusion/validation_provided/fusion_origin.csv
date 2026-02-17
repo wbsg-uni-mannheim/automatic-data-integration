@@ -1,0 +1,11 @@
+entity_id,source_ids,name,releaseYear,developer,platform,criticScore,userScore,ESRB,publisher
+entity_0,metacritic_1593,metacritic,LLM,LLM,metacritic,metacritic,LLM,metacritic,
+entity_1,"sales_2567, metacritic_3698, dbpedia_51413",metacritic,LLM,sales,sales,sales,metacritic,sales,sales
+entity_2,"metacritic_2046, dbpedia_31418",metacritic,LLM,metacritic,metacritic,metacritic,LLM,metacritic,
+entity_3,"dbpedia_46911, metacritic_238",dbpedia,LLM,metacritic,metacritic,metacritic,LLM,metacritic,
+entity_4,metacritic_1695,metacritic,LLM,metacritic,metacritic,metacritic,LLM,metacritic,
+entity_5,metacritic_336,metacritic,LLM,metacritic,metacritic,metacritic,metacritic,LLM,
+entity_6,metacritic_474,metacritic,LLM,metacritic,metacritic,metacritic,LLM,metacritic,
+entity_7,"metacritic_447, dbpedia_29481",metacritic,LLM,metacritic,metacritic,metacritic,metacritic,metacritic,
+entity_8,"metacritic_2186, dbpedia_5828",metacritic,LLM,metacritic,metacritic,metacritic,LLM,metacritic,
+entity_9,"metacritic_3871, dbpedia_1194, sales_4990",metacritic,LLM,metacritic,metacritic,metacritic,LLM,metacritic,sales

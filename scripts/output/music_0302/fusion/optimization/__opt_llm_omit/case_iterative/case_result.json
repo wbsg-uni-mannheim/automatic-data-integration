@@ -1,0 +1,197 @@
+{
+  "case_name": "iterative",
+  "rules": {
+    "artist": {
+      "resolver": "favour_sources",
+      "kwargs": {
+        "sources": [
+          "discogs",
+          "musicbrainz",
+          "lastfm"
+        ]
+      }
+    },
+    "duration": {
+      "resolver": "median",
+      "kwargs": {}
+    },
+    "genre": {
+      "resolver": "favour_sources",
+      "kwargs": {
+        "sources": [
+          "lastfm",
+          "musicbrainz",
+          "discogs"
+        ]
+      }
+    },
+    "label": {
+      "resolver": "favour_sources",
+      "kwargs": {
+        "sources": [
+          "musicbrainz",
+          "discogs",
+          "lastfm"
+        ]
+      }
+    },
+    "name": {
+      "resolver": "favour_sources",
+      "kwargs": {
+        "sources": [
+          "musicbrainz",
+          "discogs",
+          "lastfm"
+        ]
+      }
+    },
+    "release-country": {
+      "resolver": "favour_sources",
+      "kwargs": {
+        "sources": [
+          "lastfm",
+          "discogs",
+          "musicbrainz"
+        ]
+      }
+    },
+    "release-date": {
+      "resolver": "earliest",
+      "kwargs": {}
+    },
+    "tracks": {
+      "resolver": "favour_sources",
+      "kwargs": {
+        "sources": [
+          "musicbrainz",
+          "discogs",
+          "lastfm"
+        ]
+      }
+    }
+  },
+  "accuracy_by_mode": {},
+  "source_stats": {
+    "name": {
+      "musicbrainz": {
+        "source_name": "musicbrainz",
+        "attribute": "name",
+        "correct": 22,
+        "total": 23,
+        "accuracy": 0.9565
+      },
+      "lastfm": {
+        "source_name": "lastfm",
+        "attribute": "name",
+        "correct": 9,
+        "total": 13,
+        "accuracy": 0.6923
+      },
+      "discogs": {
+        "source_name": "discogs",
+        "attribute": "name",
+        "correct": 16,
+        "total": 17,
+        "accuracy": 0.9412
+      }
+    },
+    "artist": {
+      "musicbrainz": {
+        "source_name": "musicbrainz",
+        "attribute": "artist",
+        "correct": 22,
+        "total": 23,
+        "accuracy": 0.9565
+      },
+      "lastfm": {
+        "source_name": "lastfm",
+        "attribute": "artist",
+        "correct": 8,
+        "total": 13,
+        "accuracy": 0.6154
+      },
+      "discogs": {
+        "source_name": "discogs",
+        "attribute": "artist",
+        "correct": 17,
+        "total": 17,
+        "accuracy": 1.0
+      }
+    },
+    "release-date": {
+      "musicbrainz": {
+        "source_name": "musicbrainz",
+        "attribute": "release-date",
+        "correct": 5,
+        "total": 19,
+        "accuracy": 0.2632
+      },
+      "discogs": {
+        "source_name": "discogs",
+        "attribute": "release-date",
+        "correct": 4,
+        "total": 16,
+        "accuracy": 0.25
+      }
+    },
+    "release-country": {
+      "musicbrainz": {
+        "source_name": "musicbrainz",
+        "attribute": "release-country",
+        "correct": 5,
+        "total": 21,
+        "accuracy": 0.2381
+      },
+      "discogs": {
+        "source_name": "discogs",
+        "attribute": "release-country",
+        "correct": 5,
+        "total": 17,
+        "accuracy": 0.2941
+      }
+    },
+    "tracks_track-name": {
+      "musicbrainz": {
+        "source_name": "musicbrainz",
+        "attribute": "tracks_track-name",
+        "correct": 16,
+        "total": 23,
+        "accuracy": 0.6957
+      },
+      "lastfm": {
+        "source_name": "lastfm",
+        "attribute": "tracks_track-name",
+        "correct": 7,
+        "total": 12,
+        "accuracy": 0.5833
+      },
+      "discogs": {
+        "source_name": "discogs",
+        "attribute": "tracks_track-name",
+        "correct": 12,
+        "total": 17,
+        "accuracy": 0.7059
+      }
+    },
+    "label": {
+      "discogs": {
+        "source_name": "discogs",
+        "attribute": "label",
+        "correct": 10,
+        "total": 15,
+        "accuracy": 0.6667
+      }
+    },
+    "genre": {
+      "discogs": {
+        "source_name": "discogs",
+        "attribute": "genre",
+        "correct": 0,
+        "total": 2,
+        "accuracy": 0.0
+      }
+    }
+  },
+  "iterations_used": 2,
+  "optimization_mode": "llm_omit"
+}

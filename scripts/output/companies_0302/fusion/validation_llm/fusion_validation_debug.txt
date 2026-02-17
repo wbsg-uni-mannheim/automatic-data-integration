@@ -1,0 +1,284 @@
+################################################################################
+# ENTITY 0: {'forbes': 'http://www.forbes.com/companies/israel-discount-bank/', 'dbpedia': 'http://dbpedia.org/resource/Israel_Discount_Bank', 'fullcontact': 'fullcontact_1537'}
+# Identifying columns: None
+################################################################################
+
+================================================================================
+ATTRIBUTE: name
+================================================================================
+
+>>> PROMPT:
+You are a fact-checker verifying data about an entity from multiple databases.
+
+ENTITY CONTEXT:
+[forbes] name=Israel Discount Bank, website=http://www.forbes.com/companies/israel-discount-bank/, country=Israel, assets=57800000000, revenue=2700000000
+[dbpedia] name=Mercantile Discount Bank, founded=1971-01-01 00:00:00, country=Israel, city=Kirya TowerTel Aviv, industry=Diversified Financial Services
+[fullcontact] name=Mercantile Discount Bank Ltd., country=Israel, city=null, founded=1918-01-01 00:00:00
+[dbpedia] name=Israel Discount Bank, founded=1935-01-01 00:00:00, country=Israel, city=Tel Aviv (Bank Discount Tower), industry=Diversified Financial Services, revenue=4000000.0
+
+ATTRIBUTE TO VERIFY: "name"
+
+VALUES FROM OUR DATABASES:
+  - forbes: 'Israel Discount Bank'
+  - dbpedia: 'Israel Discount Bank'
+  - fullcontact: 'Mercantile Discount Bank Ltd.'
+
+INSTRUCTIONS:
+1. Use your knowledge to determine the correct value for this attribute
+2. Do NOT simply pick from database values - verify based on what you know to be factually correct
+3. You MUST provide a definitive answer - only respond "UNKNOWN" if the entity cannot be identified at all
+4. For values that change over time, use the most recent data in your knowledge
+5. Prefer authoritative knowledge (official facts) over uncertain information
+
+Respond in this exact format (two lines only):
+CORRECT_VALUE: <the correct value>
+REASONING: <brief explanation>
+
+
+>>> RESPONSE:
+CORRECT_VALUE: Israel Discount Bank
+REASONING: The entity context (Forbes and DBpedia) consistently identifies the main institution as Israel Discount Bank, a major Israeli bank founded in 1935; “Mercantile Discount Bank Ltd.” is a different affiliated/subsidiary bank (Mercantile Discount Bank) rather than the primary entity.
+
+================================================================================
+ATTRIBUTE: website
+================================================================================
+
+>>> PROMPT:
+You are a fact-checker verifying data about an entity from multiple databases.
+
+ENTITY CONTEXT:
+[forbes] name=Israel Discount Bank, website=http://www.forbes.com/companies/israel-discount-bank/, country=Israel, assets=57800000000, revenue=2700000000
+[dbpedia] name=Mercantile Discount Bank, founded=1971-01-01 00:00:00, country=Israel, city=Kirya TowerTel Aviv, industry=Diversified Financial Services
+[fullcontact] name=Mercantile Discount Bank Ltd., country=Israel, city=null, founded=1918-01-01 00:00:00
+[dbpedia] name=Israel Discount Bank, founded=1935-01-01 00:00:00, country=Israel, city=Tel Aviv (Bank Discount Tower), industry=Diversified Financial Services, revenue=4000000.0
+
+ATTRIBUTE TO VERIFY: "website"
+
+VALUES FROM OUR DATABASES:
+  - forbes: 'http://www.forbes.com/companies/israel-discount-bank/'
+
+INSTRUCTIONS:
+1. Use your knowledge to determine the correct value for this attribute
+2. Do NOT simply pick from database values - verify based on what you know to be factually correct
+3. You MUST provide a definitive answer - only respond "UNKNOWN" if the entity cannot be identified at all
+4. For values that change over time, use the most recent data in your knowledge
+5. Prefer authoritative knowledge (official facts) over uncertain information
+
+Respond in this exact format (two lines only):
+CORRECT_VALUE: <the correct value>
+REASONING: <brief explanation>
+
+
+>>> RESPONSE:
+CORRECT_VALUE: https://www.idbgroup.co.il/
+REASONING: Israel Discount Bank’s official corporate website is under the IDB Group domain (idbgroup.co.il); the Forbes page is a profile, not the bank’s official website.
+
+================================================================================
+ATTRIBUTE: country
+================================================================================
+
+>>> PROMPT:
+You are a fact-checker verifying data about an entity from multiple databases.
+
+ENTITY CONTEXT:
+[forbes] name=Israel Discount Bank, website=http://www.forbes.com/companies/israel-discount-bank/, country=Israel, assets=57800000000, revenue=2700000000
+[dbpedia] name=Mercantile Discount Bank, founded=1971-01-01 00:00:00, country=Israel, city=Kirya TowerTel Aviv, industry=Diversified Financial Services
+[fullcontact] name=Mercantile Discount Bank Ltd., country=Israel, city=null, founded=1918-01-01 00:00:00
+[dbpedia] name=Israel Discount Bank, founded=1935-01-01 00:00:00, country=Israel, city=Tel Aviv (Bank Discount Tower), industry=Diversified Financial Services, revenue=4000000.0
+
+ATTRIBUTE TO VERIFY: "country"
+
+VALUES FROM OUR DATABASES:
+  - forbes: 'Israel'
+  - dbpedia: 'Israel'
+  - fullcontact: 'Israel'
+
+INSTRUCTIONS:
+1. Use your knowledge to determine the correct value for this attribute
+2. Do NOT simply pick from database values - verify based on what you know to be factually correct
+3. You MUST provide a definitive answer - only respond "UNKNOWN" if the entity cannot be identified at all
+4. For values that change over time, use the most recent data in your knowledge
+5. Prefer authoritative knowledge (official facts) over uncertain information
+
+Respond in this exact format (two lines only):
+CORRECT_VALUE: <the correct value>
+REASONING: <brief explanation>
+
+
+>>> RESPONSE:
+CORRECT_VALUE: Israel
+REASONING: Israel Discount Bank and its subsidiary Mercantile Discount Bank are Israeli banking institutions headquartered in Tel Aviv, making their country Israel.
+
+================================================================================
+ATTRIBUTE: industry
+================================================================================
+
+>>> PROMPT:
+You are a fact-checker verifying data about an entity from multiple databases.
+
+ENTITY CONTEXT:
+[forbes] name=Israel Discount Bank, website=http://www.forbes.com/companies/israel-discount-bank/, country=Israel, assets=57800000000, revenue=2700000000
+[dbpedia] name=Mercantile Discount Bank, founded=1971-01-01 00:00:00, country=Israel, city=Kirya TowerTel Aviv, industry=Diversified Financial Services
+[fullcontact] name=Mercantile Discount Bank Ltd., country=Israel, city=null, founded=1918-01-01 00:00:00
+[dbpedia] name=Israel Discount Bank, founded=1935-01-01 00:00:00, country=Israel, city=Tel Aviv (Bank Discount Tower), industry=Diversified Financial Services, revenue=4000000.0
+
+ATTRIBUTE TO VERIFY: "industry"
+
+VALUES FROM OUR DATABASES:
+  - dbpedia: 'Diversified Financial Services'
+
+INSTRUCTIONS:
+1. Use your knowledge to determine the correct value for this attribute
+2. Do NOT simply pick from database values - verify based on what you know to be factually correct
+3. You MUST provide a definitive answer - only respond "UNKNOWN" if the entity cannot be identified at all
+4. For values that change over time, use the most recent data in your knowledge
+5. Prefer authoritative knowledge (official facts) over uncertain information
+
+Respond in this exact format (two lines only):
+CORRECT_VALUE: <the correct value>
+REASONING: <brief explanation>
+
+
+>>> RESPONSE:
+CORRECT_VALUE: Banking (Commercial Bank / Financial Services)
+REASONING: Israel Discount Bank is a full-service commercial bank offering retail and corporate banking and related financial services, so its industry is banking rather than a generic “diversified financial services” category.
+
+================================================================================
+ATTRIBUTE: assets
+================================================================================
+
+>>> PROMPT:
+You are a fact-checker verifying data about an entity from multiple databases.
+
+ENTITY CONTEXT:
+[forbes] name=Israel Discount Bank, website=http://www.forbes.com/companies/israel-discount-bank/, country=Israel, assets=57800000000, revenue=2700000000
+[dbpedia] name=Mercantile Discount Bank, founded=1971-01-01 00:00:00, country=Israel, city=Kirya TowerTel Aviv, industry=Diversified Financial Services
+[fullcontact] name=Mercantile Discount Bank Ltd., country=Israel, city=null, founded=1918-01-01 00:00:00
+[dbpedia] name=Israel Discount Bank, founded=1935-01-01 00:00:00, country=Israel, city=Tel Aviv (Bank Discount Tower), industry=Diversified Financial Services, revenue=4000000.0
+
+ATTRIBUTE TO VERIFY: "assets"
+
+VALUES FROM OUR DATABASES:
+  - forbes: '57800000000'
+
+INSTRUCTIONS:
+1. Use your knowledge to determine the correct value for this attribute
+2. Do NOT simply pick from database values - verify based on what you know to be factually correct
+3. You MUST provide a definitive answer - only respond "UNKNOWN" if the entity cannot be identified at all
+4. For values that change over time, use the most recent data in your knowledge
+5. Prefer authoritative knowledge (official facts) over uncertain information
+
+Respond in this exact format (two lines only):
+CORRECT_VALUE: <the correct value>
+REASONING: <brief explanation>
+
+
+>>> RESPONSE:
+CORRECT_VALUE: UNKNOWN
+REASONING: Israel Discount Bank’s total assets vary by reporting period and I don’t have a reliably current, authoritative assets figure in my available knowledge to state definitively.
+
+================================================================================
+ATTRIBUTE: revenue
+================================================================================
+
+>>> PROMPT:
+You are a fact-checker verifying data about an entity from multiple databases.
+
+ENTITY CONTEXT:
+[forbes] name=Israel Discount Bank, website=http://www.forbes.com/companies/israel-discount-bank/, country=Israel, assets=57800000000, revenue=2700000000
+[dbpedia] name=Mercantile Discount Bank, founded=1971-01-01 00:00:00, country=Israel, city=Kirya TowerTel Aviv, industry=Diversified Financial Services
+[fullcontact] name=Mercantile Discount Bank Ltd., country=Israel, city=null, founded=1918-01-01 00:00:00
+[dbpedia] name=Israel Discount Bank, founded=1935-01-01 00:00:00, country=Israel, city=Tel Aviv (Bank Discount Tower), industry=Diversified Financial Services, revenue=4000000.0
+
+ATTRIBUTE TO VERIFY: "revenue"
+
+VALUES FROM OUR DATABASES:
+  - forbes: '2700000000'
+  - dbpedia: '4000000.0'
+
+INSTRUCTIONS:
+1. Use your knowledge to determine the correct value for this attribute
+2. Do NOT simply pick from database values - verify based on what you know to be factually correct
+3. You MUST provide a definitive answer - only respond "UNKNOWN" if the entity cannot be identified at all
+4. For values that change over time, use the most recent data in your knowledge
+5. Prefer authoritative knowledge (official facts) over uncertain information
+
+Respond in this exact format (two lines only):
+CORRECT_VALUE: <the correct value>
+REASONING: <brief explanation>
+
+
+>>> RESPONSE:
+CORRECT_VALUE: 2700000000
+REASONING: Israel Discount Bank is a major Israeli bank with revenues in the billions of USD in recent years; DBpedia’s 4,000,000 figure is implausibly low and likely a data/error or mis-scaled value, while Forbes’ ~2.7B aligns with typical reported annual revenue for a bank of this size.
+
+================================================================================
+ATTRIBUTE: founded
+================================================================================
+
+>>> PROMPT:
+You are a fact-checker verifying data about an entity from multiple databases.
+
+ENTITY CONTEXT:
+[forbes] name=Israel Discount Bank, website=http://www.forbes.com/companies/israel-discount-bank/, country=Israel, assets=57800000000, revenue=2700000000
+[dbpedia] name=Mercantile Discount Bank, founded=1971-01-01 00:00:00, country=Israel, city=Kirya TowerTel Aviv, industry=Diversified Financial Services
+[fullcontact] name=Mercantile Discount Bank Ltd., country=Israel, city=null, founded=1918-01-01 00:00:00
+[dbpedia] name=Israel Discount Bank, founded=1935-01-01 00:00:00, country=Israel, city=Tel Aviv (Bank Discount Tower), industry=Diversified Financial Services, revenue=4000000.0
+
+ATTRIBUTE TO VERIFY: "founded"
+
+VALUES FROM OUR DATABASES:
+  - dbpedia: '1935-01-01 00:00:00'
+  - fullcontact: '1918-01-01 00:00:00'
+
+INSTRUCTIONS:
+1. Use your knowledge to determine the correct value for this attribute
+2. Do NOT simply pick from database values - verify based on what you know to be factually correct
+3. You MUST provide a definitive answer - only respond "UNKNOWN" if the entity cannot be identified at all
+4. For values that change over time, use the most recent data in your knowledge
+5. Prefer authoritative knowledge (official facts) over uncertain information
+
+Respond in this exact format (two lines only):
+CORRECT_VALUE: <the correct value>
+REASONING: <brief explanation>
+
+
+>>> RESPONSE:
+CORRECT_VALUE: 1935
+REASONING: The entity in context is Israel Discount Bank, which was established in 1935 in Tel Aviv; the 1918 date corresponds to Mercantile Discount Bank (a different related bank), not Israel Discount Bank.
+
+================================================================================
+ATTRIBUTE: city
+================================================================================
+
+>>> PROMPT:
+You are a fact-checker verifying data about an entity from multiple databases.
+
+ENTITY CONTEXT:
+[forbes] name=Israel Discount Bank, website=http://www.forbes.com/companies/israel-discount-bank/, country=Israel, assets=57800000000, revenue=2700000000
+[dbpedia] name=Mercantile Discount Bank, founded=1971-01-01 00:00:00, country=Israel, city=Kirya TowerTel Aviv, industry=Diversified Financial Services
+[fullcontact] name=Mercantile Discount Bank Ltd., country=Israel, city=null, founded=1918-01-01 00:00:00
+[dbpedia] name=Israel Discount Bank, founded=1935-01-01 00:00:00, country=Israel, city=Tel Aviv (Bank Discount Tower), industry=Diversified Financial Services, revenue=4000000.0
+
+ATTRIBUTE TO VERIFY: "city"
+
+VALUES FROM OUR DATABASES:
+  - dbpedia: 'Tel Aviv (Bank Discount Tower)'
+  - fullcontact: 'null'
+
+INSTRUCTIONS:
+1. Use your knowledge to determine the correct value for this attribute
+2. Do NOT simply pick from database values - verify based on what you know to be factually correct
+3. You MUST provide a definitive answer - only respond "UNKNOWN" if the entity cannot be identified at all
+4. For values that change over time, use the most recent data in your knowledge
+5. Prefer authoritative knowledge (official facts) over uncertain information
+
+Respond in this exact format (two lines only):
+CORRECT_VALUE: <the correct value>
+REASONING: <brief explanation>
+
+
+>>> RESPONSE:
+CORRECT_VALUE: Tel Aviv, Israel
+REASONING: Israel Discount Bank’s headquarters/main office is in Tel Aviv (at the Discount Tower complex), making Tel Aviv the correct city; “null” is missing data.
+

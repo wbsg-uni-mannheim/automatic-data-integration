@@ -1,0 +1,23 @@
+{
+  "id_column": "id",
+  "include_singletons": true,
+  "rules": {
+    "ESRB": "voting",
+    "criticScore": "median",
+    "developer": "prefer_higher_trust",
+    "globalSales": "prefer_higher_trust",
+    "name": "favour_sources",
+    "platform": "prefer_higher_trust",
+    "publisher": "prefer_higher_trust",
+    "releaseYear": "prefer_higher_trust",
+    "series": "prefer_higher_trust",
+    "userScore": "median"
+  },
+  "strategy_name": "iterative_strategy",
+  "trust_key": "trust_score",
+  "trust_scores": {
+    "dbpedia": 1.0,
+    "metacritic": 2.8261224514497645,
+    "sales": 3.0
+  }
+}

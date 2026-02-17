@@ -1,0 +1,101 @@
+We are doing DATA FUSION: merge multiple records that refer to the same real-world entity.
+
+Task:
+1) Infer what the MAIN ENTITY is from dataset names and attribute names.
+2) For EACH attribute, choose EXACTLY ONE conflict resolution function (resolver) from the allowed list.
+3) The main goal is to correctly identify list-like attributes and choose a list resolver (usually 'union').
+
+Allowed resolvers (choose only from this list):
+['average', 'earliest', 'favour_sources', 'intersection', 'intersection_k_sources', 'longest_string', 'maximum', 'median', 'minimum', 'most_complete', 'most_recent', 'prefer_higher_trust', 'random_value', 'shortest_string', 'sum_values', 'union', 'voting', 'weighted_voting']
+
+Resolver guidance:
+- Lists/Sets: union, intersection, intersection_k_sources (if you choose union for string-lists, you may set kwargs.separator to ',', ';', or '|')
+- Strings: most_complete, longest_string, shortest_string
+- Numerics: median, average, maximum, minimum, sum_values
+- Dates: most_recent, earliest
+- Source-aware: prefer_higher_trust (use kwargs.trust_key='trust_score'), voting, weighted_voting, favour_sources, random_value
+
+Starting point (heuristic plan you can override):
+{
+  "artist": {
+    "kwargs": {},
+    "resolver": "most_complete"
+  },
+  "duration": {
+    "kwargs": {},
+    "resolver": "median"
+  },
+  "genre": {
+    "kwargs": {},
+    "resolver": "most_complete"
+  },
+  "label": {
+    "kwargs": {},
+    "resolver": "most_complete"
+  },
+  "name": {
+    "kwargs": {},
+    "resolver": "longest_string"
+  },
+  "release-country": {
+    "kwargs": {},
+    "resolver": "most_complete"
+  },
+  "release-date": {
+    "kwargs": {
+      "trust_key": "trust_score"
+    },
+    "resolver": "prefer_higher_trust"
+  },
+  "tracks": {
+    "kwargs": {
+      "separator": ","
+    },
+    "resolver": "union"
+  }
+}
+
+Attribute diagnostics (to help spot list-like attributes and separators):
+      attribute  inferred_list inferred_separator  inferred_boolean  inferred_numeric  inferred_date  identifier_like                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        sample_values
+         artist          False               None             False             False          False            False                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             [John B, Psychosis, Lypid, Petalpusher, Laurent Garnier, Ron Trent, The Gallery Collective, Mampi Swift]
+       duration          False               None             False              True          False            False                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         [903.0, 734.0, 1626.0, 1265.0, 1378.0, 944.0, 1168.0, 120.0]
+          genre          False               None             False             False          False            False                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     [Electronic / Dance, Electronic / Dance, Electronic / Dance, Electronic / Dance, Electronic / Dance, Electronic / Dance, Electronic / Dance, Electronic / Dance]
+          label          False               None             False             False          False            False                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    [New Identity Recordings, Renegade Hardware, Statra Recordings, Naked Music Recordings, F Communications, Peacefrog Records, Prescription, Suburban Base Records]
+           name          False               None             False             False          False            False                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     [Fermats Theorem / Sight Beyond, Tempest / Inner Sense, The Sign's Alive, Surrender, Unreasonable Behaviour, In The Spirit, The Dance, Analogue]
+release-country          False               None             False             False          False            False                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               [UK, UK, United States of America, United States of America, France, UK, United States of America, UK]
+   release-date          False               None             False             False           True            False                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     [1996-01-01, 1998-01-01, 2000-09-05, 1999-04-27, 2000-06-01, 1999-01-01, 1996-01-01, 1997-01-01]
+         tracks           True                  ,             False             False          False            False [['Fermats Theorem', 'Sight Beyond'], ['Tempest', 'Inner Sense'], ["The Sign's Alive (Original Mix)", "The Sign's Alive (Radio Edit)", "The Sign's Alive (Fila Brazillia Dub)", "The Sign', ['Surrender (Petalpusher Original)', "Surrender (Mig's Naked Seduction Dub)", 'Surrender (Attaboy Remix)', "Surrender (M, ['The Warning', 'City Sphere', 'Forgotten Thoughts', 'The Sound Of The Big Babou', 'Unreasonable Behaviour', "Cycles D'o, ['In The Spirit (The Full Experience)', 'In The Spirit (Kada)', 'In The Spirit (Guitar Alchemy)'], ['The Dance (The Full Gallery Mix)', 'The Dance (Saxxy Instrumental Mix)', 'The Dance (Sleezy Dub Mix)'], ['Analogue', 'Behold']]
+
+Dataset overview (trust_score may be missing; you can still use prefer_higher_trust if it makes sense):
+[
+  {
+    "dataset_name": "discogs",
+    "rows": 22627,
+    "columns": 8,
+    "trust_score": null
+  },
+  {
+    "dataset_name": "lastfm",
+    "rows": 9865,
+    "columns": 5,
+    "trust_score": null
+  },
+  {
+    "dataset_name": "musicbrainz",
+    "rows": 4763,
+    "columns": 7,
+    "trust_score": null
+  }
+]
+
+Return ONLY strict JSON in this schema:
+{
+  "main_entity": "<string>",
+  "attribute_rules": {
+    "<attribute>": {"resolver": "<resolver_name>", "kwargs": {...}},
+    ...
+  }
+}
+Notes:
+- Include every attribute listed in the heuristic plan.
+- Use kwargs only when needed. Do not invent new resolvers.

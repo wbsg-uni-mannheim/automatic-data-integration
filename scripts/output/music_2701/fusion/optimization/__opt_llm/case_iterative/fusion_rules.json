@@ -1,0 +1,66 @@
+{
+  "attribute_rules": {
+    "Attribute_6": {
+      "kwargs": {
+        "separator": ","
+      },
+      "resolver": "union"
+    },
+    "Attribute_7": {
+      "kwargs": {},
+      "resolver": "maximum"
+    },
+    "artist": {
+      "kwargs": {
+        "sources": [
+          "discogs"
+        ]
+      },
+      "resolver": "favour_sources"
+    },
+    "genre": {
+      "kwargs": {
+        "sources": [
+          "discogs"
+        ]
+      },
+      "resolver": "favour_sources"
+    },
+    "label": {
+      "kwargs": {
+        "sources": [
+          "discogs"
+        ]
+      },
+      "resolver": "favour_sources"
+    },
+    "name": {
+      "kwargs": {
+        "sources": [
+          "musicbrainz"
+        ]
+      },
+      "resolver": "favour_sources"
+    },
+    "release-country": {
+      "kwargs": {
+        "trust_key": "trust_score"
+      },
+      "resolver": "weighted_voting"
+    },
+    "release-date": {
+      "kwargs": {
+        "trust_key": "trust_score"
+      },
+      "resolver": "prefer_higher_trust"
+    },
+    "tracks_track-name": {
+      "kwargs": {
+        "sources": [
+          "musicbrainz"
+        ]
+      },
+      "resolver": "favour_sources"
+    }
+  }
+}

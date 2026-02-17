@@ -1,0 +1,299 @@
+{
+  "Game Boy Color": [
+    "GAME BOY COLOR",
+    "Game Boy Color"
+  ],
+  "PlayStation Vita": [
+    "PS Vita",
+    "PlayStation Vita",
+    "Playstation Vita",
+    "Playstation VitaR"
+  ],
+  "Wii": [
+    "Wii",
+    "WiiWare"
+  ],
+  "Xbox One": [
+    "XOne",
+    "Xbox One"
+  ],
+  "Xbox 360": [
+    "List of Xbox 360 accessories",
+    "Xbox 360",
+    "Xbox 360 (console)",
+    "Xbox Live Arcade"
+  ],
+  "Game Boy Advance": [
+    "Game Boy Advance"
+  ],
+  "Wii U": [
+    "Wii U",
+    "Wii U Virtual Console",
+    "WiiU"
+  ],
+  "PlayStation": [
+    "PlayStation",
+    "Playstation",
+    "Sony PlayStation"
+  ],
+  "Game Boy": [
+    "Game Boy",
+    "Game Boy line"
+  ],
+  "Atari 2600": [
+    "Atari 2600"
+  ],
+  "Xbox": [
+    "Xbox"
+  ],
+  "Sega Saturn": [
+    "Sega Saturn"
+  ],
+  "Google Stadia": [
+    "Google Stadia",
+    "Stadia"
+  ],
+  "PlayStation 5": [
+    "PlayStation 5"
+  ],
+  "Amazon Luna": [
+    "Amazon Luna"
+  ],
+  "Oculus Rift": [
+    "Oculus Rift"
+  ],
+  "Sega Game Gear": [
+    "Game Gear",
+    "Sega Game Gear"
+  ],
+  "Nintendo 64": [
+    "Nintendo 64",
+    "Nintendo 64DD"
+  ],
+  "Sega Master System": [
+    "Master System",
+    "Sega Mark III",
+    "Sega Master System"
+  ],
+  "PlayStation VR": [
+    "PlayStation VR",
+    "Playstation VR"
+  ],
+  "Atari Jaguar": [
+    "Atari Jaguar",
+    "Atari Jaguar CD"
+  ],
+  "Oculus Quest": [
+    "Oculus Quest"
+  ],
+  "Sega Genesis Mini 2": [
+    "Sega Genesis Mini 2"
+  ],
+  "Valve Index": [
+    "Valve Index"
+  ],
+  "Nintendo 2DS": [
+    "Nintendo 2DS"
+  ],
+  "Oculus Quest 2": [
+    "Meta Quest 2",
+    "Oculus Quest 2"
+  ],
+  "HTC Vive": [
+    "HTC Vive"
+  ],
+  "PlayStation VR2": [
+    "PlayStation VR2"
+  ],
+  "Neo Geo MVS": [
+    "Neo Geo MVS"
+  ],
+  "Atari 5200": [
+    "Atari 5200"
+  ],
+  "Atari 7800": [
+    "Atari 7800"
+  ],
+  "Sega Dreamcast": [
+    "DC",
+    "Dreamcast",
+    "Sega Dreamcast"
+  ],
+  "Xbox Series X": [
+    "Xbox Series X",
+    "Xbox Series X and Series S",
+    "Xbox Series X/S"
+  ],
+  "Oculus Rift S": [
+    "Oculus Rift S"
+  ],
+  "Windows PC": [
+    "Desktop Computer",
+    "Games for Windows \u2013 Live",
+    "IBM OS/2",
+    "IBM PC",
+    "IBM PC Compatible",
+    "IBM PC compatible",
+    "Microsoft Windows",
+    "Microsoft Windows 2000",
+    "Microsoft Windows 3.1",
+    "Microsoft Windows 7",
+    "Microsoft Windows 95",
+    "Microsoft Windows 98",
+    "Microsoft Windows NT",
+    "Microsoft Windows Vista",
+    "Microsoft Windows XP",
+    "PC",
+    "PC AT",
+    "Personal Computer",
+    "Pocket PC",
+    "Windows",
+    "Windows 10",
+    "Windows 2000",
+    "Windows 3.1",
+    "Windows 3.1x",
+    "Windows 3.x",
+    "Windows 7",
+    "Windows 8",
+    "Windows 8.1",
+    "Windows 95",
+    "Windows 98",
+    "Windows 9x",
+    "Windows CE",
+    "Windows Me",
+    "Windows PC",
+    "Windows RT",
+    "Windows Server 2008",
+    "Windows Vista",
+    "Windows XP",
+    "Windows XP SP2",
+    "X86"
+  ],
+  "Arcade Cabinet": [
+    "Amusement arcade",
+    "Arcade Game",
+    "Arcade cabinet",
+    "Arcade game",
+    "Arcade games",
+    "Arcade video game",
+    "List of Sega arcade system boards",
+    "Sega Naomi",
+    "Video arcade",
+    "Video game arcade cabinet"
+  ],
+  "macOS": [
+    "Apple Mac",
+    "Apple Macintosh",
+    "Mac OS",
+    "Mac OS 8",
+    "Mac OS 8.6",
+    "Mac OS 9",
+    "Mac OS X",
+    "Mac OS X 10.4",
+    "Mac OS X 10.6",
+    "Mac OS X Leopard",
+    "MacOS",
+    "Macintosh operating systems",
+    "OS X",
+    "OS/X"
+  ],
+  "PlayStation 4": [
+    "PS4"
+  ],
+  "PlayStation 2": [
+    "PS2"
+  ],
+  "PlayStation Portable (PSP)": [
+    "PlayStation Portable",
+    "PlayStation Potable",
+    "Playstation Portable"
+  ],
+  "Nintendo Switch": [
+    "Switch"
+  ],
+  "Sega Genesis / Mega Drive": [
+    "Mega Drive",
+    "Mega Drive/Genesis",
+    "Sega Genesis",
+    "Sega Genesis/Mega Drive",
+    "Sega Mega Drive",
+    "Sega Mega Drive/Genesis",
+    "Sega Mega Drive/Sega Genesis",
+    "Sega Megadrive"
+  ],
+  "Linux / SteamOS": [
+    "Linux",
+    "SteamOS",
+    "Unix-like"
+  ],
+  "iOS (iPhone)": [
+    "Apple iOS",
+    "Apple iPhone",
+    "IOS",
+    "IOS (Apple)",
+    "IOS 8",
+    "IPhone",
+    "IPhone OS",
+    "IPhone OS 2"
+  ],
+  "PlayStation 3": [
+    "PS3"
+  ],
+  "Android": [
+    "Android (OS)",
+    "Android (Operating System)",
+    "Android (operating system)",
+    "Android 4.0",
+    "Android OS",
+    "Android Operating System",
+    "Android TV",
+    "Shield Android TV",
+    "Shield Tablet"
+  ],
+  "Nintendo DS": [
+    "DS"
+  ],
+  "Nintendo 3DS": [
+    "3DS",
+    "3DS family"
+  ],
+  "Nintendo GameCube": [
+    "GameCube"
+  ],
+  "Super Nintendo (SNES)": [
+    "Super Famicom",
+    "Super Nintendo"
+  ],
+  "Nintendo Entertainment System (NES)": [
+    "Famicom",
+    "Famicom/Nintendo Entertainment System",
+    "Family Computer",
+    "Nintendo Entertainment System",
+    "SNintendo Entertainment System"
+  ],
+  "iPadOS (iPad)": [
+    "IPad",
+    "IPad 2",
+    "IPadOS"
+  ],
+  "New Nintendo 3DS": [
+    "New 3DS"
+  ],
+  "Nintendo DSi": [
+    "DSi",
+    "DSiWare",
+    "List of DSiWare games and applications"
+  ],
+  "Windows PC (Steam)": [
+    "Steam (service)"
+  ],
+  "Windows PC (Microsoft Store)": [
+    "Windows Store"
+  ],
+  "SNES Classic Edition": [
+    "Super Nintendo Classic Edition"
+  ],
+  "PlayStation Classic": [
+    "List of PlayStation minis"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "case_name": "llm_val",
+  "rules": {
+    "ESRB": {
+      "resolver": "voting",
+      "kwargs": {}
+    },
+    "criticScore": {
+      "resolver": "median",
+      "kwargs": {}
+    },
+    "developer": {
+      "resolver": "most_complete",
+      "kwargs": {}
+    },
+    "globalSales": {
+      "resolver": "median",
+      "kwargs": {}
+    },
+    "name": {
+      "resolver": "favour_sources",
+      "kwargs": {
+        "sources": [
+          "sales"
+        ]
+      }
+    },
+    "platform": {
+      "resolver": "most_complete",
+      "kwargs": {}
+    },
+    "publisher": {
+      "resolver": "most_complete",
+      "kwargs": {}
+    },
+    "releaseYear": {
+      "resolver": "prefer_higher_trust",
+      "kwargs": {
+        "trust_key": "trust_score"
+      }
+    },
+    "series": {
+      "resolver": "most_complete",
+      "kwargs": {}
+    },
+    "userScore": {
+      "resolver": "median",
+      "kwargs": {}
+    }
+  },
+  "accuracy_by_mode": {},
+  "source_stats": null,
+  "iterations_used": 1,
+  "optimization_mode": "llm_omit"
+}

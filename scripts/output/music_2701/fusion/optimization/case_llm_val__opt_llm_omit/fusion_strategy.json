@@ -1,0 +1,22 @@
+{
+  "id_column": "id",
+  "include_singletons": true,
+  "rules": {
+    "Attribute_6": "union",
+    "Attribute_7": "maximum",
+    "artist": "favour_sources",
+    "genre": "favour_sources",
+    "label": "favour_sources",
+    "name": "favour_sources",
+    "release-country": "voting",
+    "release-date": "most_recent",
+    "tracks_track-name": "favour_sources"
+  },
+  "strategy_name": "llm_val_strategy",
+  "trust_key": "trust_score",
+  "trust_scores": {
+    "discogs": 3.0,
+    "lastfm": 1.800401375804757,
+    "musicbrainz": 1.0
+  }
+}

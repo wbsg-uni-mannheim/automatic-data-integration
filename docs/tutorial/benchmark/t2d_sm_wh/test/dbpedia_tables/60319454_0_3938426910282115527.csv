@@ -1,0 +1,81 @@
+rdf-schema#label,genus,status,synonyms
+American black bear,Ursus,"LC, CITES_A2",Euarctos americanus
+Amphirhagatherium,Amphirhagatherium,,* Anthracobunodon
+Antarctodolops,Antarctodolops,,Eurydolops seymouriensis
+Astraponotus,Astraponotus,,"* Megalophodon 
+* Notamynus"
+Azygonyx,†Azygonyx,,* Esthonyx
+Brown hyena,Parahyaena,NT,"* Hyaena brunnea (Thunberg, 1820)
+* Hyaena fusca (E. Geoffroy Saint-Hilaire, 1825)
+* Hyaena striata (A. Smith, 1826)
+* Hyaena villosa (A. Smith, 1827)
+* Hyaena melampus (Pocock, 1934)"
+Bush dog,Speothos,"NT, CITES_A1",
+Canada lynx,Lynx,"LC, CITES_A2",", F. cervaria, F. isabellina, F. kattlo, F. lupulinus, F. lyncula, F. lynx, F. pardina, F. virgata, F. vulpinus, Felis borealis, L. pardella, L. sardinae, L. vulgaris, Lynx cervaria"
+Caracal,Caracal,"LC, CITES_A1","*C. bengalensis 
+*C. melanotis 
+*C. melanotix 
+*C. berberorum 
+*C. corylinus 
+*C. medjerdae 
+*C. aharonii 
+*C. spatzi 
+*C. roothi 
+*C. coloniae 
+*C. michaelis"
+Cheetah,,"VU, CITES_A1",", A. guepard, A. rex, A. wagneri, Acinonyx venator, Cynaelurus guttatus, Cynaelurus jubata, Cynaelurus lanea, Cynailurus jubatus, Cynailurus soemmeringii, Cynofelis guttata, Cynofelis jubata, F. fearonis, F. megabalica, F. megaballa, Felis fearonii, Guepar jubatus, Gueparda guttata, Guepardus guttata, Guepardus jubatus"
+Choerolophodon,†Choerolophodon,,"* Mastodon pentelicus Gaudry and Lartet, 1856"
+Cougar,Puma,"LC, CITES_A2",
+Dhole,Cuon,"EN, CITES_A2",Canis alpinus
+Dugong,Dugong,"VU, CITES_A1",
+Eastern gray squirrel,Sciurus,LC,"* Neosciurus carolinensis
+* S. pennsylvanica
+* S. hiemalis
+* S. leucotis
+* S. fulginosus
+* S. migratorius"
+Fork-marked lemur,,CITES_A1,
+Geolabididae,,,Geolabidinae
+Giant mouse lemur,,CITES_A1,
+Gibbon,,CITES_A1,
+Hondonadia,†Hondonadia,,* Pascualdelphys
+Humpback whale,Megaptera,"LC, CITES_A1","* Balaena gibbosa (Erxleben, 1777)
+* B. boops (Fabricius, 1780)
+* B. nodosa (Bonnaterre, 1789)
+* B. longimana (Rudolphi, 1832)
+* Megaptera longimana (Gray, 1846)
+* Kyphobalaena longimana (Van Beneden, 1861)
+* Megaptera versabilis (Cope, 1869)"
+Jaguarundi,,"LC, CITES_A1",", F. apache (Mearns, 1901), F. cacomitli (Berlandier, 1859), F. eyra (Fischer, 1814), F. fossata (Mearns, 1901), F. panamensis (Allen, 1904), F. unicolor (Thraill, 1819), Felis yagouaroundi (Geoffroy, 1803), Puma yaguaroundi  (Lacépède, 1809)"
+Long-tailed gracile mouse opossum,,DD,"Gracilinanus longicaudis Hershkovitz, 1992 [orthographic error]"
+Lycopsis,,,* Anatherium oxyrhynchus
+Maned wolf,Chrysocyon,"NT, CITES_A2","Canis brachyurus, C. campestris, C. isodactylus, C. jubatus, Vulpes cancrosa"
+Megalohyrax,,,"Mixohyrax (Schlosser, 1910)"
+Mexican free-tailed bat,Tadarida,LC,
+Moonrat,Echinosorex,LC,
+Neurogymnurus,†Neurogymnurus,,"* †Cayluxotherium
+* †Necrogymllurus"
+Numbat,,EN,
+Ocelot,Leopardus,"LC, CITES_A1",", F. brasiliensis, L. pictus, Leopardus griseus, F. albescens, F. armillatus, F. buffoni, F. canescens, F. chati, F. chibi-gouazou, F. grifithii, F. hamiltonii, F. limitis, F. ludoviciana, F. maracaya, F. maripensis, F. mearnsi, F. melanura, F. mexicana, F. mitis, F. ocelot, F. pardalis, F. pseudopardalis, F. sanctaemartae, F. smithii, Felis aequatorialis"
+Pharsophorus,,,"* Plesiofelis 
+* Pharsophorus cretaceus 
+* Plesiofelis cretaceus"
+Pronghorn,Antilocapra,"LC, CITES_A1",
+Prothylacinus,,,"* Napodonictis 
+* Prothylacocyon"
+Pygmy hippopotamus,Choeropsis,"EN, CITES_A2",*Hexaprotodon liberiensis
+Scalaridelphys,Scalaridelphys,,"*Scalaria (Cohen, Davis & Cifelli, 2020 )"
+Striped hyena,Hyaena,NT,", Canis hyaena (Linnaeus, 1758), Hyaena antiquorum, Hyaena barbara (de Blainville, 1844), Hyaena bergeri (Matschie, 1910), Hyaena bilkiewiczi (Satunin, 1905), Hyaena bokcharensis (Satunin, 1905), Hyaena dubbah (Meyer, 1793), Hyaena dubia (Schinz, 1821), Hyaena fasciata (Thunberg, 1820), Hyaena hienomelas (Matschie, 1900), Hyaena hyaenomelas, Hyaena indica (de Blainville, 1844), Hyaena orientalis (Tiedemann, 1808), Hyaena rendilis (Lönnberg, 1912), Hyaena satunini (Matschie, 1910), Hyaena schillingsi (Matschie, 1900), Hyaena striata (Zimmermann, 1777), Hyaena suilla (Filippi, 1853), Hyaena sultana (Pocock, 1934), Hyaena syriaca (Matschie, 1900), Hyaena virgata (Ogilby, 1840), Hyaena vulgaris (Desmarest, 1820), Hyaena zarudnyi (Satunin, 1905)"
+Sun bear,Helarctos,"VU, CITES_A1",", H. euryspilus, Helarctos anmamiticus, Ursus malayanus"
+Thornicroft's giraffe,,VU,"G. thornicrofti, G. tippelskirchi thornicrofti"
+Three-toed sloth,,,
+Tinodon,Tinodon,,"*Amphidon aequicrurius (Simpson, 1925)
+*Eurylambda aequicrurius (Simpson, 1929)
+*Menacodon rarus (Marsh, 1887)
+*Tinodon lepidus (Marsh, 1879)"
+Uintaceras,Uintaceras,,"*Forstercooperia grandis? (Radinsky, 1967)
+*Hyrachyus grande? (Peterson, 1919)
+*Hyrachyus grandis?"
+Walrus,Odobenus,VU,"* Phoca rosmarus (Linnaeus, 1758)
+* Trichechus rosmarus (Linnaeus, 1766)"
+Western gray squirrel,Sciurus,LC,

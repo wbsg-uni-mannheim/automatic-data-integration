@@ -1,0 +1,47 @@
+{
+  "attribute_rules": {
+    "artist": {
+      "kwargs": {},
+      "resolver": "voting"
+    },
+    "duration": {
+      "kwargs": {},
+      "resolver": "median"
+    },
+    "genre": {
+      "kwargs": {},
+      "resolver": "most_complete"
+    },
+    "label": {
+      "kwargs": {},
+      "resolver": "most_complete"
+    },
+    "name": {
+      "kwargs": {
+        "sources": [
+          "musicbrainz"
+        ]
+      },
+      "resolver": "favour_sources"
+    },
+    "release-country": {
+      "kwargs": {
+        "trust_key": "trust_score"
+      },
+      "resolver": "weighted_voting"
+    },
+    "release-date": {
+      "kwargs": {},
+      "resolver": "most_recent"
+    },
+    "tracks": {
+      "kwargs": {
+        "sources": [
+          "musicbrainz"
+        ]
+      },
+      "resolver": "favour_sources"
+    }
+  },
+  "main_entity": "music release (album/EP/single)"
+}

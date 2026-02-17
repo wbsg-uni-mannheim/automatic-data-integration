@@ -1,0 +1,4 @@
+id,name,releaseYear,developer,platform,series,Source,criticScore,userScore,ESRB,publisher,globalSales
+dbpedia_1,San Francisco Rush 2049,2006-01-01,Handheld Games,Game Boy Color,Rush (video game series),Dbpedia,,,,,
+metacritic_1,Red Dead Redemption 2,2018-01-01,Rockstar Games,Xbox One,,Metacritic,97.0,8.3,M,,
+sales_1,Wii Sports,2006-01-01,Nintendo,Wii,,Sales,76.0,8.0,E,Nintendo,82.0

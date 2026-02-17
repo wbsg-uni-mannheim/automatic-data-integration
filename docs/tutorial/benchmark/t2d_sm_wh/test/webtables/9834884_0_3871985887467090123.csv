@@ -1,0 +1,378 @@
+Nr.,Score *,Country,Museum
+1,11,USA,Museum of Modern Art (MoMA)
+2,14,USA,Metropolitan Museum of Art
+3,34,France,Mus?e du Louvre
+4,35,USA,National Gallery of Art
+5,37,United Kingdom,Victoria and Albert Museum
+6,40,USA,J. Paul Getty Museum
+7,50,Germany,Deutsches Historisches Museum
+8,51,USA,Los Angeles County Museum of Art (LACMA)
+9,53,Russia,State Hermitage Museum
+10,58,USA,Brooklyn Museum of Art
+11,59,United Kingdom,National Maritime Museum
+12,61,USA,Museum of Fine Arts (MFA)
+13,67,United Kingdom,National Gallery
+14,69,Netherlands,Rijksmuseum
+15,72,Spain,Museo Nacional del Prado
+16,74,United Kingdom,Royal Academy of Arts
+17,76,United Kingdom,Tate Britain
+18,83,New Zealand,Museum of New Zealand Te Papa Tongarewa
+19,87,USA,Philadelphia Museum of Art
+20,88,USA,Minneapolis Institute of Arts
+21,89,USA,Indianapolis Museum of Art
+22,94,United Kingdom,Ashmolean Museum
+23,108,USA,Detroit Institute of Arts (DIA)
+24,111,Spain,Museo Thyssen-Bornemisza
+25,114,USA,Seattle Art Museum
+26,123,USA,Saint Louis Art Museum (SLAM)
+27,133,Canada,Art Gallery of Ontario (AGO)
+28,141,United Kingdom,Manchester Art Gallery
+29,141,USA,Corcoran Gallery of Art
+30,145,United Kingdom,National Gallery of Scotland /National Portrait Gallery
+31,149,United Kingdom,Royal Collection
+32,150,Japan,National Museum of Western Art
+33,156,USA,High Museum of Art
+34,161,USA,Jewish Museum
+35,165,USA,Norton Simon Museum
+36,168,Austria,Kunsthistorisches Museum (KHM)
+37,168,USA,Frick Collection
+38,175,USA,Isabella Stewart Gardner Museum
+39,178,USA,"Museum of Fine Arts, Houston"
+40,183,USA,Denver Art Museum
+41,184,United Kingdom,National Museum of Wales
+42,186,Spain,Palacio Real
+43,187,Finland,Sinebrychoffin Taidemuseo
+44,189,Spain,Patrimonio Nacional
+45,190,United Kingdom,Wallace Collection
+46,194,Denmark,Statens Museum for Kunst
+47,197,Poland,Muzeum Ksiazat Lubomirskich
+48,203,USA,Milwaukee Art Museum
+49,209,USA,Walters Art Museum
+50,218,USA,Carnegie Museum of Art
+51,225,USA,Worcester Art Museum
+52,227,Germany,St?del Museum
+53,234,USA,Cleveland Museum of Art
+54,237,Germany,Hamburger Kunsthalle
+55,244,Germany,Klassik Stiftung Weimar
+56,249,USA,Portland Art Museum
+57,253,USA,Nelson-Atkins Museum of Art
+58,254,USA,Albright-Knox Art Gallery
+59,255,Germany,Landesmuseum f?r Kunst und Kulturgeschichte
+60,255,Netherlands,Museum Boijmans Van Beuningen
+61,256,USA,Phoenix Art Museum
+62,257,Germany,Schloss Sanssouci
+63,261,Canada,National Gallery of Canada
+64,265,Germany,"Gem?ldegalerie, Staatliche Museen zu Berlin"
+65,265,USA,North Carolina Museum of Art
+66,270,USA,John and Mable Ringling Museum of Art
+67,270,Germany,Kunst- und Ausstellungshalle der Bundesrepublik Deutschland
+68,272,USA,Dallas Museum of Art
+69,274,Germany,Germanisches Nationalmuseum
+70,277,Hungary,Sz?pm?v?szeti M?zeum
+71,286,Austria,Landesmuseum Joanneum - Alte Galerie
+72,289,France,Mus?e Jacquemart-Andr?
+73,290,Belgium,Koninklijke Musea voor Schone Kunsten van Belgi?
+74,292,United Kingdom,British Museum
+75,292,Luxembourg,Mus?e National d'Histoire et d'Art
+76,293,Netherlands,Van Gogh Museum
+77,293,United Kingdom,City Museums and Art Gallery
+78,293,Sweden,G?teborgs Konstmuseum
+79,294,United Kingdom,Chatsworth House
+80,295,Russia,Peter the Great Museum of Anthropology and Ethnography
+81,309,USA,Sterling and Francine Clark Art Institute
+82,316,Germany,Kunstareal Munchen
+83,316,Netherlands,Kr?ller-M?ller Museum
+84,316,Slovak Republic,Slovensk? N?rodn? Gal?ria
+85,317,Sweden,Museum Gustavianum Uppsala
+86,319,USA,Toledo Museum of Art
+87,319,USA,San Diego Museum of Art
+88,320,Netherlands,Mauritshuis
+89,325,Germany,Museum der bildenden K?nste Leipzig
+90,329,Switzerland,Kunsthaus Z?rich
+91,330,Russia,Pushkin State Museum of Fine Arts
+92,330,Argentina,Museo Nacional de Bellas Artes
+93,333,Netherlands,Joods Historisch Museum
+94,336,Netherlands,Van Abbemuseum
+95,339,Netherlands,Erfgoedcentrum DiEP
+96,340,Czech Republic,N?rodn? galerie v Praze
+97,344,Netherlands,Amsterdams Historisch Museum (AHM)
+98,347,USA,New Orleans Museum of Art (NOMA)
+99,347,Germany,Staatsgalerie Stuttgart
+100,352,USA,Ackland Art Museum
+101,354,USA,Chrysler Museum of Art
+102,356,USA,Blanton Museum of Art
+103,357,Cuba,Museo Nacional de Bellas Artes de Cuba
+104,358,France,Mus?e des Beaux-Arts de Lyon
+105,359,New Zealand,Auckland Art Gallery Toi o T??maki
+106,359,Poland,Muzeum Narodowe w Warszawie
+107,366,Italy,Galleria Borghese
+108,368,Liechtenstein,Kunstmuseum Liechtenstein
+109,378,Switzerland,Kunstmuseum Basel
+110,385,Germany,Staatliche Kunstsammlungen Dresden
+111,386,Netherlands,Centraal Museum
+112,392,Canada,Mus?e des Beaux-Arts de Montr?al
+113,398,Italy,Firenze Musei
+114,402,Switzerland,Mus?e d'Art et d'Histoire
+115,403,Israel,Israel Museum
+116,404,Germany,Von der Heydt-Museum
+117,407,Austria,Ober?sterreichisches Landesmuseum
+118,407,Austria,Liechtenstein Museum
+119,407,USA,Williams College Museum of Art
+120,408,USA,Baltimore Museum of Art
+121,411,Malta,National Museum of Fine Arts
+122,412,USA,Dayton Art Institute
+123,412,Brazil,Museu de Arte
+124,414,USA,Crocker Art Museum
+125,417,Ireland,National Gallery of Ireland
+126,418,USA,Wadsworth Atheneum Museum of Art
+127,419,Spain,Museo Nacional de Escultura
+128,420,Spain,Bilboko Arte Eder Museoa
+129,432,Netherlands,Stedelijk Museum
+130,433,Italy,Palazzo Strozzi
+131,440,Germany,Kulturgeschichtliches Museum
+132,441,Germany,Sprengel Museum
+133,443,Netherlands,Groninger Museum
+134,450,Netherlands,Museum Het Valkhof
+135,451,USA,Barnes Foundation
+136,451,United Kingdom,Dulwich Picture Gallery
+137,454,Belgium,Koninklijk Instituut voor het Kunstpatrimonium (KIK)
+138,455,Germany,Staatliches Museum Schwerin
+139,457,USA,Speed Art Museum
+140,459,Sweden,Nationalmuseum
+141,460,Czech Republic,Moravsk? Galerie
+142,462,Netherlands,Noordbrabants Museum
+143,463,Germany,Kunsthalle Bremen
+144,465,Netherlands,Maritiem Museum Rotterdam
+145,469,Netherlands,Stedelijk Museum De Lakenhal
+146,472,Netherlands,Museum Boerhaave
+147,474,USA,Currier Museum of Art
+148,477,Germany,Historisches Museum Frankfurt am Main
+149,478,USA,Birmingham Museum of Art
+150,478,Romania,Muzeul Na??ional de Arta al Rom?niei
+151,479,Poland,Zamek Kr?lewski na Wawelu
+152,480,Netherlands,Museum Meermanno
+153,485,Netherlands,Zuiderzeemuseum
+154,489,Netherlands,Nederlands Scheepvaartmuseum Amsterdam
+155,489,Netherlands,Bonnefantenmuseum
+156,489,USA,Cincinnati Art Museum
+157,490,Netherlands,Fries Museum
+158,494,Israel,Tel Aviv Museum of Art
+159,500,Germany,Museum Kunst Palast
+160,502,Germany,Staatliche Kunsthalle
+161,503,Austria,Albertina
+162,503,Poland,Muzeum-Pa??ac w Wilan?wie
+163,505,USA,Norton Museum of Art
+164,506,Spain,Fundaci?n Carlos de Amberes
+165,508,Spain,Museo L?zaro Galdiano
+166,511,Germany,Kunsthalle der Hypo-Kulturstiftung
+167,516,USA,"Museum of Art, Rhode Island School of Design"
+168,528,Netherlands,Museum Catharijneconvent
+169,529,United Kingdom,Courtauld Institute of Art Gallery
+170,531,Netherlands,Galerij Prins Willem V
+171,532,Netherlands,Geldmuseum Utrecht
+172,532,Germany,Schleswig-Holsteinisches Landesmuseum Schloss Gottorf
+173,534,Belgium,Koninklijke Musea voor Kunst en Geschiedenis
+174,535,Belgium,Vlaamse Kunstcollectie
+175,541,Netherlands,Historisch Museum Deventer
+176,553,Russia,Peterhof Palace National Museum
+177,556,United Kingdom,Bowes Museum
+178,557,Netherlands,Dordrechts Museum
+179,557,Germany,Martin-von-Wagner-Museum
+180,558,United Kingdom,Barber Institute of Fine Arts
+181,562,Netherlands,Teylers Museum
+182,565,France,Mus?e des Augustins
+183,568,Belgium,Koninklijk Museum voor Schone Kunsten (KMSKA)
+184,569,France,Mus?e Cond?
+185,575,Romania,Muzeul Na??ional Brukenthal
+186,577,Mexico,Museo Franz Mayer
+187,580,USA,Bass Museum of Art
+188,583,Italy,Museo Poldi Pezzoli
+189,585,Poland,Muzeum Narodowe w Krakowie
+190,586,Netherlands,Cobra Museum voor Moderne Kunst
+191,586,Norway,"Nasjonalmuseet for Kunst, Arkitektur og Design"
+192,587,United Kingdom,National Portrait Gallery
+193,588,Belgium,Koninklijk Museum van het Leger en de Krijgsgeschiedenis
+194,592,Germany,Aachener Dom
+195,593,Argentina,Museo Nacional de Arte Decorativo
+196,595,Netherlands,Escher in het Paleis
+197,598,United Kingdom,"Kenwood, The Iveagh Bequest"
+198,607,USA,Holland Museum
+199,608,Poland,Muzeum Narodowe w Poznaniu
+200,612,Norway,Bergen Kunstmuseum
+201,613,Italy,Castello del Buonconsiglio
+202,614,Russia,Pavlovsk Palace
+203,618,Denmark,Rosenborg Slot
+204,623,USA,"Museum of Fine Arts, St. Petersburg"
+205,623,Netherlands,Museum voor Moderne Kunst Arnhem (MMKA)
+206,623,Poland,Zamek Kr?lewski w Warszawie
+207,629,Netherlands,Drents Museum
+208,636,France,Palais des Beaux-Arts
+209,638,Poland,Muzeum Narodowe we Wroc??awiu
+210,640,France,Mus?e de Grenoble
+211,642,USA,Philbrook Museum of Art
+212,644,Netherlands,Gemeentemuseum Den Haag
+213,644,Poland,Muzeum Historyczne Miasta Gda??ska
+214,647,France,Mus?e des Beaux-Arts de Rennes
+215,648,USA,Museum & Gallery at Bob Jones University
+216,653,Netherlands,Frans Hals Museum
+217,654,USA,Cummer Museum of Art and Gardens
+218,660,Belgium,Museum voor Schone Kunsten
+219,662,Czech Republic,Muzeum um??n?
+220,663,Netherlands,Singer Museum
+221,666,Netherlands,Museum het Rembrandthuis
+222,666,USA,Timken Museum of Art
+223,672,Germany,Kunsthalle T?bingen
+224,672,USA,Taft Museum of Art
+225,679,Denmark,Det Nationalhistoriske Museum p? Frederiksborg Slot
+226,680,Belgium,Cabinet des Estampes et des Dessins de la Ville de Li?ge
+227,684,Canada,Mus?e National des Beaux-Arts du Qu?bec
+228,685,Croatia,Muzej za umjetnost i obrt
+229,685,United Kingdom,"Tatton Park, National Trust"
+230,689,Austria,Residenzgalerie
+231,690,Netherlands,Allard Pierson Museum
+232,695,Germany,Herzog Anton Ulrich-Museum
+233,700,Latvia,Latvian Academy of Arts
+234,708,USA,Allentown Art Museum
+235,711,Netherlands,Stedelijk Museum Schiedam
+236,716,Netherlands,Zeeuws Museum
+237,727,Canada,Winnipeg Art Gallery
+238,729,Germany,Museum Schloss Wilhelmsh?he
+239,729,Austria,Tiroler Landesmuseum Ferdinandeum
+240,731,Netherlands,Museum Bredius
+241,735,Germany,Ostfriesisches Landesmuseum Emden
+242,736,Slovak Republic,Gal?ria Mesta Bratislavy
+243,740,Netherlands,Zeeuws Maritiem MuZEEum
+244,745,Czech Republic,Slezsk? zemsk? muzeum
+245,746,Croatia,Muzej Mimara
+246,749,Netherlands,Keramiekmuseum Princessehof
+247,749,Netherlands,museumgoudA / Het Catharina Gasthuis
+248,750,France,Institut National du Patrimoine
+249,750,Croatia,Hrvatska Akademija Znanostii Umjetnosti: Kabinet Grafike
+250,754,India,Chhatrapati Shivaji Maharaj Vastu Sangrahalaya
+251,759,Italy,Galleria Doria Pamphilj
+252,759,Netherlands,Stedelijk Museum Roermond
+253,760,Poland,Muzeum Sztuki w ??odzi
+254,760,France,Mus?e des Beaux-Arts de Strasbourg
+255,761,Austria,Nordico - Museum der Stadt Linz
+256,762,Belgium,Museum Leuven
+257,763,Poland,Muzeum Zamek w ??a??cucie
+258,764,Germany,Bayerisches Nationalmuseum
+259,765,Netherlands,Historisch Museum Rotterdam
+260,767,Poland,Muzeum w Nieborowie i Arkadii
+261,768,Germany,Couven-Museum
+262,774,Belarus,National Art Museum of the Republic of Belarus
+263,775,Germany,Haus der Niederlande
+264,778,Netherlands,Museum de Fundatie
+265,779,Netherlands,Westfries Museum
+266,780,Brazil,Instituto Ricardo Brennand
+267,781,France,Mus?e Granet d'Aix-en-Provence
+268,782,Netherlands,Museum Kranenburgh
+269,784,Brazil,Museu Nacional de Belas Artes
+270,787,United Kingdom,York Art Gallery
+271,789,Germany,Museum Schloss B?ckeburg
+272,791,Poland,Muzeum Narodowe w Szczecinie
+273,794,USA,New-York Historical Society
+274,797,Netherlands,Bijbels Museum
+275,798,Netherlands,Museum Jan Cunen
+276,807,Belgium,Mus?e de l'Art Wallon
+277,808,USA,Hyde Collection
+278,813,Austria,Gem?ldegalerie der Akademie der bildenden K?nste
+279,814,South Africa,Pretoria Art Museum
+280,815,United Kingdom,Cheltenham Art Gallery and Museum
+281,821,Netherlands,Panorama Mesdag
+282,825,Poland,Muzeum Czartoryskich
+283,830,Czech Republic,Oblastni Galerie
+284,833,Germany,Kunstverein Braunschweig
+285,834,Germany,Landesmuseum Mainz
+286,835,Belgium,"Rubenshuis, Musea Antwerpen"
+287,836,Greece,National Gallery and Alexandros Soutzos Museum
+288,837,Germany,Hessisches Landesmuseum
+289,837,Belgium,Onze-Lieve-Vrouwekathedraal Antwerpen
+290,839,France,Mus?e Fesch
+291,840,Ukraine,Lviv Art Gallery
+292,844,Netherlands,Historisch Museum De Bevelanden
+293,848,Switzerland,Mus?e Jenisch
+294,848,Croatia,Strossmayerova galerija starih majstora
+295,850,Netherlands,Stedelijk Museum Het Prinsenhof
+296,850,Netherlands,Museum Willet-Holthuysen
+297,854,Netherlands,Haags Historisch Museum
+298,855,Canada,Agnes Etherington Art Centre
+299,856,USA,Kimbell Art Museum
+300,860,Germany,Museum Kurhaus Kleve
+301,860,France,La Cour d'Or-Mus?e de Metz
+302,865,France,"Collection Frits Lugt, Fondation Custodia"
+303,866,Netherlands,Stedelijk Museum Alkmaar
+304,866,Germany,Schloss Friedenstein
+305,869,Switzerland,Sammlung Oskar Reinhart ?Am R?merholz?
+306,870,France,Mus?e des Beaux-Arts de Dijon
+307,871,Germany,Karl Ernst Osthaus-Museum
+308,877,Germany,Mittelrhein-Museum
+309,879,Switzerland,Sammlung E.G. B?hrle
+310,881,Austria,Schloss Rohrau - Graf Harrach'sche Familiensammlung
+311,882,Belgium,Mus?e du Ch?teau des Comtes de Marchin
+312,883,France,Mus?e National Magnin de Dijon
+313,884,Czech Republic,Al??ova jiho??esk? galerie
+314,885,Belgium,Mus?e des Beaux-Arts de Charleroi
+315,891,Germany,Bonner Kunstverein
+316,898,Poland,Muzeum Warmii i Mazur
+317,899,Netherlands,Stedelijk Museum Zwolle
+318,901,Switzerland,Kunstmuseum Winterthur
+319,903,Germany,Meininger Museen
+320,903,Germany,Schloss Weissenstein
+321,911,Spain,Museo Municipal Qui?ones de Le?n
+322,912,Latvia,National History Museum of Latvia
+323,913,Puerto Rico,Museo de Arte de Ponce
+324,913,Netherlands,Nationaal Glasmuseum Leerdam
+325,919,Netherlands,Kasteel Huis Bergh
+326,928,Poland,Muzeum Lubelskie
+327,930,Poland,Muzeum ??azienki Kr?lewskie
+328,932,Netherlands,Historisch Museum Arnhem
+329,932,Netherlands,Breda's Museum
+330,942,Bulgaria,Sofia Art Gallery
+331,946,Switzerland,Museum Oskar Reinhardt am Stadtgarten
+332,946,France,Mus?e des Beaux-Arts et d'Arch?ologie
+333,948,USA,Springfield Museum of Art
+334,953,Germany,B.C. Koekkoek-Haus
+335,955,Netherlands,Museum Ons' Lieve Heer op Solder
+336,958,Switzerland,Kunstmuseum St. Gallen
+337,959,France,Mus?e Rupert de Chi?vres
+338,960,Spain,Capilla Real de Granada
+339,963,Netherlands,Rijksmuseum Twenthe
+340,970,Latvia,??rzemju m??kslas muzejs
+341,980,Germany,Kunstsammlungen der Veste Coburg
+342,980,Italy,Museo Borgogna
+343,985,Italy,Galleria Giorgio Franchetti alla Ca' d'Oro
+344,985,United Kingdom,Cobbe Collection
+345,987,Germany,St?dtisches Museum Schloss Rheydt
+346,991,Netherlands,Museum Mesdag
+347,992,Netherlands,Simon van Gijn - museum aan huis
+348,993,France,Mus?e Calvet
+349,1004,USA,Figge Art Museum
+350,1004,Belgium,Rubenianum
+351,1006,Hungary,Kereszt?ny M?zeum
+352,1012,Netherlands,Marie Tak van Poortvliet Museum
+353,1015,Finland,G?sta Serlachius Museum of Fine Arts
+354,1022,Belgium,Rockoxhuis
+355,1022,Czech Republic,"Obraz?rna Prazsk?ho hradu, Prazsk?? hrad"
+356,1023,Netherlands,Museum aan het Vrijthof
+357,1025,South Africa,William Humphreys Art Gallery
+358,1025,Romania,Muzeul de Art?? Timi??oara
+359,1029,Switzerland,Museum Briner und Kern
+360,1033,Bulgaria,National Gallery for Foreign Art
+361,1035,Netherlands,Stedelijk Museum Zutphen
+362,1050,Belgium,Zilvermuseum Sterckshof Provincie Antwerpen
+363,1051,Germany,Kunsthaus Heylshof
+364,1053,Italy,Galleria Nazionale di Palazzo Spinola
+365,1063,Germany,Museum Schloss Ehrenburg
+366,1064,Germany,Staatliche Graphische Sammlung M?nchen
+367,1066,Netherlands,Nederlands Tegelmuseum
+368,1067,Italy,Museo di Palazzo Ducale
+369,1069,Denmark,Nivaagaards Malerisamling
+370,1073,Luxembourg,Villa Vauban - Mus?e d'Art de la Ville de Luxembourg
+371,1076,Belgium,Kasteel van Loppem
+372,1077,Germany,Anhaltische Gem?ldegalerie
+373,1095,Belgium,Broelmuseum
+374,1105,Netherlands,Atlas van Stolk
+375,1111,Netherlands,Ottema-Kingma Stichting
+376,1130,Argentina,Museo Nacional de Bellas Artes de Neuqu?n (MNBA Neuqu?n)
+377,1144,Belgium,Keizerskapel

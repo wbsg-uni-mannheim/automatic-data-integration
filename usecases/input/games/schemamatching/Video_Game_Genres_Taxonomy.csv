@@ -1,0 +1,154 @@
+Genre Code,Genre Name,Subgenre Code,Subgenre Name,Sub-Subgenre Code,Sub-Subgenre Name
+10,Action,1010,Shooter,101010,First-Person Shooter (FPS)
+10,Action,1010,Shooter,101020,Third-Person Shooter (TPS)
+10,Action,1010,Shooter,101030,Top-Down Shooter
+10,Action,1010,Shooter,101040,Shoot 'em Up (Shmup)
+10,Action,1010,Shooter,101050,Tactical Shooter
+10,Action,1010,Shooter,101060,Hero Shooter
+10,Action,1010,Shooter,101070,Looter Shooter
+10,Action,1020,Fighting,102010,Traditional Fighting
+10,Action,1020,Fighting,102020,Platform Fighting
+10,Action,1020,Fighting,102030,Arena Fighting
+10,Action,1020,Fighting,102040,Wrestling
+10,Action,1030,Beat 'em Up / Hack and Slash,103010,Side-Scrolling Beat 'em Up
+10,Action,1030,Beat 'em Up / Hack and Slash,103020,3D Beat 'em Up
+10,Action,1030,Beat 'em Up / Hack and Slash,103030,Hack and Slash
+10,Action,1030,Beat 'em Up / Hack and Slash,103040,Character Action
+10,Action,1040,Platformer,104010,2D Platformer
+10,Action,1040,Platformer,104020,3D Platformer
+10,Action,1040,Platformer,104030,Puzzle Platformer
+10,Action,1040,Platformer,104040,Precision Platformer
+10,Action,1040,Platformer,104050,Metroidvania
+10,Action,1040,Platformer,104060,Endless Runner
+10,Action,1050,Stealth,105010,Stealth Action
+10,Action,1050,Stealth,105020,Tactical Stealth
+10,Action,1060,Survival,106010,Survival Horror
+10,Action,1060,Survival,106020,Survival Crafting
+10,Action,1060,Survival,106030,Battle Royale
+20,Adventure,2010,Point-and-Click,201010,Classic Point-and-Click
+20,Adventure,2010,Point-and-Click,201020,Hidden Object
+20,Adventure,2020,Graphic Adventure,202010,Visual Novel
+20,Adventure,2020,Graphic Adventure,202020,Interactive Movie
+20,Adventure,2020,Graphic Adventure,202030,Walking Simulator
+20,Adventure,2030,Text Adventure,203010,Interactive Fiction
+20,Adventure,2030,Text Adventure,203020,MUD (Multi-User Dungeon)
+20,Adventure,2040,Puzzle Adventure,204010,Escape Room
+20,Adventure,2040,Puzzle Adventure,204020,Mystery Adventure
+25,Action-Adventure,2510,Open World,251010,Sandbox
+25,Action-Adventure,2510,Open World,251020,Open World Action
+25,Action-Adventure,2510,Open World,251030,Crime Sandbox
+25,Action-Adventure,2520,Action-Adventure,252010,Action-Adventure
+25,Action-Adventure,2520,Action-Adventure,252020,Survival Horror Action
+25,Action-Adventure,2520,Action-Adventure,252030,Immersive Sim
+30,Role-Playing Game (RPG),3010,Action RPG,301010,Action RPG (ARPG)
+30,Role-Playing Game (RPG),3010,Action RPG,301020,Souls-like
+30,Role-Playing Game (RPG),3010,Action RPG,301030,Looter RPG
+30,Role-Playing Game (RPG),3010,Action RPG,301040,Monster Hunting
+30,Role-Playing Game (RPG),3020,Turn-Based RPG,302010,Classic Turn-Based RPG
+30,Role-Playing Game (RPG),3020,Turn-Based RPG,302020,JRPG (Japanese RPG)
+30,Role-Playing Game (RPG),3020,Turn-Based RPG,302030,WRPG (Western RPG)
+30,Role-Playing Game (RPG),3020,Turn-Based RPG,302040,Dungeon Crawler
+30,Role-Playing Game (RPG),3030,Tactical RPG,303010,Tactical RPG (TRPG)
+30,Role-Playing Game (RPG),3030,Tactical RPG,303020,Strategy RPG (SRPG)
+30,Role-Playing Game (RPG),3040,Roguelike / Roguelite,304010,Traditional Roguelike
+30,Role-Playing Game (RPG),3040,Roguelike / Roguelite,304020,Roguelite
+30,Role-Playing Game (RPG),3040,Roguelike / Roguelite,304030,Roguelike Deckbuilder
+30,Role-Playing Game (RPG),3050,MMORPG,305010,Traditional MMORPG
+30,Role-Playing Game (RPG),3050,MMORPG,305020,Action MMORPG
+30,Role-Playing Game (RPG),3050,MMORPG,305030,Sandbox MMORPG
+30,Role-Playing Game (RPG),3060,CRPG,306010,Classic CRPG
+30,Role-Playing Game (RPG),3060,CRPG,306020,Isometric RPG
+40,Simulation,4010,Life Simulation,401010,Life Simulation
+40,Simulation,4010,Life Simulation,401020,Social Simulation
+40,Simulation,4010,Life Simulation,401030,Virtual Pet
+40,Simulation,4010,Life Simulation,401040,Dating Simulation
+40,Simulation,4020,Construction & Management,402010,City Builder
+40,Simulation,4020,Construction & Management,402020,Business Simulation
+40,Simulation,4020,Construction & Management,402030,Theme Park / Tycoon
+40,Simulation,4020,Construction & Management,402040,Colony Simulation
+40,Simulation,4020,Construction & Management,402050,Factory Builder
+40,Simulation,4030,Vehicle Simulation,403010,Flight Simulation
+40,Simulation,4030,Vehicle Simulation,403020,Driving Simulation
+40,Simulation,4030,Vehicle Simulation,403030,Train Simulation
+40,Simulation,4030,Vehicle Simulation,403040,Space Simulation
+40,Simulation,4030,Vehicle Simulation,403050,Boat / Ship Simulation
+40,Simulation,4040,Farming Simulation,404010,Farming Simulation
+40,Simulation,4040,Farming Simulation,404020,Fishing Simulation
+40,Simulation,4040,Farming Simulation,404030,Hunting Simulation
+50,Strategy,5010,Real-Time Strategy (RTS),501010,Classic RTS
+50,Strategy,5010,Real-Time Strategy (RTS),501020,Tower Defense
+50,Strategy,5010,Real-Time Strategy (RTS),501030,MOBA (Multiplayer Online Battle Arena)
+50,Strategy,5010,Real-Time Strategy (RTS),501040,Real-Time Tactics (RTT)
+50,Strategy,5020,Turn-Based Strategy (TBS),502010,Classic Turn-Based Strategy
+50,Strategy,5020,Turn-Based Strategy (TBS),502020,4X Strategy
+50,Strategy,5020,Turn-Based Strategy (TBS),502030,Grand Strategy
+50,Strategy,5020,Turn-Based Strategy (TBS),502040,Turn-Based Tactics
+50,Strategy,5020,Turn-Based Strategy (TBS),502050,Auto Battler / Auto Chess
+50,Strategy,5030,Wargame,503010,Historical Wargame
+50,Strategy,5030,Wargame,503020,Fantasy Wargame
+50,Strategy,5030,Wargame,503030,Sci-Fi Wargame
+60,Sports,6010,Traditional Sports,601010,Football (Soccer)
+60,Sports,6010,Traditional Sports,601020,American Football
+60,Sports,6010,Traditional Sports,601030,Basketball
+60,Sports,6010,Traditional Sports,601040,Baseball
+60,Sports,6010,Traditional Sports,601050,Hockey
+60,Sports,6010,Traditional Sports,601060,Golf
+60,Sports,6010,Traditional Sports,601070,Tennis
+60,Sports,6010,Traditional Sports,601080,Cricket
+60,Sports,6020,Combat Sports,602010,Boxing
+60,Sports,6020,Combat Sports,602020,MMA / UFC
+60,Sports,6020,Combat Sports,602030,Pro Wrestling
+60,Sports,6030,Extreme Sports,603010,Skateboarding
+60,Sports,6030,Extreme Sports,603020,Snowboarding / Skiing
+60,Sports,6030,Extreme Sports,603030,BMX / Motocross
+60,Sports,6030,Extreme Sports,603040,Surfing
+60,Sports,6040,Esports,604010,Competitive Gaming
+60,Sports,6040,Esports,604020,Sports Management
+70,Racing,7010,Arcade Racing,701010,Arcade Racing
+70,Racing,7010,Arcade Racing,701020,Kart Racing
+70,Racing,7010,Arcade Racing,701030,Combat Racing
+70,Racing,7020,Simulation Racing,702010,Racing Simulation
+70,Racing,7020,Simulation Racing,702020,Rally Racing
+70,Racing,7020,Simulation Racing,702030,Motorsport Management
+70,Racing,7030,Other Racing,703010,Futuristic Racing
+70,Racing,7030,Other Racing,703020,Boat Racing
+70,Racing,7030,Other Racing,703030,Bike Racing
+80,Puzzle,8010,Logic Puzzle,801010,Block Puzzle (Tetris-like)
+80,Puzzle,8010,Logic Puzzle,801020,Match-3
+80,Puzzle,8010,Logic Puzzle,801030,Physics Puzzle
+80,Puzzle,8010,Logic Puzzle,801040,Sokoban (Push Block)
+80,Puzzle,8010,Logic Puzzle,801050,Programming Puzzle
+80,Puzzle,8020,Word & Trivia,802010,Word Puzzle
+80,Puzzle,8020,Word & Trivia,802020,Trivia / Quiz
+80,Puzzle,8020,Word & Trivia,802030,Crossword / Sudoku
+80,Puzzle,8030,Casual Puzzle,803010,Hidden Object
+80,Puzzle,8030,Casual Puzzle,803020,Casual Match
+85,Rhythm / Music,8510,Rhythm Game,851010,Rhythm Action
+85,Rhythm / Music,8510,Rhythm Game,851020,Dance Game
+85,Rhythm / Music,8510,Rhythm Game,851030,Instrument Simulation
+85,Rhythm / Music,8520,Music Creation,852010,Music Creation / DJ
+90,Horror,9010,Survival Horror,901010,Classic Survival Horror
+90,Horror,9010,Survival Horror,901020,Action Survival Horror
+90,Horror,9020,Psychological Horror,902010,Psychological Horror
+90,Horror,9020,Psychological Horror,902020,Walking Simulator Horror
+90,Horror,9030,Jump Scare Horror,903010,Haunted House Horror
+90,Horror,9030,Jump Scare Horror,903020,Asymmetric Horror
+95,Card & Board,9510,Digital Card Game,951010,Collectible Card Game (CCG)
+95,Card & Board,9510,Digital Card Game,951020,Trading Card Game (TCG)
+95,Card & Board,9510,Digital Card Game,951030,Deckbuilding Game
+95,Card & Board,9520,Digital Board Game,952010,Digital Board Game
+95,Card & Board,9520,Digital Board Game,952020,Chess / Checkers
+95,Card & Board,9520,Digital Board Game,952030,Mahjong
+95,Card & Board,9530,Casino / Gambling,953010,Poker
+95,Card & Board,9530,Casino / Gambling,953020,Slots
+95,Card & Board,9530,Casino / Gambling,953030,Casino Games
+98,Educational,9810,Educational,981010,Educational Game
+98,Educational,9810,Educational,981020,Edutainment
+98,Educational,9810,Educational,981030,Typing Tutor
+98,Educational,9820,Sandbox / Creative,982010,Creative Sandbox
+98,Educational,9820,Sandbox / Creative,982020,Building Game
+99,Party / Social,9910,Party Game,991010,Minigame Collection
+99,Party / Social,9910,Party Game,991020,Trivia Party
+99,Party / Social,9910,Party Game,991030,Drawing / Guessing
+99,Party / Social,9920,Social Deduction,992010,Social Deduction
+99,Party / Social,9920,Social Deduction,992020,Hidden Role

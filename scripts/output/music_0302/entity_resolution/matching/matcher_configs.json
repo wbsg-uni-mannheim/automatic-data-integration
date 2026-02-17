@@ -1,0 +1,16 @@
+{
+  "discogs__musicbrainz": {
+    "f1": 0.975609756097561,
+    "matcher": "MLBasedMatcher",
+    "precision": 0.9523809523809523,
+    "recall": 1.0,
+    "threshold": 0.3
+  },
+  "lastfm__musicbrainz": {
+    "f1": 0.9950248756218906,
+    "matcher": "MLBasedMatcher",
+    "precision": 0.9900990099009901,
+    "recall": 1.0,
+    "threshold": 0.7
+  }
+}

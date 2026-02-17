@@ -1,0 +1,432 @@
+Common Name,Season,Scientific Name
+JEFFERSON SALAMANDER,all,Ambystoma jeffersonianum
+SPOTTED SALAMANDER,all,Ambystoma maculatum
+MARBLED SALAMANDER,all,Ambystoma opacum
+MOLE SALAMANDER,all,Ambystoma talpoideum
+SMALLMOUTH SALAMANDER,all,Ambystoma texanum
+TIGER SALAMANDER,all,Ambystoma tigrinum
+STREAMSIDE SALAMANDER,all,Ambystoma barbouri
+THREE-TOED AMPHIUMA,all,Amphiuma tridactylum
+HELLBENDER,all,Cryptobranchus alleganiensis
+GREEN SALAMANDER,all,Aneides aeneus
+DUSKY SALAMANDER,all,Desmognathus fuscus
+SEAL SALAMANDER,all,Desmognathus monticola
+ALLEGHENY MOUNTAIN DUSKY SALAMANDER,all,Desmognathus ochrophaeus
+BLACK MOUNTAIN SALAMANDER,all,Desmognathus welteri
+LONGTAIL SALAMANDER,all,Eurycea longicauda
+CAVE SALAMANDER,all,Eurycea lucifuga
+SOUTHERN TWO-LINED SALAMANDER,all,Eurycea cirrigera
+THREE-LINED SALAMANDER,all,Eurycea guttolineata
+SPRING SALAMANDER,all,Gyrinophilus porphyriticus
+FOUR-TOED SALAMANDER,all,Hemidactylium scutatum
+REDBACK SALAMANDER,all,Plethodon cinereus
+NORTHERN ZIGZAG SALAMANDER,all,Plethodon dorsalis
+SLIMY SALAMANDER,all,Plethodon glutinosus
+MISSISSIPPI SLIMY SALAMANDER,all,Plethodon mississippi
+RAVINE SALAMANDER,all,Plethodon richmondi
+WEHRLE'S SALAMANDER,all,Plethodon wehrlei
+CUMBERLAND PLATEAU SALAMANDER,all,Plethodon kentucki
+MUD SALAMANDER,all,Pseudotriton montanus
+RED SALAMANDER,all,Pseudotriton ruber
+MUDPUPPY,all,Necturus maculosus
+EASTERN NEWT,all,Notophthalmus viridescens
+LESSER SIREN,all,Siren intermedia
+AMERICAN TOAD,all,Bufo americanus
+WOODHOUSE'S TOAD,all,Bufo woodhousii
+NORTHERN CRICKET FROG,all,Acris crepitans
+BIRD-VOICED TREEFROG,all,Hyla avivoca
+COPE'S GRAY TREEFROG,all,Hyla chrysoscelis
+GREEN TREEFROG,all,Hyla cinerea
+BARKING TREEFROG,all,Hyla gratiosa
+GRAY TREEFROG,all,Hyla versicolor
+MOUNTAIN CHORUS FROG,all,Pseudacris brachyphona
+UPLAND CHORUS FROG,all,Pseudacris feriarum
+SPRING PEEPER,all,Pseudacris crucifer
+EASTERN NARROWMOUTH TOAD,all,Gastrophryne carolinensis
+EASTERN SPADEFOOT,all,Scaphiopus holbrookii
+CRAWFISH FROG,all,Rana areolata
+BULLFROG,all,Rana catesbeiana
+GREEN FROG,all,Rana clamitans
+PICKEREL FROG,all,Rana palustris
+NORTHERN LEOPARD FROG,all,Rana pipiens
+WOOD FROG,all,Rana sylvatica
+SOUTHERN LEOPARD FROG,all,Rana sphenocephala
+COMMON LOON,w,Gavia immer
+PIED-BILLED GREBE,b,Podilymbus podiceps
+PIED-BILLED GREBE,w,Podilymbus podiceps
+HORNED GREBE,w,Podiceps auritus
+DOUBLE-CRESTED CORMORANT,w,Phalacrocorax auritus
+LEAST BITTERN,b,Ixobrychus exilis
+GREAT BLUE HERON,b,Ardea herodias
+GREAT BLUE HERON,w,Ardea herodias
+GREAT EGRET,b,Ardea alba
+LITTLE BLUE HERON,b,Egretta caerulea
+CATTLE EGRET,w,Bubulcus ibis
+CATTLE EGRET,b,Bubulcus ibis
+GREEN HERON,b,Butorides virescens
+BLACK-CROWNED NIGHT-HERON,b,Nycticorax nycticorax
+YELLOW-CROWNED NIGHT-HERON,b,Nyctanassa violacea
+TUNDRA SWAN,w,Cygnus columbianus
+GREATER WHITE-FRONTED GOOSE,w,Anser albifrons
+SNOW GOOSE,w,Chen caerulescens
+CANADA GOOSE,b,Branta canadensis
+CANADA GOOSE,w,Branta canadensis
+WOOD DUCK,b,Aix sponsa
+WOOD DUCK,w,Aix sponsa
+GREEN-WINGED TEAL,w,Anas crecca
+AMERICAN BLACK DUCK,w,Anas rubripes
+MALLARD,b,Anas platyrhynchos
+MALLARD,w,Anas platyrhynchos
+NORTHERN PINTAIL,w,Anas acuta
+BLUE-WINGED TEAL,b,Anas discors
+NORTHERN SHOVELER,b,Anas clypeata
+GADWALL,w,Anas strepera
+AMERICAN WIGEON,w,Anas americana
+CANVASBACK,w,Aythya valisineria
+REDHEAD,w,Aythya americana
+RING-NECKED DUCK,w,Aythya collaris
+GREATER SCAUP,w,Aythya marila
+LESSER SCAUP,w,Aythya affinis
+OLDSQUAW,w,Clangula hyemalis
+WHITE-WINGED SCOTER,w,Melanitta fusca
+COMMON GOLDENEYE,w,Bucephala clangula
+BUFFLEHEAD,w,Bucephala albeola
+HOODED MERGANSER,b,Lophodytes cucullatus
+HOODED MERGANSER,w,Lophodytes cucullatus
+COMMON MERGANSER,w,Mergus merganser
+RED-BREASTED MERGANSER,w,Mergus serrator
+RUDDY DUCK,w,Oxyura jamaicensis
+BLACK VULTURE,w,Coragyps atratus
+BLACK VULTURE,b,Coragyps atratus
+TURKEY VULTURE,b,Cathartes aura
+TURKEY VULTURE,w,Cathartes aura
+OSPREY,b,Pandion haliaetus
+MISSISSIPPI KITE,b,Ictinia mississippiensis
+BALD EAGLE,w,Haliaeetus leucocephalus
+BALD EAGLE,b,Haliaeetus leucocephalus
+NORTHERN HARRIER,w,Circus cyaneus
+NORTHERN HARRIER,b,Circus cyaneus
+SHARP-SHINNED HAWK,b,Accipiter striatus
+SHARP-SHINNED HAWK,w,Accipiter striatus
+COOPER'S HAWK,b,Accipiter cooperii
+COOPER'S HAWK,w,Accipiter cooperii
+RED-SHOULDERED HAWK,w,Buteo lineatus
+RED-SHOULDERED HAWK,b,Buteo lineatus
+BROAD-WINGED HAWK,b,Buteo platypterus
+RED-TAILED HAWK,b,Buteo jamaicensis
+RED-TAILED HAWK,w,Buteo jamaicensis
+ROUGH-LEGGED HAWK,w,Buteo lagopus
+AMERICAN KESTREL,w,Falco sparverius
+AMERICAN KESTREL,b,Falco sparverius
+PEREGRINE FALCON,w,Falco peregrinus
+PEREGRINE FALCON,b,Falco peregrinus
+RUFFED GROUSE,b,Bonasa umbellus
+RUFFED GROUSE,w,Bonasa umbellus
+WILD TURKEY,b,Meleagris gallopavo
+WILD TURKEY,w,Meleagris gallopavo
+NORTHERN BOBWHITE,b,Colinus virginianus
+NORTHERN BOBWHITE,w,Colinus virginianus
+KING RAIL,b,Rallus elegans
+COMMON MOORHEN,b,Gallinula chloropus
+AMERICAN COOT,w,Fulica americana
+KILLDEER,b,Charadrius vociferus
+KILLDEER,w,Charadrius vociferus
+BLACK-NECKED STILT,b,Himantopus mexicanus
+SPOTTED SANDPIPER,b,Actitis macularia
+COMMON SNIPE,w,Gallinago gallinago
+AMERICAN WOODCOCK,b,Scolopax minor
+BONAPARTE'S GULL,w,Larus philadelphia
+RING-BILLED GULL,w,Larus delawarensis
+HERRING GULL,w,Larus argentatus
+LEAST TERN,b,Sterna antillarum
+MOURNING DOVE,b,Zenaida macroura
+MOURNING DOVE,w,Zenaida macroura
+BLACK-BILLED CUCKOO,b,Coccyzus erythropthalmus
+YELLOW-BILLED CUCKOO,b,Coccyzus americanus
+BARN OWL,b,Tyto alba
+BARN OWL,w,Tyto alba
+EASTERN SCREECH-OWL,b,Otus asio
+EASTERN SCREECH-OWL,w,Otus asio
+GREAT HORNED OWL,w,Bubo virginianus
+GREAT HORNED OWL,b,Bubo virginianus
+BARRED OWL,w,Strix varia
+BARRED OWL,b,Strix varia
+LONG-EARED OWL,w,Asio otus
+LONG-EARED OWL,b,Asio otus
+SHORT-EARED OWL,b,Asio flammeus
+SHORT-EARED OWL,w,Asio flammeus
+COMMON NIGHTHAWK,b,Chordeiles minor
+CHUCK-WILL'S-WIDOW,b,Caprimulgus carolinensis
+WHIP-POOR-WILL,b,Caprimulgus vociferus
+CHIMNEY SWIFT,b,Chaetura pelagica
+RUBY-THROATED HUMMINGBIRD,b,Archilochus colubris
+BELTED KINGFISHER,w,Ceryle alcyon
+BELTED KINGFISHER,b,Ceryle alcyon
+RED-HEADED WOODPECKER,b,Melanerpes erythrocephalus
+RED-HEADED WOODPECKER,w,Melanerpes erythrocephalus
+RED-BELLIED WOODPECKER,b,Melanerpes carolinus
+RED-BELLIED WOODPECKER,w,Melanerpes carolinus
+YELLOW-BELLIED SAPSUCKER,w,Sphyrapicus varius
+DOWNY WOODPECKER,b,Picoides pubescens
+DOWNY WOODPECKER,w,Picoides pubescens
+HAIRY WOODPECKER,b,Picoides villosus
+HAIRY WOODPECKER,w,Picoides villosus
+RED-COCKADED WOODPECKER,w,Picoides borealis
+RED-COCKADED WOODPECKER,b,Picoides borealis
+NORTHERN FLICKER,w,Colaptes auratus
+NORTHERN FLICKER,b,Colaptes auratus
+PILEATED WOODPECKER,w,Dryocopus pileatus
+PILEATED WOODPECKER,b,Dryocopus pileatus
+EASTERN WOOD-PEWEE,b,Contopus virens
+ACADIAN FLYCATCHER,b,Empidonax virescens
+WILLOW FLYCATCHER,b,Empidonax traillii
+LEAST FLYCATCHER,b,Empidonax minimus
+EASTERN PHOEBE,w,Sayornis phoebe
+EASTERN PHOEBE,b,Sayornis phoebe
+GREAT CRESTED FLYCATCHER,b,Myiarchus crinitus
+EASTERN KINGBIRD,b,Tyrannus tyrannus
+HORNED LARK,b,Eremophila alpestris
+HORNED LARK,w,Eremophila alpestris
+PURPLE MARTIN,b,Progne subis
+TREE SWALLOW,b,Tachycineta bicolor
+NORTHERN ROUGH-WINGED SWALLOW,b,Stelgidopteryx serripennis
+BANK SWALLOW,b,Riparia riparia
+CLIFF SWALLOW,b,Petrochelidon pyrrhonota
+BARN SWALLOW,b,Hirundo rustica
+BLUE JAY,b,Cyanocitta cristata
+BLUE JAY,w,Cyanocitta cristata
+AMERICAN CROW,w,Corvus brachyrhynchos
+AMERICAN CROW,b,Corvus brachyrhynchos
+FISH CROW,b,Corvus ossifragus
+FISH CROW,w,Corvus ossifragus
+COMMON RAVEN,b,Corvus corax
+COMMON RAVEN,w,Corvus corax
+CAROLINA CHICKADEE,w,Poecile carolinensis
+CAROLINA CHICKADEE,b,Poecile carolinensis
+TUFTED TITMOUSE,w,Baeolophus bicolor
+TUFTED TITMOUSE,b,Baeolophus bicolor
+RED-BREASTED NUTHATCH,w,Sitta canadensis
+RED-BREASTED NUTHATCH,b,Sitta canadensis
+WHITE-BREASTED NUTHATCH,b,Sitta carolinensis
+WHITE-BREASTED NUTHATCH,w,Sitta carolinensis
+BROWN CREEPER,w,Certhia americana
+BROWN CREEPER,b,Certhia americana
+CAROLINA WREN,w,Thryothorus ludovicianus
+CAROLINA WREN,b,Thryothorus ludovicianus
+BEWICK'S WREN,w,Thryomanes bewickii
+BEWICK'S WREN,b,Thryomanes bewickii
+HOUSE WREN,b,Troglodytes aedon
+WINTER WREN,w,Troglodytes troglodytes
+SEDGE WREN,b,Cistothorus platensis
+GOLDEN-CROWNED KINGLET,w,Regulus satrapa
+RUBY-CROWNED KINGLET,w,Regulus calendula
+BLUE-GRAY GNATCATCHER,b,Polioptila caerulea
+EASTERN BLUEBIRD,b,Sialia sialis
+EASTERN BLUEBIRD,w,Sialia sialis
+VEERY,b,Catharus fuscescens
+HERMIT THRUSH,w,Catharus guttatus
+WOOD THRUSH,b,Hylocichla mustelina
+AMERICAN ROBIN,w,Turdus migratorius
+AMERICAN ROBIN,b,Turdus migratorius
+GRAY CATBIRD,b,Dumetella carolinensis
+NORTHERN MOCKINGBIRD,w,Mimus polyglottos
+NORTHERN MOCKINGBIRD,b,Mimus polyglottos
+BROWN THRASHER,b,Toxostoma rufum
+BROWN THRASHER,w,Toxostoma rufum
+CEDAR WAXWING,b,Bombycilla cedrorum
+CEDAR WAXWING,w,Bombycilla cedrorum
+LOGGERHEAD SHRIKE,b,Lanius ludovicianus
+LOGGERHEAD SHRIKE,w,Lanius ludovicianus
+WHITE-EYED VIREO,b,Vireo griseus
+BELL'S VIREO,b,Vireo bellii
+BLUE-HEADED VIREO,b,Vireo solitarius
+YELLOW-THROATED VIREO,b,Vireo flavifrons
+WARBLING VIREO,b,Vireo gilvus
+RED-EYED VIREO,b,Vireo olivaceus
+BLUE-WINGED WARBLER,b,Vermivora pinus
+GOLDEN-WINGED WARBLER,b,Vermivora chrysoptera
+NORTHERN PARULA,b,Parula americana
+YELLOW WARBLER,b,Dendroica petechia
+CHESTNUT-SIDED WARBLER,b,Dendroica pensylvanica
+BLACK-THROATED BLUE WARBLER,b,Dendroica caerulescens
+YELLOW-RUMPED WARBLER,w,Dendroica coronata
+BLACK-THROATED GREEN WARBLER,b,Dendroica virens
+BLACKBURNIAN WARBLER,b,Dendroica fusca
+YELLOW-THROATED WARBLER,b,Dendroica dominica
+PINE WARBLER,b,Dendroica pinus
+PRAIRIE WARBLER,b,Dendroica discolor
+CERULEAN WARBLER,b,Dendroica cerulea
+BLACK-AND-WHITE WARBLER,b,Mniotilta varia
+AMERICAN REDSTART,b,Setophaga ruticilla
+PROTHONOTARY WARBLER,b,Protonotaria citrea
+WORM-EATING WARBLER,b,Helmitheros vermivorus
+SWAINSON'S WARBLER,b,Limnothlypis swainsonii
+OVENBIRD,b,Seiurus aurocapillus
+LOUISIANA WATERTHRUSH,b,Seiurus motacilla
+KENTUCKY WARBLER,b,Oporornis formosus
+COMMON YELLOWTHROAT,b,Geothlypis trichas
+HOODED WARBLER,b,Wilsonia citrina
+CANADA WARBLER,b,Wilsonia canadensis
+YELLOW-BREASTED CHAT,b,Icteria virens
+SUMMER TANAGER,b,Piranga rubra
+SCARLET TANAGER,b,Piranga olivacea
+NORTHERN CARDINAL,w,Cardinalis cardinalis
+NORTHERN CARDINAL,b,Cardinalis cardinalis
+ROSE-BREASTED GROSBEAK,b,Pheucticus ludovicianus
+BLUE GROSBEAK,b,Guiraca caerulea
+INDIGO BUNTING,b,Passerina cyanea
+DICKCISSEL,b,Spiza americana
+EASTERN TOWHEE,w,Pipilo erythrophthalmus
+EASTERN TOWHEE,b,Pipilo erythrophthalmus
+BACHMAN'S SPARROW,b,Aimophila aestivalis
+AMERICAN TREE SPARROW,w,Spizella arborea
+CHIPPING SPARROW,b,Spizella passerina
+FIELD SPARROW,b,Spizella pusilla
+FIELD SPARROW,w,Spizella pusilla
+LARK SPARROW,b,Chondestes grammacus
+SAVANNAH SPARROW,w,Passerculus sandwichensis
+SAVANNAH SPARROW,b,Passerculus sandwichensis
+GRASSHOPPER SPARROW,b,Ammodramus savannarum
+HENSLOW'S SPARROW,b,Ammodramus henslowii
+FOX SPARROW,w,Passerella iliaca
+SONG SPARROW,b,Melospiza melodia
+SONG SPARROW,w,Melospiza melodia
+SWAMP SPARROW,w,Melospiza georgiana
+WHITE-THROATED SPARROW,w,Zonotrichia albicollis
+WHITE-CROWNED SPARROW,w,Zonotrichia leucophrys
+DARK-EYED JUNCO,w,Junco hyemalis
+DARK-EYED JUNCO,b,Junco hyemalis
+LAPLAND LONGSPUR,w,Calcarius lapponicus
+BOBOLINK,b,Dolichonyx oryzivorus
+RED-WINGED BLACKBIRD,w,Agelaius phoeniceus
+RED-WINGED BLACKBIRD,b,Agelaius phoeniceus
+EASTERN MEADOWLARK,w,Sturnella magna
+EASTERN MEADOWLARK,b,Sturnella magna
+RUSTY BLACKBIRD,w,Euphagus carolinus
+BREWER'S BLACKBIRD,w,Euphagus cyanocephalus
+COMMON GRACKLE,w,Quiscalus quiscula
+COMMON GRACKLE,b,Quiscalus quiscula
+BROWN-HEADED COWBIRD,w,Molothrus ater
+BROWN-HEADED COWBIRD,b,Molothrus ater
+ORCHARD ORIOLE,b,Icterus spurius
+BALTIMORE ORIOLE,b,Icterus galbula
+PURPLE FINCH,w,Carpodacus purpureus
+PINE SISKIN,w,Carduelis pinus
+AMERICAN GOLDFINCH,b,Carduelis tristis
+AMERICAN GOLDFINCH,w,Carduelis tristis
+EVENING GROSBEAK,w,Coccothraustes vespertinus
+VIRGINIA OPOSSUM,all,Didelphis virginiana
+MASKED SHREW,all,Sorex cinereus
+SOUTHEASTERN SHREW,all,Sorex longirostris
+SMOKY SHREW,all,Sorex fumeus
+LONG-TAILED OR ROCK SHREW,all,Sorex dispar
+PYGMY SHREW,all,Sorex hoyi
+NORTHERN SHORT-TAILED SHREW,all,Blarina brevicauda
+SOUTHERN SHORT-TAILED SHREW,all,Blarina carolinensis
+LEAST SHREW,all,Cryptotis parva
+HAIRY-TAILED MOLE,all,Parascalops breweri
+EASTERN MOLE,all,Scalopus aquaticus
+LITTLE BROWN MYOTIS,all,Myotis lucifugus
+SOUTHEASTERN MYOTIS,all,Myotis austroriparius
+GRAY MYOTIS,all,Myotis grisescens
+INDIANA OR SOCIAL MYOTIS,all,Myotis sodalis
+EASTERN SMALL-FOOTED MYOTIS,all,Myotis leibii
+NORTHERN MYOTIS,all,Myotis septentrionalis
+SILVER-HAIRED BAT,all,Lasionycteris noctivagans
+EASTERN PIPISTRELLE,all,Pipistrellus subflavus
+BIG BROWN BAT,all,Eptesicus fuscus
+EASTERN RED BAT,all,Lasiurus borealis
+HOARY BAT,all,Lasiurus cinereus
+EVENING BAT,all,Nycticeius humeralis
+TOWNSEND'S BIG-EARED BAT,all,Corynorhinus townsendii
+RAFINESQUE'S BIG-EARED BAT,all,Corynorhinus rafinesquii
+EASTERN COTTONTAIL,all,Sylvilagus floridanus
+SWAMP RABBIT,all,Sylvilagus aquaticus
+EASTERN CHIPMUNK,all,Tamias striatus
+WOODCHUCK,all,Marmota monax
+EASTERN GRAY SQUIRREL,all,Sciurus carolinensis
+EASTERN FOX SQUIRREL,all,Sciurus niger
+SOUTHERN FLYING SQUIRREL,all,Glaucomys volans
+AMERICAN BEAVER,all,Castor canadensis
+MARSH RICE RAT,all,Oryzomys palustris
+EASTERN HARVEST MOUSE,all,Reithrodontomys humulis
+DEER MOUSE,all,Peromyscus maniculatus
+WHITE-FOOTED MOUSE,all,Peromyscus leucopus
+COTTON MOUSE,all,Peromyscus gossypinus
+GOLDEN MOUSE,all,Ochrotomys nuttalli
+HISPID COTTON RAT,all,Sigmodon hispidus
+ALLEGHENY WOODRAT,all,Neotoma magister
+SOUTHERN RED-BACKED VOLE,all,Clethrionomys gapperi
+MEADOW VOLE,all,Microtus pennsylvanicus
+PRAIRIE VOLE,all,Microtus ochrogaster
+WOODLAND VOLE,all,Microtus pinetorum
+MUSKRAT,all,Ondatra zibethicus
+SOUTHERN BOG LEMMING,all,Synaptomys cooperi
+MEADOW JUMPING MOUSE,all,Zapus hudsonius
+WOODLAND JUMPING MOUSE,all,Napaeozapus insignis
+COYOTE,all,Canis latrans
+RED FOX,all,Vulpes vulpes
+COMMON GRAY FOX,all,Urocyon cinereoargenteus
+BLACK BEAR,all,Ursus americanus
+COMMON RACCOON,all,Procyon lotor
+LEAST WEASEL,all,Mustela nivalis
+LONG-TAILED WEASEL,all,Mustela frenata
+MINK,all,Mustela vison
+EASTERN SPOTTED SKUNK,all,Spilogale putorius
+STRIPED SKUNK,all,Mephitis mephitis
+NORTHERN RIVER OTTER,all,Lutra canadensis
+BOBCAT,all,Lynx rufus
+WAPITI OR ELK,all,Cervus elaphus
+WHITE-TAILED DEER,all,Odocoileus virginianus
+SNAPPING TURTLE,all,Chelydra serpentina
+ALLIGATOR SNAPPING TURTLE,all,Macroclemys temminckii
+PAINTED TURTLE,all,Chrysemys picta
+COMMON MAP TURTLE,all,Graptemys geographica
+FALSE MAP TURTLE,all,Graptemys pseudogeographica
+MISSISSIPPI MAP TURTLE,all,Graptemys gibbonsi
+RIVER COOTER,all,Pseudemys concinna
+EASTERN BOX TURTLE,all,Terrapene carolina
+SLIDER,all,Trachemys scripta
+EASTERN MUD TURTLE,all,Kinosternon subrubrum
+COMMON MUSK TURTLE,all,Sternotherus odoratus
+SMOOTH SOFTSHELL,all,Apalone mutica
+SPINY SOFTSHELL,all,Apalone spinifera
+SLENDER GLASS LIZARD,all,Ophisaurus attenuatus
+FENCE/PRAIRIE/PLATEAU LIZARD,all,Sceloporus undulatus
+COAL SKINK,all,Eumeces anthracinus
+FIVE-LINED SKINK,all,Eumeces fasciatus
+SOUTHEASTERN FIVE-LINED SKINK,all,Eumeces inexpectatus
+BROADHEAD SKINK,all,Eumeces laticeps
+GROUND SKINK,all,Scincella lateralis
+SIX-LINED RACERUNNER,all,Cnemidophorus sexlineatus
+WORM SNAKE,all,Carphophis amoenus
+SCARLET SNAKE,all,Cemophora ciccinea
+KIRTLAND'S SNAKE,all,Clonophis kirtlandii
+RACER,all,Coluber constrictor
+RINGNECK SNAKE,all,Diadophis punctatus
+CORN SNAKE,all,Elaphe guttata
+RAT SNAKE,all,Elaphe obsoleta
+MUD SNAKE,all,Farancia abacura
+EASTERN HOGNOSE SNAKE,all,Heterodon platirhinos
+PRAIRIE KINGSNAKE,all,Lampropeltis calligaster
+COMMON KINGSNAKE,all,Lampropeltis getula
+MILK SNAKE,all,Lampropeltis triangulum
+GREEN WATER SNAKE,all,Nerodia cyclopion
+PLAINBELLY WATER SNAKE,all,Nerodia erythrogaster
+SOUTHERN WATER SNAKE,all,Nerodia fasciata
+DIAMONDBACK WATER SNAKE,all,Nerodia rhombifer
+NORTHERN WATER SNAKE,all,Nerodia sipedon
+ROUGH GREEN SNAKE,all,Opheodrys aestivus
+PINE OR GOPHER SNAKE,all,Pituophis melanoleucus
+QUEEN SNAKE,all,Regina septemvittata
+BROWN SNAKE,all,Storeria dekayi
+REDBELLY SNAKE,all,Storeria occipitomaculata
+SOUTHEASTERN CROWNED SNAKE,all,Tantilla coronata
+WESTERN RIBBON SNAKE,all,Thamnophis proximus
+EASTERN RIBBON SNAKE,all,Thamnophis sauritus
+COMMON GARTER SNAKE,all,Thamnophis sirtalis
+SMOOTH EARTH SNAKE,all,Virginia valeriae
+COPPERHEAD,all,Agkistrodon contortrix
+COTTONMOUTH,all,Agkistrodon piscivorus
+TIMBER RATTLESNAKE,all,Crotalus horridus
+PIGMY RATTLESNAKE,all,Sistrurus miliarius

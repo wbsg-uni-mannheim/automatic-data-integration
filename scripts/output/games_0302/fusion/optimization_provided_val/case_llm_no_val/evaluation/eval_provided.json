@@ -1,0 +1,39 @@
+{
+  "overall_accuracy": 0.9166666666666666,
+  "total_comparisons": 72,
+  "correct_comparisons": 66,
+  "per_attribute_accuracy": {
+    "developer": {
+      "accuracy": 0.7,
+      "total": 10
+    },
+    "publisher": {
+      "accuracy": 1.0,
+      "total": 2
+    },
+    "userScore": {
+      "accuracy": 0.9,
+      "total": 10
+    },
+    "releaseYear": {
+      "accuracy": 0.9,
+      "total": 10
+    },
+    "platform": {
+      "accuracy": 1.0,
+      "total": 10
+    },
+    "ESRB": {
+      "accuracy": 0.9,
+      "total": 10
+    },
+    "criticScore": {
+      "accuracy": 1.0,
+      "total": 10
+    },
+    "name": {
+      "accuracy": 1.0,
+      "total": 10
+    }
+  }
+}

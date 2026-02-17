@@ -1,0 +1,212 @@
+Country,Pop/Mem Ratio,4,Members,Population
+Afghanistan,"10,913",,3,"32,738"
+"Iran, Islamic Republic of","2,490",,29,"72,212"
+Morocco,"2,227",,14,"31,177"
+Turkey,935,,80,"74,766"
+Algeria,867,,40,"34,694"
+Mauritania,458,,7,"3,204"
+Tunisia,369,,28,"10,337"
+Iraq,170,,173,"29,492"
+Egypt,100,,753,"74,946"
+Libyan Arab Jamahiriya,87,,72,"6,283"
+Oman,72,,38,"2,719"
+Niger,65,,227,"14,731"
+Turkmenistan,57,,91,"5,180"
+Jordan,31,,188,"5,849"
+"Korea, Democratic People's Republic of",27,,866,"23,479"
+Senegal,26,,485,"12,688"
+Uzbekistan,22,,1220,"27,199"
+Greece,22,,509,"11,242"
+Bahrain,20,,39,780
+Ireland,18,,253,"4,475"
+Kuwait,16,,167,"2,669"
+Malta,15,,27,412
+Cyprus,15,,72,"1,060"
+United Arab Emirates,15,,309,"4,486"
+Pakistan,14,,12433,"172,800"
+Qatar,13,,71,928
+Azerbaijan,12,,701,"8,679"
+Georgia,12,,380,"4,639"
+Tajikistan,12,,631,"7,285"
+Albania,10,,322,"3,241"
+Lebanon,10,,389,"3,981"
+Eritrea,10,,521,"5,006"
+Viet Nam,9,,9471,"86,185"
+Guinea,8,,1287,"10,302"
+Andorra,9,,10,85
+Israel,8,,883,"7,482"
+Japan,8,,15299,"127,720"
+Mali,9,,1452,"12,716"
+Italy,7,,8648,"59,865"
+Luxembourg,6,,77,488
+Congo,6,,636,"3,847"
+Poland,7,,5748,"38,110"
+Thailand,5,,12551,"66,148"
+Bosnia and Herzegovina,6,,695,"3,843"
+Bangladesh,5,,29193,"147,285"
+Belgium,6,,1900,"10,695"
+Sri Lanka,6,,3681,"20,296"
+Kazakhstan,5,,3278,"15,651"
+Kyrgyzstan,5,,1096,"5,242"
+Burkina Faso,4,,3480,"15,213"
+Gibraltar,4,,7,29
+France,5,,12649,"62,046"
+Taiwan (China),4,,5548,"23,002"
+Timor-Leste,4,,306,"1,081"
+Slovenia,4,,558,"2,034"
+Netherlands,3,,4843,"16,433"
+"Macedonia, The Former Yugoslav Republic of",3,,587,"2,049"
+Sweden,3,,2789,"9,214"
+Spain,3,,14608,"46,501"
+Armenia,3,,900,"3,084"
+China,4,,370317,"1,324,708"
+Lao People's Democratic Republic,3,,1865,"5,850"
+Lithuania,4,,876,"3,357"
+Nepal,4,,6846,"26,997"
+Macao Special Administrative Region (China),3,,210,551
+Montenegro,2,,256,627
+Cambodia,2,,5935,"14,656"
+Aland Islands,3,,10,27
+Hungary,2,,4694,"10,034"
+Benin,2,,4433,"9,309"
+Austria,2,,3871,"8,352"
+Germany,2,,35651,"82,170"
+Denmark,2,,2482,"5,490"
+United Kingdom of Great Britain and Northern Ireland,2,,28791,"61,291"
+Russian Federation,3,,52067,"141,875"
+Slovakia,2,,2347,"5,405"
+Chad,3,,3393,"10,111"
+Sudan,3,,15354,"39,445"
+Wallis and Futuna Islands,3,,6,16
+Singapore,2,,2542,"4,790"
+Serbia,1,,6652,"9,545"
+Norway,1,,4653,"4,762"
+Portugal,1,,9332,"10,621"
+Gambia,1,,1203,"1,559"
+Czech Republic,1,,7514,"10,428"
+Finland,1,,5064,"5,285"
+Bulgaria,1,,7598,"7,621"
+Belarus,2,,5115,"9,678"
+Switzerland,2,,4311,"7,633"
+Cote d'Ivoire,2,,11574,"20,677"
+Indonesia,1,,197621,"239,945"
+Hong Kong Special Administrative Region (China),2,,4401,"6,990"
+Croatia,1,,2970,"4,433"
+Myanmar,2,,26797,"49,221"
+Mongolia,2,,1399,"2,655"
+Madagascar,0,,108066,"18,912"
+Marshall Islands,0,,683,53
+"Moldova, Republic of",0,,11079,"4,136"
+Mauritius,0,,4273,"1,268"
+Malawi,0,,305090,"13,630"
+Mexico,0,,616521,"107,677"
+Malaysia,1,,50569,"27,711"
+Mozambique,0,,236740,"20,387"
+Namibia,0,,17104,"2,089"
+New Caledonia,0,,672,247
+Northern Mariana Islands,0,,231,87
+Martinique,0,,14724,405
+Montserrat,0,,1165,10
+Norfolk Island,0,,43,2
+Nigeria,1,,266705,"148,071"
+Nicaragua,0,,102307,"5,669"
+Nauru,1,,20,10
+Niue,0,,14,1
+New Zealand,0,,10569,"4,272"
+Panama,0,,86944,"3,391"
+Peru,0,,487935,"27,903"
+French Polynesia,0,,4905,265
+Papua New Guinea,0,,240296,"6,458"
+Philippines,0,,620896,"90,457"
+Haiti,0,,328029,"9,104"
+Honduras,0,,219697,"7,322"
+India,1,,1422326,"1,149,285"
+Iceland,1,,561,319
+Jamaica,0,,239998,"2,692"
+Kenya,0,,620520,"37,954"
+Kiribati,0,,2056,98
+Saint Kitts and Nevis,0,,2087,48
+Cayman Islands,0,,3846,54
+"Korea, Republic of",0,,209017,"48,607"
+Saint Lucia,0,,15064,171
+Liberia,0,,24530,"3,942"
+Lesotho,0,,6428,"1,801"
+Latvia,1,,3950,"2,266"
+Cook Islands,0,,769,11
+Chile,0,,125420,"16,770"
+Cameroon,0,,107946,"18,468"
+Colombia,0,,263293,"44,447"
+Costa Rica,0,,60338,"4,519"
+Cuba,0,,29096,"11,233"
+Cape Verde,0,,6208,503
+Belize,0,,32091,318
+Canada,1,,59354,"33,304"
+"Congo, Democratic Republic of the",0,,525849,"66,515"
+Central African Republic,0,,9521,"4,435"
+Bermuda,0,,3707,64
+"Bolivia, Plurinational State of",0,,209130,"10,028"
+Brazil,0,,1227005,"195,138"
+Bahamas,0,,17576,337
+Botswana,0,,28601,"1,842"
+Australia,0,,54130,"21,348"
+Aruba,0,,676,105
+Barbados,0,,17759,280
+Netherlands Antilles,0,,8489,199
+Angola,0,,340126,"16,752"
+Argentina,0,,102320,"39,746"
+American Samoa,0,,1797,70
+Antigua and Barbuda,0,,8159,86
+Anguilla,0,,767,15
+Fiji,0,,28241,864
+Micronesia (Federated States of),0,,1159,108
+Faeroe Islands,1,,61,48
+Ethiopia,0,,167961,"79,087"
+Burundi,0,,113929,"8,856"
+Dominica,0,,6600,73
+Dominican Republic,0,,252703,"9,890"
+Guadeloupe,0,,12034,456
+Equatorial Guinea,0,,2268,617
+Guatemala,0,,206875,"13,677"
+Guam,0,,1232,177
+Guinea-Bissau,1,,1967,"1,746"
+Guyana,0,,53020,773
+Grenada,0,,12663,106
+French Guiana,0,,2308,207
+Ghana,0,,346682,"23,947"
+Gabon,0,,3258,"1,350"
+Ecuador,0,,76437,"13,801"
+Estonia,1,,1683,"1,340"
+Palau,0,,876,20
+Paraguay,0,,15318,"6,230"
+Reunion,1,,1393,812
+Romania,0,,67393,"21,498"
+Puerto Rico,0,,36620,"3,958"
+Saint Helena,0,,80,6
+Rwanda,0,,445556,"9,609"
+Solomon Islands,0,,39252,507
+Seychelles,0,,852,87
+Tokelau,0,,4,1
+Tonga,0,,2288,102
+Togo,1,,10474,"6,761"
+Sierra Leone,0,,17433,"5,450"
+Suriname,0,,3724,500
+Sao Tome and Principe,0,,2261,158
+El Salvador,0,,188372,"7,218"
+Swaziland,0,,4894,"1,129"
+Turks and Caicos Islands,0,,1804,37
+Samoa,0,,5783,188
+South Africa,1,,86557,"48,315"
+Zambia,0,,612644,"12,197"
+Zimbabwe,0,,570754,"13,481"
+Vanuatu,0,,16499,240
+Trinidad and Tobago,0,,61987,"1,338"
+Tuvalu,0,,139,10
+"Tanzania, United Republic of",0,,406850,"40,213"
+Ukraine,1,,61035,"46,237"
+Uganda,0,,193210,"29,194"
+United States of America,0,,1021884,"304,487"
+Uruguay,0,,6955,"3,334"
+Saint Vincent and the Grenadines,0,,13512,110
+"Venezuela, Bolivarian Republic of",0,,197257,"27,935"
+British Virgin Islands,0,,1432,23
+United States Virgin Islands,0,,7958,108

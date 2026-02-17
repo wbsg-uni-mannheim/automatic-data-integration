@@ -1,0 +1,7 @@
+source_dataset,source_column,target_dataset,target_column,score,notes
+discogs,name,Music Release,name,0.95,llm_based_matching
+discogs,artist,Music Release,artist,0.95,llm_based_matching
+discogs,release-date,Music Release,release-date,0.95,llm_based_matching
+discogs,release-country,Music Release,release-country,0.95,llm_based_matching
+discogs,label,Music Release,label,0.95,llm_based_matching
+discogs,genre,Music Release,genre,0.95,llm_based_matching

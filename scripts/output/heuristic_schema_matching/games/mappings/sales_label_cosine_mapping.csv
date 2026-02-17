@@ -1,0 +1,2 @@
+source_dataset,source_column,target_dataset,target_column,score,notes
+sales,id,Videogames,id,1.0,similarity_function=cosine

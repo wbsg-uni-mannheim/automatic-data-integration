@@ -1,0 +1,211 @@
+################################################################################
+# ENTITY 0: {'musicbrainz': 'mbrainz_2807', 'lastfm': 'lastFM_5959', 'discogs': 'discogs_12243'}
+# Identifying columns: None
+################################################################################
+
+================================================================================
+ATTRIBUTE: name
+================================================================================
+
+>>> PROMPT:
+You are a fact-checker verifying data about an entity from multiple databases.
+
+ENTITY CONTEXT:
+[musicbrainz] name=Visions and Dreams, artist=Duc, Catherine, release-date=2005-01-01, release-country=Australia, tracks_track-name=['Essence of Dreams', 'Dancing in the Mist', 'Evocation', 'One Autumn Day', 'Secret Sanctuary', 'Heart of Andalucia', 'Midsummer Twilight', 'Incense', 'Rivulet', 'In the Light of Day']
+[lastfm] name=*popular* Visions and Dreams, artist=Catherine Duc, tracks_track-name=['Essence of Dreams', 'Dancing in The Mist', 'Evocation', 'One Autumn Day', 'Secret Sanctuary', 'Heart of Andalucia', 'Midsummer Twilight', 'Incense', 'Rivulet', 'In The Light of Day']
+[discogs] name=Visions And Dreams, artist=Catherine Duc, release-date=2005-01-01, release-country=United States of America, label=The Orchard, tracks_track-name=['Essence Of Dreams', 'Dancing In The Mist', 'Evocation', 'One Autumn Day', 'Secret Sanctuary', 'Heart Of Andalucia', 'Midsummer Twilight', 'Incense', 'Rivulet', 'In The Light Of Day']
+
+ATTRIBUTE TO VERIFY: "name"
+
+VALUES FROM OUR DATABASES:
+  - musicbrainz: 'Visions and Dreams'
+  - lastfm: '*popular* Visions and Dreams'
+  - discogs: 'Visions And Dreams'
+
+INSTRUCTIONS:
+1. Search the web to find the correct value from authoritative external sources
+2. Do NOT trust any database values - independently verify the correct value
+3. You MUST provide a definitive answer - only respond "UNKNOWN" if the entity cannot be identified at all
+4. For values that change over time (e.g., financial figures), use the most recent reliable data
+5. Prefer primary sources (official sites, filings) over secondary sources
+
+Respond in this exact format (two lines only):
+CORRECT_VALUE: <the verified value>
+REASONING: <brief explanation with source citation>
+
+
+>>> RESPONSE:
+CORRECT_VALUE: Visions and Dreams
+REASONING: The album is titled “Visions and Dreams” on Catherine Duc’s official website and on Apple Music’s official album listing, confirming the correct release name capitalization/spelling. ([catherineduc.com](https://www.catherineduc.com/songinfo.htm?utm_source=openai))
+
+================================================================================
+ATTRIBUTE: artist
+================================================================================
+
+>>> PROMPT:
+You are a fact-checker verifying data about an entity from multiple databases.
+
+ENTITY CONTEXT:
+[musicbrainz] name=Visions and Dreams, artist=Duc, Catherine, release-date=2005-01-01, release-country=Australia, tracks_track-name=['Essence of Dreams', 'Dancing in the Mist', 'Evocation', 'One Autumn Day', 'Secret Sanctuary', 'Heart of Andalucia', 'Midsummer Twilight', 'Incense', 'Rivulet', 'In the Light of Day']
+[lastfm] name=*popular* Visions and Dreams, artist=Catherine Duc, tracks_track-name=['Essence of Dreams', 'Dancing in The Mist', 'Evocation', 'One Autumn Day', 'Secret Sanctuary', 'Heart of Andalucia', 'Midsummer Twilight', 'Incense', 'Rivulet', 'In The Light of Day']
+[discogs] name=Visions And Dreams, artist=Catherine Duc, release-date=2005-01-01, release-country=United States of America, label=The Orchard, tracks_track-name=['Essence Of Dreams', 'Dancing In The Mist', 'Evocation', 'One Autumn Day', 'Secret Sanctuary', 'Heart Of Andalucia', 'Midsummer Twilight', 'Incense', 'Rivulet', 'In The Light Of Day']
+
+ATTRIBUTE TO VERIFY: "artist"
+
+VALUES FROM OUR DATABASES:
+  - musicbrainz: 'Duc, Catherine'
+  - lastfm: 'Catherine Duc'
+  - discogs: 'Catherine Duc'
+
+INSTRUCTIONS:
+1. Search the web to find the correct value from authoritative external sources
+2. Do NOT trust any database values - independently verify the correct value
+3. You MUST provide a definitive answer - only respond "UNKNOWN" if the entity cannot be identified at all
+4. For values that change over time (e.g., financial figures), use the most recent reliable data
+5. Prefer primary sources (official sites, filings) over secondary sources
+
+Respond in this exact format (two lines only):
+CORRECT_VALUE: <the verified value>
+REASONING: <brief explanation with source citation>
+
+
+>>> RESPONSE:
+CORRECT_VALUE: Catherine Duc  
+REASONING: The album *Visions and Dreams* is credited to artist/composer **Catherine Duc** on the artist’s official website (album credits list composition/production by Catherine Duc) ([catherineduc.com](https://www.catherineduc.com/songinfo.htm?utm_source=openai)) and on major digital music storefront listings for the album (Apple Music lists the artist as Catherine Duc) ([music.apple.com](https://music.apple.com/au/album/visions-and-dreams/73763344?utm_source=openai)).
+
+================================================================================
+ATTRIBUTE: release-date
+================================================================================
+
+>>> PROMPT:
+You are a fact-checker verifying data about an entity from multiple databases.
+
+ENTITY CONTEXT:
+[musicbrainz] name=Visions and Dreams, artist=Duc, Catherine, release-date=2005-01-01, release-country=Australia, tracks_track-name=['Essence of Dreams', 'Dancing in the Mist', 'Evocation', 'One Autumn Day', 'Secret Sanctuary', 'Heart of Andalucia', 'Midsummer Twilight', 'Incense', 'Rivulet', 'In the Light of Day']
+[lastfm] name=*popular* Visions and Dreams, artist=Catherine Duc, tracks_track-name=['Essence of Dreams', 'Dancing in The Mist', 'Evocation', 'One Autumn Day', 'Secret Sanctuary', 'Heart of Andalucia', 'Midsummer Twilight', 'Incense', 'Rivulet', 'In The Light of Day']
+[discogs] name=Visions And Dreams, artist=Catherine Duc, release-date=2005-01-01, release-country=United States of America, label=The Orchard, tracks_track-name=['Essence Of Dreams', 'Dancing In The Mist', 'Evocation', 'One Autumn Day', 'Secret Sanctuary', 'Heart Of Andalucia', 'Midsummer Twilight', 'Incense', 'Rivulet', 'In The Light Of Day']
+
+ATTRIBUTE TO VERIFY: "release-date"
+
+VALUES FROM OUR DATABASES:
+  - musicbrainz: '2005-01-01'
+  - discogs: '2005-01-01'
+
+INSTRUCTIONS:
+1. Search the web to find the correct value from authoritative external sources
+2. Do NOT trust any database values - independently verify the correct value
+3. You MUST provide a definitive answer - only respond "UNKNOWN" if the entity cannot be identified at all
+4. For values that change over time (e.g., financial figures), use the most recent reliable data
+5. Prefer primary sources (official sites, filings) over secondary sources
+
+Respond in this exact format (two lines only):
+CORRECT_VALUE: <the verified value>
+REASONING: <brief explanation with source citation>
+
+
+>>> RESPONSE:
+CORRECT_VALUE: 2005-07-05  
+REASONING: Apple Music lists the album *Visions and Dreams* by Catherine Duc with a release date of **July 5, 2005** (shown as “5 July 2005”). ([music.apple.com](https://music.apple.com/au/album/visions-and-dreams/73763344?utm_source=openai))
+
+================================================================================
+ATTRIBUTE: release-country
+================================================================================
+
+>>> PROMPT:
+You are a fact-checker verifying data about an entity from multiple databases.
+
+ENTITY CONTEXT:
+[musicbrainz] name=Visions and Dreams, artist=Duc, Catherine, release-date=2005-01-01, release-country=Australia, tracks_track-name=['Essence of Dreams', 'Dancing in the Mist', 'Evocation', 'One Autumn Day', 'Secret Sanctuary', 'Heart of Andalucia', 'Midsummer Twilight', 'Incense', 'Rivulet', 'In the Light of Day']
+[lastfm] name=*popular* Visions and Dreams, artist=Catherine Duc, tracks_track-name=['Essence of Dreams', 'Dancing in The Mist', 'Evocation', 'One Autumn Day', 'Secret Sanctuary', 'Heart of Andalucia', 'Midsummer Twilight', 'Incense', 'Rivulet', 'In The Light of Day']
+[discogs] name=Visions And Dreams, artist=Catherine Duc, release-date=2005-01-01, release-country=United States of America, label=The Orchard, tracks_track-name=['Essence Of Dreams', 'Dancing In The Mist', 'Evocation', 'One Autumn Day', 'Secret Sanctuary', 'Heart Of Andalucia', 'Midsummer Twilight', 'Incense', 'Rivulet', 'In The Light Of Day']
+
+ATTRIBUTE TO VERIFY: "release-country"
+
+VALUES FROM OUR DATABASES:
+  - musicbrainz: 'Australia'
+  - discogs: 'United States of America'
+
+INSTRUCTIONS:
+1. Search the web to find the correct value from authoritative external sources
+2. Do NOT trust any database values - independently verify the correct value
+3. You MUST provide a definitive answer - only respond "UNKNOWN" if the entity cannot be identified at all
+4. For values that change over time (e.g., financial figures), use the most recent reliable data
+5. Prefer primary sources (official sites, filings) over secondary sources
+
+Respond in this exact format (two lines only):
+CORRECT_VALUE: <the verified value>
+REASONING: <brief explanation with source citation>
+
+
+>>> RESPONSE:
+CORRECT_VALUE: Australia
+REASONING: The album is credited as ℗ 2005 Catherine Duc on Apple Music’s Australia storefront, indicating an Australian-origin release/rightsholder for the 2005 album; combined with the artist’s official site crediting production/mastering in Australia (Sony Music Australia), the authoritative evidence supports Australia as the release country rather than the USA. ([music.apple.com](https://music.apple.com/au/album/visions-and-dreams/73763344?utm_source=openai))
+
+================================================================================
+ATTRIBUTE: tracks_track-name
+================================================================================
+
+>>> PROMPT:
+You are a fact-checker verifying data about an entity from multiple databases.
+
+ENTITY CONTEXT:
+[musicbrainz] name=Visions and Dreams, artist=Duc, Catherine, release-date=2005-01-01, release-country=Australia, tracks_track-name=['Essence of Dreams', 'Dancing in the Mist', 'Evocation', 'One Autumn Day', 'Secret Sanctuary', 'Heart of Andalucia', 'Midsummer Twilight', 'Incense', 'Rivulet', 'In the Light of Day']
+[lastfm] name=*popular* Visions and Dreams, artist=Catherine Duc, tracks_track-name=['Essence of Dreams', 'Dancing in The Mist', 'Evocation', 'One Autumn Day', 'Secret Sanctuary', 'Heart of Andalucia', 'Midsummer Twilight', 'Incense', 'Rivulet', 'In The Light of Day']
+[discogs] name=Visions And Dreams, artist=Catherine Duc, release-date=2005-01-01, release-country=United States of America, label=The Orchard, tracks_track-name=['Essence Of Dreams', 'Dancing In The Mist', 'Evocation', 'One Autumn Day', 'Secret Sanctuary', 'Heart Of Andalucia', 'Midsummer Twilight', 'Incense', 'Rivulet', 'In The Light Of Day']
+
+ATTRIBUTE TO VERIFY: "tracks_track-name"
+
+VALUES FROM OUR DATABASES:
+  - musicbrainz: '['Essence of Dreams', 'Dancing in the Mist', 'Evocation', 'One Autumn Day', 'Secret Sanctuary', 'Heart of Andalucia', 'Midsummer Twilight', 'Incense', 'Rivulet', 'In the Light of Day']'
+  - lastfm: '['Essence of Dreams', 'Dancing in The Mist', 'Evocation', 'One Autumn Day', 'Secret Sanctuary', 'Heart of Andalucia', 'Midsummer Twilight', 'Incense', 'Rivulet', 'In The Light of Day']'
+  - discogs: '['Essence Of Dreams', 'Dancing In The Mist', 'Evocation', 'One Autumn Day', 'Secret Sanctuary', 'Heart Of Andalucia', 'Midsummer Twilight', 'Incense', 'Rivulet', 'In The Light Of Day']'
+
+INSTRUCTIONS:
+1. Search the web to find the correct value from authoritative external sources
+2. Do NOT trust any database values - independently verify the correct value
+3. You MUST provide a definitive answer - only respond "UNKNOWN" if the entity cannot be identified at all
+4. For values that change over time (e.g., financial figures), use the most recent reliable data
+5. Prefer primary sources (official sites, filings) over secondary sources
+
+Respond in this exact format (two lines only):
+CORRECT_VALUE: <the verified value>
+REASONING: <brief explanation with source citation>
+
+
+>>> RESPONSE:
+CORRECT_VALUE: ['Essence of Dreams', 'Dancing in The Mist', 'Evocation', 'One Autumn Day', 'Secret Sanctuary', 'Heart of Andalucia', 'Midsummer Twilight', 'Incense', 'Rivulet', 'In The Light of Day']
+REASONING: The official Amazon Music album tracklist for Catherine Duc’s *Visions and Dreams* lists these 10 tracks in this exact order and capitalization (“The” in “Dancing in The Mist” and “In The Light of Day”). ([music.amazon.com](https://music.amazon.com/tracks/B000QZCG8I?utm_source=openai))
+
+================================================================================
+ATTRIBUTE: label
+================================================================================
+
+>>> PROMPT:
+You are a fact-checker verifying data about an entity from multiple databases.
+
+ENTITY CONTEXT:
+[musicbrainz] name=Visions and Dreams, artist=Duc, Catherine, release-date=2005-01-01, release-country=Australia, tracks_track-name=['Essence of Dreams', 'Dancing in the Mist', 'Evocation', 'One Autumn Day', 'Secret Sanctuary', 'Heart of Andalucia', 'Midsummer Twilight', 'Incense', 'Rivulet', 'In the Light of Day']
+[lastfm] name=*popular* Visions and Dreams, artist=Catherine Duc, tracks_track-name=['Essence of Dreams', 'Dancing in The Mist', 'Evocation', 'One Autumn Day', 'Secret Sanctuary', 'Heart of Andalucia', 'Midsummer Twilight', 'Incense', 'Rivulet', 'In The Light of Day']
+[discogs] name=Visions And Dreams, artist=Catherine Duc, release-date=2005-01-01, release-country=United States of America, label=The Orchard, tracks_track-name=['Essence Of Dreams', 'Dancing In The Mist', 'Evocation', 'One Autumn Day', 'Secret Sanctuary', 'Heart Of Andalucia', 'Midsummer Twilight', 'Incense', 'Rivulet', 'In The Light Of Day']
+
+ATTRIBUTE TO VERIFY: "label"
+
+VALUES FROM OUR DATABASES:
+  - discogs: 'The Orchard'
+
+INSTRUCTIONS:
+1. Search the web to find the correct value from authoritative external sources
+2. Do NOT trust any database values - independently verify the correct value
+3. You MUST provide a definitive answer - only respond "UNKNOWN" if the entity cannot be identified at all
+4. For values that change over time (e.g., financial figures), use the most recent reliable data
+5. Prefer primary sources (official sites, filings) over secondary sources
+
+Respond in this exact format (two lines only):
+CORRECT_VALUE: <the verified value>
+REASONING: <brief explanation with source citation>
+
+
+>>> RESPONSE:
+CORRECT_VALUE: MG Music
+REASONING: The artist’s official website lists the album credits for **“Visions and Dreams”** as **“Label: MG Music”** (and separately notes “Distributor: The Orchard”), so the verified label is MG Music. ([catherineduc.com](https://www.catherineduc.com/songinfo.htm?utm_source=openai))
+

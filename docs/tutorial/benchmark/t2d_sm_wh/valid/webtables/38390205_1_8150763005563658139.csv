@@ -1,0 +1,55 @@
+Province,Participation,Option*,Hôpital,Ville
+Colombie-Britannique,Oui,3,Vancouver General Hospital,Vancouver
+,Oui,3,Richmond General Hospital,Vancouver
+,Oui,3,Lions Gate,Vancouver
+,Oui,3,Powell River,Vancouver
+,Oui,3,St. Marys Hospital,Vancouver
+,,3,Squamish Hospital,Vancouver
+,,3,Victoria General,Vancouver
+,,,Royal Jubilee,Vancouver
+,,,Childrens and Womens Health Center,Vancouver
+Alberta,,,Peter Lougheed,Calgary
+,,,Rockyview General,Calgary
+,,,Foothills Hospital,Calgary
+,Oui,Péd VEN,Alberta Childrens Hospital,Calgary
+,,,Rockyview Hospital,Calgary
+,Oui,3,University of Alberta Hospital,Edmonton
+,Oui,Péd VEN,Stollery Childrens Hospital,Edmonton
+Saskatchewan,Oui,3,Royal University Hospital,Saskatoon
+Manitoba,Oui,3,,Winnipeg
+,Oui,Péd VEN,"Université du Manitoba, Maladies infectieuses pédiatriques",Winnipeg
+Ontario,,,St. Josephs Health care,London
+,,,Childrens Hospital of Western Ontario,London
+,,,Victoria Hospital,London
+,,,University Hospital,London
+,Oui,3,Toronto Western Hospital,Toronto
+,,,Toronto General Hospital,Toronto
+,,,Princess Margaret Hospital,Toronto
+,Oui,3,Mount Sinai Hospital,Toronto
+,Oui,1,Sunnybrook Health Science Centre,Toronto
+,Oui,Péd VEN,The Hospital for Sick Children,Toronto
+,,,Kingston General Hospital,Kingston
+,Oui,3,Hamilton Health Sciences Centre,Hamilton
+,Non,,McMaster Site,Hamilton
+,Non,,Chedoke,Hamilton
+,Non,,Henderson & General Sites,Hamilton
+,Oui,1,St. Josephs Healthcare,Hamilton
+,Oui,(Sept),LHôpital dOttawa,Ottawa
+,Oui,,Campus Civic,Ottawa
+,Oui,,Institut général et de cardiologie,Ottawa
+,Oui,Péd VEN,Centre hospitalier pour enfants de l'Est de l'Ontario,Ottawa
+Québec,Oui,3,Hôpital général juif  SMBD,Montréal
+,Oui,Péd VEN,Hôpital de Montréal pour enfants,Montréal
+,,,Hôpital Maisonneuve-Rosemont,Montréal
+,Oui,3,Hôpital général de Montréal,Montréal
+,Oui,3,Hôpital Royal Victoria,Montréal
+,Oui,3,Institut neurologique de Montréal,Montréal
+,Oui,3,Institut thoracique de Montréal,Montréal
+,Non,,CHUS Hôpital Fleurimont,Sherbrooke
+,Non,,Hôtel-Dieu de Québec du CHUQ,Québec City
+Nouveau-Brunswick,Oui,3,The Moncton Hospital,Moncton
+Nouvelle-Écosse,Oui,3,QEII Health Sciences Centre,Halifax
+,Oui,Péd VEN,IWK Health Centre,Halifax
+Terre-Neuve-et-Labrador,,,Health care Corp. of St. Johns General & Miller Sites,St Johns
+,,,Janeway Site,St Johns
+,,,St. Clare Site,St Johns

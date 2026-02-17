@@ -1,0 +1,4 @@
+dataset,status,num_mappings,source_columns,mapped_columns
+dbpedia,matched,8,"['id', 'entity_uri', 'org_name', 'established', 'nation', 'headquarters', 'sector', 'keypeople_name', 'total_assets_val', 'annual_income']","['id', 'name', 'founded', 'country', 'city', 'industry', 'assets', 'revenue']"
+forbes,matched,7,"['id', 'forbes_url', 'company', 'url', 'region', 'business_segment', 'asset_value', 'sales_figure']","['website', 'name', 'country', 'industry', 'assets', 'revenue']"
+fullcontact,matched,5,"['id', 'fc_id', 'organization', 'location_country', 'location_city', 'keypeople_name', 'year_started']","['id', 'name', 'country', 'city', 'founded']"

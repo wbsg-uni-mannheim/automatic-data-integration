@@ -1,0 +1,58 @@
+{
+  "version": "1.2",
+  "created_at": "2026-02-16T13:51:01.608723+01:00",
+  "llm_model": "gpt-5.2",
+  "taxonomy_column": "Rating Code",
+  "taxonomy_values": [
+    "E",
+    "E10+",
+    "T",
+    "M",
+    "AO",
+    "RP",
+    "RP-LM17"
+  ],
+  "mappings": {
+    "M": "M",
+    "T": "T",
+    "E": "E",
+    "E10+": "E10+",
+    "AO": "AO",
+    "RP": "RP",
+    "K-A": null
+  },
+  "unmapped": [
+    "K-A"
+  ],
+  "reverse_mapping": {
+    "M": [
+      "M"
+    ],
+    "T": [
+      "T"
+    ],
+    "E": [
+      "E"
+    ],
+    "E10+": [
+      "E10+"
+    ],
+    "AO": [
+      "AO"
+    ],
+    "RP": [
+      "RP"
+    ]
+  },
+  "source_value_counts_by_dataset": {
+    "metacritic": {
+      "T": 6161,
+      "E": 5128,
+      "M": 4099,
+      "E10+": 2803,
+      "RP": 18,
+      "K-A": 6,
+      "AO": 3
+    }
+  }
+}

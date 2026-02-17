@@ -1,0 +1,3 @@
+Dataset Pair,Auto Variant,Auto Size,Provided Variant,Provided Size,Best Auto Val F1,Best Provided Val F1,Val Delta
+Dbpedia-Forbes,active (hist_gb),2658,faiss_large (xgb),432,0.939,0.954,-1.4%
+Forbes-Fullcontact,active (hist_gb),1566,active_plus_random (rf),1229,0.897,0.898,-0.1%

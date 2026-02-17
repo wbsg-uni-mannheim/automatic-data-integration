@@ -1,0 +1,4 @@
+source_dataset,source_column,target_dataset,target_column,score,notes
+lastfm,id,Music Release,id,1.0,similarity_function=cosine
+lastfm,tracks_track-name,Music Release,name,0.5773502691896258,similarity_function=cosine
+lastfm,tracks_track-name,Music Release,tracks,0.5773502691896258,similarity_function=cosine

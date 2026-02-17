@@ -1,0 +1,7 @@
+validation_source,case,eval_mode,accuracy,correct,total
+auto_none,llm_no_val,llm,0.9333333333333332,14,15
+auto_none,llm_no_val,llm_omit,0.9333333333333332,14,15
+auto_none,llm_no_val,web,0.8666666666666667,13,15
+auto_none,llm_no_val,web_omit,0.9333333333333332,14,15
+provided,llm_no_val,provided,0.9166666666666666,,
+provided,llm_no_val,test,0.8739495798319328,,

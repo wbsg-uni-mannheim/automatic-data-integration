@@ -1,0 +1,21 @@
+{
+  "id_column": "id",
+  "include_singletons": true,
+  "rules": {
+    "artist": "union",
+    "duration": "maximum",
+    "genre": "union",
+    "label": "union",
+    "name": "longest_string",
+    "release-country": "voting",
+    "release-date": "prefer_higher_trust",
+    "tracks_track-name": "union"
+  },
+  "strategy_name": "llm_fusion_strategy",
+  "trust_key": "trust_score",
+  "trust_scores": {
+    "discogs": 3.0,
+    "lastfm": 1.5684281634312742,
+    "musicbrainz": 1.0
+  }
+}

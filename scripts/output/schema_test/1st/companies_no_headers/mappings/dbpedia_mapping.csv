@@ -1,0 +1,9 @@
+source_dataset,source_column,target_dataset,target_column,score,notes
+dbpedia,http://dbpedia.org/resource/%C3%80_la_Table_de_Spanghero,Companies,id,0.95,llm_based_matching
+dbpedia,À la Table de Spanghero,Companies,name,0.95,llm_based_matching
+dbpedia,1970-01-01,Companies,founded,0.95,llm_based_matching
+dbpedia,France,Companies,country,0.95,llm_based_matching
+dbpedia,Castelnaudary,Companies,city,0.95,llm_based_matching
+dbpedia,Meat,Companies,industry,0.95,llm_based_matching
+dbpedia,Unnamed: 7,Companies,assets,0.95,llm_based_matching
+dbpedia,Unnamed: 8,Companies,revenue,0.95,llm_based_matching

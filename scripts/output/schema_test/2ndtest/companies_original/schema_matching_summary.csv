@@ -1,0 +1,4 @@
+dataset,status,num_mappings,source_columns,mapped_columns
+fullcontact,matched,4,"['id', 'name', 'country', 'city', 'keypeople_name', 'founded']","['name', 'country', 'city', 'founded']"
+dbpedia,matched,7,"['id', 'name', 'founded', 'country', 'city', 'industry', 'keypeople_name', 'assets', 'revenue']","['name', 'founded', 'country', 'city', 'industry', 'assets', 'revenue']"
+forbes,matched,6,"['id', 'name', 'website', 'country', 'industry', 'assets', 'revenue']","['name', 'website', 'country', 'industry', 'assets', 'revenue']"

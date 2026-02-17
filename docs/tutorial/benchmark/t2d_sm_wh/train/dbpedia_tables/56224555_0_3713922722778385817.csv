@@ -1,0 +1,196 @@
+rdf-schema#label,revenue,product,netIncome,assets,industry
+APA Corporation,7.985E9,Petroleum,973000000.0,1.3303E10,Petroleum industry
+AT&T,168.86,,20080000000.0,551.62,"Telecommunications industry, Technology company"
+AXA,,,,,
+Abbott Laboratories,4.31E10,"Generic drug, Nutrition, Medical device, Assay",7070000000.0,7.52E10,"Pharmaceutical industry, Healthcare industry, Medical devices"
+Affiliated Computer Services,6.52E9,"Outsourcing, Service Provider",350000000.0,6.9E9,Information Technology
+Aflac,2.2106E10,"Life insurance, Health insurance",4325000000.0,1.57542E11,"Insurance, Human resources"
+Allianz,1.4851E11,Investment management,7100000000.0,1.14E12,Financial services
+Amazon (company),4.69822E11,"Amazon Echo, Amazon Fire TV, Amazon Kindle, Fire OS, Amazon Fire tablet",33364000000.0,4.20549E11,"E-commerce, Consumer electronics, Entertainment, Cloud Computing, Digital distribution, Artificial intelligence, Supermarket, Self-driving cars"
+American Airlines Group,1.7335E10,,-8450000000.0,6.2008E10,Aviation
+American Electric Power,8.879E9,"Electricity distribution, Electric power transmission, Electric power generation",1064000000.0,8.0757E10,Electric Utility
+American Express,4.366E10,"Charge card, Credit card, Traveler's cheque, Corporate banking",8060000000.0,1.8855E11,"Bank, Financial services"
+AmerisourceBergen,2.1399E11,"Pharmaceutical, Pharmacy",1540000000.0,5.734E10,Pharmaceutical
+Anheuser-Busch InBev,,,,,
+Antero Resources,4.619E9,,-186000000.0,1.3896E10,Petroleum industry
+Apple Inc.,3.9433E11,"Apple Watch, Mac (computer), AirPods, IPad, IPhone",99800000000.0,3.5276E11,"Consumer electronics, Online services, Software services"
+Asbury Automotive Group,9.8E9,,532400000.0,8002.0,Car Dealership
+Assicurazioni Generali,9.901E10,"Insurance, Bank, Investment management",2850000000.0,7.1E11,Financial services
+AstraZeneca,3.7417E10,,115000000.0,1.05363E11,"Pharmaceutical industry, Biotechnology"
+Australia and New Zealand Banking Group,,"Private equity, Credit card, Mortgage, Commercial bank, Investment banking, Investment management, Private banking, Retail banking, Finance and insurance",,,"Financial services, Banking"
+BASF,,"Catalyst, Crude oil, Chemical industry, Agricultural science, Hydrocarbon exploration, Coating",5500000000.0,8.74E10,Chemical industry
+BHP Billiton,,,,,
+BNP Paribas,4.62E10,"Mortgage loan, Credit card, Commercial bank, Investment banking, Wealth management, Asset management, Private banking, Retail banking, http://dbpedia.org/resource/Securities_Services",9500000000.0,2.6E12,Financial services
+BNY Mellon,1.59E10,"Private equity, Commercial bank, Investment banking, Financial analysis, Private banking, http://dbpedia.org/resource/Securities_Services",3550000000.0,4.70533E11,"Bank, Financial services"
+BP,1.6419E11,"Petroleum, Natural gas, Aviation fuel, Motor fuel",8490000000.0,2.8727E11,Petroleum industry
+Banco Bilbao Vizcaya Argentaria,2.106E10,,4653000000.0,6.6268E11,Financial services
+Banco Bradesco,7.4E10,"Private equity, Insurance, Bank, Investment banking, Asset management, Private banking, Retail Banking",5500000000.0,3.61E11,Financial services
+Banco do Brasil,5.3E10,"Private equity, Insurance, Banking, Retail banking",19700000000.0,1.9E12,Financial services
+Bank of America,8.911E10,,30560000000.0,3.085E12,Financial services
+Bank of China,"5.0381E11, 7.323E10","Private equity, Mortgage loan, Credit card, Commercial bank, Investment banking, Wealth management, Asset management, Financial services, Securities, Private banking, Retail banking, Savings",192440000000.0,"2.1267E13, 3.091E12",Financial services
+Bank of Communications,"1.4408E11, 2.053E10",Insurance,77280000000.0,"1.52E12, 1.067E13",Financial services
+Barclays,2.194E10,,7226000000.0,1.384E12,
+"Bath & Body Works, Inc.",1.184E10,"Clothing, Fashion accessory",844000000.0,1.157E10,Retailing
+Baxter International,1.278E10,"Intravenous therapy, Haemophilia, Kidney disease",1290000000.0,3.352E10,Medical equipment
+Berkshire Hathaway,2.761E11,"Restaurants, Insurance, Internet, Investment, Sports equipment, Automotive industry, Toys, Food processing, Real estate, Aerospace, Final good, Mass media, Public utility",89800000000.0,9.588E11,Conglomerate (company)
+Best Buy,5.176E10,Consumer electronics,2450000000.0,1.75E10,Retail
+Booking Holdings,1.096E10,"Priceline.com, Booking.com, Momondo, Agoda.com, Cheapflights, Kayak.com, OpenTable, Rentalcars.com",1170000000.0,2.364E10,"Technology, Travel"
+BrightPoint,5.24,,48.8,1.51,Wireless
+Bristol Myers Squibb,4.639E10,,6990000000.0,1.0931E11,Pharmaceuticals
+CBRE Group,2.775E10,"Investment, Commercial real estate",1840000000.0,2.207E10,Real estate
+CDW,2.082E10,"Peripherals, Desktop computer, Telephony, Electric power, Data storage device, Laptops, Server (computing), Software",989000000.0,1.32E10,Business-to-business
+CSX Corporation,1.0583E10,,2765000000.0,3.82E10,Real estate
+CVS Caremark,3.67E10,Pharmacy benefit management,,,Healthcare
+Capital One,2.6033E10,"Credit card, Loan, Retail banking",2714000000.0,4.21602E11,Financial services
+Cardinal Health,1.625E11,,611000000.0,4.445E10,Healthcare
+Carvana,1.28E10,,-135000000.0,7.0E9,E-commerce
+Centene Corporation,1.11115E11,"Health insurance, Healthcare",1808000000.0,6.8719E10,"Insurance, Managed care"
+Chevron Corporation,1.6247E11,"Gasoline, Natural gas, Petrochemical",15630000000.0,2.3954E11,
+China Construction Bank,"1.751E11, 6.3377E11","Private equity, Credit card, Commercial bank, Investment banking, Investment management, Private banking, Retail banking, Finance and insurance, Mortgages",255630000000.0,"2.322E13, 3.375E12",Financial services
+China Life Insurance Company,,,,3.621E11,Financial services
+China Mobile,"1.08E11, 7.46E11",,107000000000.0,1.629E12,Telecommunication
+Cigna,1.741E11,"Life insurance, Pharmacy benefit management, Health insurance, Healthcare",5400000000.0,1.54889E11,"Insurance, Managed care"
+Cisco Systems,,,,,
+Citizens Financial Group,6.128E9,Financial services,1721000000.0,1.60518E11,Banking
+Cleveland-Cliffs,2.04E10,"Iron ore, Direct reduced iron, Steel, Stainless steel",2988000000.0,1.6771E10,"Iron ore, Direct reduced iron, Steel"
+Colgate-Palmolive,1.7421E10,"Cleaning agent, Personal care, Pet food",2166000000.0,1.504E10,Fast-moving consumer goods
+Comcast,1.1639E11,"Books, Home security, Internet, Pay television, Mobile device, Film production, Broadband, Broadcasting, HDTV, Home video, Direct-broadcast satellite, Cable television, Venture capital, Sport management, VoIP phone, TV production, Theme parks, Digital telephone",14160000000.0,2.759E11,
+Commonwealth Bank,,,9630000000.0,,"Bank, Financial services"
+ConocoPhillips,4.583E10,,8080000000.0,9.066E10,Petroleum industry
+Constellation Brands,9.355E9,"Beer, Wine, Distilled beverage",2031000000.0,2.7104E10,Drink
+Continental Resources,5.719E9,Petroleum,1660000000.0,1.8591E10,Petroleum
+Costco,2.2695E11,,5840000000.0,6.417E10,Retail
+Credit Suisse,,"Investment banking, Investment management, Private banking",,,Financial services
+Crown Castle,5840.0,,942000000.0,38768.0,Telecommunications
+Crown Holdings,1.15E10,,579000000.0,7.5E9,Packaging
+Crédit Agricole,,,,,Financial services
+Danaher Corporation,2.9453E10,,6430000000.0,8.318E10,Conglomerate (company)
+Deutsche Bank,,,,,
+Deutsche Telekom,1.01E11,"Telecommunications network, Mobile phone, Broadband, Digital media, Landline, Digital television, Information technology",4200000000.0,2.649E11,Telecommunication
+Dollar Tree,2.5509E10,,1341000000.0,2.0696E10,"Discount store, Retail, Variety store"
+Dominion Energy,"1.3366E10, 1.6572E10","Electricity, Natural gas",2549000000.0,"1.03823E11, 7.7914E10",Electric utility
+E.ON,,,,,Electric utility
+EOG Resources,1.1032E10,"Petroleum, Natural gas, Natural gas liquids",612000000.0,3.5804E10,Petroleum industry
+Electronic Arts,6.99E9,List of Electronic Arts games,789000000.0,1.38E10,Video game industry
+Enel,,"Electricity generation, Electricity distribution, Natural gas",,,Electric utility
+Eni,7.6575E10,"Petroleum, Natural gas, Petroleum products",5800000000.0,1.3776E11,Oil and gas industry
+Enron,1.00789E11,,979000000.0,6.7503E10,Energy development
+Enterprise Products,4.0806E10,Crude oil,4755000000.0,6.7525E10,Oil and gas industry
+Exelon,3.6347E10,"Electrical power, Natural gas",1829000000.0,1.33013E11,Energy industry
+Expeditors International,8.1E9,"Customs broker, Freight",818000000.0,3.3E9,Logistics
+ExxonMobil,2.76692E11,"Crude oil, Natural gas, Petrochemical, Oil products, Power generation",23040000000.0,3.38923E11,Energy industry
+Family Dollar,1.0489E10,,,3.857E9,"Retail, Discount stores"
+Ford Motor Company,1.363E11,"Car, List of auto parts, Commercial vehicles, Pickup trucks, SUVs, Luxury vehicles",17900000000.0,2.57E11,Automotive industry
+Franklin Templeton Investments,8.43E9,,1830000000.0,2.417E10,Financial services
+GDF Suez,,,,,
+GameStop,6.01E9,,381000000.0,3.5E9,Retail
+Gazprom,,"Natural gas, Petrochemical",,,Oil and gas industry
+General Electric,,,,,
+General Mills,1.763E10,"Cake mix, Vegetable, Dough, Snack food, Ice cream, Pizza, Soup, Breakfast cereal, Flour, Yogurt, Soy",2180000000.0,3.137E10,Food processing
+General Motors,1.27004E11,"Car, Commercial vehicle",9945000000.0,2.44718E11,Automotive industry
+GlaxoSmithKline,,,,,
+Global Payments,7.4E9,,605000000.0,4.42E10,Payment processing
+Goldman Sachs,,,21600000000.0,1.5E12,Financial services
+Goodyear Tire and Rubber Company,1.232E10,Tire,-1254000000.0,1.6506E10,Manufacturing
+Griffon Corporation,1.978E9,Investment,14912000.0,2.085E9,"Building materials, Conglomerate (company), Garage door, Arms industry, Plastic, Avionics"
+HF Sinclair,1.1183E10,"Gasoline, Diesel fuel, Asphalt, Jet fuel, Lubricant",514000000.0,1.1506E10,Petroleum industry
+HP Inc.,6.298E10,"Personal computer, Computer monitor, Photocopier, Printer (computing), Image scanner, Digital press, 3D printers",3200000000.0,3.859E10,Computer hardware
+HSBC,,"Private equity, Mortgage loan, Insurance, Equities trading, Commodities, Credit card, Investment banking, Investment management, Wealth management, Asset management, Risk management, Security (finance), Banking, Mutual funds",,,Financial services
+Hewlett-Packard,,List of Hewlett-Packard products,,,"Information technology consulting, Computer hardware, Software, IT service management"
+Hoffmann-La Roche,,,,,
+Honda,,"Robotics, Electric generator, Cultivator, Internavi, Motorcycle, Thin-film solar cell, Commercial vehicle, Automobile, Jet aircraft, Jet engine, Landscape maintenance, Outboard motor, Pump, Luxury vehicle, Scooter (motorcycle)",,,Manufacturing
+Iberdrola,3.3437E10,"Electricity generation, Renewable energy, Electricity distribution, Natural gas, Telecommunication",3611000000.0,1.23E11,Electric utility
+Industrial and Commercial Bank of China,"1.054E11, 725.12","Private equity, Credit cards, Commercial bank, Investment banking, Investment management, Private banking, Retail banking, Mortgage loans, Finance and insurance",298.72,"2.77E13, 4.02744E12",Financial services
+Intesa Sanpaolo,,"Public finance, Investment banking, Investment management, Private banking, Retail banking",4180000000.0,1.0E12,Financial services
+Itaúsa,1.5E9,"Health, Fashion, Finance, Chemicals",2500000000.0,,Holding company
+JLL (company),1.94E10,,961600000.0,1.5505E10,Real estate
+JPMorgan Chase,1.2165E11,"Private equity, Mortgage loan, Insurance, Equities trading, Commodities, Credit card, Investment management, Wealth management, Asset management, Risk management, Banking, Mutual funds",48330000000.0,3.77E12,Financial services
+Johnson & Johnson,,,,,
+Kodak,1.018E9,,,1.248E9,"Graphic arts, Final good"
+Kraft Heinz,2.604E10,"Convenience food, Snack food, Drink, Foodservice",1020000000.0,9.339E10,Food industry
+Lennar,2.713E10,,4430000000.0,3.3207E10,Home construction
+Liberty Media,8.04E9,"Broadcasting, Television program, Cable television, Filmmaking, Sport management",,4.4004E10,Mass media
+Lithia Motors,2.29E10,,1100000000.0,1.12E10,Car dealership
+Lloyds Banking Group,,,,,
+Lukoil,,"Petroleum, Natural gas, Petrochemical",,,Oil and gas industry
+Lumen Technologies,1.969E10,,2030000000.0,5.799E10,Telecommunication
+Merck & Co.,,,,,
+Microsoft,1.983E11,"Video game industry, Internet, Consumer electronics, Social networking service, Corporate venture capital, Cloud computing, Computer hardware, Software development",72700000000.0,3.648E11,Information technology
+Mitsubishi Corporation,,,,,
+Molina Healthcare,1.9423E10,Health insurance,673000000.0,9.532E9,Healthcare
+Morgan Stanley,5.98E10,"Prime brokerage, Commodity, Investment banking, Investment management, Wealth management, Sales and trading",15100000000.0,1118.0,Financial services
+Munich Re,5.49E10,"Insurance, Investment management, Reinsurance",1210000000.0,2.979E11,Financial services
+"NVR, Inc.",,,1240000000.0,5.83E9,Home construction
+National Australia Bank,,"Insurance, Wholesale banking, Commercial bank, Wealth management, Retail banking",,,"Bank, Financial services"
+Nationwide Mutual Insurance Company,,"Insurance, Retirement, Investments",2800000000.0,2.957E11,Financial services
+Nestlé,,"Bottled water, Breakfast cereals, Coffee, Confectionery, Ice cream, Dairy products, Baby food, Pet foods",17200000000.0,1.3914E11,Food processing
+Nippon Telegraph and Telephone,,"Telecommunications network, Mobile phone, Broadband, Landline, Digital television, Information technology, Internet television",,,Telecommunications
+Nordea,,"Investment management, Retail bank",3830000000.0,5.7035E11,Financial services
+Nordstrom,14.789,,178000000.0,8.869E9,Retail
+Novartis,5.163E10,"Vaccine, Veterinary medicine, Generic drug, Over-the-counter drug, Contact lens, Medical diagnosis, Medication",24020000000.0,1.3179E11,Pharmaceutical industry
+Oneok,1.26E10,Natural Gas,305450000.0,1.28E10,Natural gas utility
+Orange (telecommunications),,,,,
+PTC (software company),1.93E9,"MKS Integrity, Mathcad, Windchill (software), Creo (design software), Onshape",313000000.0,4.69E9,"Computer-aided engineering, Computer-aided design, Computer-aided manufacturing, Internet of Things, Product lifecycle management"
+PetroChina,,"Fuel, Natural gas, Lubricant, Petrochemical",36793.0,2404612.0,List of petroleum companies
+Petrobras,8.39E10,"Biofuel, Petroleum, Natural gas, Fertilizer, Petroleum products, Lubricant, Petrochemical",19900000000.0,1.743E11,Energy industry
+Pfizer,8.129E10,"Vaccine, Medication",21980000000.0,1.8148E11,"Pharmaceutical industry, Biotechnology"
+Pioneer Natural Resources,1.4643E10,"Petroleum, Natural-gas condensate, Natural gas",2118000000.0,3.6811E10,Petroleum industry
+Precision Castparts Corp.,9.6E9,,1700000000.0,1.85E10,"Aerospace engineering, Military"
+Procter & Gamble,,,,,
+Progressive Corporation,4.2658E10,,5704000000.0,6.4098E10,Insurance
+Publix,"3.61E10, 4.11E10",,2400000000.0,"1.739E10, 1.818E10",Retail
+PulteGroup,1.3927E10,,1930000000.0,1.3353E10,Home construction
+Quest Diagnostics,7.73E9,,838000000.0,1.2843E10,Health care
+RR Donnelley,6.276E9,,,3.33E9,Printing
+RWE,1.3125E10,Electricity,1210000000.0,3.9846E10,Electricity generation
+Regions Financial Corporation,6.762E9,"Insurance, Mortgage bank, Commercial bank, Investment banking, Asset management, Retail banking",1094000000.0,1.473E11,Financial services
+Rio Tinto Group,,,,,
+Rosneft,,"Motor fuels, Petrochemicals, Petroleum, Natural gas",,,Petroleum industry
+Ross Stores,1.489E10,,1020000000.0,4.87E9,Retail
+Royal Bank of Canada,,,,,
+Royal Dutch Shell,,,,,
+Rush Enterprises,4.727E9,Truck,105800000.0,2.89E9,Automotive industry
+"Saks, Inc.",3.147E9,,62880000.0,2.09E9,Retail
+Salesforce,2.649E10,,1440000000.0,9.521E10,"Enterprise software, Cloud computing, Consulting"
+Samsung Electronics,,,,,"Robotics, Electronics industry, Automation, Medical device, Internet of things, Artificial intelligence, Home appliance, Information technology, Semiconductor industry"
+Sanmina Corporation,7.89E9,,256000000.0,4.86E9,Electronics Manufacturing Services
+Sanofi,,"Pharmaceutical, Vaccine, Veterinary medicine, Generic drug, Over-the-counter drug, Contact lens, Medical diagnosis",6220000000.0,1.2024E11,"Pharmaceutical industry, Healthcare industry, Biotechnology"
+Santander Group,,,,,
+Sberbank of Russia,,,,,
+Scotiabank,3.125E10,,9960000000.0,1.18E12,"Financial services, Banking"
+Sherwin-Williams,1.994E10,"Coatings, Paint, Caulk, Wood stain, Sealants",1860000000.0,2.067E10,Paint
+Siemens,6.2265E10,"Rolling stock, Electric generator, Medical equipment, Gas turbine, Electric motor, Compressor, Gas engines, Automation, Transformer, Fire alarm, Water treatment, Pump, Home appliance, Siemens Digital Industries Software, Diesel engines, Steam turbine, Telecommunications equipment, Marine engines",6697000000.0,1.39608E11,Conglomerate (company)
+Sinopec,,,,,
+Southwestern Energy,6.667E9,Natural gas,-25000000.0,1.1848E10,Petroleum industry
+Standard Chartered,1.4701E10,,2313000000.0,8.27818E11,"Financial services, Banking"
+Statoil,,,,,
+Steel Dynamics,9.601E9,Steel,550000000.0,9.265E9,Metals
+Synnex,2.3757E10,"Consumer electronics, Computer hardware, Data center, Information technology, Software",500000000.0,1.1697E10,"Information technology consulting, IT service management"
+Sysco,5.5371E10,,1143000000.0,1.7757E10,Wholesale
+Telefónica,,"Internet access, Mobile phone, Landline, Digital television",,,Telecommunication
+Tenet Healthcare,1.764E10,,399000000.0,2.711E10,Healthcare
+Tesco,5.7887E10,"Convenience shop, Big-box store, Hypermarket, Supermarket",6147000000.0,1.0807E10,Retail
+Tesoro Corporation,3.4975E10,Petroleum product,1528000000.0,2.8573E10,List of petroleum companies
+Texas Instruments,1.834E10,"Calculator, Integrated circuit, Analog electronics, Digital Light Processing, Digital signal processor, Embedded processor",7770000000.0,2.468E10,Semiconductor
+The Hertz Corporation,7.336E9,,366000000.0,1.9783E10,"Car rental, Lease"
+The Home Depot,1.5116E11,"Lighting, Lumber, Household hardware, Paint, Plumbing, Gardening, Flooring, Home appliance, Tool, Builders hardware, Building material, Electrical supplies",16430000000.0,7.188E10,Retail
+The Travelers Companies,3.1581E10,"Insurance policy, Risk management",2622000000.0,1.10122E11,"Insurance, Financial services"
+The Walt Disney Company,8.2722E10,"Amusement park, Music, Web portal, Video game, Film, Television show, Comic Books",3145000000.0,2.03631E11,
+Thermo Fisher Scientific,3.921E10,,7730000000.0,9.512E10,"Pharmaceutical, Health care, Laboratory, Biotechnology"
+Toronto-Dominion Bank,4.269E10,,14300000000.0,1.73E12,Financial services
+Total S.A.,,,,,
+UniCredit,2.88E10,,4700000000.0,8.111E11,
+Unilever,5.2444E10,"Energy drink, Bottled water, Pharmaceutical, Vitamin, Cosmetics, Coffee, Condiment, Consumer, Cleaning agent, Ice cream, Air purifier, Food, Breakfast cereal, Dietary supplement, Water purification, Baby food, Tea, Mineral, Personal care, Toothpaste, Pet food, Soft drink",6621000000.0,7.5095E10,Fast-moving consumer goods
+UnitedHealth Group,2.85273E11,,17285000000.0,2.12206E11,"Insurance, Managed care"
+United Airlines Holdings,4.3259E10,,3009000000.0,5.2611E10,Aviation
+United Technologies Corporation,,,,,
+Vale Limited,,,,,
+Veritiv,6.345E9,,34000000.0,2.335E9,Pulp and paper industry
+Verizon Communications,,,,,
+Vodafone,4.3809E10,"Broadband, Internet of Things, Mobile telephony, Digital television, IPTV, Fixed telephony, Internet television",536000000.0,1.55063E11,Telecommunications industry
+Walgreens Boots Alliance,1.327E11,,4337000000.0,9.0124E10,"Pharmaceutical industry, Retail industry"
+Walmart,5.728E11,,13670000000.0,2.4486E11,Retail
+Wells Fargo,7.8492E10,"Private equity, Mortgage loan, Insurance, Equities trading, Global market, Commodities, Credit card, Investment banking, Investment management, Wealth management, Asset management, Risk management, Banking, Mutual funds",21548000000.0,1.955E12,
+Westpac,,"Private equity, Credit cards, Commercial bank, Investment banking, Investment management, Private banking, Retail banking, Finance and insurance, Mortgages",5460000000.0,,"Bank, Financial services"
+Zurich Insurance Group,4.718E10,"Pension, Insurance, Investment, Life insurance",,3.95342E11,Financial services
+Électricité de France,8.45E10,"Electricity generation, Electricity distribution, Electric power transmission, Commodity market",5100000000.0,360966.0,Electric utility

@@ -1,0 +1,3 @@
+source_dataset,source_column,target_dataset,target_column,score,notes
+fullcontact,Attribute_2,Companies,name,0.5682094568534827,"vector_method=tfidf,similarity=cosine"
+fullcontact,Attribute_3,Companies,country,0.7204080186312165,"vector_method=tfidf,similarity=cosine"

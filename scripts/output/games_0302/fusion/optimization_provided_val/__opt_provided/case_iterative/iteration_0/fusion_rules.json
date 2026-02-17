@@ -1,0 +1,77 @@
+{
+  "attribute_rules": {
+    "ESRB": {
+      "kwargs": {
+        "sources": [
+          "metacritic"
+        ]
+      },
+      "resolver": "favour_sources"
+    },
+    "criticScore": {
+      "kwargs": {
+        "sources": [
+          "metacritic"
+        ]
+      },
+      "resolver": "favour_sources"
+    },
+    "developer": {
+      "kwargs": {
+        "trust_key": "trust_score"
+      },
+      "resolver": "weighted_voting"
+    },
+    "globalSales": {
+      "kwargs": {
+        "sources": [
+          "sales"
+        ]
+      },
+      "resolver": "favour_sources"
+    },
+    "name": {
+      "kwargs": {
+        "sources": [
+          "metacritic"
+        ]
+      },
+      "resolver": "favour_sources"
+    },
+    "platform": {
+      "kwargs": {
+        "sources": [
+          "metacritic"
+        ]
+      },
+      "resolver": "favour_sources"
+    },
+    "publisher": {
+      "kwargs": {
+        "sources": [
+          "sales"
+        ]
+      },
+      "resolver": "favour_sources"
+    },
+    "releaseYear": {
+      "kwargs": {
+        "trust_key": "trust_score"
+      },
+      "resolver": "weighted_voting"
+    },
+    "series": {
+      "kwargs": {
+        "sources": [
+          "dbpedia"
+        ]
+      },
+      "resolver": "favour_sources"
+    },
+    "userScore": {
+      "kwargs": {},
+      "resolver": "median"
+    }
+  },
+  "main_entity": "video game (title released on a specific platform)"
+}

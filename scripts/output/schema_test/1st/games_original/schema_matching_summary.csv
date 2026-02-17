@@ -1,0 +1,4 @@
+dataset,status,num_mappings,source_columns,mapped_columns
+metacritic,cached,7,,"['name', 'releaseYear', 'developer', 'platform', 'criticScore', 'userScore', 'ESRB']"
+sales,cached,9,,"['name', 'releaseYear', 'developer', 'publisher', 'platform', 'criticScore', 'userScore', 'ESRB', 'globalSales']"
+dbpedia,cached,5,,"['name', 'releaseYear', 'developer', 'platform', 'series']"

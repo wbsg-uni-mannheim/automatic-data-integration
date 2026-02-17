@@ -1,0 +1,4 @@
+dataset,status,num_mappings,source_columns,mapped_columns
+metacritic,matched,7,"['id', 'name', 'releaseYear', 'developer', 'platform', 'criticScore', 'userScore', 'ESRB']","['name', 'releaseYear', 'developer', 'platform', 'criticScore', 'userScore', 'ESRB']"
+sales,matched,9,"['id', 'name', 'releaseYear', 'developer', 'publisher', 'platform', 'criticScore', 'userScore', 'ESRB', 'globalSales']","['name', 'releaseYear', 'developer', 'publisher', 'platform', 'criticScore', 'userScore', 'ESRB', 'globalSales']"
+dbpedia,matched,5,"['id', 'name', 'releaseYear', 'developer', 'platform', 'series']","['name', 'releaseYear', 'developer', 'platform', 'series']"

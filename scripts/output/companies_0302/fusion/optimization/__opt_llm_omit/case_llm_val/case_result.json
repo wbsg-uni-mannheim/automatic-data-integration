@@ -1,0 +1,63 @@
+{
+  "case_name": "llm_val",
+  "rules": {
+    "assets": {
+      "resolver": "median",
+      "kwargs": {}
+    },
+    "city": {
+      "resolver": "prefer_higher_trust",
+      "kwargs": {
+        "trust_key": "trust_score"
+      }
+    },
+    "country": {
+      "resolver": "weighted_voting",
+      "kwargs": {
+        "trust_key": "trust_score"
+      }
+    },
+    "founded": {
+      "resolver": "prefer_higher_trust",
+      "kwargs": {
+        "trust_key": "trust_score"
+      }
+    },
+    "founders": {
+      "resolver": "union",
+      "kwargs": {
+        "separator": ","
+      }
+    },
+    "industry": {
+      "resolver": "weighted_voting",
+      "kwargs": {
+        "trust_key": "trust_score"
+      }
+    },
+    "keypeople_name": {
+      "resolver": "longest_string",
+      "kwargs": {}
+    },
+    "name": {
+      "resolver": "weighted_voting",
+      "kwargs": {
+        "trust_key": "trust_score"
+      }
+    },
+    "revenue": {
+      "resolver": "median",
+      "kwargs": {}
+    },
+    "website": {
+      "resolver": "prefer_higher_trust",
+      "kwargs": {
+        "trust_key": "trust_score"
+      }
+    }
+  },
+  "accuracy_by_mode": {},
+  "source_stats": null,
+  "iterations_used": 1,
+  "optimization_mode": "llm_omit"
+}

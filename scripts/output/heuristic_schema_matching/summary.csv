@@ -1,0 +1,64 @@
+use_case,dataset,matcher,matcher_type,threshold,num_mappings,mapped_targets
+music,discogs,label_jaccard,label,0.3,3,"['id', 'name', 'tracks']"
+music,discogs,label_levenshtein,label,0.3,5,"['artist', 'genre', 'id', 'release-country', 'tracks']"
+music,discogs,label_jaro_winkler,label,0.3,55,"['artist', 'duration', 'genre', 'id', 'label', 'name', 'release-country', 'release-date', 'tracks']"
+music,discogs,label_cosine,label,0.3,3,"['id', 'name', 'tracks']"
+music,discogs,instance_tfidf_cosine,instance,0.3,0,[]
+music,discogs,instance_tf_cosine,instance,0.3,0,[]
+music,discogs,instance_binary_jaccard,instance,0.3,0,[]
+music,lastfm,label_jaccard,label,0.3,3,"['id', 'name', 'tracks']"
+music,lastfm,label_levenshtein,label,0.3,2,"['id', 'tracks']"
+music,lastfm,label_jaro_winkler,label,0.3,33,"['artist', 'duration', 'genre', 'id', 'label', 'name', 'release-country', 'release-date', 'tracks']"
+music,lastfm,label_cosine,label,0.3,3,"['id', 'name', 'tracks']"
+music,lastfm,instance_tfidf_cosine,instance,0.3,0,[]
+music,lastfm,instance_tf_cosine,instance,0.3,0,[]
+music,lastfm,instance_binary_jaccard,instance,0.3,0,[]
+music,musicbrainz,label_jaccard,label,0.3,1,['id']
+music,musicbrainz,label_levenshtein,label,0.3,1,['id']
+music,musicbrainz,label_jaro_winkler,label,0.3,50,"['artist', 'duration', 'genre', 'id', 'label', 'release-country', 'release-date', 'tracks']"
+music,musicbrainz,label_cosine,label,0.3,1,['id']
+music,musicbrainz,instance_tfidf_cosine,instance,0.3,0,[]
+music,musicbrainz,instance_tf_cosine,instance,0.3,0,[]
+music,musicbrainz,instance_binary_jaccard,instance,0.3,0,[]
+games,dbpedia,label_jaccard,label,0.3,1,['id']
+games,dbpedia,label_levenshtein,label,0.3,2,"['id', 'series']"
+games,dbpedia,label_jaro_winkler,label,0.3,50,"['criticScore', 'developer', 'genres', 'globalSales', 'id', 'name', 'platform', 'publisher', 'releaseYear', 'series', 'userScore']"
+games,dbpedia,label_cosine,label,0.3,1,['id']
+games,dbpedia,instance_tfidf_cosine,instance,0.3,0,[]
+games,dbpedia,instance_tf_cosine,instance,0.3,0,[]
+games,dbpedia,instance_binary_jaccard,instance,0.3,0,[]
+games,metacritic,label_jaccard,label,0.3,1,['id']
+games,metacritic,label_levenshtein,label,0.3,6,"['genres', 'id', 'name', 'platform', 'publisher', 'series']"
+games,metacritic,label_jaro_winkler,label,0.3,73,"['criticScore', 'developer', 'genres', 'globalSales', 'id', 'name', 'platform', 'publisher', 'releaseYear', 'series', 'userScore']"
+games,metacritic,label_cosine,label,0.3,1,['id']
+games,metacritic,instance_tfidf_cosine,instance,0.3,0,[]
+games,metacritic,instance_tf_cosine,instance,0.3,0,[]
+games,metacritic,instance_binary_jaccard,instance,0.3,0,[]
+games,sales,label_jaccard,label,0.3,1,['id']
+games,sales,label_levenshtein,label,0.3,3,"['criticScore', 'id', 'userScore']"
+games,sales,label_jaro_winkler,label,0.3,76,"['criticScore', 'developer', 'genres', 'globalSales', 'id', 'name', 'platform', 'publisher', 'releaseYear', 'series', 'userScore']"
+games,sales,label_cosine,label,0.3,1,['id']
+games,sales,instance_tfidf_cosine,instance,0.3,0,[]
+games,sales,instance_tf_cosine,instance,0.3,0,[]
+games,sales,instance_binary_jaccard,instance,0.3,0,[]
+companies,dbpedia,label_jaccard,label,0.3,4,"['assets', 'id', 'name']"
+companies,dbpedia,label_levenshtein,label,0.3,7,"['assets', 'founders', 'id', 'industry', 'name']"
+companies,dbpedia,label_jaro_winkler,label,0.3,69,"['assets', 'city', 'country', 'founded', 'founders', 'id', 'industry', 'name', 'revenue', 'website']"
+companies,dbpedia,label_cosine,label,0.3,4,"['assets', 'id', 'name']"
+companies,dbpedia,instance_tfidf_cosine,instance,0.3,0,[]
+companies,dbpedia,instance_tf_cosine,instance,0.3,0,[]
+companies,dbpedia,instance_binary_jaccard,instance,0.3,0,[]
+companies,forbes,label_jaccard,label,0.3,1,['id']
+companies,forbes,label_levenshtein,label,0.3,4,"['assets', 'country', 'id', 'revenue']"
+companies,forbes,label_jaro_winkler,label,0.3,52,"['assets', 'city', 'country', 'founded', 'founders', 'id', 'industry', 'name', 'revenue', 'website']"
+companies,forbes,label_cosine,label,0.3,1,['id']
+companies,forbes,instance_tfidf_cosine,instance,0.3,0,[]
+companies,forbes,instance_tf_cosine,instance,0.3,0,[]
+companies,forbes,instance_binary_jaccard,instance,0.3,0,[]
+companies,fullcontact,label_jaccard,label,0.3,1,['id']
+companies,fullcontact,label_levenshtein,label,0.3,1,['id']
+companies,fullcontact,label_jaro_winkler,label,0.3,49,"['assets', 'city', 'country', 'founded', 'founders', 'id', 'industry', 'revenue', 'website']"
+companies,fullcontact,label_cosine,label,0.3,1,['id']
+companies,fullcontact,instance_tfidf_cosine,instance,0.3,0,[]
+companies,fullcontact,instance_tf_cosine,instance,0.3,0,[]
+companies,fullcontact,instance_binary_jaccard,instance,0.3,0,[]

@@ -1,0 +1,313 @@
+################################################################################
+# ENTITY 0: {'dbpedia': 'dbpedia_36582', 'sales': 'sales_3209', 'metacritic': 'metacritic_17161'}
+# Identifying columns: None
+################################################################################
+
+================================================================================
+ATTRIBUTE: name
+================================================================================
+
+>>> PROMPT:
+You are a fact-checker verifying data about an entity from multiple databases.
+
+ENTITY CONTEXT:
+[dbpedia] name=Dark Void, releaseYear=2010-01-01 00:00:00, developer=Airtight Games, platform=PlayStation 3
+[sales] name=Dark Void, releaseYear=2010-01-01 00:00:00, developer=Airtight Games, publisher=Capcom, platform=PlayStation 3, criticScore=59.0, userScore=6.0, ESRB=T, globalSales=0
+[metacritic] name=Dark Void, releaseYear=2010-01-01 00:00:00, developer=Airtight Games, platform=PlayStation 3, criticScore=59.0, userScore=5.9, ESRB=T
+
+ATTRIBUTE TO VERIFY: "name"
+
+VALUES FROM OUR DATABASES:
+  - dbpedia: 'Dark Void'
+  - sales: 'Dark Void'
+  - metacritic: 'Dark Void'
+
+INSTRUCTIONS:
+1. Use your knowledge to determine the correct value for this attribute
+2. Do NOT simply pick from database values - verify based on what you know to be factually correct
+3. You MUST provide a definitive answer - only respond "UNKNOWN" if the entity cannot be identified at all
+4. For values that change over time, use the most recent data in your knowledge
+5. Prefer authoritative knowledge (official facts) over uncertain information
+
+Respond in this exact format (two lines only):
+CORRECT_VALUE: <the correct value>
+REASONING: <brief explanation>
+
+
+>>> RESPONSE:
+CORRECT_VALUE: Dark Void
+REASONING: The 2010 Airtight Games/Capcom action-adventure title is officially titled "Dark Void" across authoritative sources and releases, so the correct name is "Dark Void".
+
+================================================================================
+ATTRIBUTE: releaseYear
+================================================================================
+
+>>> PROMPT:
+You are a fact-checker verifying data about an entity from multiple databases.
+
+ENTITY CONTEXT:
+[dbpedia] name=Dark Void, releaseYear=2010-01-01 00:00:00, developer=Airtight Games, platform=PlayStation 3
+[sales] name=Dark Void, releaseYear=2010-01-01 00:00:00, developer=Airtight Games, publisher=Capcom, platform=PlayStation 3, criticScore=59.0, userScore=6.0, ESRB=T, globalSales=0
+[metacritic] name=Dark Void, releaseYear=2010-01-01 00:00:00, developer=Airtight Games, platform=PlayStation 3, criticScore=59.0, userScore=5.9, ESRB=T
+
+ATTRIBUTE TO VERIFY: "releaseYear"
+
+VALUES FROM OUR DATABASES:
+  - dbpedia: '2010-01-01 00:00:00'
+  - sales: '2010-01-01 00:00:00'
+  - metacritic: '2010-01-01 00:00:00'
+
+INSTRUCTIONS:
+1. Use your knowledge to determine the correct value for this attribute
+2. Do NOT simply pick from database values - verify based on what you know to be factually correct
+3. You MUST provide a definitive answer - only respond "UNKNOWN" if the entity cannot be identified at all
+4. For values that change over time, use the most recent data in your knowledge
+5. Prefer authoritative knowledge (official facts) over uncertain information
+
+Respond in this exact format (two lines only):
+CORRECT_VALUE: <the correct value>
+REASONING: <brief explanation>
+
+
+>>> RESPONSE:
+CORRECT_VALUE: 2010
+REASONING: Dark Void (Airtight Games/Capcom) was released in 2010 (first launch in January 2010), so the correct release year is 2010 rather than a full timestamp.
+
+================================================================================
+ATTRIBUTE: developer
+================================================================================
+
+>>> PROMPT:
+You are a fact-checker verifying data about an entity from multiple databases.
+
+ENTITY CONTEXT:
+[dbpedia] name=Dark Void, releaseYear=2010-01-01 00:00:00, developer=Airtight Games, platform=PlayStation 3
+[sales] name=Dark Void, releaseYear=2010-01-01 00:00:00, developer=Airtight Games, publisher=Capcom, platform=PlayStation 3, criticScore=59.0, userScore=6.0, ESRB=T, globalSales=0
+[metacritic] name=Dark Void, releaseYear=2010-01-01 00:00:00, developer=Airtight Games, platform=PlayStation 3, criticScore=59.0, userScore=5.9, ESRB=T
+
+ATTRIBUTE TO VERIFY: "developer"
+
+VALUES FROM OUR DATABASES:
+  - dbpedia: 'Airtight Games'
+  - sales: 'Airtight Games'
+  - metacritic: 'Airtight Games'
+
+INSTRUCTIONS:
+1. Use your knowledge to determine the correct value for this attribute
+2. Do NOT simply pick from database values - verify based on what you know to be factually correct
+3. You MUST provide a definitive answer - only respond "UNKNOWN" if the entity cannot be identified at all
+4. For values that change over time, use the most recent data in your knowledge
+5. Prefer authoritative knowledge (official facts) over uncertain information
+
+Respond in this exact format (two lines only):
+CORRECT_VALUE: <the correct value>
+REASONING: <brief explanation>
+
+
+>>> RESPONSE:
+CORRECT_VALUE: Airtight Games
+REASONING: Dark Void is a Capcom-published action game developed by Airtight Games for PlayStation 3 (and other platforms), as consistently cited in reliable game reference sources.
+
+================================================================================
+ATTRIBUTE: platform
+================================================================================
+
+>>> PROMPT:
+You are a fact-checker verifying data about an entity from multiple databases.
+
+ENTITY CONTEXT:
+[dbpedia] name=Dark Void, releaseYear=2010-01-01 00:00:00, developer=Airtight Games, platform=PlayStation 3
+[sales] name=Dark Void, releaseYear=2010-01-01 00:00:00, developer=Airtight Games, publisher=Capcom, platform=PlayStation 3, criticScore=59.0, userScore=6.0, ESRB=T, globalSales=0
+[metacritic] name=Dark Void, releaseYear=2010-01-01 00:00:00, developer=Airtight Games, platform=PlayStation 3, criticScore=59.0, userScore=5.9, ESRB=T
+
+ATTRIBUTE TO VERIFY: "platform"
+
+VALUES FROM OUR DATABASES:
+  - dbpedia: 'PlayStation 3'
+  - sales: 'PlayStation 3'
+  - metacritic: 'PlayStation 3'
+
+INSTRUCTIONS:
+1. Use your knowledge to determine the correct value for this attribute
+2. Do NOT simply pick from database values - verify based on what you know to be factually correct
+3. You MUST provide a definitive answer - only respond "UNKNOWN" if the entity cannot be identified at all
+4. For values that change over time, use the most recent data in your knowledge
+5. Prefer authoritative knowledge (official facts) over uncertain information
+
+Respond in this exact format (two lines only):
+CORRECT_VALUE: <the correct value>
+REASONING: <brief explanation>
+
+
+>>> RESPONSE:
+CORRECT_VALUE: PlayStation 3
+REASONING: Dark Void (2010), developed by Airtight Games and published by Capcom, was released on multiple platforms including PlayStation 3, so “PlayStation 3” is a factually correct platform for the game.
+
+================================================================================
+ATTRIBUTE: publisher
+================================================================================
+
+>>> PROMPT:
+You are a fact-checker verifying data about an entity from multiple databases.
+
+ENTITY CONTEXT:
+[dbpedia] name=Dark Void, releaseYear=2010-01-01 00:00:00, developer=Airtight Games, platform=PlayStation 3
+[sales] name=Dark Void, releaseYear=2010-01-01 00:00:00, developer=Airtight Games, publisher=Capcom, platform=PlayStation 3, criticScore=59.0, userScore=6.0, ESRB=T, globalSales=0
+[metacritic] name=Dark Void, releaseYear=2010-01-01 00:00:00, developer=Airtight Games, platform=PlayStation 3, criticScore=59.0, userScore=5.9, ESRB=T
+
+ATTRIBUTE TO VERIFY: "publisher"
+
+VALUES FROM OUR DATABASES:
+  - sales: 'Capcom'
+
+INSTRUCTIONS:
+1. Use your knowledge to determine the correct value for this attribute
+2. Do NOT simply pick from database values - verify based on what you know to be factually correct
+3. You MUST provide a definitive answer - only respond "UNKNOWN" if the entity cannot be identified at all
+4. For values that change over time, use the most recent data in your knowledge
+5. Prefer authoritative knowledge (official facts) over uncertain information
+
+Respond in this exact format (two lines only):
+CORRECT_VALUE: <the correct value>
+REASONING: <brief explanation>
+
+
+>>> RESPONSE:
+CORRECT_VALUE: Capcom
+REASONING: Dark Void (2010), developed by Airtight Games, was published by Capcom for PlayStation 3 (and other platforms), per widely documented release information.
+
+================================================================================
+ATTRIBUTE: criticScore
+================================================================================
+
+>>> PROMPT:
+You are a fact-checker verifying data about an entity from multiple databases.
+
+ENTITY CONTEXT:
+[dbpedia] name=Dark Void, releaseYear=2010-01-01 00:00:00, developer=Airtight Games, platform=PlayStation 3
+[sales] name=Dark Void, releaseYear=2010-01-01 00:00:00, developer=Airtight Games, publisher=Capcom, platform=PlayStation 3, criticScore=59.0, userScore=6.0, ESRB=T, globalSales=0
+[metacritic] name=Dark Void, releaseYear=2010-01-01 00:00:00, developer=Airtight Games, platform=PlayStation 3, criticScore=59.0, userScore=5.9, ESRB=T
+
+ATTRIBUTE TO VERIFY: "criticScore"
+
+VALUES FROM OUR DATABASES:
+  - sales: '59.0'
+  - metacritic: '59.0'
+
+INSTRUCTIONS:
+1. Use your knowledge to determine the correct value for this attribute
+2. Do NOT simply pick from database values - verify based on what you know to be factually correct
+3. You MUST provide a definitive answer - only respond "UNKNOWN" if the entity cannot be identified at all
+4. For values that change over time, use the most recent data in your knowledge
+5. Prefer authoritative knowledge (official facts) over uncertain information
+
+Respond in this exact format (two lines only):
+CORRECT_VALUE: <the correct value>
+REASONING: <brief explanation>
+
+
+>>> RESPONSE:
+CORRECT_VALUE: 59
+REASONING: Dark Void (PS3, 2010) has a Metacritic critic aggregate score of 59/100, which is the standard reference for “criticScore” for this title/platform.
+
+================================================================================
+ATTRIBUTE: userScore
+================================================================================
+
+>>> PROMPT:
+You are a fact-checker verifying data about an entity from multiple databases.
+
+ENTITY CONTEXT:
+[dbpedia] name=Dark Void, releaseYear=2010-01-01 00:00:00, developer=Airtight Games, platform=PlayStation 3
+[sales] name=Dark Void, releaseYear=2010-01-01 00:00:00, developer=Airtight Games, publisher=Capcom, platform=PlayStation 3, criticScore=59.0, userScore=6.0, ESRB=T, globalSales=0
+[metacritic] name=Dark Void, releaseYear=2010-01-01 00:00:00, developer=Airtight Games, platform=PlayStation 3, criticScore=59.0, userScore=5.9, ESRB=T
+
+ATTRIBUTE TO VERIFY: "userScore"
+
+VALUES FROM OUR DATABASES:
+  - sales: '6.0'
+  - metacritic: '5.9'
+
+INSTRUCTIONS:
+1. Use your knowledge to determine the correct value for this attribute
+2. Do NOT simply pick from database values - verify based on what you know to be factually correct
+3. You MUST provide a definitive answer - only respond "UNKNOWN" if the entity cannot be identified at all
+4. For values that change over time, use the most recent data in your knowledge
+5. Prefer authoritative knowledge (official facts) over uncertain information
+
+Respond in this exact format (two lines only):
+CORRECT_VALUE: <the correct value>
+REASONING: <brief explanation>
+
+
+>>> RESPONSE:
+CORRECT_VALUE: 5.9
+REASONING: Metacritic’s recorded user score for Dark Void on PlayStation 3 is 5.9 (shown as a one-decimal aggregate), while “6.0” appears to be a rounded value rather than the exact displayed score.
+
+================================================================================
+ATTRIBUTE: ESRB
+================================================================================
+
+>>> PROMPT:
+You are a fact-checker verifying data about an entity from multiple databases.
+
+ENTITY CONTEXT:
+[dbpedia] name=Dark Void, releaseYear=2010-01-01 00:00:00, developer=Airtight Games, platform=PlayStation 3
+[sales] name=Dark Void, releaseYear=2010-01-01 00:00:00, developer=Airtight Games, publisher=Capcom, platform=PlayStation 3, criticScore=59.0, userScore=6.0, ESRB=T, globalSales=0
+[metacritic] name=Dark Void, releaseYear=2010-01-01 00:00:00, developer=Airtight Games, platform=PlayStation 3, criticScore=59.0, userScore=5.9, ESRB=T
+
+ATTRIBUTE TO VERIFY: "ESRB"
+
+VALUES FROM OUR DATABASES:
+  - sales: 'T'
+  - metacritic: 'T'
+
+INSTRUCTIONS:
+1. Use your knowledge to determine the correct value for this attribute
+2. Do NOT simply pick from database values - verify based on what you know to be factually correct
+3. You MUST provide a definitive answer - only respond "UNKNOWN" if the entity cannot be identified at all
+4. For values that change over time, use the most recent data in your knowledge
+5. Prefer authoritative knowledge (official facts) over uncertain information
+
+Respond in this exact format (two lines only):
+CORRECT_VALUE: <the correct value>
+REASONING: <brief explanation>
+
+
+>>> RESPONSE:
+CORRECT_VALUE: T
+REASONING: Dark Void (2010, Airtight Games/Capcom) was rated “Teen” by the ESRB for its sci‑fi action/shooter content, consistent with official listings and contemporary release information.
+
+================================================================================
+ATTRIBUTE: globalSales
+================================================================================
+
+>>> PROMPT:
+You are a fact-checker verifying data about an entity from multiple databases.
+
+ENTITY CONTEXT:
+[dbpedia] name=Dark Void, releaseYear=2010-01-01 00:00:00, developer=Airtight Games, platform=PlayStation 3
+[sales] name=Dark Void, releaseYear=2010-01-01 00:00:00, developer=Airtight Games, publisher=Capcom, platform=PlayStation 3, criticScore=59.0, userScore=6.0, ESRB=T, globalSales=0
+[metacritic] name=Dark Void, releaseYear=2010-01-01 00:00:00, developer=Airtight Games, platform=PlayStation 3, criticScore=59.0, userScore=5.9, ESRB=T
+
+ATTRIBUTE TO VERIFY: "globalSales"
+
+VALUES FROM OUR DATABASES:
+  - sales: '0'
+
+INSTRUCTIONS:
+1. Use your knowledge to determine the correct value for this attribute
+2. Do NOT simply pick from database values - verify based on what you know to be factually correct
+3. You MUST provide a definitive answer - only respond "UNKNOWN" if the entity cannot be identified at all
+4. For values that change over time, use the most recent data in your knowledge
+5. Prefer authoritative knowledge (official facts) over uncertain information
+
+Respond in this exact format (two lines only):
+CORRECT_VALUE: <the correct value>
+REASONING: <brief explanation>
+
+
+>>> RESPONSE:
+CORRECT_VALUE: UNKNOWN
+REASONING: Dark Void (2010, Airtight Games/Capcom, PS3) is identifiable, but I don’t have access to a definitive, authoritative global sales figure; sources like VGChartz are estimates and I can’t verify an exact number from reliable records in my knowledge.
+

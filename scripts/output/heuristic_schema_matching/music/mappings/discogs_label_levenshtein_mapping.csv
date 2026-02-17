@@ -1,0 +1,6 @@
+source_dataset,source_column,target_dataset,target_column,score,notes
+discogs,id,Music Release,id,1.0,similarity_function=levenshtein
+discogs,title_str,Music Release,artist,0.33333333333333337,similarity_function=levenshtein
+discogs,performer,Music Release,genre,0.33333333333333337,similarity_function=levenshtein
+discogs,category,Music Release,release-country,0.33333333333333337,similarity_function=levenshtein
+discogs,tracks_track-name,Music Release,tracks,0.3529411764705882,similarity_function=levenshtein

@@ -1,0 +1,4 @@
+dataset_pair,num_candidates,input_tokens,output_tokens,estimated_cost_usd
+Dbpedia-Forbes,40000,6030071,600000,18.9526
+Forbes-Fullcontact,38620,5215926,579300,17.2381
+TOTAL,78620,11245997,1179300,36.1907

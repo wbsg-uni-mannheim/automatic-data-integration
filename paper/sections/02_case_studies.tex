@@ -1,0 +1,13 @@
+\section{Case Studies}
+\label{sec:case_studies}
+We evaluate the pipelines using three case studies covering different domains. Each involves integrating three heterogeneous datasets into a unified dataset conforming to a predefined target schema. Table~\ref{tab:dataset_statistics} provides statistics about the datasets including record and attribute counts, and data density. The table also lists the attributes of the datasets and the target schemata.
+
+
+\textbf{Video Games.} \label{sec:games_case}
+This case study requires the integration of data describing video games from three complementary sources: One dataset has been scraped from Metacritic and consists of review scores and ESRB ratings from the review aggregation platform; the second dataset is taken from Zenodo and contains global and regional sales figures. The third dataset was created by querying DBpedia and contains encyclopedic attributes such as release dates, developers, and series information.  The target schema of the games case study contains 12 attributes. Key challenges of this use case include matching games that appear on different platforms as separate entities, as well as normalizing platform and genre taxonomies across sources.
+
+\textbf{Companies.} \label{sec:companies_case}
+This case study integrates data describing large companies from three sources with distinct perspectives: the Forbes Global 2000 list ranks the world's largest public companies by market value, sales, profits, and assets; a DBpedia extract containing encyclopedic information including founding dates, headquarters, industry, and key people; and FullContact, a commercial API providing contact information and key personnel for large companies. The target schema of the companies use case contains 10 attributes including a taxonomic industry attribute. Key challenges include matching companies despite name variations (abbreviations, legal suffixes) and normalizing financial figures reported using different scales.
+
+\textbf{Music.} \label{sec:music_case}
+This case study requires the integration of data about music releases (albums, EPs, singles) from three community-maintained music databases: MusicBrainz, an open music encyclopedia containing data on releases, artists, and labels; Last.fm, a music discovery platform with listening statistics and track-level data; and Discogs, a marketplace-oriented database with detailed release information including genres and country of origin. The 37,255 records overlap partially, as popular releases are contained in all three sources while niche releases may exist in only one. Key challenges include normalizing duration formats and country names, and matching releases as the sources use varying naming conventions.

@@ -1,0 +1,4 @@
+dataset,status,num_mappings,source_columns,mapped_columns
+dbpedia,matched,6,"['id', 'wiki_ref', 'title', 'launch_yr', 'studio', 'system', 'franchise']","['id', 'name', 'releaseYear', 'developer', 'platform', 'series']"
+metacritic,matched,8,"['id', 'mc_id', 'game_title', 'year_published', 'made_by', 'console', 'press_rating', 'player_rating', 'age_rating']","['id', 'name', 'releaseYear', 'developer', 'platform', 'criticScore', 'userScore', 'ESRB']"
+sales,matched,10,"['id', 'sku', 'product_name', 'release_period', 'creator_studio', 'distributor', 'hw_platform', 'review_avg', 'community_score', 'content_rating', 'units_sold']","['id', 'name', 'releaseYear', 'developer', 'publisher', 'platform', 'criticScore', 'userScore', 'ESRB', 'globalSales']"

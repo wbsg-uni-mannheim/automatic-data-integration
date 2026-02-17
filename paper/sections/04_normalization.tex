@@ -1,0 +1,23 @@
+\section{Value Normalization}
+\label{sec:normalization}
+After schema matching, value normalization translates source data into the formats specified by the target schema~\cite{rahm2000dataCleaning, narayan2022can}. This involves both standard type conversions (dates, numeric scales, country codes) and semantic mappings for categorical attributes where the same concept appears under different names across sources, or taxonomic attributes where sub-concepts need to be mapped to super-concepts in the target schema.
+
+\textbf{Human Pipeline.} \label{sec:norm_approach}
+The data engineers manually selected and configured PyDI normalization functions for each source column. For standard data types such as dates, numeric values, and scale modifiers (e.g., ``million,'' ``MEUR''), they specified the expected input format and target output type for PyDI's deterministic normalizers. For categorical attributes, normalization effort varied across use cases. In Games, the data engineers created a manual platform name mapping covering approximately 20 canonical forms with their common aliases (e.g., ``PS4'' $\to$ ``PlayStation~4'', ``SNES'' $\to$ ``Super Nintendo''). In Companies and Music, no manual mapping was performed for taxonomic attributes such as industry or genre.
+
+\textbf{LLM Pipeline.}
+The LLM pipeline uses the same code-based normalizers for standard data types. The normalizers are selected automatically through PyDI's column profiling module which detects the semantic type of each column and applies the appropriate normalizer. For categorical attributes, the pipeline in addition uses GPT-5.2 to map source values to the target value sets defined in the target schemata. The LLM uses its background knowledge to resolve synonyms, abbreviations, and hierarchical relationships (see Footnote~\ref{fn:prompts} for the complete prompt). In the Games case study, the LLM maps platform names, genres, and ESRB ratings across all three sources. In Companies, it maps industry labels to the GICS taxonomy. In Music, it maps genre labels to level two concepts in a genre taxonomy. This also eases downstream tasks, as entity matching and data fusion benefit from platform names like ``PS4'' and ``PlayStation~4'' being normalized.
+
+\input{tables/normalization_stats}
+
+\textbf{Results.}
+\label{sec:norm_results}
+Table~\ref{tab:normalization_stats} presents normalization statistics for the LLM pipeline; since the human pipeline performed only limited normalization, we report only LLM results.
+Code-based normalizers handle approximately twice the volume of LLM-based taxonomy mapping (236,610 vs.\ 114,420 values normalized), with high coverage in both categories (96\% for code-based columns, 92\% for LLM-targeted columns). The Games case study dominates LLM usage (4 columns, 84,857 values) due to multiple taxonomy-based attributes, while Music and Companies each require taxonomy mapping for only one column.
+
+\textbf{Discussion.}
+\label{sec:norm_limitations}
+Compared to the human pipeline, the LLM pipeline normalizes substantially more categorical and taxonomic attributes. Where the data engineers created a small set of platform alias mappings for one use case, the LLM generated comprehensive taxonomy mappings across all categorical columns in all three use cases. Manual inspection of the generated mappings confirmed that they are meaningful and consistent with the target taxonomies. This difference is most pronounced for attributes with many unique values: manually mapping hundreds of genre labels or platform variants is costly, while the LLM handles this at marginal cost. The human time estimates in Section~\ref{sec:runtime_analysis} should therefore be considered a lower bound, as they do not account for the effort that comprehensive taxonomy mapping would have required.
+
+Both normalization approaches have characteristic failure modes. LLM taxonomy mapping retains the original value when no suitable target taxonomy entry exists, leaving unmapped values that propagate to downstream steps. Code-based normalization fails on unknown value formats and lacks semantic understanding: for instance, a duration column containing the value ``2000'' is parsed as-is, even though an album duration of 2,000 minutes is implausible and likely indicates that the scale of the value is seconds. Both limitations could be addressed by coding agents that dynamically generate normalization code informed by background knowledge about the entities being integrated.
+

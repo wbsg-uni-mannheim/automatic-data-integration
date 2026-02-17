@@ -1,0 +1,23 @@
+{
+  "dbpedia__forbes": {
+    "f1": 0.9543147208121826,
+    "matcher": "MLBasedMatcher",
+    "precision": 0.9690721649484536,
+    "recall": 0.94,
+    "threshold": 0.3
+  },
+  "dbpedia__fullcontact": {
+    "f1": 0.9850746268656716,
+    "matcher": "MLBasedMatcher",
+    "precision": 0.9801980198019802,
+    "recall": 0.99,
+    "threshold": 0.5
+  },
+  "forbes__fullcontact": {
+    "f1": 0.9949748743718593,
+    "matcher": "MLBasedMatcher",
+    "precision": 1.0,
+    "recall": 0.99,
+    "threshold": 0.3
+  }
+}

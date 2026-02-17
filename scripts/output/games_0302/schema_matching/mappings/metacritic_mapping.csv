@@ -1,0 +1,9 @@
+source_dataset,source_column,target_dataset,target_column,score,notes
+metacritic,id,Videogames,id,0.95,llm_based_matching
+metacritic,game_title,Videogames,name,0.95,llm_based_matching
+metacritic,year_published,Videogames,releaseYear,0.95,llm_based_matching
+metacritic,made_by,Videogames,developer,0.95,llm_based_matching
+metacritic,console,Videogames,platform,0.95,llm_based_matching
+metacritic,press_rating,Videogames,criticScore,0.95,llm_based_matching
+metacritic,player_rating,Videogames,userScore,0.95,llm_based_matching
+metacritic,age_rating,Videogames,ESRB,0.95,llm_based_matching

@@ -1,0 +1,18 @@
+% Cluster cleaning strategy comparison (auto-generated)
+\begin{table}[t]
+\caption{Cluster cleaning strategies applied per dataset pair. "Oversized fixed" counts clusters reduced from $>3$ to $\leq 3$ entities.}
+\label{tab:cluster_cleaning}
+\centering
+\footnotesize
+\begin{tabular}{@{}lrrrrr@{}}
+\toprule
+\textbf{Strategy} & \textbf{Corr.} & \textbf{Clusters} & \textbf{Oversized} & \textbf{Fixed} & \textbf{Collateral} \\
+\midrule
+Baseline (none) & 1440 & 988 & 80 & --- & --- \\
+\midrule
+MaximumBipartiteMatching $\star$ & 1248 & 1029 & 0 & 80 & -121 \\
+GreedyOneToOne & 1244 & 1025 & 0 & 80 & -117 \\
+StableMatching & 1243 & 1024 & 0 & 80 & -116 \\
+\bottomrule
+\end{tabular}
+\end{table}

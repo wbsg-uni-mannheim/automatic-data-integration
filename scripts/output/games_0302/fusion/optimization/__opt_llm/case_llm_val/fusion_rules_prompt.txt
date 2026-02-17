@@ -1,0 +1,128 @@
+We are doing DATA FUSION: merge multiple records that refer to the same real-world entity.
+
+Task:
+1) Infer what the MAIN ENTITY is from dataset names and attribute names.
+2) For EACH attribute, choose EXACTLY ONE conflict resolution function (resolver) from the allowed list.
+3) Use the validation feedback to understand which sources tend to be correct for each attribute.
+
+Allowed resolvers (choose only from this list):
+['average', 'earliest', 'favour_sources', 'intersection', 'intersection_k_sources', 'longest_string', 'maximum', 'median', 'minimum', 'most_complete', 'most_recent', 'prefer_higher_trust', 'random_value', 'shortest_string', 'sum_values', 'union', 'voting', 'weighted_voting']
+
+Resolver guidance:
+- Lists/Sets: union, intersection, intersection_k_sources (if you choose union for string-lists, you may set kwargs.separator to ',', ';', or '|')
+- Strings: most_complete, longest_string, shortest_string
+- Numerics: median, average, maximum, minimum, sum_values
+- Dates: most_recent, earliest
+- Source-aware: prefer_higher_trust (use kwargs.trust_key='trust_score'), voting, weighted_voting, favour_sources (use kwargs.sources=['source1']), random_value
+
+Starting point (heuristic plan you can override):
+{
+  "ESRB": {
+    "kwargs": {},
+    "resolver": "most_complete"
+  },
+  "criticScore": {
+    "kwargs": {},
+    "resolver": "median"
+  },
+  "developer": {
+    "kwargs": {},
+    "resolver": "most_complete"
+  },
+  "globalSales": {
+    "kwargs": {},
+    "resolver": "median"
+  },
+  "name": {
+    "kwargs": {},
+    "resolver": "longest_string"
+  },
+  "platform": {
+    "kwargs": {},
+    "resolver": "most_complete"
+  },
+  "publisher": {
+    "kwargs": {},
+    "resolver": "most_complete"
+  },
+  "releaseYear": {
+    "kwargs": {
+      "trust_key": "trust_score"
+    },
+    "resolver": "prefer_higher_trust"
+  },
+  "series": {
+    "kwargs": {},
+    "resolver": "most_complete"
+  },
+  "userScore": {
+    "kwargs": {},
+    "resolver": "median"
+  }
+}
+
+Attribute diagnostics:
+  attribute  inferred_list inferred_separator  inferred_boolean  inferred_numeric  inferred_date  identifier_like                                                                                                                                                                                                                 sample_values
+       ESRB          False               None             False             False          False            False                                                                                                                                                                                                      [M, M, T, T, E, M, M, M]
+criticScore          False               None             False              True          False            False                                                                                                                                                                              [97.0, 98.0, 98.0, 98.0, 97.0, 98.0, 94.0, 94.0]
+  developer          False               None             False             False          False            False                                                                                               [Handheld Games, Ocean Software, Key (company), Black Isle Studios, Blitz Games, High Moon Studios, Ubi Soft Barcelona, Capcom]
+globalSales          False               None             False              True          False            False                                                                                                                                                                                              [82, 35, 32, 29, 28, 28, 23, 22]
+       name          False               None             False             False          False            False [San Francisco Rush 2049, RoboCop (1988 video game), Air (video game), Fallout 2, SpongeBob SquarePants: Creature from the Krusty Krab, Transformers: Fall of Cybertron, List of Monster Jam video games, Onimusha: Warlords]
+   platform          False               None             False             False          False            False                                                                                                                             [Game Boy Color, Arcade Cabinet, PlayStation Vita, macOS, Wii, PlayStation 4, Xbox One, Xbox One]
+  publisher          False               None             False             False          False            False                                                                                                                                              [Nintendo, Nintendo, Nintendo, Nintendo, Nintendo, Nintendo, Nintendo, Nintendo]
+releaseYear          False               None             False             False           True            False                                                                                                                              [2006-01-01, 1989-01-01, 2016-01-01, 1998-01-01, 2006-01-01, 2016-01-01, 2003-01-01, 2002-01-01]
+     series          False               None             False             False          False            False                                          [Rush (video game series), List of RoboCop video games, Fallout (series), SpongeBob SquarePants video games, Transformers, Monster Jam, Onimusha, SpongeBob SquarePants video games]
+  userScore          False               None             False              True          False            False                                                                                                                                                                                      [8.3, 8.0, 8.4, 7.5, 9.1, 7.9, 8.5, 8.3]
+
+Dataset overview:
+[
+  {
+    "dataset_name": "dbpedia",
+    "rows": 46580,
+    "columns": 6,
+    "trust_score": 1.0
+  },
+  {
+    "dataset_name": "metacritic",
+    "rows": 20494,
+    "columns": 8,
+    "trust_score": 2.8261224514497645
+  },
+  {
+    "dataset_name": "sales",
+    "rows": 7877,
+    "columns": 10,
+    "trust_score": 3.0
+  }
+]
+
+VALIDATION FEEDBACK:
+(Showing which source values were correct for sample entities)
+
+Attribute "name":
+  - Sources: dbpedia=Dark Void, sales=Dark Void, metacritic=Dark Void
+    → Correct: Dark Void
+  - Sources: dbpedia=Risen 2: Dark Waters, sales=Risen 2: Dark Waters, metacritic=Risen 2: Dark Waters
+    → Correct: Risen 2: Dark Waters
+  - Sources: metacritic=Just Dance 2, sales=Just Dance 2, dbpedia=Just Dance 2
+    → Correct: Just Dance 2
+  - Sources: dbpedia=Lego Marvel Super Heroes, metacritic=LEGO Marvel Super Heroes
+    → Correct: LEGO Marvel Super Heroes
+  - Sources: dbpedia=Grid 2, sales=GRID Autosport, metacritic=GRID 2
+    → Correct: GRID Autosport
+
+
+
+
+Return ONLY strict JSON in this schema:
+{
+  "main_entity": "<string>",
+  "attribute_rules": {
+    "<attribute>": {"resolver": "<resolver_name>", "kwargs": {...}},
+    ...
+  }
+}
+Notes:
+- Include every attribute listed in the heuristic plan.
+- Use kwargs only when needed. Do not invent new resolvers.
+- For attributes where validation shows one source is consistently correct, consider using favour_sources.

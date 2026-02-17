@@ -1,0 +1,4 @@
+dataset,status,num_mappings,source_columns,mapped_columns
+musicbrainz,matched,4,"['id', 'name', 'artist', 'release-date', 'release-country', 'tracks_track-name', 'duration']","['name', 'artist', 'release-date', 'release-country']"
+lastfm,matched,2,"['id', 'name', 'artist', 'tracks_track-name']","['name', 'artist']"
+discogs,matched,6,"['id', 'name', 'artist', 'release-date', 'release-country', 'label', 'genre', 'tracks_track-name']","['name', 'artist', 'release-date', 'release-country', 'label', 'genre']"

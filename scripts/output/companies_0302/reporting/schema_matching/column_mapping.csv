@@ -1,0 +1,12 @@
+Target Column,Dbpedia,Forbes,Fullcontact
+id,id,id,id
+name,org_name,company,Attribute_2
+website,-,url,-
+founded,established,-,Attribute_6
+country,nation,region,Attribute_3
+city,headquarters,-,Attribute_4
+industry,sector,business_segment,-
+assets,total_assets_val,asset_value,-
+revenue,annual_income,sales_figure,-
+founders,-,-,Attribute_5
+Mapped,8/10,7/10,6/10

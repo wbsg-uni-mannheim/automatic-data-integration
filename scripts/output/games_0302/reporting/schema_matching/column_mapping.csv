@@ -1,0 +1,14 @@
+Target Column,Dbpedia,Metacritic,Sales
+id,id,id,id
+name,title,game_title,prod_title
+releaseYear,launch_yr,year_published,launch_dt
+developer,studio,made_by,studio
+genres,-,-,-
+publisher,-,-,dist
+platform,system,console,hw
+criticScore,-,press_rating,press_score
+userScore,-,player_rating,comm_rating
+ESRB,-,age_rating,age_classification
+globalSales,-,-,units_sold_mm
+series,franchise,-,-
+Mapped,6/12,8/12,10/12

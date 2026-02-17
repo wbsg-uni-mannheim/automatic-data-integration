@@ -1,0 +1,51 @@
+{
+  "case_name": "heuristic",
+  "rules": {
+    "Attribute_6": {
+      "resolver": "union",
+      "kwargs": {
+        "separator": ","
+      }
+    },
+    "Attribute_7": {
+      "resolver": "most_complete",
+      "kwargs": {}
+    },
+    "artist": {
+      "resolver": "most_complete",
+      "kwargs": {}
+    },
+    "genre": {
+      "resolver": "most_complete",
+      "kwargs": {}
+    },
+    "label": {
+      "resolver": "most_complete",
+      "kwargs": {}
+    },
+    "name": {
+      "resolver": "longest_string",
+      "kwargs": {}
+    },
+    "release-country": {
+      "resolver": "most_complete",
+      "kwargs": {}
+    },
+    "release-date": {
+      "resolver": "prefer_higher_trust",
+      "kwargs": {
+        "trust_key": "trust_score"
+      }
+    },
+    "tracks_track-name": {
+      "resolver": "union",
+      "kwargs": {
+        "separator": ","
+      }
+    }
+  },
+  "accuracy_by_mode": {},
+  "source_stats": null,
+  "iterations_used": 1,
+  "optimization_mode": null
+}

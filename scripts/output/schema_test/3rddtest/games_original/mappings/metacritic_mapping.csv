@@ -1,0 +1,8 @@
+source_dataset,source_column,target_dataset,target_column,score,notes
+metacritic,name,Videogames,name,0.95,llm_based_matching
+metacritic,releaseYear,Videogames,releaseYear,0.95,llm_based_matching
+metacritic,developer,Videogames,developer,0.95,llm_based_matching
+metacritic,platform,Videogames,platform,0.95,llm_based_matching
+metacritic,criticScore,Videogames,criticScore,0.95,llm_based_matching
+metacritic,userScore,Videogames,userScore,0.95,llm_based_matching
+metacritic,ESRB,Videogames,ESRB,0.95,llm_based_matching

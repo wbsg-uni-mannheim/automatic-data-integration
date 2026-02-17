@@ -1,0 +1,11 @@
+case,optimization_mode,attribute,resolver,kwargs
+llm_no_val,none,ESRB,voting,{}
+llm_no_val,none,criticScore,median,{}
+llm_no_val,none,developer,most_complete,{}
+llm_no_val,none,globalSales,median,{}
+llm_no_val,none,name,longest_string,{}
+llm_no_val,none,platform,union,{}
+llm_no_val,none,publisher,most_complete,{}
+llm_no_val,none,releaseYear,earliest,{}
+llm_no_val,none,series,most_complete,{}
+llm_no_val,none,userScore,median,{}

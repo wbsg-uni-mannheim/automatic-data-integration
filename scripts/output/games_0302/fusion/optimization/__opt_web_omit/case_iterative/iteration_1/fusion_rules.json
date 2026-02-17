@@ -1,0 +1,55 @@
+{
+  "attribute_rules": {
+    "ESRB": {
+      "kwargs": {},
+      "resolver": "voting"
+    },
+    "criticScore": {
+      "kwargs": {},
+      "resolver": "median"
+    },
+    "developer": {
+      "kwargs": {},
+      "resolver": "most_complete"
+    },
+    "globalSales": {
+      "kwargs": {},
+      "resolver": "median"
+    },
+    "name": {
+      "kwargs": {
+        "sources": [
+          "sales"
+        ]
+      },
+      "resolver": "favour_sources"
+    },
+    "platform": {
+      "kwargs": {},
+      "resolver": "most_complete"
+    },
+    "publisher": {
+      "kwargs": {
+        "sources": [
+          "sales"
+        ]
+      },
+      "resolver": "favour_sources"
+    },
+    "releaseYear": {
+      "kwargs": {
+        "trust_key": "trust_score"
+      },
+      "resolver": "prefer_higher_trust"
+    },
+    "series": {
+      "kwargs": {},
+      "resolver": "most_complete"
+    },
+    "userScore": {
+      "kwargs": {},
+      "resolver": "median"
+    }
+  },
+  "main_entity": "video game"
+}

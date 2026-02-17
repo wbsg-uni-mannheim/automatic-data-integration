@@ -1,0 +1,27 @@
+Identifying Columns Classification
+=====================================
+Source: PyDI/pipeline/fusion_validation_generation.py
+
+Purpose: Classifies attributes as "identifying" (help identify what the entity is,
+e.g., name, title) vs "descriptive" (properties of the entity, e.g., revenue, duration).
+This distinction is used for unbiased validation: when verifying descriptive attributes,
+the target attribute values can be omitted from the entity context to prevent the LLM
+from simply copying database values.
+
+Template variables:
+  {attrs_str} - Comma-separated list of attribute/column names
+
+---
+
+Given these attribute/column names from a database:
+{attrs_str}
+
+Which of these are "identifying" attributes - ones that help identify what the entity IS (like name, title, identifier)?
+
+The rest are "descriptive" attributes - ones that describe properties of the entity (like duration, revenue, population, date).
+
+Return ONLY the identifying attribute names, comma-separated. If none are identifying, return "NONE".
+
+Examples:
+- "name, title, id, artist_name" are identifying
+- "duration, revenue, founded, population, assets" are descriptive

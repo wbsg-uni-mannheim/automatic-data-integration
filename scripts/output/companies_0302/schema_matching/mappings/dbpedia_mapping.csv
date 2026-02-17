@@ -1,0 +1,9 @@
+source_dataset,source_column,target_dataset,target_column,score,notes
+dbpedia,id,Companies,id,0.95,llm_based_matching
+dbpedia,org_name,Companies,name,0.95,llm_based_matching
+dbpedia,established,Companies,founded,0.95,llm_based_matching
+dbpedia,nation,Companies,country,0.95,llm_based_matching
+dbpedia,headquarters,Companies,city,0.95,llm_based_matching
+dbpedia,sector,Companies,industry,0.95,llm_based_matching
+dbpedia,total_assets_val,Companies,assets,0.95,llm_based_matching
+dbpedia,annual_income,Companies,revenue,0.95,llm_based_matching

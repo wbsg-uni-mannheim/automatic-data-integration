@@ -1,0 +1,5 @@
+source_dataset,source_column,target_dataset,target_column,score,notes
+dbpedia,id,Companies,id,1.0,similarity_function=cosine
+dbpedia,org_name,Companies,name,0.7071067811865475,similarity_function=cosine
+dbpedia,keypeople_name,Companies,name,0.7071067811865475,similarity_function=cosine
+dbpedia,total_assets_val,Companies,assets,0.5773502691896258,similarity_function=cosine

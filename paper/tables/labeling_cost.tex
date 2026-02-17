@@ -1,0 +1,27 @@
+% Estimated labeling cost comparison table
+% Compares actual training set sizes vs cost of labeling all candidates
+
+\begin{table}[t]
+\caption{LLM labeling costs: training sets used vs.\ full candidate labeling.}
+\label{tab:labeling_cost}
+\centering
+\footnotesize
+\begin{tabular}{@{}ll rr rr@{}}
+\toprule
+ & & \multicolumn{2}{c}{\textbf{Training}} & \multicolumn{2}{c}{\textbf{Full}} \\
+\cmidrule(lr){3-4} \cmidrule(lr){5-6}
+\textbf{Use Case} & \textbf{Dataset Pair} & \textbf{Samples} & \textbf{Cost} & \textbf{Cand.} & \textbf{Cost} \\
+\midrule
+Games & DBpedia--Metacritic & 1,375 & \$0.73 & 410k & \$217 \\
+ & DBpedia--Sales & 1,125 & \$0.60 & 158k & \$83 \\
+\midrule
+Companies & DBpedia--Forbes & 2,658 & \$1.26 & 40k & \$19 \\
+ & Forbes--FullContact & 1,566 & \$0.70 & 39k & \$17 \\
+\midrule
+Music & Discogs--MusicBrainz & 1,160 & \$0.83 & 95k & \$68 \\
+ & Last.fm--MusicBrainz & 600 & \$0.38 & 95k & \$61 \\
+\midrule
+\multicolumn{2}{@{}l}{\textbf{Total}} & \textbf{8,484} & \textbf{\$4.50} & \textbf{837k} & \textbf{\$466} \\
+\bottomrule
+\end{tabular}
+\end{table}

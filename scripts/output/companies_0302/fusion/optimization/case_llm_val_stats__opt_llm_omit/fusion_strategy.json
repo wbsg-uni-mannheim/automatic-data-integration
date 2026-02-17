@@ -1,0 +1,23 @@
+{
+  "id_column": "id",
+  "include_singletons": true,
+  "rules": {
+    "assets": "median",
+    "city": "favour_sources",
+    "country": "favour_sources",
+    "founded": "earliest",
+    "founders": "union",
+    "industry": "voting",
+    "keypeople_name": "longest_string",
+    "name": "longest_string",
+    "revenue": "median",
+    "website": "most_complete"
+  },
+  "strategy_name": "llm_val_stats_strategy",
+  "trust_key": "trust_score",
+  "trust_scores": {
+    "dbpedia": 1.0,
+    "forbes": 3.0,
+    "fullcontact": 1.0192534032990288
+  }
+}

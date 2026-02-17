@@ -1,0 +1,22 @@
+{
+  "id_column": "id",
+  "include_singletons": true,
+  "rules": {
+    "Attribute_6": "union",
+    "Attribute_7": "maximum",
+    "artist": "favour_sources",
+    "genre": "most_complete",
+    "label": "prefer_higher_trust",
+    "name": "favour_sources",
+    "release-country": "prefer_higher_trust",
+    "release-date": "earliest",
+    "tracks_track-name": "favour_sources"
+  },
+  "strategy_name": "iterative_strategy",
+  "trust_key": "trust_score",
+  "trust_scores": {
+    "discogs": 3.0,
+    "lastfm": 1.800401375804757,
+    "musicbrainz": 1.0
+  }
+}

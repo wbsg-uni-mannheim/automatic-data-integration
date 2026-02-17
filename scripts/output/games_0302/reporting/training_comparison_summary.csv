@@ -1,0 +1,3 @@
+Dataset Pair,Auto Variant,Auto Size,Provided Variant,Provided Size,Best Auto Val F1,Best Provided Val F1,Val Delta
+Dbpedia-Metacritic,active_plus_random (xgb),1375,faiss_small_plus_random (gb),120,0.849,0.826,+2.3%
+Dbpedia-Sales,active (rf),1125,faiss_small (hist_gb),100,0.979,0.839,+14.0%

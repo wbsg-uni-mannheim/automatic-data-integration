@@ -1,0 +1,4 @@
+dataset,status,num_mappings,source_columns,mapped_columns
+dbpedia,matched,6,"['id', 'dbpedia_1', 'San Francisco Rush 2049', '2006-01-01', 'Handheld Games', 'Game Boy Color', 'Rush (video game series)']","['id', 'name', 'releaseYear', 'developer', 'platform', 'series']"
+metacritic,matched,8,"['id', 'metacritic_1', 'Red Dead Redemption 2', '2018-01-01', 'Rockstar Games', 'Xbox One', '97.0', '8.3', 'M']","['id', 'name', 'releaseYear', 'developer', 'platform', 'criticScore', 'userScore', 'ESRB']"
+sales,matched,10,"['id', 'sales_1', 'Wii Sports', '2006-01-01', 'Nintendo', 'Nintendo.1', 'Wii', '76', '8.0', 'E', '82']","['id', 'name', 'releaseYear', 'developer', 'publisher', 'platform', 'criticScore', 'userScore', 'ESRB', 'globalSales']"

@@ -1,0 +1,312 @@
+rdf-schema#label,timezoneDst,populationMetro,populationTotal,name,mayor,country,timeZone
+Abu Dhabi,,,1512000,Abu Dhabi,,United Arab Emirates,Time in the United Arab Emirates
+Adana,,,,Adana,,Turkey,Time in Turkey
+"Albany, New York",,1170483,99224,"Albany, New York",,,Eastern Time Zone
+Aleppo,EEST,,2098210,Aleppo,,Syria,"EEST, Eastern European Time"
+Ankara,,,5747325,"Ankara, Ankara district Municipalities",,Turkey,Time in Turkey
+"Ann Arbor, Michigan",Eastern Time Zone,372258,123851,"Ann Arbor, Michigan, University of Michigan Central Campus Historic District",,United States,Eastern Time Zone
+"Anniston, Alabama",CDT,116736,21564,,,United States,North American Central Time Zone
+"Appleton, Wisconsin",North American Central Time Zone,236126,75644,,,United States,North American Central Time Zone
+Atlanta,Eastern Daylight Time,6144050,498715,"Atlanta, Georgia",,,"Eastern Time Zone, Eastern Daylight Time"
+"Austin, Texas",Central Time Zone,2283371,964177,"Austin, Austin, Texas",,,Central Time Zone
+Baltimore,Eastern Time Zone,2844510,585708,Baltimore,,United States,Eastern Time Zone
+Bangkok,,14626225,8305218,Bangkok,,Thailand,Time in Thailand
+Barcelona,,5474482,,,,Spain,
+Barquisimeto,,,1240714,Barquisimeto,,Venezuela,Venezuelan Standard Time Zone
+"Bartow, Florida",EDT,584383,19309,"Bartow, Florida",,United States,North American Eastern Time Zone
+Basingstoke,,,113776,,,"United Kingdom, England, Hampshire",
+"Beaumont, Texas",North American Central Time Zone,404872,115282,"Beaumont, Texas",,United States,North American Central Time Zone
+Beitunia,,153237,26604,Beitunia,,State of Palestine,
+Belgrade,Central European Summer Time,1687132,1166763,Belgrade,,Serbia,"Central European Summer Time, Central European Time"
+"Beloit, Wisconsin",North American Central Time Zone,163687,36657,"Beloit, Wisconsin",,United States,North American Central Time Zone
+Bethlehem,,97559,28591,Bethlehem,,State of Palestine,
+"Bethlehem, Pennsylvania",Eastern Daylight Time,865310,75781,,,United States,"Eastern Daylight Time, North American Eastern Time Zone"
+Biel/Bienne,,,,,http://dbpedia.org/resource/Erich_Fehr,Switzerland,
+Bilbao,Central European Summer Time,1037847,,Bilbao,,Spain,"Central European Summer Time, Central European Time"
+"Biloxi, Mississippi",North American Central Time Zone,379582,49449,"Biloxi, Mississippi",,United States,North American Central Time Zone
+Birmingham,British Summer Time,4300000,,,,United Kingdom,"British Summer Time, Greenwich Mean Time"
+"Birmingham, Alabama",CDT,1115289,200733,"Birmingham, Alabama",,United States,Central Time Zone (North America)
+"Bloomfield Hills, Michigan",Eastern Daylight Time,4296250,4460,"Bloomfield Hills, Michigan",,United States,"Eastern Daylight Time, Eastern Standard Time Zone"
+"Bossier City, Louisiana",CDT,393406,62701,"Bossier City, Louisiana",,United States,North American Central Time Zone
+Boston,Eastern Daylight Time,4941632,675647,Boston,,,"Eastern Time Zone, Eastern Daylight Time"
+"Boulder, Colorado",,330758,108250,"Boulder, Colorado",,United States,Mountain Time Zone
+"Bozeman, Montana",Mountain Time Zone,118960,53293,,,United States,Mountain Time Zone
+Bradford-on-Avon,,,10405,,,United Kingdom,
+Bratislava,,,,Bratislava,,Slovakia,"Central European Summer Time, Central European Time"
+"Bridgeport, Connecticut",Eastern Standard Time Zone,939904,148654,"Bridgeport, Connecticut",,United States,Eastern Standard Time Zone
+"Broken Arrow, Oklahoma",North American Central Time Zone,1023988,113540,,,United States,North American Central Time Zone
+Bucheon,,,848123,Bucheon,,South Korea,
+"Buffalo, New York",Eastern Daylight Time,1125637,278349,"Buffalo, New York",,United States,"Eastern Daylight Time, Eastern Time Zone (North America)"
+Bulawayo,not observed,,1200337,,,Zimbabwe,Central Africa Time
+Bursa,,2161990,3101833,"Bursa, Bursa district Municipalities",,Turkey,Time in Turkey
+Busan,,7000699,3331444,Busan,,South Korea,
+Calabozo,,168605,,Calabozo,,Venezuela,
+"Cape Coral, Florida",Eastern Daylight Time,760822,194016,"Cape Coral, Florida",,United States,"Eastern Daylight Time, North American Eastern Time Zone"
+Cape Town,,,4710000,Cape Town,,South Africa,South African Standard Time
+Caracas,,,2956813,Caracas,,Venezuela,Venezuelan Standard Time Zone
+Cardiff,British Summer Time,1097000,,Cardiff,,United Kingdom,"British Summer Time, Greenwich Mean Time"
+"Cascade, Iowa",North American Central Time Zone,92384,2386,,,United States,North American Central Time Zone
+"Castle Pines, Colorado",,2963821,11036,"Castle Pines, Colorado",,United States,Mountain Time Zone
+Changwon,,,1070199,Changwon,,South Korea,UTC+09:00
+"Charlotte, North Carolina",Eastern Daylight Time,2660329,874579,Charlotte,,,"Eastern Daylight Time, Eastern Standard Time Zone"
+Chicago,Central Daylight Time,9618502,2746388,Chicago,,,"Central Daylight Time, Central Standard Time"
+Cincinnati,Eastern Daylight Time,2256884,309317,Cincinnati,,United States,"Eastern Daylight Time, Eastern Standard Time Zone"
+City of Tshwane Metropolitan Municipality,,,2921488,Tshwane,,South Africa,South African Standard Time
+Ciudad Guayana,,,950000,,,Venezuela,Venezuelan Standard Time Zone
+Cleveland,Eastern Daylight Time,2075662,372624,"Cleveland, Ohio",,,"Eastern Daylight Time, Eastern Standard Time Zone"
+"College Station, Texas",North American Central Time Zone,273101,120511,,,United States,North American Central Time Zone
+Colombo,,5648000,752993,Colombo,,Sri Lanka,Sri Lanka Standard Time
+"Colorado Springs, Colorado",,755105,478961,"Colorado Springs, Colorado",,United States,Mountain Time Zone
+"Columbus, Georgia",Eastern Time Zone (North America),328883,206922,"Columbus, Georgia",,United States,Eastern Time Zone (North America)
+"Columbus, Ohio",Eastern Daylight Time,2138926,905748,"Columbus, Ohio",,,"Eastern Daylight Time, Eastern Standard Time Zone"
+"Cooper City, Florida",EDT,6166488,34401,,,United States of America,North American Eastern Time Zone
+"Coos Bay, Oregon",Pacific,64620,15985,,,United States,Pacific Standard Time Zone
+"Coral Gables, Florida",Eastern Daylight Time,5422200,49248,"Coral Gables, Florida",,United States,"Eastern Daylight Time, North American Eastern Time Zone"
+"Corvallis, Oregon",Pacific Daylight Time,95184,59922,Corvallis,,United States,"Pacific Daylight Time, Pacific Standard Time Zone"
+"Cripple Creek, Colorado",,755105,1155,"Cripple Creek, Colorado",,United States,Mountain Time Zone
+Daegu,,,2366852,Daegu,,,
+Daejeon,,,1469543,Daejeon,,South Korea,
+Dakar,,3938358,1146052,Dakar,,Senegal,Greenwich Mean Time
+Dallas,Central Time Zone,7637387,1304379,Dallas,,,Central Time Zone
+Damascus,,,2503000,,,Syria,
+Dammam,,4140000,1252523,,,Saudi Arabia,Arabia Standard Time
+Dar es Salaam,,,6400000,Dar es-Salaam,,Tanzania,East Africa Time
+"Davenport, Iowa",North American Central Time Zone,"384324, 474019",101724,"Davenport, Iowa",,United States,North American Central Time Zone
+"Dayton, Ohio",Eastern Daylight Time,814049,137644,"Dayton, Ohio",,United States,"Eastern Daylight Time, Eastern Standard Time Zone"
+"Decatur, Alabama",CDT,156494,57938,"Decatur, Alabama",,United States,Central Time Zone (North America)
+"Deerfield Beach, Florida",Eastern Time Zone,6166488,86859,,,United States,Eastern Time Zone
+"Denison, Texas",CDT,120877,22682,"Denison, Texas",,United States,North American Central Time Zone
+Denver,,2963821,715522,"Denver, Colorado",,,Mountain Time Zone
+"Derby, Connecticut",Eastern Standard Time Zone,861113,12325,,,United States,Eastern Standard Time Zone
+Detroit,Eastern Daylight Time,4365205,639111,"Detroit, Michigan",,United States,"Eastern Time Zone, Eastern Daylight Time"
+Diyarbakır,,1129218,1791373,,,Turkey,Time in Turkey
+Dnipro,Eastern European Summer Time,1407641,968502,,,Ukraine,"Eastern European Summer Time, Eastern European Time"
+Dnipropetrovsk,,,,,,,
+Donetsk,EEST,1560000,901645,,,,
+Dubai,,,3515813,Dubai,,United Arab Emirates,Time in the United Arab Emirates
+Durban,,,3442361,Durban,,South Africa,South African Standard Time
+Dushanbe,Tajikistan Time,,863400,,,Tajikistan,Tajikistan Time
+Edinburgh,British Summer Time,901455,,Edinburgh,,United Kingdom,"British Summer Time, Greenwich Mean Time"
+El-Gadarif,,1400310,363945,El-Gadarif,,Sudan,East Africa Time
+"El Cenizo, Texas",CST,636516,3273,"El Cenizo, Texas",,United States,
+"Elmira, New York",Eastern Daylight Time,90070,26523,,,United States,"Eastern Daylight Time, Eastern Standard Time Zone"
+"Enid, Oklahoma",North American Central Time Zone,62267,51308,"Enid, Oklahoma",,United States,North American Central Time Zone
+"Epworth, Iowa",North American Central Time Zone,92384,2023,,,United States,North American Central Time Zone
+"Fargo, North Dakota",Central Daylight Time,252136,125990,"Fargo, North Dakota",,United States,"Central Time Zone, Central Daylight Time"
+"Farmers Branch, Texas",North American Central Time Zone,7539711,28616,,,United States,North American Central Time Zone
+"Fort Collins, Colorado",,359066,169810,"Fort Collins, Colorado",,United States,Mountain Time Zone
+"Freeport, Bahamas",,55500,26914,Freeport,,The Bahamas,Eastern Time Zone
+Freetown,,1500234,1055964,,,Sierra Leone,Greenwich Mean Time
+"Fresno, California",Pacific Daylight Time,1008654,542107,"Fresno, California",,United States,"Pacific Daylight Time, Pacific Time Zone"
+"Gadsden, Alabama",CDT,103931,33945,"Gadsden, Alabama",,United States,Central Time Zone (North America)
+"Gainesville, Florida",EDT,332317,141085,"Gainesville, Florida",,United States,Eastern Time Zone (North America)
+"Gainesville, Georgia",Eastern Daylight Time,179684,42296,,,United States,"Eastern Daylight Time, North American Eastern Time Zone"
+Gaziantep,,1775904,2130432,,,Turkey,Time in Turkey
+Glasgow,British Summer Time,1861315,,"Glasgow, The coat of arms of the City of Glasgow",,United Kingdom,"British Summer Time, Greenwich Mean Time"
+"Golden, Colorado",,2963821,20399,"Golden, Colorado",,United States,Mountain Time Zone
+"Goldsboro, North Carolina",Eastern Daylight Time,41000,33657,,,United States,"Eastern Daylight Time, North American Eastern Time Zone"
+Gothenburg,Central European Summer Time,1058278,587549,Gothenburg,,Sweden,"Central European Summer Time, Central European Time"
+Goyang,,,1074784,Goyang,,South Korea,
+"Grand Forks, North Dakota",Central Time Zone,103462,59166,"Grand Forks, North Dakota",,United States,Central Time Zone
+"Grand Junction, Colorado",,155703,65560,"Grand Junction, Colorado",,United States,Mountain Time Zone
+"Grand Prairie, Texas",North American Central Time Zone,6810913,175396,"Grand Prairie, Texas",,United States,North American Central Time Zone
+"Grand Rapids, Michigan",Eastern Daylight Time,,,Grand Rapids,,,
+"Great Falls, Montana",MDT,84414,60442,Great Falls,,United States,Mountain Time Zone
+"Greeley, Colorado",,328981,108795,"Greeley, Colorado",,United States,Mountain Time Zone
+"Green Bay, Wisconsin",CDT,320050,107395,"Green Bay, Wisconsin",,United States,Central Time Zone
+"Greensboro, North Carolina",Eastern Daylight Time,,,"Greensboro, North Carolina",,,
+Guildford,,,77057,,,"United Kingdom, Surrey",
+"Gulf Breeze, Florida",Central Daylight Time,461227,7437,,,United States,"Central Time Zone, Central Daylight Time"
+Gwangju,,,1490092,Gwangju,,South Korea,
+Haiphong,,,2358741,Haiphong,,Vietnam,Indochina Time
+Hama,Eastern European Summer Time,,312994,,,Syria,"Eastern European Summer Time, Eastern European Time"
+Hanoi,,20000000,8330800,Hanoi,,Vietnam,Indochina Time
+Harare,,3120917,2123132,moved,,Zimbabwe,Central Africa Time
+"Helena, Montana",Mountain,83058,32091,,,United States,Mountain Time Zone
+Hertford Heath,,,2672,,,"United Kingdom, Hertfordshire",
+"Hialeah Gardens, Florida",Eastern Daylight Time,5422200,23068,Hialeah Gardens,,United States of America,"Eastern Daylight Time, North American Eastern Time Zone"
+Ho Chi Minh City,,21281639,8993082,Ho Chi Minh City,,Vietnam,Time in Vietnam
+Hofuf,,,150000,,,Saudi Arabia,
+Homs,Eastern European Summer Time,,775404,,,Syria,"Eastern European Summer Time, Eastern European Time"
+"Honolulu County, Hawaii",,,1016508,"Honolulu County, Hawaii",,,Hawaii-Aleutian time zone
+"Hoover, Alabama",Central Time Zone (North America),1151801,92606,,,United States,Central Time Zone (North America)
+"Hope, Arkansas",Central Time Zone (North America),30591,8952,,,United States,Central Time Zone (North America)
+"Hot Springs, Arkansas",CDT,100180,37930,"Hot Springs, Arkansas",,United States,Central Time Zone (North America)
+"Houma, Louisiana",,208178,33406,"Houma, Louisiana",,United States,North American Central Time Zone
+Houston,North American Central Time Zone,7122240,2304580,"Houston, Texas",,United States,North American Central Time Zone
+"Huntington, West Virginia",Eastern Time Zone,359862,46842,"Huntington, West Virginia",,United States,Eastern Time Zone
+Incheon,,,2962388,Incheon,,South Korea,
+Indianapolis,Eastern Daylight Time,2111040,887642,"Indianapolis, Indiana",,,"Eastern Time Zone, Eastern Daylight Time"
+"Irving, Texas",North American Central Time Zone,6810913,216290,"Irving, Texas, Irving",,United States,North American Central Time Zone
+Istanbul,,,15840900,,,Turkey,Time in Turkey
+"Jacksonville, Florida",,1733937,949611,"Jacksonville, Florida",,,Eastern Time Zone
+Jeddah,,,4697000,Jeddah,,Saudi Arabia,Arabia Standard Time
+Johannesburg,,10500000,5635127,Johannesburg,,South Africa,South African Standard Time
+"Johnstown, Pennsylvania",Eastern Daylight Time,141156,18411,,,United States,"Eastern Daylight Time, North American Eastern Time Zone"
+"Jonesboro, Arkansas",Central Time Zone (North America),124042,78576,"Jonesboro, Arkansas",,United States,Central Time Zone (North America)
+Kampala,,6709900,1680600,,,Uganda,East Africa Time
+Kaohsiung,,,2722904,Kaohsiung City,,,National Standard Time
+Kayseri,,1175886,1434357,,,Turkey,Time in Turkey
+Kharkiv,Eastern European Summer Time,2032400,1433886,Kharkiv,,,"Eastern European Summer Time, Eastern European Time"
+Khartoum,,5274321,639598,,,Sudan,Central Africa Time
+Kiev,,,,,,,
+Kitwe,,,517543,,,Zambia,Central Africa Time
+Konya,,1390051,2277017,,,Turkey,Time in Turkey
+La Chaux-de-Fonds,,,"2013, 38694",,,Switzerland,
+"Lake City, Florida",Eastern Daylight Time,67531,12329,,,United States,"Eastern Daylight Time, Eastern Time Zone (North America)"
+Las Vegas,Pacific Daylight Time,2265461,641903,"Las Vegas, Nevada",,,"Pacific Daylight Time, Pacific Standard Time Zone"
+Lausanne,,,,,http://dbpedia.org/resource/Grégoire_Junod,Switzerland,
+Leeds,,,516298,,,United Kingdom,
+"Lewiston, Idaho",Pacific Daylight Time,61476,34203,,,United States,"Pacific Standard Time, Pacific Daylight Time"
+"Lighthouse Point, Florida",EDT,6166488,10486,"Lighthouse Point, Florida",,United States of America,Eastern Time Zone (North America)
+Lisburn,,,45370,"Lisburn North, Lisburn South",,"United Kingdom, Northern Ireland",
+Liverpool,British Summer Time,2241000,,,,United Kingdom,"British Summer Time, Greenwich Mean Time"
+Ljubljana,Central European Summer Time,537893,295504,Ljubljana,,Slovenia,"Central European Summer Time, Central European Time"
+Logroño,CEST,197000,152485,,,Spain,
+Lomé,,1477660,837437,Lomé,,Togo,UTC±0
+London,British Summer Time,14257962,8799800,London,,United Kingdom,"British Summer Time, Greenwich Mean Time"
+"Longview, Texas",CDT,217481,81683,"Longview, Texas",,United States,North American Central Time Zone
+"Lonoke, Arkansas",North American Central Time Zone,610518,4276,"Lonoke, Arkansas",,United States,North American Central Time Zone
+Los Angeles,Pacific Daylight Time,13200998,3898747,,,United States,"Pacific Daylight Time, Pacific Time Zone"
+"Louisville, Kentucky",Eastern Time Zone (North America),1395634,633045,"Louisville, Kentucky",,United States,Eastern Time Zone (North America)
+"Lubbock, Texas",North American Central Time Zone,314840,257141,"Lubbock, Texas",,United States,North American Central Time Zone
+Lucerne,,,,,http://dbpedia.org/resource/Beat_Züsli,Switzerland,
+Lugano,,,,,http://dbpedia.org/resource/Michele_Foletti,Switzerland,
+Lusaka,,2238569,1747152,,,,Central Africa Time
+Lviv,Eastern European Summer Time,,717486,Lviv,,Ukraine,"Eastern European Summer Time, Eastern European Time"
+Machiques,,122734,,Machiques,,Venezuela,Venezuelan Standard Time Zone
+"Madison, Wisconsin",CDT,680796,269840,,,United States,
+Madrid,CEST,6791667,,Madrid,,Spain,
+"Maldonado, Uruguay",,149046,62590,,,Uruguay,UTC
+"Malmö, Malmö","Central European Summer Time, Central European Summer Time","749427, 749427","351749, 351749",,,"Sweden, Sweden","Central European Summer Time, Central European Time, Central European Summer Time, Central European Time"
+Manchester,British Summer Time,,,Manchester,,United Kingdom,"British Summer Time, Greenwich Mean Time"
+"Manchester, New Hampshire",Eastern Daylight Time Zone,422937,115644,"Manchester, New Hampshire",,United States,"Eastern Standard Time Zone, Eastern Daylight Time Zone"
+Maracaibo,,5278448,,Maracaibo,,Venezuela,Venezuelan Standard Time Zone
+Maracay,,,955362,,,Venezuela,Venezuelan Standard Time Zone
+"Marshall, Texas",North American Central Time Zone,65631,23392,"Marshall, Texas",,United States,North American Central Time Zone
+"McAllen, Texas",North American Central Time Zone,870781,142210,"McAllen, Texas",,United States,North American Central Time Zone
+Mecca,,,1578722,Mecca,,Saudi Arabia,Arabian Standard Time
+"Medford, Oregon",Pacific Daylight Time,223259,85824,"Medford, Oregon",,United States,"Pacific Daylight Time, Pacific Standard Time Zone"
+Medina,,,1183205,Medina,,Saudi Arabia,
+"Memphis, Tennessee",Central Time Zone (North America),1337779,633104,"Memphis, Tennessee",,,Central Time Zone (North America)
+"Meridian, Mississippi",Central Time Zone (North America),107449,35052,"Meridian, Mississippi",,United States,Central Time Zone (North America)
+Mersin,,1064850,1891145,,,Turkey,Time in Turkey
+Miami,,6091747,442241,Miami,,,Eastern Time Zone
+Milwaukee,Central Time Zone (North America),1574731,577222,"Milwaukee, Wisconsin",,United States,Central Time Zone (North America)
+Minneapolis,Central Time Zone (North America),3690512,429954,"Minneapolis, Minnesota",,,Central Time Zone (North America)
+"Miramar, Florida",EDT,5762717,134721,"Miramar, Florida",,United States,Eastern Time Zone (North America)
+"Missoula, Montana",Mountain,117922,73489,Missoula,,United States,Mountain Time Zone
+"Mitchell, South Dakota",CDT,23127,15660,,,United States,North American Central Time Zone
+"Mobile, Alabama",North American Central Time Zone,430197,187041,"Mobile, Alabama",,United States,North American Central Time Zone
+"Modesto, California",Pacific Daylight Time,514453,218464,"Modesto, California",,United States,"Pacific Daylight Time, Pacific Time Zone"
+Mogadishu,,,,,,Somalia,East Africa Time
+"Monroe, Louisiana",,170053,47702,"Monroe, Louisiana",,United States,North American Central Time Zone
+Montevideo,,1947604,,,,Uruguay,Uruguay Time
+"Montgomery, Alabama",Central Daylight Time,386047,200603,"Montgomery, Alabama",,United States,"Central Time Zone, Central Daylight Time"
+"Morgantown, West Virginia",Eastern Daylight Time,137251,29660,"Morgantown, West Virginia",,United States,"Eastern Daylight Time, Eastern Standard Time Zone"
+Mutare,,500000,,,,Zimbabwe,Central Africa Time
+Nakhon Ratchasima,,444023,126391,Nakhon Ratchasima,,Thailand,Time in Thailand
+"Nashville, Tennessee",,1989519,715884,"Nashville, Tennessee",,,"Central Time Zone, Central Daylight Time"
+New Orleans,Central Time Zone (Americas),1270530,383997,"New Orleans, Louisiana",,United States,Central Time Zone (Americas)
+New York City,,20140470,8804190,New York,,United States,Eastern Time Zone
+Newcastle upon Tyne,British Summer Time,,280177,,,,"British Summer Time, Greenwich Mean Time"
+"Norfolk, Virginia",Eastern Time Zone,1725246,238005,"Norfolk, Virginia",,,Eastern Time Zone
+"North Charleston, South Carolina",EDT,799636,114852,"North Charleston, South Carolina",,United States,Eastern Standard Time Zone
+Nottingham,British Summer Time,1610000,321500,Nottingham,,United Kingdom,"British Summer Time, Greenwich Mean Time"
+"Oakland, California",Pacific Daylight Time,,440646,"Oakland, California",,,"Pacific Daylight Time, Pacific Time Zone"
+"Ocala, Florida",EDT,354353,63591,,,United States,
+Odessa,,,,,,,
+Oklahoma City,Central Time Zone (North America),1441695,681054,"Oklahoma City, Oklahoma",,United States,Central Time Zone (North America)
+Omdurman,,,2395159,,,Sudan,Central Africa Time
+"Orlando, Florida",,2691925,307573,"Orlando, Florida",,,Eastern Time Zone
+"Ormond Beach, Florida",EDT,609939,43080,"Ormond Beach, Florida",,United States,North American Eastern Time Zone
+"Patterson, California",,550081,20413,Patterson,,United States,"Pacific Daylight Time, Pacific Time Zone"
+"Pekin, Illinois",,380447,31731,Pekin,,United States,North American Central Time Zone
+"Peoria, Illinois",,402391,113150,"Peoria, Illinois",,United States,"Central Time Zone, Central Daylight Time"
+"Peosta, Iowa",North American Central Time Zone,92359,1908,,,United States,North American Central Time Zone
+Perhaps Transparent,,,,Perhaps Transparent,,United States,
+Peterborough,,,215700,,,"Cambridgeshire, United Kingdom",
+Philadelphia,Eastern Daylight Time,6245051,1603797,Philadelphia,,,"Eastern Daylight Time, North American Eastern Time Zone"
+"Phoenix, Arizona",,4845832,1608139,Phoenix,,,Mountain Time Zone
+Pikine,,,1170791,,,Senegal,Greenwich Mean Time
+Pittsburgh,Eastern Time Zone,2370930,302971,"Pittsburgh, Pennsylvania",,,Eastern Time Zone
+Port Elizabeth,,,,,,,
+"Portland, Oregon",Pacific Daylight Time,,,"Portland, Oregon",,,
+"Prescott Valley, Arizona",,218844,46785,,,United States,Mountain Standard Time Zone
+Prešov,,110978,83897,Prešov,,Slovakia,"Central European Summer Time, Central European Time"
+"Providence, Rhode Island",EDT,1604291,190934,"Providence, Rhode Island",,United States,
+"Pueblo, Colorado",,168162,111876,"Pueblo, Colorado",,United States,Mountain Time Zone
+"Quincy, Illinois",,75546,39463,Quincy,,United States,Central Time Zone (North America)
+"Racine, Wisconsin",North American Central Time Zone,195041,77816,,,United States,North American Central Time Zone
+"Raleigh, North Carolina",Eastern Daylight Time,1413982,467665,"Raleigh, North Carolina",,,"Eastern Daylight Time, Eastern Time Zone (North America)"
+"Richmond, Virginia",Eastern Time Zone,1263617,226610,Richmond,,United States,Eastern Time Zone
+"Riverside, California",Pacific Daylight Time,4599839,314998,"Riverside, California",,United States,"Pacific Daylight Time, Pacific Time Zone"
+Riyadh,,,7676654,,,Saudi Arabia,UTC+03:00
+"Rochester, Minnesota",CDT,227151,121395,"Rochester, Minnesota",,United States,Central Time Zone
+"Rochester, New York",Eastern Time Zone,1067486,211328,"Rochester, Rochester City Council",,,Eastern Time Zone
+"Rock Island, Illinois",Central Time Zone,381342,37108,"Rock Island, Illinois",,United States,Central Time Zone
+"Rome, Georgia",Eastern Daylight Time,96317,37713,"Rome, Georgia",,United States,"Eastern Daylight Time, North American Eastern Time Zone"
+"Russellville, Arkansas",CDT,86666,28940,"Russellville, Arkansas",,United States,North American Central Time Zone
+"Sacramento, California",Pacific Time Zone,2397382,524943,"Sacramento, California",,United States,Pacific Time Zone
+"Saginaw, Michigan",Eastern Daylight Time,190124,44202,"Saginaw, Michigan",,United States,"Eastern Daylight Time, North American Eastern Time Zone"
+"Saint Paul, Minnesota",CDT,3690512,311527,"Saint Paul, Minnesota",,United States,Central Time Zone
+"Salisbury, Maryland",Eastern,373802,33050,"Salisbury, Maryland",,United States,Eastern Time Zone
+Salt Lake City,,1257936,200133,"Salt Lake City, Utah",,United States,Mountain Time Zone
+Samarkand,,950000,513572,Samarkand,,Uzbekistan,
+San Antonio,Central Time Zone,2601788,1434625,San Antonio,,United States,Central Time Zone
+"San Bernardino, California",PDT,4224851,222101,"San Bernardino, California",,United States,Pacific Time Zone
+San Diego,Pacific Daylight Time,3298634,1386932,San Diego,,United States,"Pacific Daylight Time, Pacific Time Zone"
+"San Diego, Carabobo",,187215,,San Diego,,Venezuela,Venezuelan Standard Time Zone
+San Francisco,Pacific Daylight Time,4749008,815201,San Francisco,,,"Pacific Daylight Time, Pacific Time Zone"
+"San Jose, California",Pacific Daylight Time,2000468,1013240,"San Jose, California",,,"Pacific Daylight Time, Pacific Time Zone"
+Sana'a,,,,,,,
+"Sarasota, Florida",EDT,720042,54842,"Sarasota, Florida",,United States,Eastern Time Zone (North America)
+"Savannah, Georgia",Eastern Daylight Time,404798,147780,"Savannah, Georgia",,United States,"Eastern Daylight Time, Eastern Standard Time Zone"
+Schaffhausen,,,,,http://dbpedia.org/resource/Peter_Neukomm,Switzerland,
+Seattle,Pacific Time Zone,4018762,737015,"Seattle, Washington",,,Pacific Time Zone
+Seongnam,,,994271,Seongnam,,South Korea,
+Seoul,,,9443722,Seoul,,South Korea,
+Seville,,1519639,684234,Seville,,Spain,"Central European Summer Time, Central European Time"
+Sheffield,,,556500,,,United Kingdom,
+"Shreveport, Louisiana",CDT,393406,187593,"Shreveport, Louisiana",,United States,North American Central Time Zone
+Sidi Bouzid,,122676,48339,,,Tunisia,Central European Time
+Singapore,,,5637000,,,,Singapore Standard Time
+"Sioux City, Iowa",Central,149940,85797,"Sioux City, Iowa",,United States,Central Time Zone
+"Smiths Station, Alabama",,150933,5384,,,United States,Eastern Time Zone
+Soweto,,,1271628,Soweto,,South Africa,South African Standard Time
+"Spearfish, South Dakota",MDT,25429,12193,"Spearfish, South Dakota",,United States,Mountain Time Zone
+"Spike Island, Bristol",,,,,,United Kingdom,
+St. Louis,Central Time Zone,2809299,301578,"St. Louis, Missouri",,United States,Central Time Zone
+"St. Petersburg, Florida",EDT,2870569,258308,"St. Petersburg, Florida",,United States,
+"Statesboro, Georgia",Eastern Daylight Time,71214,33438,Statesboro,,United States,"Eastern Daylight Time, North American Eastern Time Zone"
+"Stevens Point, Wisconsin",Central Time Zone (North America),70377,25666,,,United States,Central Time Zone (North America)
+Stockholm,Central European Summer Time,2415139,978770,,,Sweden,"Central European Summer Time, Central European Time"
+Stranocum,,,285,,,"United Kingdom, Northern Ireland",
+Suwon,,,1189654,Suwon,,South Korea,
+Taichung,,,2816667,Taichung City,,,National Standard Time
+Tainan,,,1850735,Tainan City,,,National Standard Time
+Taipei,,,2462482,Taipei City,,,National Standard Time
+"Tampa, Florida",EDT,3097859,384959,"Tampa, Florida",,United States,Eastern Time Zone
+Tartus,Eastern European Summer Time,162980,115769,,,Syria,"Eastern European Summer Time, Eastern European Time"
+Tashkent,,3000000,2909466,Tashkent,,Uzbekistan,
+Thun,,,"2012, 42735",,,Switzerland,
+Tonbridge,,,41617,,,"United Kingdom, Kent",
+"Tucson, Arizona",,1043433,542629,"Tucson, Arizona",,,Mountain Standard Time Zone
+"Tulsa, Oklahoma",North American Central Time Zone,1023988,413066,"Tulsa, Oklahoma",,,North American Central Time Zone
+Tunis,,2658816,602560,Tunis,,Tunisia,Central European Time
+Udon Thani,,430000,130531,Udon Thani,,Thailand,Time in Thailand
+Ulsan,,,1111707,Ulsan,,South Korea,
+Uster,,,,,,Switzerland,
+Valencia,,2522383,789744,Valencia,,Spain,
+Vereeniging,,,99000,Vereeniging,,South Africa,South African Standard Time
+"Vicksburg, Mississippi",,57433,21573,"Vicksburg, Mississippi",,United States,North American Central Time Zone
+"Victoria, Texas",CDT,116000,65534,"Victoria, Texas",,United States,North American Central Time Zone
+Vinnytsia,,660000,369739,,,Ukraine,
+"Washington, D.C.",Eastern Time Zone,6385162,689545,"Washington, D.C., Washington, D.C.,",,,Eastern Time Zone
+"Wilkes-Barre, Pennsylvania",Eastern Daylight Time,562037,44328,"Wilkes-Barre, Pennsylvania",,United States,"Eastern Time Zone, Eastern Daylight Time"
+Winterthur,,,,,http://dbpedia.org/resource/Michael_Künzle,Switzerland,
+Zaporizhia,,,,,,,
+Zofingen,,,"2006, 10534",,http://dbpedia.org/resource/Hans-Ruedi_Hottiger,Switzerland,
+Zolotonosha,,28768,27458,,,"Ukraine, Zolotonosha Raion, Cherkasy Oblast",
+"Zürich, Zürich",,,,,"Corine Mauch, Corine Mauch","Switzerland, Switzerland",
+"İzmir, İzmir",,"3209179, 3209179","4367251, 4367251","İzmir, , Members of Parliament from İzmir, İzmir district Municipalities, İzmir, , Members of Parliament from İzmir, İzmir district Municipalities",,"Turkey, Turkey","Time in Turkey, Time in Turkey"

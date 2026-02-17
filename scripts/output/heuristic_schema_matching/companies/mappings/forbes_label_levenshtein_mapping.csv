@@ -1,0 +1,5 @@
+source_dataset,source_column,target_dataset,target_column,score,notes
+forbes,id,Companies,id,1.0,similarity_function=levenshtein
+forbes,company,Companies,country,0.4285714285714286,similarity_function=levenshtein
+forbes,asset_value,Companies,assets,0.4545454545454546,similarity_function=levenshtein
+forbes,asset_value,Companies,revenue,0.36363636363636365,similarity_function=levenshtein

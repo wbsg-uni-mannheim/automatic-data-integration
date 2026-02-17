@@ -1,0 +1,83 @@
+{
+  "case_name": "llm_val",
+  "rules": {
+    "Attribute_6": {
+      "resolver": "union",
+      "kwargs": {
+        "separator": ","
+      }
+    },
+    "Attribute_7": {
+      "resolver": "maximum",
+      "kwargs": {}
+    },
+    "artist": {
+      "resolver": "favour_sources",
+      "kwargs": {
+        "sources": [
+          "discogs",
+          "musicbrainz",
+          "lastfm"
+        ]
+      }
+    },
+    "genre": {
+      "resolver": "favour_sources",
+      "kwargs": {
+        "sources": [
+          "musicbrainz",
+          "lastfm",
+          "discogs"
+        ]
+      }
+    },
+    "label": {
+      "resolver": "favour_sources",
+      "kwargs": {
+        "sources": [
+          "musicbrainz",
+          "discogs",
+          "lastfm"
+        ]
+      }
+    },
+    "name": {
+      "resolver": "favour_sources",
+      "kwargs": {
+        "sources": [
+          "musicbrainz",
+          "discogs",
+          "lastfm"
+        ]
+      }
+    },
+    "release-country": {
+      "resolver": "favour_sources",
+      "kwargs": {
+        "sources": [
+          "musicbrainz",
+          "discogs",
+          "lastfm"
+        ]
+      }
+    },
+    "release-date": {
+      "resolver": "earliest",
+      "kwargs": {}
+    },
+    "tracks_track-name": {
+      "resolver": "favour_sources",
+      "kwargs": {
+        "sources": [
+          "musicbrainz",
+          "lastfm",
+          "discogs"
+        ]
+      }
+    }
+  },
+  "accuracy_by_mode": {},
+  "source_stats": null,
+  "iterations_used": 1,
+  "optimization_mode": "web_omit"
+}

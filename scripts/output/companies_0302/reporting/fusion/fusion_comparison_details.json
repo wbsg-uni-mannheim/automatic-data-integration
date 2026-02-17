@@ -1,0 +1,183 @@
+{
+  "auto": {
+    "best_case_key": "llm_val__opt_web",
+    "validation_accuracy": 0.25396825396825395,
+    "test_accuracy": 0.7592592592592593,
+    "per_attribute_accuracy": {
+      "assets": {
+        "accuracy": 1.0,
+        "total": 18
+      },
+      "city": {
+        "accuracy": 0.3888888888888889,
+        "total": 18
+      },
+      "name": {
+        "accuracy": 0.5,
+        "total": 18
+      },
+      "country": {
+        "accuracy": 0.9444444444444444,
+        "total": 18
+      },
+      "founded": {
+        "accuracy": 0.8888888888888888,
+        "total": 18
+      },
+      "revenue": {
+        "accuracy": 0.8333333333333334,
+        "total": 18
+      }
+    },
+    "rules": {
+      "assets": {
+        "resolver": "favour_sources",
+        "kwargs": {
+          "sources": [
+            "forbes"
+          ]
+        }
+      },
+      "city": {
+        "resolver": "longest_string",
+        "kwargs": {}
+      },
+      "country": {
+        "resolver": "weighted_voting",
+        "kwargs": {
+          "trust_key": "trust_score"
+        }
+      },
+      "founded": {
+        "resolver": "prefer_higher_trust",
+        "kwargs": {
+          "trust_key": "trust_score"
+        }
+      },
+      "founders": {
+        "resolver": "most_complete",
+        "kwargs": {}
+      },
+      "industry": {
+        "resolver": "weighted_voting",
+        "kwargs": {
+          "trust_key": "trust_score"
+        }
+      },
+      "name": {
+        "resolver": "most_complete",
+        "kwargs": {}
+      },
+      "revenue": {
+        "resolver": "favour_sources",
+        "kwargs": {
+          "sources": [
+            "forbes"
+          ]
+        }
+      },
+      "website": {
+        "resolver": "favour_sources",
+        "kwargs": {
+          "sources": [
+            "fullcontact",
+            "dbpedia"
+          ]
+        }
+      }
+    }
+  },
+  "provided": {
+    "best_case_key": "heuristic_stats__opt_provided",
+    "validation_accuracy": 0.674074074074074,
+    "test_accuracy": 0.8611111111111112,
+    "per_attribute_accuracy": {
+      "assets": {
+        "accuracy": 1.0,
+        "total": 18
+      },
+      "city": {
+        "accuracy": 0.6666666666666666,
+        "total": 18
+      },
+      "name": {
+        "accuracy": 0.8333333333333334,
+        "total": 18
+      },
+      "country": {
+        "accuracy": 0.9444444444444444,
+        "total": 18
+      },
+      "founded": {
+        "accuracy": 0.8888888888888888,
+        "total": 18
+      },
+      "revenue": {
+        "accuracy": 0.8333333333333334,
+        "total": 18
+      }
+    },
+    "rules": {
+      "assets": {
+        "resolver": "favour_sources",
+        "kwargs": {
+          "sources": [
+            "forbes"
+          ]
+        }
+      },
+      "city": {
+        "resolver": "favour_sources",
+        "kwargs": {
+          "sources": [
+            "fullcontact"
+          ]
+        }
+      },
+      "country": {
+        "resolver": "favour_sources",
+        "kwargs": {
+          "sources": [
+            "dbpedia"
+          ]
+        }
+      },
+      "founded": {
+        "resolver": "favour_sources",
+        "kwargs": {
+          "sources": [
+            "fullcontact"
+          ]
+        }
+      },
+      "founders": {
+        "resolver": "most_complete",
+        "kwargs": {}
+      },
+      "industry": {
+        "resolver": "most_complete",
+        "kwargs": {}
+      },
+      "name": {
+        "resolver": "favour_sources",
+        "kwargs": {
+          "sources": [
+            "forbes"
+          ]
+        }
+      },
+      "revenue": {
+        "resolver": "favour_sources",
+        "kwargs": {
+          "sources": [
+            "forbes"
+          ]
+        }
+      },
+      "website": {
+        "resolver": "most_complete",
+        "kwargs": {}
+      }
+    }
+  }
+}

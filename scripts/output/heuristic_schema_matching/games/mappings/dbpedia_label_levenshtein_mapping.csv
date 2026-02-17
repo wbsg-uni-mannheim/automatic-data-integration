@@ -1,0 +1,3 @@
+source_dataset,source_column,target_dataset,target_column,score,notes
+dbpedia,id,Videogames,id,1.0,similarity_function=levenshtein
+dbpedia,system,Videogames,series,0.33333333333333337,similarity_function=levenshtein

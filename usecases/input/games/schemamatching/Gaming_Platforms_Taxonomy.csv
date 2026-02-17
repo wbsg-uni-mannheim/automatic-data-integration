@@ -1,0 +1,98 @@
+Platform Type Code,Platform Type,Manufacturer Code,Manufacturer,Platform Code,Platform Name,Generation,Release Year,Status
+10,Home Console,1010,Sony,101010,PlayStation,5th,1994,Discontinued
+10,Home Console,1010,Sony,101020,PlayStation 2,6th,2000,Discontinued
+10,Home Console,1010,Sony,101030,PlayStation 3,7th,2006,Discontinued
+10,Home Console,1010,Sony,101040,PlayStation 4,8th,2013,Active
+10,Home Console,1010,Sony,101050,PlayStation 4 Pro,8th,2016,Discontinued
+10,Home Console,1010,Sony,101060,PlayStation 5,9th,2020,Active
+10,Home Console,1010,Sony,101070,PlayStation 5 Pro,9th,2024,Active
+10,Home Console,1020,Microsoft,102010,Xbox,6th,2001,Discontinued
+10,Home Console,1020,Microsoft,102020,Xbox 360,7th,2005,Discontinued
+10,Home Console,1020,Microsoft,102030,Xbox One,8th,2013,Discontinued
+10,Home Console,1020,Microsoft,102040,Xbox One S,8th,2016,Active
+10,Home Console,1020,Microsoft,102050,Xbox One X,8th,2017,Discontinued
+10,Home Console,1020,Microsoft,102060,Xbox Series S,9th,2020,Active
+10,Home Console,1020,Microsoft,102070,Xbox Series X,9th,2020,Active
+10,Home Console,1030,Nintendo,103010,Nintendo Entertainment System (NES),3rd,1983,Discontinued
+10,Home Console,1030,Nintendo,103020,Super Nintendo (SNES),4th,1990,Discontinued
+10,Home Console,1030,Nintendo,103030,Nintendo 64,5th,1996,Discontinued
+10,Home Console,1030,Nintendo,103040,Nintendo GameCube,6th,2001,Discontinued
+10,Home Console,1030,Nintendo,103050,Wii,7th,2006,Discontinued
+10,Home Console,1030,Nintendo,103060,Wii U,8th,2012,Discontinued
+10,Home Console,1030,Nintendo,103070,Nintendo Switch,8th/9th,2017,Active
+10,Home Console,1030,Nintendo,103080,Nintendo Switch 2,9th,2025,Upcoming
+10,Home Console,1040,Sega,104010,Sega Master System,3rd,1985,Discontinued
+10,Home Console,1040,Sega,104020,Sega Genesis / Mega Drive,4th,1988,Discontinued
+10,Home Console,1040,Sega,104030,Sega Saturn,5th,1994,Discontinued
+10,Home Console,1040,Sega,104040,Sega Dreamcast,6th,1998,Discontinued
+10,Home Console,1050,Atari,105010,Atari 2600,2nd,1977,Discontinued
+10,Home Console,1050,Atari,105020,Atari 5200,2nd,1982,Discontinued
+10,Home Console,1050,Atari,105030,Atari 7800,3rd,1986,Discontinued
+10,Home Console,1050,Atari,105040,Atari Jaguar,5th,1993,Discontinued
+10,Home Console,1050,Atari,105050,Atari VCS (2020),9th,2020,Active
+20,Handheld Console,2010,Sony,201010,PlayStation Portable (PSP),7th,2004,Discontinued
+20,Handheld Console,2010,Sony,201020,PlayStation Vita,8th,2011,Discontinued
+20,Handheld Console,2020,Nintendo,202010,Game Boy,4th,1989,Discontinued
+20,Handheld Console,2020,Nintendo,202020,Game Boy Color,4th,1998,Discontinued
+20,Handheld Console,2020,Nintendo,202030,Game Boy Advance,5th,2001,Discontinued
+20,Handheld Console,2020,Nintendo,202040,Nintendo DS,7th,2004,Discontinued
+20,Handheld Console,2020,Nintendo,202050,Nintendo DSi,7th,2008,Discontinued
+20,Handheld Console,2020,Nintendo,202060,Nintendo 3DS,8th,2011,Discontinued
+20,Handheld Console,2020,Nintendo,202070,Nintendo 3DS XL,8th,2012,Discontinued
+20,Handheld Console,2020,Nintendo,202080,Nintendo 2DS,8th,2013,Discontinued
+20,Handheld Console,2020,Nintendo,202090,New Nintendo 3DS,8th,2014,Discontinued
+20,Handheld Console,2020,Nintendo,202100,Nintendo Switch Lite,8th/9th,2019,Active
+20,Handheld Console,2030,Sega,203010,Sega Game Gear,4th,1990,Discontinued
+20,Handheld Console,2030,Sega,203020,Sega Nomad,4th,1995,Discontinued
+20,Handheld Console,2040,Valve,204010,Steam Deck,9th,2022,Active
+20,Handheld Console,2040,Valve,204020,Steam Deck OLED,9th,2023,Active
+20,Handheld Console,2050,ASUS,205010,ROG Ally,9th,2023,Active
+20,Handheld Console,2050,ASUS,205020,ROG Ally X,9th,2024,Active
+20,Handheld Console,2060,Lenovo,206010,Legion Go,9th,2023,Active
+20,Handheld Console,2070,MSI,207010,MSI Claw,9th,2024,Active
+30,PC,3010,Windows PC,301010,Windows PC,N/A,1985,Active
+30,PC,3010,Windows PC,301020,Windows PC (Steam),N/A,2003,Active
+30,PC,3010,Windows PC,301030,Windows PC (Epic Games Store),N/A,2018,Active
+30,PC,3010,Windows PC,301040,Windows PC (GOG),N/A,2008,Active
+30,PC,3010,Windows PC,301050,Windows PC (Microsoft Store),N/A,2012,Active
+30,PC,3020,Mac,302010,macOS,N/A,2001,Active
+30,PC,3020,Mac,302020,Mac (Steam),N/A,2010,Active
+30,PC,3020,Mac,302030,Mac (App Store),N/A,2011,Active
+30,PC,3030,Linux,303010,Linux / SteamOS,N/A,1991,Active
+30,PC,3030,Linux,303020,Linux (Steam),N/A,2013,Active
+40,Mobile,4010,Apple,401010,iOS (iPhone),N/A,2007,Active
+40,Mobile,4010,Apple,401020,iPadOS (iPad),N/A,2010,Active
+40,Mobile,4020,Google,402010,Android,N/A,2008,Active
+40,Mobile,4020,Google,402020,Android (Google Play),N/A,2012,Active
+50,Cloud Gaming,5010,Microsoft,501010,Xbox Cloud Gaming (xCloud),N/A,2020,Active
+50,Cloud Gaming,5020,NVIDIA,502010,NVIDIA GeForce NOW,N/A,2020,Active
+50,Cloud Gaming,5030,Amazon,503010,Amazon Luna,N/A,2020,Active
+50,Cloud Gaming,5040,Sony,504010,PlayStation Now,N/A,2014,Discontinued
+50,Cloud Gaming,5040,Sony,504020,PlayStation Plus Cloud Streaming,N/A,2022,Active
+50,Cloud Gaming,5050,Google,505010,Google Stadia,N/A,2019,Discontinued
+60,VR / AR,6010,Sony,601010,PlayStation VR,8th,2016,Discontinued
+60,VR / AR,6010,Sony,601020,PlayStation VR2,9th,2023,Active
+60,VR / AR,6020,Meta,602010,Oculus Rift,N/A,2016,Discontinued
+60,VR / AR,6020,Meta,602020,Oculus Rift S,N/A,2019,Discontinued
+60,VR / AR,6020,Meta,602030,Oculus Quest,N/A,2019,Discontinued
+60,VR / AR,6020,Meta,602040,Oculus Quest 2,N/A,2020,Active
+60,VR / AR,6020,Meta,602050,Meta Quest 3,N/A,2023,Active
+60,VR / AR,6020,Meta,602060,Meta Quest Pro,N/A,2022,Active
+60,VR / AR,6030,Valve,603010,Valve Index,N/A,2019,Active
+60,VR / AR,6040,HTC,604010,HTC Vive,N/A,2016,Active
+60,VR / AR,6040,HTC,604020,HTC Vive Pro,N/A,2018,Active
+60,VR / AR,6040,HTC,604030,HTC Vive Pro 2,N/A,2021,Active
+60,VR / AR,6040,HTC,604040,HTC Vive XR Elite,N/A,2023,Active
+60,VR / AR,6050,Apple,605010,Apple Vision Pro,N/A,2024,Active
+60,VR / AR,6060,Pico,606010,Pico 4,N/A,2022,Active
+70,Arcade,7010,Arcade,701010,Arcade Cabinet,N/A,1971,Active
+70,Arcade,7010,Arcade,701020,Neo Geo MVS,4th,1990,Discontinued
+70,Arcade,7010,Arcade,701030,Arcade1Up,N/A,2018,Active
+80,Retro / Mini Console,8010,Nintendo,801010,NES Classic Edition,N/A,2016,Discontinued
+80,Retro / Mini Console,8010,Nintendo,801020,SNES Classic Edition,N/A,2017,Discontinued
+80,Retro / Mini Console,8020,Sony,802010,PlayStation Classic,N/A,2018,Discontinued
+80,Retro / Mini Console,8030,Sega,803010,Sega Genesis Mini,N/A,2019,Discontinued
+80,Retro / Mini Console,8030,Sega,803020,Sega Genesis Mini 2,N/A,2022,Active
+80,Retro / Mini Console,8040,SNK,804010,Neo Geo Mini,N/A,2018,Active
+80,Retro / Mini Console,8050,Analogue,805010,Analogue Pocket,N/A,2021,Active
+80,Retro / Mini Console,8050,Analogue,805020,Analogue Duo,N/A,2023,Active

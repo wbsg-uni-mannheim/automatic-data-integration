@@ -1,0 +1,66 @@
+{
+  "case_name": "llm_val",
+  "rules": {
+    "assets": {
+      "resolver": "prefer_higher_trust",
+      "kwargs": {
+        "trust_key": "trust_score"
+      }
+    },
+    "city": {
+      "resolver": "favour_sources",
+      "kwargs": {
+        "sources": [
+          "dbpedia"
+        ]
+      }
+    },
+    "country": {
+      "resolver": "most_complete",
+      "kwargs": {}
+    },
+    "founded": {
+      "resolver": "prefer_higher_trust",
+      "kwargs": {
+        "trust_key": "trust_score"
+      }
+    },
+    "founders": {
+      "resolver": "union",
+      "kwargs": {
+        "separator": ","
+      }
+    },
+    "industry": {
+      "resolver": "most_complete",
+      "kwargs": {}
+    },
+    "keypeople_name": {
+      "resolver": "most_complete",
+      "kwargs": {}
+    },
+    "name": {
+      "resolver": "most_complete",
+      "kwargs": {}
+    },
+    "revenue": {
+      "resolver": "prefer_higher_trust",
+      "kwargs": {
+        "trust_key": "trust_score"
+      }
+    },
+    "website": {
+      "resolver": "favour_sources",
+      "kwargs": {
+        "sources": [
+          "fullcontact",
+          "dbpedia"
+        ]
+      }
+    }
+  },
+  "accuracy_by_mode": {},
+  "source_stats": null,
+  "iterations_used": 1,
+  "optimization_mode": "llm"
+}

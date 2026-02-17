@@ -1,0 +1,49 @@
+{
+  "best_case_key": "llm_no_val",
+  "best_case_name": "llm_no_val",
+  "best_validation_accuracy": 0.9333333333333333,
+  "best_test_accuracy": 0.8739495798319328,
+  "best_case_dir": "scripts/output/games_0302/fusion/optimization/case_llm_no_val",
+  "rules": {
+    "ESRB": {
+      "kwargs": {},
+      "resolver": "voting"
+    },
+    "criticScore": {
+      "kwargs": {},
+      "resolver": "median"
+    },
+    "developer": {
+      "kwargs": {},
+      "resolver": "most_complete"
+    },
+    "globalSales": {
+      "kwargs": {},
+      "resolver": "median"
+    },
+    "name": {
+      "kwargs": {},
+      "resolver": "longest_string"
+    },
+    "platform": {
+      "kwargs": {},
+      "resolver": "union"
+    },
+    "publisher": {
+      "kwargs": {},
+      "resolver": "most_complete"
+    },
+    "releaseYear": {
+      "kwargs": {},
+      "resolver": "earliest"
+    },
+    "series": {
+      "kwargs": {},
+      "resolver": "most_complete"
+    },
+    "userScore": {
+      "kwargs": {},
+      "resolver": "median"
+    }
+  }
+}

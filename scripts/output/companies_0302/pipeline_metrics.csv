@@ -1,0 +1,19 @@
+step,runtime_sec,prompt_tokens,completion_tokens,embedding_tokens,total_tokens,cost_usd,requests,web_searches
+Step 1: Schema Matching (cached),887.73,819006,58623,0,877629,0.0,166,0
+Step 2: Validation & Training,2746.03,429613,22062,55996,451675,0.0,2754,0
+Step 3: FAISS Candidate Generation,272.73,48402,1636,0,50038,0.0,116,0
+Step 5: Matcher Optimization,43.37,0,0,0,0,0.0,0,0
+Step 6: Active Learning (cached),2789.76,375615,19840,0,395455,0.0,2480,0
+Step 7: Data Fusion (cached),13.75,1410,218,0,1628,0.0,1,0
+Step 7.5: Fusion Validation (validation_llm) (cached),228.74,35955,6478,0,42433,0.0,113,0
+Step 7.5: Fusion Validation (validation_llm_omit) (cached),212.7,32890,6077,0,38967,0.0,113,0
+Step 7.5: Fusion Validation (validation_web) (cached),760.15,1315540,27094,0,1342634,0.0,0,113
+Step 7.5: Fusion Validation (validation_web_omit) (cached),718.56,1312182,26566,0,1338748,0.0,0,113
+Step 7.6: End-to-End Metrics,3.66,0,0,0,0,0.0,0,0
+Step 7.7: Fusion Optimization (all) (cached),895.53,436476,44663,0,481139,0.0,161,0
+Step 8: Test Set Evaluation (cached),13.14,0,0,0,0,0.0,0,0
+Step 4: Training Set Comparison (cached),9493.51,2750395,74974,21379,2825369,0.0,9317,0
+Step 7: Fusion Optimization (all) (cached),1591.04,775284,83193,0,858477,0.0,281,0
+Step 7.8: Fusion Optimization (Provided Val) (cached),104.34,40585,5191,0,45776,0.0,16,0
+Step 7: Fusion Optimization (heuristic),1.67,0,0,0,0,0.0,0,0
+TOTAL,20776.42,8373353,376615,77375,8749968,0.0,15518,226

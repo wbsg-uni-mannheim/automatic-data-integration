@@ -1,0 +1,7 @@
+case,optimization_mode,eval_mode,accuracy,correct,total,acc_label,acc_name,acc_tracks,acc_release-date,acc_genre,acc_duration,acc_release-country,acc_artist
+heuristic,none,provided,0.6542553191489362,123,188,0.84,1.0,0.0,0.84,0.92,0.5384615384615384,0.12,0.92
+llm_no_val,none,provided,0.5478723404255319,103,188,0.84,1.0,0.0,0.92,0.92,0.5384615384615384,0.12,0.04
+llm_val,provided,provided,0.6595744680851063,124,188,0.84,0.96,0.0,0.96,0.92,0.5384615384615384,0.12,0.88
+llm_val_stats,provided,provided,0.6595744680851063,124,188,0.84,0.96,0.0,0.96,0.92,0.5384615384615384,0.12,0.88
+heuristic_stats,provided,provided,0.6595744680851063,124,188,0.84,0.96,0.0,0.96,0.92,0.5384615384615384,0.12,0.88
+iterative,provided,provided,0.6595744680851063,124,188,0.84,0.96,0.0,0.96,0.92,0.5384615384615384,0.12,0.88

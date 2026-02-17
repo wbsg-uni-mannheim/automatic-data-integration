@@ -1,0 +1,101 @@
+N,IMDB Rating,Director,IMDB Votes,Year,Title
+1,8.3,David Fincher,45993,2010,The Social Network
+2,8.9,Christopher Nolan,333261,2010,Inception
+3,6.6,Tim Burton,84086,2010,Alice in Wonderland
+4,8.0,Martin Scorsese,160301,2010,Shutter Island
+5,8.2,Dean DeBlois,68159,2010,How to Train Your Dragon
+6,8.7,Lee Unkrich,121941,2010,Toy Story 3
+7,8.2,James Cameron,309270,2009,Avatar
+8,7.3,David Yates,86656,2009,Harry Potter and the Half-Blood Prince
+9,7.0,Carlos Saldanha,39731,2009,Ice Age: Dawn of the Dinosaurs
+10,5.9,Michael Bay,107488,2009,Transformers: Revenge of the Fallen
+11,7.9,Todd Phillips,154719,2009,The Hangover
+12,8.4,Pete Docter,140482,2009,Up
+13,8.4,Quentin Tarantino,217665,2009,Inglourious Basterds
+14,8.2,Neill Blomkamp,181066,2009,District 9
+15,8.9,Christopher Nolan,519149,2008,The Dark Knight
+16,8.5,Andrew Stanton,211143,2008,WALL?E
+17,8.4,Clint Eastwood,153744,2008,Gran Torino
+18,8.3,Danny Boyle,203313,2008,Slumdog Millionaire
+19,7.0,Gore Verbinski,146294,2007,Pirates of the Caribbean: At World's End
+20,8.3,Ethan Coen,222815,2007,No Country for Old Men
+21,8.5,Martin Scorsese,296186,2007,The Departed
+22,8.0,Martin Campbell,184927,2006,Casino Royale
+23,8.4,Guillermo del Toro,174313,2006,Pan's Labyrinth
+24,8.4,Christopher Nolan,239145,2006,The Prestige
+25,8.5,Florian Henckel von Donnersmarck,86143,2006,The Lives of Others
+26,8.3,Frank Miller,280220,2005,Sin City
+27,8.3,Christopher Nolan,298081,2005,Batman Begins
+28,8.4,Oliver Hirschbiegel,92932,2004,Downfall
+29,8.1,Brad Bird,178618,2004,The Incredibles
+30,8.0,Nick Cassavetes,106492,2004,The Notebook
+31,8.5,Michel Gondry,245209,2004,Eternal Sunshine of the Spotless Mind
+32,8.2,Clint Eastwood,159967,2004,Million Dollar Baby
+33,8.8,Peter Jackson,404167,2003,The Lord of the Rings: The Return of the King
+34,7.8,Edward Zwick,117573,2003,The Last Samurai
+35,8.7,Peter Jackson,361697,2002,The Lord of the Rings: The Two Towers
+36,8.8,Fernando Meirelles,188485,2002,City of God
+37,8.8,Peter Jackson,426915,2001,The Lord of the Rings: The Fellowship of the Ring
+38,8.6,Jean-Pierre Jeunet,203136,2001,Am?lie
+39,8.5,Darren Aronofsky,208362,2000,Requiem for a Dream
+40,8.4,Ridley Scott,312838,2000,Gladiator
+41,8.7,Christopher Nolan,307570,2000,Memento
+42,8.8,David Fincher,429958,1999,Fight Club
+43,8.7,Andy Wachowski,423173,1999,The Matrix
+44,8.4,Frank Darabont,226337,1999,The Green Mile
+45,8.6,Sam Mendes,321864,1999,American Beauty
+46,6.1,Michael Bay,129112,1998,Armageddon
+47,8.5,Steven Spielberg,299141,1998,Saving Private Ryan
+48,8.6,Tony Kaye,253038,1998,American History X
+49,8.4,Curtis Hanson,178671,1997,L.A. Confidential
+50,6.6,Roland Emmerich,162072,1996,Independence Day
+51,8.7,Bryan Singer,292552,1995,The Usual Suspects
+52,8.4,Mel Gibson,265922,1995,Braveheart
+53,8.3,Michael Mann,160171,1995,Heat
+54,8.2,John Lasseter,174961,1995,Toy Story
+55,9.2,Frank Darabont,582364,1994,The Shawshank Redemption
+56,8.7,Robert Zemeckis,342386,1994,Forrest Gump
+57,9.0,Quentin Tarantino,463522,1994,Pulp Fiction
+58,8.4,Luc Besson,228374,1994,Leon: The Professional
+59,8.9,Steven Spielberg,308310,1993,Schindler's List
+60,8.2,Harold Ramis,152654,1993,Groundhog Day
+61,8.4,Quentin Tarantino,234483,1992,Reservoir Dogs
+62,8.4,Clint Eastwood,110409,1992,Unforgiven
+63,8.6,James Cameron,264472,1991,Terminator 2: Judgment Day
+64,8.7,Jonathan Demme,275574,1991,The Silence of the Lambs
+65,8.8,Martin Scorsese,255897,1990,Goodfellas
+66,6.7,Garry Marshall,66634,1990,Pretty Woman
+67,8.3,Steven Spielberg,187473,1989,Indiana Jones and the Last Crusade
+68,8.4,Stanley Kubrick,169397,1987,Full Metal Jacket
+69,8.1,Rob Reiner,132380,1987,The Princess Bride
+70,8.4,Robert Zemeckis,228908,1985,Back to the Future
+71,8.3,Richard Marquand,230560,1983,Star Wars: Episode VI - Return of the Jedi
+72,7.9,Steven Spielberg,113331,1982,E. T. The Extra-Terrestrial
+73,8.3,Ridley Scott,201053,1982,Blade Runner
+74,8.7,Steven Spielberg,256247,1981,Raiders of the Lost Ark
+75,8.8,Irvin Kershner,305345,1980,Star Wars: Episode V - The Empire Strikes Back
+76,8.5,Stanley Kubrick,199489,1980,The Shining
+77,8.6,Francis Ford Coppola,189857,1979,Apocalypse Now
+78,8.5,Ridley Scott,198951,1979,Alien
+79,8.8,George Lucas,348807,1977,Star Wars: Episode IV - A New Hope
+80,8.2,Woody Allen,72015,1977,Annie Hall
+81,8.6,Martin Scorsese,175498,1976,Taxi Driver
+82,8.9,Milos Forman,241183,1975,One Flew Over the Cuckoo's Nest
+83,8.1,Steven Spielberg,152601,1975,Jaws
+84,7.7,Robert Altman,9680,1975,Nashville
+85,8.5,Roman Polanski,86744,1974,Chinatown
+86,9.0,Francis Ford Coppola,275384,1974,"The Godfather, Part II"
+87,9.2,Francis Ford Coppola,452038,1972,The Godfather
+88,8.5,Stanley Kubrick,213573,1971,A Clockwork Orange
+89,7.3,Dennis Hopper,34720,1969,Easy Rider
+90,8.0,John Schlesinger,36136,1968,Midnight Cowboy
+91,8.8,Sergio Leone,84553,1968,Once Upon a Time in the West
+92,8.0,Franklin J. Schaffner,62673,1968,Planet of the Apes
+93,8.0,Arthur Penn,44756,1967,Bonnie And Clyde
+94,8.2,Mike Nichols,85917,1967,The Graduate
+95,9.0,Sergio Leone,183850,1966,"The Good, the Bad and the Ugly"
+96,8.7,Alfred Hitchcock,159840,1960,Psycho
+97,8.9,Sidney Lumet,138336,1957,12 Angry Men
+98,8.2,Charles Laughton,28418,1955,The Night of the Hunter
+99,7.9,Nicholas Ray,29327,1955,Rebel Without a Cause
+100,8.8,Michael Curtiz,182487,1942,Casablanca

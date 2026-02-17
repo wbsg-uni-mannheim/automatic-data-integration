@@ -1,0 +1,17 @@
+Entity Matching - User Prompt Template
+========================================
+Source: PyDI/entitymatching/llm_based.py
+
+Purpose: Presents a pair of records for the LLM to compare.
+Records are serialized as JSON objects containing only the selected matching fields.
+
+Template variables:
+  {left_record}  - JSON-serialized record from the left dataset
+  {right_record} - JSON-serialized record from the right dataset
+
+---
+
+Left record: {left_record}
+Right record: {right_record}
+
+Return JSON matching the schema described above.

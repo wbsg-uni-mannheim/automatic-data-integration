@@ -1,0 +1,28 @@
+% Entity matching results: Human Config vs Human Labels vs LLM Labels
+
+\begin{table}[t]
+\caption{Entity matching F1 scores on held-out test sets. \emph{Human Config}: the data engineers' pipeline. \emph{Human Labels} and \emph{LLM Labels}: identical ML matchers trained on human-labeled vs.\ LLM-labeled training data.}
+\label{tab:em_results}
+\centering
+\footnotesize
+\begin{tabular}{@{}ll ccc@{}}
+\toprule
+ & & \textbf{Human} & \textbf{Human} & \textbf{LLM} \\
+\textbf{Use Case} & \textbf{Dataset Pair} & \textbf{Config} & \textbf{Labels} & \textbf{Labels} \\
+\midrule
+\multirow{2}{*}{Games}
+ & DBpedia--Metacritic & .930 & .826 & .849 \\
+ & DBpedia--Sales & .927 & .839 & .979 \\
+\midrule
+\multirow{2}{*}{Companies}
+ & DBpedia--Forbes & .857 & .954 & .939 \\
+ & Forbes--FullContact & .870 & .898 & .897 \\
+\midrule
+\multirow{2}{*}{Music}
+ & Discogs--MusicBrainz & .800 & .991 & .990 \\
+ & Last.fm--MusicBrainz & .977 & .988 & .968 \\
+\midrule
+\multicolumn{2}{@{}l}{\textit{Average}} & .894 & .916 & .937 \\
+\bottomrule
+\end{tabular}
+\end{table}

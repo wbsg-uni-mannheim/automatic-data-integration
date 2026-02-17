@@ -1,0 +1,96 @@
+{
+  "auto_generated": {
+    "best_case_key": "llm_no_val",
+    "validation_accuracy": 0.9333333333333333,
+    "test_accuracy": 0.8739495798319328,
+    "rules": {
+      "ESRB": {
+        "kwargs": {},
+        "resolver": "voting"
+      },
+      "criticScore": {
+        "kwargs": {},
+        "resolver": "median"
+      },
+      "developer": {
+        "kwargs": {},
+        "resolver": "most_complete"
+      },
+      "globalSales": {
+        "kwargs": {},
+        "resolver": "median"
+      },
+      "name": {
+        "kwargs": {},
+        "resolver": "longest_string"
+      },
+      "platform": {
+        "kwargs": {},
+        "resolver": "union"
+      },
+      "publisher": {
+        "kwargs": {},
+        "resolver": "most_complete"
+      },
+      "releaseYear": {
+        "kwargs": {},
+        "resolver": "earliest"
+      },
+      "series": {
+        "kwargs": {},
+        "resolver": "most_complete"
+      },
+      "userScore": {
+        "kwargs": {},
+        "resolver": "median"
+      }
+    }
+  },
+  "provided": {
+    "best_case_key": "llm_no_val",
+    "validation_accuracy": 0.9166666666666666,
+    "test_accuracy": 0.8739495798319328,
+    "rules": {
+      "ESRB": {
+        "kwargs": {},
+        "resolver": "voting"
+      },
+      "criticScore": {
+        "kwargs": {},
+        "resolver": "median"
+      },
+      "developer": {
+        "kwargs": {},
+        "resolver": "most_complete"
+      },
+      "globalSales": {
+        "kwargs": {},
+        "resolver": "median"
+      },
+      "name": {
+        "kwargs": {},
+        "resolver": "longest_string"
+      },
+      "platform": {
+        "kwargs": {},
+        "resolver": "union"
+      },
+      "publisher": {
+        "kwargs": {},
+        "resolver": "most_complete"
+      },
+      "releaseYear": {
+        "kwargs": {},
+        "resolver": "earliest"
+      },
+      "series": {
+        "kwargs": {},
+        "resolver": "most_complete"
+      },
+      "userScore": {
+        "kwargs": {},
+        "resolver": "median"
+      }
+    }
+  }
+}

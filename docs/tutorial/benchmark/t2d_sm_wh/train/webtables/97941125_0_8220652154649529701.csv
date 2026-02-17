@@ -1,0 +1,37 @@
+Country,Symbol,Numeric code,Subdivision,Alphabetic code,Currency
+Afghanistan,Af,4.0,100 puls,AFA,Afghani
+Albania,L,8.0,100 qindarka (qintars),ALL,Lek
+Algeria,DA,12.0,100 centimes,DZD,Algerian Dinar
+American Samoa,$,840.0,100 cents,USD,US Dollar
+Andorra,,978.0,100 euro-cents,EUR,Euro
+Angola,Kz,24.0,100 lwei,AON,New Kwanza
+Anguilla,EC$,951.0,100 cents,XCD,East Caribbean Dollar
+Antarctica,,,,,No universal currency
+Antigua and Barbuda,EC$,951.0,100 cents,XCD,East Caribbean Dollar
+Argentina,$,32.0,100 centavos,ARS,Argentine Peso
+Armenia,,51.0,100 luma,AMD,Armenian Dram
+Aruba,Af.,533.0,100 cents,AWG,Aruban Guilder
+Australia,A$,36.0,100 cents,AUD,Australian Dollar
+Austria,,978.0,100 euro-cents,EUR,Euro
+Azerbaijan,,31.0,100 gopik,AZM,Azerbaijanian Manat
+Bahamas,B$,44.0,100 cents,BSD,Bahamian Dollar
+Bahrain,BD,48.0,1000 fils,BHD,Bahraini Dinar
+Bangladesh,Tk,50.0,100 paisa (poisha),BDT,Taka
+Barbados,Bds$,52.0,100 cents,BBD,Barbados Dollar
+Belarus,BR,974.0,,BYR,Belarussian Ruble
+Belgium,,978.0,100 euro-cents,EUR,Euro
+Belize,BZ$,84.0,100 cents,BZD,Belize Dollar
+Benin,CFAF,952.0,100 centimes,XOF,CFA Franc BCEAO
+Bermuda,Bd$,60.0,100 cents,BMD,Bermudian Dollar
+Bhutan,Nu,64.0,100 chetrum,BTN,Ngultrum
+Bhutan (other),Rs,356.0,100 paise,INR,Indian Rupee
+Bosnia and Herzegovina,KM,977.0,100 fennig,BAM,Convertible Marks
+Botswana,P,72.0,100 thebe,BWP,Pula
+Bouvet Island,NKr,578.0,100 øre,NOK,Norwegian Krone
+Brazil,R$,986.0,100 centavos,BRL,Brazilian Real
+British Indian Ocean Territory,£,826.0,100 pence,GBP,Pound Sterling
+British Indian Ocean Territory (other),$,840.0,100 cents,USD,US Dollar
+Brunei Darussalam,B$,96.0,100 sen (a.k.a. 100 cents),BND,Brunei Dollar
+Bulgaria,Lv,100.0,100 stotinki,BGL,Lev
+Burkina Faso,CFAF,952.0,100 centimes,XOF,CFA Franc BCEAO
+Burundi,FBu,108.0,100 centimes,BIF,Burundi Franc

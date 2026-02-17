@@ -1,0 +1,26 @@
+entity_id,source_ids,name,country,city,assets,revenue,founded
+entity_0,"http://www.forbes.com/companies/industrial-alliance-insurance/, http://dbpedia.org/resource/Industrial_Alliance",Industrial Alliance Insurance,Canada,Cleveland,39900000000,6300000000,1892-01-01
+entity_1,"fullcontact_727, http://www.forbes.com/companies/deutsche-telekom/",Deutsche Telekom,,,162800000000,79800000000,1991-01-01
+entity_10,"fullcontact_682, http://www.forbes.com/companies/schlumberger/, http://dbpedia.org/resource/Schlumberger",Schlumberger,United States,London,67099999999,45400000000,1926-01-01
+entity_11,"fullcontact_669, http://www.forbes.com/companies/shoprite-holdings/",Shoprite Holdings,South Africa,,3800000000,10100000000,1979-01-01
+entity_12,"http://dbpedia.org/resource/Bayer_Corporation, http://www.forbes.com/companies/bayer/, fullcontact_139",Bayer,Germany,Leverkusen,70700000000,53300000000,1863-01-01
+entity_13,"fullcontact_486, http://dbpedia.org/resource/Manpower_Inc., http://www.forbes.com/companies/manpower/",Manpower,United States,Milwaukee,7300000000,20200000000,1948-01-01
+entity_14,"http://dbpedia.org/resource/L-3_Communications, http://www.forbes.com/companies/l-3-communications/",Level 3 Communications,United States,San Jose,12900000000,6300000000,1987-01-01
+entity_15,http://www.forbes.com/companies/crown-resorts/,Crown Resorts,Australia,,5800000000,2800000000,
+entity_16,"http://www.forbes.com/companies/tdc/, http://dbpedia.org/resource/TDC_A/S, fullcontact_719",TDC,Denmark,København C,11200000000,4400000000,1882-01-01
+entity_17,"http://dbpedia.org/resource/Smiths_Group, fullcontact_685, http://www.forbes.com/companies/smiths-group/",Smiths Group,United Kingdom,Newcastle upon Tyne,5800000000,4800000000,1831-01-01
+entity_18,"http://dbpedia.org/resource/Banca_Popolare_dell'Emilia_Romagna, http://www.forbes.com/companies/banca-popolare-di-milano/",Banca Popolare di Milano,Italy,Milano,68000000000,2900000000,1849-01-01
+entity_19,"http://www.forbes.com/companies/china-communications-services/, http://dbpedia.org/resource/China_Communications_Services_Corporation",China Communications Services,China,Emery,8000000000,11100000000,2006-01-01
+entity_2,"fullcontact_305, http://www.forbes.com/companies/eutelsat-communications/",Eutelsat Communications,France,Paris,8800000000,1700000000,1977-01-01
+entity_20,"fullcontact_133, http://www.forbes.com/companies/bank-muscat/",Bank Muscat,Oman,Muscat,22000000000,1100000000,1954-01-01
+entity_21,http://www.forbes.com/companies/nabors-industries/,Nabors Industries,Bermuda,,12200000000,6200000000,
+entity_22,"http://dbpedia.org/resource/Qualcomm, fullcontact_613, http://www.forbes.com/companies/qualcomm/",Qualcomm,United States,San Diego,46300000000,25500000000,1985-01-01
+entity_23,"http://www.forbes.com/companies/dicks-sporting-goods/, fullcontact_261",Dick's Sporting Goods,United States,Binghamton,3100000000,6200000000,1948-01-01
+entity_24,"fullcontact_376, http://dbpedia.org/resource/Herbalife, http://www.forbes.com/companies/herbalife/",Herbalife,United States,Gurgaon,2500000000,4800000000,1980-01-01
+entity_3,"http://www.forbes.com/companies/westfield-group/, http://dbpedia.org/resource/Westfield_Group",Westfield Group,Australia,Bergen,31200000000,2300000000,1935-01-01
+entity_4,http://www.forbes.com/companies/credit-agricole/,Credit Agricole,France,,2117699999999,65300000000,
+entity_5,http://www.forbes.com/companies/randstad-holding/,Randstad Holding,Netherlands,,9100000000,22000000000,
+entity_6,"http://dbpedia.org/resource/Prudential_plc, http://www.forbes.com/companies/prudential/",Prudential,United Kingdom,Newark,528500000000,81900000000,1848-01-01
+entity_7,"http://www.forbes.com/companies/byd/, http://dbpedia.org/resource/BYD_Electronic, fullcontact_180",BYD,China,Los Angeles,12900000000,8400000000,1995-01-01
+entity_8,http://www.forbes.com/companies/dongbu-insurance/,Dongbu Insurance,"Korea, Republic of",,28300000000,11100000000,
+entity_9,http://www.forbes.com/companies/yamaha-motor/,Yamaha Motor,Japan,,10900000000,14400000000,

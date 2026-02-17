@@ -1,0 +1,16 @@
+entity_id,source_ids,name
+entity_0,"dbpedia_36582, sales_3209, metacritic_17161",dbpedia
+entity_1,"dbpedia_22016, sales_4183, metacritic_19481",dbpedia
+entity_10,"metacritic_4212, dbpedia_42162, sales_1697",metacritic
+entity_11,"metacritic_12057, sales_1430, dbpedia_23874",metacritic
+entity_12,"dbpedia_3837, sales_4538, metacritic_9865",dbpedia
+entity_13,"metacritic_5286, dbpedia_3613, sales_3023",dbpedia
+entity_14,"dbpedia_42608, metacritic_8878",dbpedia
+entity_2,"metacritic_9221, sales_46, dbpedia_40208",metacritic
+entity_3,"dbpedia_40616, metacritic_3124",LLM
+entity_4,"dbpedia_21161, sales_4658, metacritic_3408",sales
+entity_5,"sales_5461, dbpedia_57362, metacritic_19234",sales
+entity_6,"dbpedia_18827, metacritic_5860, sales_616",dbpedia
+entity_7,"dbpedia_53216, sales_3725, metacritic_17606",dbpedia
+entity_8,"dbpedia_64698, sales_311, metacritic_14164",dbpedia
+entity_9,"dbpedia_18963, metacritic_14340, sales_1858",dbpedia

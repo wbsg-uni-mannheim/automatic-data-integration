@@ -1,0 +1,110 @@
+{
+  "auto_generated": {
+    "best_case_key": "heuristic",
+    "validation_accuracy": 0.5585585585585585,
+    "test_accuracy": 0.7207792207792207,
+    "rules": {
+      "artist": {
+        "resolver": "most_complete",
+        "kwargs": {}
+      },
+      "duration": {
+        "resolver": "median",
+        "kwargs": {}
+      },
+      "genre": {
+        "resolver": "most_complete",
+        "kwargs": {}
+      },
+      "label": {
+        "resolver": "most_complete",
+        "kwargs": {}
+      },
+      "name": {
+        "resolver": "longest_string",
+        "kwargs": {}
+      },
+      "release-country": {
+        "resolver": "most_complete",
+        "kwargs": {}
+      },
+      "release-date": {
+        "resolver": "prefer_higher_trust",
+        "kwargs": {
+          "trust_key": "trust_score"
+        }
+      },
+      "tracks": {
+        "resolver": "union",
+        "kwargs": {
+          "separator": ","
+        }
+      }
+    }
+  },
+  "provided": {
+    "best_case_key": "llm_val__opt_provided",
+    "validation_accuracy": 0.6595744680851063,
+    "test_accuracy": 0.7142857142857143,
+    "rules": {
+      "artist": {
+        "resolver": "favour_sources",
+        "kwargs": {
+          "sources": [
+            "musicbrainz"
+          ]
+        }
+      },
+      "duration": {
+        "resolver": "median",
+        "kwargs": {}
+      },
+      "genre": {
+        "resolver": "favour_sources",
+        "kwargs": {
+          "sources": [
+            "discogs"
+          ]
+        }
+      },
+      "label": {
+        "resolver": "favour_sources",
+        "kwargs": {
+          "sources": [
+            "discogs"
+          ]
+        }
+      },
+      "name": {
+        "resolver": "favour_sources",
+        "kwargs": {
+          "sources": [
+            "musicbrainz"
+          ]
+        }
+      },
+      "release-country": {
+        "resolver": "favour_sources",
+        "kwargs": {
+          "sources": [
+            "musicbrainz"
+          ]
+        }
+      },
+      "release-date": {
+        "resolver": "favour_sources",
+        "kwargs": {
+          "sources": [
+            "musicbrainz"
+          ]
+        }
+      },
+      "tracks": {
+        "resolver": "union",
+        "kwargs": {
+          "separator": ","
+        }
+      }
+    }
+  }
+}

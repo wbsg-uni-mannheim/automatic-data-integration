@@ -1,0 +1,26 @@
+Taxonomy Mapping - User Prompt Template
+=========================================
+Source: PyDI/normalization/taxonomy.py
+
+Purpose: Provides source values and the target taxonomy for the LLM to create mappings.
+Values are processed in batches (default batch size: 50).
+
+Template variables:
+  {taxonomy_column}   - Name of the taxonomy column to map to
+  {source_values_json} - JSON list of source values to map
+  {taxonomy_csv}       - Full taxonomy CSV content for reference
+
+---
+
+Map these source values to the taxonomy.
+
+Column to map to: {taxonomy_column}
+
+Source values to map:
+{source_values_json}
+
+Taxonomy CSV (use values from the "{taxonomy_column}" column):
+{taxonomy_csv}
+
+Return JSON in exactly this format:
+{"mappings": {"source_value_1": "taxonomy_value_1", "source_value_2": null, ...}}

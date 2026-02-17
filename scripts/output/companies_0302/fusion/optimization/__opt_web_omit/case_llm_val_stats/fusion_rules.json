@@ -1,0 +1,56 @@
+{
+  "attribute_rules": {
+    "assets": {
+      "kwargs": {},
+      "resolver": "median"
+    },
+    "city": {
+      "kwargs": {
+        "sources": [
+          "dbpedia"
+        ]
+      },
+      "resolver": "favour_sources"
+    },
+    "country": {
+      "kwargs": {
+        "sources": [
+          "forbes"
+        ]
+      },
+      "resolver": "favour_sources"
+    },
+    "founded": {
+      "kwargs": {},
+      "resolver": "earliest"
+    },
+    "founders": {
+      "kwargs": {
+        "separator": ","
+      },
+      "resolver": "union"
+    },
+    "industry": {
+      "kwargs": {},
+      "resolver": "most_complete"
+    },
+    "keypeople_name": {
+      "kwargs": {
+        "separator": ","
+      },
+      "resolver": "union"
+    },
+    "name": {
+      "kwargs": {},
+      "resolver": "most_complete"
+    },
+    "revenue": {
+      "kwargs": {},
+      "resolver": "median"
+    },
+    "website": {
+      "kwargs": {},
+      "resolver": "most_complete"
+    }
+  }
+}

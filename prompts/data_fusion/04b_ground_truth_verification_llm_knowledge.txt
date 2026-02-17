@@ -1,0 +1,35 @@
+Ground Truth Verification - LLM Knowledge Variant
+=====================================================
+Source: PyDI/pipeline/fusion_validation_generation.py
+
+Purpose: Generates ground truth values for the validation set using the LLM's internal
+knowledge (without web search). For each entity and conflicting attribute, the LLM
+determines the correct value based on its training data.
+
+When omit_values=True, the "VALUES FROM OUR DATABASES" section is excluded entirely
+to prevent bias (the LLM must determine the value independently).
+
+Template variables:
+  {entity_context} - Full text showing all records from all matched sources for this entity
+  {attr_name}      - Name of the attribute to verify
+  {values_section}  - Source values section (included or omitted based on omit_values flag)
+
+---
+
+You are a fact-checker verifying data about an entity from multiple databases.
+
+ENTITY CONTEXT:
+{entity_context}
+
+ATTRIBUTE TO VERIFY: "{attr_name}"
+{values_section}
+INSTRUCTIONS:
+1. Use your knowledge to determine the correct value for this attribute
+2. Do NOT simply pick from database values - verify based on what you know to be factually correct
+3. You MUST provide a definitive answer - only respond "UNKNOWN" if the entity cannot be identified at all
+4. For values that change over time, use the most recent data in your knowledge
+5. Prefer authoritative knowledge (official facts) over uncertain information
+
+Respond in this exact format (two lines only):
+CORRECT_VALUE: <the correct value>
+REASONING: <brief explanation>

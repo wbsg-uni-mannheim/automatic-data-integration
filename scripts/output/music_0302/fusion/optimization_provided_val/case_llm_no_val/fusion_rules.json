@@ -1,0 +1,40 @@
+{
+  "attribute_rules": {
+    "artist": {
+      "kwargs": {
+        "separator": ","
+      },
+      "resolver": "union"
+    },
+    "duration": {
+      "kwargs": {},
+      "resolver": "median"
+    },
+    "genre": {
+      "kwargs": {},
+      "resolver": "voting"
+    },
+    "label": {
+      "kwargs": {},
+      "resolver": "voting"
+    },
+    "name": {
+      "kwargs": {},
+      "resolver": "longest_string"
+    },
+    "release-country": {
+      "kwargs": {},
+      "resolver": "voting"
+    },
+    "release-date": {
+      "kwargs": {},
+      "resolver": "earliest"
+    },
+    "tracks": {
+      "kwargs": {
+        "separator": ","
+      },
+      "resolver": "union"
+    }
+  }
+}

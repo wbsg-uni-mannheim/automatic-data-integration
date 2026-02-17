@@ -1,0 +1,4 @@
+dataset,status,num_mappings,source_columns,mapped_columns
+dbpedia,matched,8,"['id', 'http://dbpedia.org/resource/%C3%80_la_Table_de_Spanghero', 'À la Table de Spanghero', '1970-01-01', 'France', 'Castelnaudary', 'Meat', 'Unnamed: 6', 'Unnamed: 7', 'Unnamed: 8']","['id', 'name', 'founded', 'country', 'city', 'industry', 'assets', 'revenue']"
+forbes,matched,7,"['id', 'http://www.forbes.com/companies/icbc/', 'ICBC', 'http://www.forbes.com/companies/icbc/.1', 'China', 'Major Banks', '3124900000000', '148700000000']","['website', 'name', 'country', 'industry', 'assets', 'revenue']"
+fullcontact,matched,5,"['id', 'fullcontact_1', 'BBMG', 'United States', 'Brooklyn', 'Raphael Bemporad', 'Unnamed: 5']","['id', 'name', 'country', 'city', 'founded']"

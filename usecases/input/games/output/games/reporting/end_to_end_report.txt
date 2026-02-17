@@ -1,0 +1,25 @@
+============================================================
+END-TO-END INTEGRATION METRICS
+============================================================
+
+Input Sources:                      3
+Total Input Records:                74,951
+Fused Output Records:               65,794
+Fusion Ratio:                       87.8%
+
+Row Gain Over Largest Source:       +19,214
+Row Gain Percentage:                +41.2%
+Merged Records:                     7,785
+
+Input Columns (Target Schema):      13
+Fused Output Columns:               14
+
+Average Input Data Density:         60.3%
+Fused Data Density:                 63.0%
+Data Density Change:                +2.6%
+
+Largest Source:                     dbpedia
+Largest Source Density:             92.3%
+Density Change vs Largest:          -29.3%
+
+============================================================

@@ -1,0 +1,7 @@
+source_dataset,source_column,target_dataset,target_column,score,notes
+musicbrainz,mbrainz_1,Music Release,id,0.95,llm_based_matching
+musicbrainz,Fermats Theorem / Sight Beyond,Music Release,name,0.95,llm_based_matching
+musicbrainz,John B,Music Release,artist,0.95,llm_based_matching
+musicbrainz,1996-01-01,Music Release,release-date,0.95,llm_based_matching
+musicbrainz,United Kingdom of Great Britain and Northern Ireland,Music Release,release-country,0.95,llm_based_matching
+musicbrainz,Unnamed: 6,Music Release,label,0.95,llm_based_matching

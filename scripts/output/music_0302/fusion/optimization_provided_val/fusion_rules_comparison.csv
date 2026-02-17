@@ -1,0 +1,49 @@
+case,optimization_mode,attribute,resolver,kwargs
+heuristic,none,artist,most_complete,{}
+heuristic,none,duration,median,{}
+heuristic,none,genre,most_complete,{}
+heuristic,none,label,most_complete,{}
+heuristic,none,name,longest_string,{}
+heuristic,none,release-country,most_complete,{}
+heuristic,none,release-date,prefer_higher_trust,"{""trust_key"": ""trust_score""}"
+heuristic,none,tracks,union,"{""separator"": "",""}"
+llm_no_val,none,artist,union,"{""separator"": "",""}"
+llm_no_val,none,duration,median,{}
+llm_no_val,none,genre,voting,{}
+llm_no_val,none,label,voting,{}
+llm_no_val,none,name,longest_string,{}
+llm_no_val,none,release-country,voting,{}
+llm_no_val,none,release-date,earliest,{}
+llm_no_val,none,tracks,union,"{""separator"": "",""}"
+llm_val,provided,artist,favour_sources,"{""sources"": [""musicbrainz""]}"
+llm_val,provided,duration,median,{}
+llm_val,provided,genre,favour_sources,"{""sources"": [""discogs""]}"
+llm_val,provided,label,favour_sources,"{""sources"": [""discogs""]}"
+llm_val,provided,name,favour_sources,"{""sources"": [""musicbrainz""]}"
+llm_val,provided,release-country,favour_sources,"{""sources"": [""musicbrainz""]}"
+llm_val,provided,release-date,favour_sources,"{""sources"": [""musicbrainz""]}"
+llm_val,provided,tracks,union,"{""separator"": "",""}"
+llm_val_stats,provided,artist,favour_sources,"{""sources"": [""musicbrainz""]}"
+llm_val_stats,provided,duration,median,{}
+llm_val_stats,provided,genre,favour_sources,"{""sources"": [""discogs""]}"
+llm_val_stats,provided,label,favour_sources,"{""sources"": [""discogs""]}"
+llm_val_stats,provided,name,favour_sources,"{""sources"": [""musicbrainz""]}"
+llm_val_stats,provided,release-country,random_value,{}
+llm_val_stats,provided,release-date,favour_sources,"{""sources"": [""musicbrainz""]}"
+llm_val_stats,provided,tracks,union,"{""separator"": "",""}"
+heuristic_stats,provided,artist,favour_sources,"{""sources"": [""musicbrainz""]}"
+heuristic_stats,provided,duration,median,{}
+heuristic_stats,provided,genre,favour_sources,"{""sources"": [""discogs""]}"
+heuristic_stats,provided,label,favour_sources,"{""sources"": [""discogs""]}"
+heuristic_stats,provided,name,favour_sources,"{""sources"": [""musicbrainz""]}"
+heuristic_stats,provided,release-country,most_complete,{}
+heuristic_stats,provided,release-date,favour_sources,"{""sources"": [""musicbrainz""]}"
+heuristic_stats,provided,tracks,union,"{""separator"": "",""}"
+iterative,provided,artist,favour_sources,"{""sources"": [""musicbrainz""]}"
+iterative,provided,duration,median,{}
+iterative,provided,genre,favour_sources,"{""sources"": [""discogs""]}"
+iterative,provided,label,favour_sources,"{""sources"": [""discogs""]}"
+iterative,provided,name,favour_sources,"{""sources"": [""musicbrainz""]}"
+iterative,provided,release-country,favour_sources,"{""sources"": [""musicbrainz""]}"
+iterative,provided,release-date,favour_sources,"{""sources"": [""musicbrainz""]}"
+iterative,provided,tracks,union,"{""separator"": "",""}"

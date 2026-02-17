@@ -1,0 +1,120 @@
+matcher,threshold,f1,precision,recall,true_positives,false_positives,false_negatives,classifier,use_probabilities,n_features,hyperparams,string_similarity_function,string_tokenization,n_comparators
+MLBasedMatcher,0.3,0.9543147208121826,0.9690721649484536,0.94,94,3,6,rf,True,38.0,"{'bootstrap': True, 'ccp_alpha': 0.0, 'class_weight': 'balanced', 'criterion': 'gini', 'max_features': 'sqrt', 'min_impurity_decrease': 0.0, 'min_samples_leaf': 2, 'min_samples_split': 2, 'min_weight_fraction_leaf': 0.0, 'n_estimators': 200, 'oob_score': False, 'warm_start': False}",,,
+MLBasedMatcher,0.4,0.9484536082474226,0.9787234042553191,0.92,92,2,8,rf,True,38.0,"{'bootstrap': True, 'ccp_alpha': 0.0, 'class_weight': 'balanced', 'criterion': 'gini', 'max_features': 'sqrt', 'min_impurity_decrease': 0.0, 'min_samples_leaf': 2, 'min_samples_split': 2, 'min_weight_fraction_leaf': 0.0, 'n_estimators': 200, 'oob_score': False, 'warm_start': False}",,,
+MLBasedMatcher,0.5,0.9424083769633509,0.989010989010989,0.9,90,1,10,rf,True,38.0,"{'bootstrap': True, 'ccp_alpha': 0.0, 'class_weight': 'balanced', 'criterion': 'gini', 'max_features': 'sqrt', 'min_impurity_decrease': 0.0, 'min_samples_leaf': 2, 'min_samples_split': 2, 'min_weight_fraction_leaf': 0.0, 'n_estimators': 200, 'oob_score': False, 'warm_start': False}",,,
+MLBasedMatcher,0.3,0.9424083769633509,0.989010989010989,0.9,90,1,10,xgboost,True,38.0,"{'objective': 'binary:logistic', 'colsample_bytree': 0.8, 'enable_categorical': False, 'eval_metric': 'logloss', 'learning_rate': 0.05, 'max_depth': 6, 'missing': nan, 'n_estimators': 300, 'scale_pos_weight': 1.8823529411764706, 'subsample': 0.8, 'use_label_encoder': False}",,,
+MLBasedMatcher,0.4,0.9368421052631579,0.9888888888888889,0.89,89,1,11,logreg,True,38.0,"{'C': 10.0, 'class_weight': 'balanced', 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'max_iter': 1000, 'multi_class': 'deprecated', 'penalty': 'l2', 'solver': 'lbfgs', 'tol': 0.0001, 'warm_start': False}",,,
+MLBasedMatcher,0.4,0.9368421052631579,0.9888888888888889,0.89,89,1,11,xgboost,True,38.0,"{'objective': 'binary:logistic', 'colsample_bytree': 0.8, 'enable_categorical': False, 'eval_metric': 'logloss', 'learning_rate': 0.05, 'max_depth': 6, 'missing': nan, 'n_estimators': 300, 'scale_pos_weight': 1.8823529411764706, 'subsample': 0.8, 'use_label_encoder': False}",,,
+MLBasedMatcher,0.3,0.9361702127659575,1.0,0.88,88,0,12,gbdt,True,38.0,"{'ccp_alpha': 0.0, 'criterion': 'friedman_mse', 'learning_rate': 0.2, 'loss': 'log_loss', 'max_depth': 5, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 2, 'min_weight_fraction_leaf': 0.0, 'n_estimators': 200, 'subsample': 0.8, 'tol': 0.0001, 'validation_fraction': 0.1, 'warm_start': False}",,,
+MLBasedMatcher,0.4,0.9361702127659575,1.0,0.88,88,0,12,gbdt,True,38.0,"{'ccp_alpha': 0.0, 'criterion': 'friedman_mse', 'learning_rate': 0.2, 'loss': 'log_loss', 'max_depth': 5, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 2, 'min_weight_fraction_leaf': 0.0, 'n_estimators': 200, 'subsample': 0.8, 'tol': 0.0001, 'validation_fraction': 0.1, 'warm_start': False}",,,
+MLBasedMatcher,0.5,0.9361702127659575,1.0,0.88,88,0,12,gbdt,True,38.0,"{'ccp_alpha': 0.0, 'criterion': 'friedman_mse', 'learning_rate': 0.2, 'loss': 'log_loss', 'max_depth': 5, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 2, 'min_weight_fraction_leaf': 0.0, 'n_estimators': 200, 'subsample': 0.8, 'tol': 0.0001, 'validation_fraction': 0.1, 'warm_start': False}",,,
+MLBasedMatcher,0.6,0.9361702127659575,1.0,0.88,88,0,12,xgboost,True,38.0,"{'objective': 'binary:logistic', 'colsample_bytree': 0.8, 'enable_categorical': False, 'eval_metric': 'logloss', 'learning_rate': 0.05, 'max_depth': 6, 'missing': nan, 'n_estimators': 300, 'scale_pos_weight': 1.8823529411764706, 'subsample': 0.8, 'use_label_encoder': False}",,,
+MLBasedMatcher,0.3,0.9319371727748691,0.978021978021978,0.89,89,2,11,logreg,True,38.0,"{'C': 10.0, 'class_weight': 'balanced', 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'max_iter': 1000, 'multi_class': 'deprecated', 'penalty': 'l2', 'solver': 'lbfgs', 'tol': 0.0001, 'warm_start': False}",,,
+MLBasedMatcher,0.5,0.9312169312169312,0.9887640449438202,0.88,88,1,12,xgboost,True,38.0,"{'objective': 'binary:logistic', 'colsample_bytree': 0.8, 'enable_categorical': False, 'eval_metric': 'logloss', 'learning_rate': 0.05, 'max_depth': 6, 'missing': nan, 'n_estimators': 300, 'scale_pos_weight': 1.8823529411764706, 'subsample': 0.8, 'use_label_encoder': False}",,,
+MLBasedMatcher,0.6,0.9304812834224598,1.0,0.87,87,0,13,rf,True,38.0,"{'bootstrap': True, 'ccp_alpha': 0.0, 'class_weight': 'balanced', 'criterion': 'gini', 'max_features': 'sqrt', 'min_impurity_decrease': 0.0, 'min_samples_leaf': 2, 'min_samples_split': 2, 'min_weight_fraction_leaf': 0.0, 'n_estimators': 200, 'oob_score': False, 'warm_start': False}",,,
+MLBasedMatcher,0.6,0.9304812834224598,1.0,0.87,87,0,13,gbdt,True,38.0,"{'ccp_alpha': 0.0, 'criterion': 'friedman_mse', 'learning_rate': 0.2, 'loss': 'log_loss', 'max_depth': 5, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 2, 'min_weight_fraction_leaf': 0.0, 'n_estimators': 200, 'subsample': 0.8, 'tol': 0.0001, 'validation_fraction': 0.1, 'warm_start': False}",,,
+RuleBasedMatcher,0.4,0.9270833333333334,0.967391304347826,0.89,89,3,11,,,,,overlap,word,5.0
+MLBasedMatcher,0.3,0.9270833333333334,0.967391304347826,0.89,89,3,11,hist_gbdt,True,38.0,"{'categorical_features': 'from_dtype', 'early_stopping': 'auto', 'l2_regularization': 0.0, 'learning_rate': 0.05, 'loss': 'log_loss', 'max_bins': 255, 'max_depth': 20, 'max_features': 1.0, 'max_iter': 100, 'max_leaf_nodes': 31, 'min_samples_leaf': 20, 'n_iter_no_change': 10, 'scoring': 'loss', 'tol': 1e-07, 'validation_fraction': 0.1, 'warm_start': False}",,,
+MLBasedMatcher,0.4,0.9270833333333334,0.967391304347826,0.89,89,3,11,hist_gbdt,True,38.0,"{'categorical_features': 'from_dtype', 'early_stopping': 'auto', 'l2_regularization': 0.0, 'learning_rate': 0.05, 'loss': 'log_loss', 'max_bins': 255, 'max_depth': 20, 'max_features': 1.0, 'max_iter': 100, 'max_leaf_nodes': 31, 'min_samples_leaf': 20, 'n_iter_no_change': 10, 'scoring': 'loss', 'tol': 1e-07, 'validation_fraction': 0.1, 'warm_start': False}",,,
+MLBasedMatcher,0.5,0.9270833333333334,0.967391304347826,0.89,89,3,11,hist_gbdt,True,38.0,"{'categorical_features': 'from_dtype', 'early_stopping': 'auto', 'l2_regularization': 0.0, 'learning_rate': 0.05, 'loss': 'log_loss', 'max_bins': 255, 'max_depth': 20, 'max_features': 1.0, 'max_iter': 100, 'max_leaf_nodes': 31, 'min_samples_leaf': 20, 'n_iter_no_change': 10, 'scoring': 'loss', 'tol': 1e-07, 'validation_fraction': 0.1, 'warm_start': False}",,,
+MLBasedMatcher,0.7,0.924731182795699,1.0,0.86,86,0,14,gbdt,True,38.0,"{'ccp_alpha': 0.0, 'criterion': 'friedman_mse', 'learning_rate': 0.2, 'loss': 'log_loss', 'max_depth': 5, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 2, 'min_weight_fraction_leaf': 0.0, 'n_estimators': 200, 'subsample': 0.8, 'tol': 0.0001, 'validation_fraction': 0.1, 'warm_start': False}",,,
+MLBasedMatcher,0.8,0.924731182795699,1.0,0.86,86,0,14,gbdt,True,38.0,"{'ccp_alpha': 0.0, 'criterion': 'friedman_mse', 'learning_rate': 0.2, 'loss': 'log_loss', 'max_depth': 5, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 2, 'min_weight_fraction_leaf': 0.0, 'n_estimators': 200, 'subsample': 0.8, 'tol': 0.0001, 'validation_fraction': 0.1, 'warm_start': False}",,,
+MLBasedMatcher,0.9,0.924731182795699,1.0,0.86,86,0,14,gbdt,True,38.0,"{'ccp_alpha': 0.0, 'criterion': 'friedman_mse', 'learning_rate': 0.2, 'loss': 'log_loss', 'max_depth': 5, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 2, 'min_weight_fraction_leaf': 0.0, 'n_estimators': 200, 'subsample': 0.8, 'tol': 0.0001, 'validation_fraction': 0.1, 'warm_start': False}",,,
+MLBasedMatcher,0.7,0.924731182795699,1.0,0.86,86,0,14,xgboost,True,38.0,"{'objective': 'binary:logistic', 'colsample_bytree': 0.8, 'enable_categorical': False, 'eval_metric': 'logloss', 'learning_rate': 0.05, 'max_depth': 6, 'missing': nan, 'n_estimators': 300, 'scale_pos_weight': 1.8823529411764706, 'subsample': 0.8, 'use_label_encoder': False}",,,
+MLBasedMatcher,0.5,0.9197860962566845,0.9885057471264368,0.86,86,1,14,logreg,True,38.0,"{'C': 10.0, 'class_weight': 'balanced', 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'max_iter': 1000, 'multi_class': 'deprecated', 'penalty': 'l2', 'solver': 'lbfgs', 'tol': 0.0001, 'warm_start': False}",,,
+MLBasedMatcher,0.7,0.9130434782608696,1.0,0.84,84,0,16,hist_gbdt,True,38.0,"{'categorical_features': 'from_dtype', 'early_stopping': 'auto', 'l2_regularization': 0.0, 'learning_rate': 0.05, 'loss': 'log_loss', 'max_bins': 255, 'max_depth': 20, 'max_features': 1.0, 'max_iter': 100, 'max_leaf_nodes': 31, 'min_samples_leaf': 20, 'n_iter_no_change': 10, 'scoring': 'loss', 'tol': 1e-07, 'validation_fraction': 0.1, 'warm_start': False}",,,
+MLBasedMatcher,0.8,0.9130434782608696,1.0,0.84,84,0,16,hist_gbdt,True,38.0,"{'categorical_features': 'from_dtype', 'early_stopping': 'auto', 'l2_regularization': 0.0, 'learning_rate': 0.05, 'loss': 'log_loss', 'max_bins': 255, 'max_depth': 20, 'max_features': 1.0, 'max_iter': 100, 'max_leaf_nodes': 31, 'min_samples_leaf': 20, 'n_iter_no_change': 10, 'scoring': 'loss', 'tol': 1e-07, 'validation_fraction': 0.1, 'warm_start': False}",,,
+RuleBasedMatcher,0.3,0.9128205128205129,0.9368421052631579,0.89,89,6,11,,,,,jaccard,word,5.0
+MLBasedMatcher,0.6,0.9081081081081082,0.9882352941176471,0.84,84,1,16,logreg,True,38.0,"{'C': 10.0, 'class_weight': 'balanced', 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'max_iter': 1000, 'multi_class': 'deprecated', 'penalty': 'l2', 'solver': 'lbfgs', 'tol': 0.0001, 'warm_start': False}",,,
+MLBasedMatcher,0.7,0.9071038251366119,1.0,0.83,83,0,17,rf,True,38.0,"{'bootstrap': True, 'ccp_alpha': 0.0, 'class_weight': 'balanced', 'criterion': 'gini', 'max_features': 'sqrt', 'min_impurity_decrease': 0.0, 'min_samples_leaf': 2, 'min_samples_split': 2, 'min_weight_fraction_leaf': 0.0, 'n_estimators': 200, 'oob_score': False, 'warm_start': False}",,,
+MLBasedMatcher,0.8,0.9071038251366119,1.0,0.83,83,0,17,xgboost,True,38.0,"{'objective': 'binary:logistic', 'colsample_bytree': 0.8, 'enable_categorical': False, 'eval_metric': 'logloss', 'learning_rate': 0.05, 'max_depth': 6, 'missing': nan, 'n_estimators': 300, 'scale_pos_weight': 1.8823529411764706, 'subsample': 0.8, 'use_label_encoder': False}",,,
+MLBasedMatcher,0.6,0.9042553191489362,0.9659090909090909,0.85,85,3,15,hist_gbdt,True,38.0,"{'categorical_features': 'from_dtype', 'early_stopping': 'auto', 'l2_regularization': 0.0, 'learning_rate': 0.05, 'loss': 'log_loss', 'max_bins': 255, 'max_depth': 20, 'max_features': 1.0, 'max_iter': 100, 'max_leaf_nodes': 31, 'min_samples_leaf': 20, 'n_iter_no_change': 10, 'scoring': 'loss', 'tol': 1e-07, 'validation_fraction': 0.1, 'warm_start': False}",,,
+MLBasedMatcher,0.9,0.8950276243093923,1.0,0.81,81,0,19,hist_gbdt,True,38.0,"{'categorical_features': 'from_dtype', 'early_stopping': 'auto', 'l2_regularization': 0.0, 'learning_rate': 0.05, 'loss': 'log_loss', 'max_bins': 255, 'max_depth': 20, 'max_features': 1.0, 'max_iter': 100, 'max_leaf_nodes': 31, 'min_samples_leaf': 20, 'n_iter_no_change': 10, 'scoring': 'loss', 'tol': 1e-07, 'validation_fraction': 0.1, 'warm_start': False}",,,
+MLBasedMatcher,0.7,0.8901098901098902,0.9878048780487805,0.81,81,1,19,logreg,True,38.0,"{'C': 10.0, 'class_weight': 'balanced', 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'max_iter': 1000, 'multi_class': 'deprecated', 'penalty': 'l2', 'solver': 'lbfgs', 'tol': 0.0001, 'warm_start': False}",,,
+MLBasedMatcher,0.9,0.888888888888889,1.0,0.8,80,0,20,xgboost,True,38.0,"{'objective': 'binary:logistic', 'colsample_bytree': 0.8, 'enable_categorical': False, 'eval_metric': 'logloss', 'learning_rate': 0.05, 'max_depth': 6, 'missing': nan, 'n_estimators': 300, 'scale_pos_weight': 1.8823529411764706, 'subsample': 0.8, 'use_label_encoder': False}",,,
+RuleBasedMatcher,0.4,0.8823529411764707,0.8653846153846154,0.9,90,14,10,,,,,overlap,char,5.0
+MLBasedMatcher,0.8,0.8764044943820225,1.0,0.78,78,0,22,rf,True,38.0,"{'bootstrap': True, 'ccp_alpha': 0.0, 'class_weight': 'balanced', 'criterion': 'gini', 'max_features': 'sqrt', 'min_impurity_decrease': 0.0, 'min_samples_leaf': 2, 'min_samples_split': 2, 'min_weight_fraction_leaf': 0.0, 'n_estimators': 200, 'oob_score': False, 'warm_start': False}",,,
+MLBasedMatcher,0.8,0.8715083798882681,0.9873417721518988,0.78,78,1,22,logreg,True,38.0,"{'C': 10.0, 'class_weight': 'balanced', 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'max_iter': 1000, 'multi_class': 'deprecated', 'penalty': 'l2', 'solver': 'lbfgs', 'tol': 0.0001, 'warm_start': False}",,,
+RuleBasedMatcher,0.3,0.8679245283018867,0.8214285714285714,0.92,92,20,8,,,,,cosine,word,5.0
+RuleBasedMatcher,0.3,0.862559241706161,0.8198198198198198,0.91,91,20,9,,,,,sorensen_dice,word,5.0
+MLBasedMatcher,0.9,0.8587570621468925,0.987012987012987,0.76,76,1,24,logreg,True,38.0,"{'C': 10.0, 'class_weight': 'balanced', 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'max_iter': 1000, 'multi_class': 'deprecated', 'penalty': 'l2', 'solver': 'lbfgs', 'tol': 0.0001, 'warm_start': False}",,,
+RuleBasedMatcher,0.3,0.8421052631578948,0.8073394495412844,0.88,88,21,12,,,,,levenshtein,,5.0
+RuleBasedMatcher,0.3,0.8421052631578948,0.8073394495412844,0.88,88,21,12,,,,,damerau_levenshtein,,5.0
+MLBasedMatcher,0.9,0.8372093023255813,1.0,0.72,72,0,28,rf,True,38.0,"{'bootstrap': True, 'ccp_alpha': 0.0, 'class_weight': 'balanced', 'criterion': 'gini', 'max_features': 'sqrt', 'min_impurity_decrease': 0.0, 'min_samples_leaf': 2, 'min_samples_split': 2, 'min_weight_fraction_leaf': 0.0, 'n_estimators': 200, 'oob_score': False, 'warm_start': False}",,,
+RuleBasedMatcher,0.3,0.8036529680365297,0.7394957983193278,0.88,88,31,12,,,,,jaccard,char,5.0
+RuleBasedMatcher,0.3,0.8016877637130803,0.6934306569343066,0.95,95,42,5,,,,,overlap,word,5.0
+RuleBasedMatcher,0.4,0.7682926829268293,0.984375,0.63,63,1,37,,,,,cosine,word,5.0
+RuleBasedMatcher,0.4,0.7619047619047621,0.9411764705882353,0.64,64,4,36,,,,,sorensen_dice,char,5.0
+RuleBasedMatcher,0.4,0.7619047619047621,0.9411764705882353,0.64,64,4,36,,,,,cosine,char,5.0
+RuleBasedMatcher,0.4,0.7607361963190183,0.9841269841269841,0.62,62,1,38,,,,,sorensen_dice,word,5.0
+RuleBasedMatcher,0.4,0.7530864197530864,0.9838709677419355,0.61,61,1,39,,,,,jaccard,char,5.0
+RuleBasedMatcher,0.4,0.7485380116959065,0.9014084507042254,0.64,64,7,36,,,,,jaro_winkler,,5.0
+RuleBasedMatcher,0.4,0.7453416149068324,0.9836065573770492,0.6,60,1,40,,,,,levenshtein,,5.0
+RuleBasedMatcher,0.4,0.7453416149068324,0.9836065573770492,0.6,60,1,40,,,,,damerau_levenshtein,,5.0
+RuleBasedMatcher,0.4,0.7374999999999999,0.9833333333333333,0.59,59,1,41,,,,,jaccard,word,5.0
+RuleBasedMatcher,0.3,0.7238805970149254,0.5773809523809523,0.97,97,71,3,,,,,cosine,char,5.0
+RuleBasedMatcher,0.3,0.714828897338403,0.5766871165644172,0.94,94,69,6,,,,,sorensen_dice,char,5.0
+RuleBasedMatcher,0.3,0.6577181208053691,0.494949494949495,0.98,98,100,2,,,,,jaro_winkler,,5.0
+RuleBasedMatcher,0.9,0.6298701298701298,0.46634615384615385,0.97,97,111,3,,,,,monge_elkan,word,5.0
+RuleBasedMatcher,0.3,0.6130030959752322,0.4439461883408072,0.99,99,124,1,,,,,overlap,char,5.0
+RuleBasedMatcher,0.8,0.6030769230769231,0.43555555555555553,0.98,98,127,2,,,,,monge_elkan,word,5.0
+RuleBasedMatcher,0.7,0.5755813953488371,0.4057377049180328,0.99,99,145,1,,,,,monge_elkan,word,5.0
+RuleBasedMatcher,0.6,0.5617977528089888,0.390625,1.0,100,156,0,,,,,monge_elkan,word,5.0
+RuleBasedMatcher,0.5,0.5405405405405406,0.37037037037037035,1.0,100,170,0,,,,,monge_elkan,word,5.0
+RuleBasedMatcher,0.4,0.5277044854881267,0.35842293906810035,1.0,100,179,0,,,,,monge_elkan,word,5.0
+RuleBasedMatcher,0.3,0.5181347150259067,0.34965034965034963,1.0,100,186,0,,,,,monge_elkan,word,5.0
+RuleBasedMatcher,0.5,0.47407407407407415,0.9142857142857143,0.32,32,3,68,,,,,overlap,char,5.0
+RuleBasedMatcher,0.5,0.4661654135338345,0.9393939393939394,0.31,31,2,69,,,,,jaro_winkler,,5.0
+RuleBasedMatcher,0.5,0.4461538461538462,0.9666666666666667,0.29,29,1,71,,,,,overlap,word,5.0
+RuleBasedMatcher,0.5,0.40944881889763773,0.9629629629629629,0.26,26,1,74,,,,,sorensen_dice,char,5.0
+RuleBasedMatcher,0.5,0.40944881889763773,0.9629629629629629,0.26,26,1,74,,,,,cosine,char,5.0
+RuleBasedMatcher,0.5,0.3709677419354839,0.9583333333333334,0.23,23,1,77,,,,,sorensen_dice,word,5.0
+RuleBasedMatcher,0.5,0.3709677419354839,0.9583333333333334,0.23,23,1,77,,,,,cosine,word,5.0
+RuleBasedMatcher,0.5,0.33333333333333337,1.0,0.2,20,0,80,,,,,levenshtein,,5.0
+RuleBasedMatcher,0.5,0.33333333333333337,1.0,0.2,20,0,80,,,,,jaccard,char,5.0
+RuleBasedMatcher,0.5,0.33333333333333337,1.0,0.2,20,0,80,,,,,damerau_levenshtein,,5.0
+RuleBasedMatcher,0.5,0.3166666666666667,0.95,0.19,19,1,81,,,,,jaccard,word,5.0
+RuleBasedMatcher,0.6,0.24347826086956526,0.9333333333333333,0.14,14,1,86,,,,,overlap,char,5.0
+RuleBasedMatcher,0.6,0.22807017543859648,0.9285714285714286,0.13,13,1,87,,,,,overlap,word,5.0
+RuleBasedMatcher,0.6,0.19819819819819817,1.0,0.11,11,0,89,,,,,jaro_winkler,,5.0
+RuleBasedMatcher,0.6,0.16513761467889906,1.0,0.09,9,0,91,,,,,sorensen_dice,word,5.0
+RuleBasedMatcher,0.6,0.16513761467889906,1.0,0.09,9,0,91,,,,,sorensen_dice,char,5.0
+RuleBasedMatcher,0.6,0.16513761467889906,1.0,0.09,9,0,91,,,,,cosine,word,5.0
+RuleBasedMatcher,0.6,0.16513761467889906,1.0,0.09,9,0,91,,,,,cosine,char,5.0
+RuleBasedMatcher,0.6,0.14814814814814814,1.0,0.08,8,0,92,,,,,levenshtein,,5.0
+RuleBasedMatcher,0.6,0.14814814814814814,1.0,0.08,8,0,92,,,,,jaccard,word,5.0
+RuleBasedMatcher,0.6,0.14814814814814814,1.0,0.08,8,0,92,,,,,jaccard,char,5.0
+RuleBasedMatcher,0.6,0.14814814814814814,1.0,0.08,8,0,92,,,,,damerau_levenshtein,,5.0
+RuleBasedMatcher,0.7,0.11320754716981131,1.0,0.06,6,0,94,,,,,overlap,word,5.0
+RuleBasedMatcher,0.7,0.11320754716981131,1.0,0.06,6,0,94,,,,,overlap,char,5.0
+RuleBasedMatcher,0.7,0.09523809523809523,1.0,0.05,5,0,95,,,,,jaro_winkler,,5.0
+RuleBasedMatcher,0.7,0.058252427184466014,1.0,0.03,3,0,97,,,,,cosine,char,5.0
+RuleBasedMatcher,0.7,0.0392156862745098,1.0,0.02,2,0,98,,,,,levenshtein,,5.0
+RuleBasedMatcher,0.7,0.0392156862745098,1.0,0.02,2,0,98,,,,,jaccard,char,5.0
+RuleBasedMatcher,0.7,0.0392156862745098,1.0,0.02,2,0,98,,,,,sorensen_dice,word,5.0
+RuleBasedMatcher,0.7,0.0392156862745098,1.0,0.02,2,0,98,,,,,sorensen_dice,char,5.0
+RuleBasedMatcher,0.7,0.0392156862745098,1.0,0.02,2,0,98,,,,,cosine,word,5.0
+RuleBasedMatcher,0.7,0.0392156862745098,1.0,0.02,2,0,98,,,,,damerau_levenshtein,,5.0
+RuleBasedMatcher,0.7,0.019801980198019802,1.0,0.01,1,0,99,,,,,jaccard,word,5.0
+RuleBasedMatcher,0.8,0.019801980198019802,1.0,0.01,1,0,99,,,,,overlap,word,5.0
+RuleBasedMatcher,0.8,0.019801980198019802,1.0,0.01,1,0,99,,,,,overlap,char,5.0
+RuleBasedMatcher,0.8,0.0,0.0,0.0,0,0,100,,,,,jaro_winkler,,5.0
+RuleBasedMatcher,0.9,0.0,0.0,0.0,0,0,100,,,,,jaro_winkler,,5.0
+RuleBasedMatcher,0.8,0.0,0.0,0.0,0,0,100,,,,,levenshtein,,5.0
+RuleBasedMatcher,0.9,0.0,0.0,0.0,0,0,100,,,,,levenshtein,,5.0
+RuleBasedMatcher,0.8,0.0,0.0,0.0,0,0,100,,,,,jaccard,word,5.0
+RuleBasedMatcher,0.9,0.0,0.0,0.0,0,0,100,,,,,jaccard,word,5.0
+RuleBasedMatcher,0.8,0.0,0.0,0.0,0,0,100,,,,,jaccard,char,5.0
+RuleBasedMatcher,0.9,0.0,0.0,0.0,0,0,100,,,,,jaccard,char,5.0
+RuleBasedMatcher,0.8,0.0,0.0,0.0,0,0,100,,,,,sorensen_dice,word,5.0
+RuleBasedMatcher,0.9,0.0,0.0,0.0,0,0,100,,,,,sorensen_dice,word,5.0
+RuleBasedMatcher,0.8,0.0,0.0,0.0,0,0,100,,,,,sorensen_dice,char,5.0
+RuleBasedMatcher,0.9,0.0,0.0,0.0,0,0,100,,,,,sorensen_dice,char,5.0
+RuleBasedMatcher,0.8,0.0,0.0,0.0,0,0,100,,,,,cosine,word,5.0
+RuleBasedMatcher,0.9,0.0,0.0,0.0,0,0,100,,,,,cosine,word,5.0
+RuleBasedMatcher,0.8,0.0,0.0,0.0,0,0,100,,,,,cosine,char,5.0
+RuleBasedMatcher,0.9,0.0,0.0,0.0,0,0,100,,,,,cosine,char,5.0
+RuleBasedMatcher,0.9,0.0,0.0,0.0,0,0,100,,,,,overlap,word,5.0
+RuleBasedMatcher,0.9,0.0,0.0,0.0,0,0,100,,,,,overlap,char,5.0
+RuleBasedMatcher,0.8,0.0,0.0,0.0,0,0,100,,,,,damerau_levenshtein,,5.0
+RuleBasedMatcher,0.9,0.0,0.0,0.0,0,0,100,,,,,damerau_levenshtein,,5.0

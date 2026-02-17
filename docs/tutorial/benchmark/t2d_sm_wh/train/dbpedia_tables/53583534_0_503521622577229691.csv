@@ -1,0 +1,13 @@
+rdf-schema#label,startDate,location,floorCount,height,highestPrev,elevatorCount
+Abraj Al Bait,2002,"Saudi Arabia, Mecca",120,"494.0, 530.0, 601.0",Kingdom Centre,96
+China Zun,2012-05-15,"Beijing, Chaoyang District, Beijing, China, Beijing CBD",109,,,
+Djamaa el Djazaïr,2012-08-16,"Algeria, Algiers",37,"70.0, 265.0",,
+Henninger Turm,19592014,"Frankfurt, Germany, Hesse",33,"107.0, 110.0",,2
+International Commerce Centre,2002-07-24,"Hong Kong, Austin Road, Tsim Sha Tsui, West Kowloon",118,484.0,,83
+Lakhta Center,,"Lakhta, Saint Petersburg","3, 87",462.0,Federation Tower,
+Lotte World Tower,2010-01-22,"Sincheon-dong, Seoul, Songpa District, South Korea, Seoul",123,,One World Trade Center,
+One Liberty Plaza,1969,"United States, Broadway (Manhattan), New York (state), New York City",54,226.466,,39
+One World Trade Center,2006-04-27,"Manhattan, Fulton Street (Manhattan), New York City","28, 94","386.486, 416.966, 541.325, 546.202",Willis Tower,73
+Tianjin CTF Finance Centre,2013-01-03,"Binhai, Tianjin, China",97,"439.217, 530.047, 530.352",,81
+Tokyo Skytree,2008-07-14,"Tokyo, Sumida, Tokyo","3, 32",,,13
+World Trade Center (1973–2001),"2, 3, 4, 5, 6, --08-06, --10-02, ","Lower Manhattan, New York City","1, 2, 3, 4, 5, 6, 7","185.928, 411.0",Empire State Building,"1, 2"

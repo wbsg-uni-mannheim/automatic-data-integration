@@ -1,0 +1,9 @@
+case,optimization_mode,attribute,resolver,kwargs
+llm_no_val,none,artist,union,"{""separator"": "",""}"
+llm_no_val,none,duration,median,{}
+llm_no_val,none,genre,union,"{""separator"": "",""}"
+llm_no_val,none,label,union,"{""separator"": "",""}"
+llm_no_val,none,name,longest_string,{}
+llm_no_val,none,release-country,voting,{}
+llm_no_val,none,release-date,earliest,{}
+llm_no_val,none,tracks,union,"{""separator"": "",""}"

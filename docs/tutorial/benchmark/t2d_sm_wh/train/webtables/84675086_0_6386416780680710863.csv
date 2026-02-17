@@ -1,0 +1,273 @@
+Common Name,IUCN,4,Species,Genus
+Mountain Quail,LC,,pictus,Oreortyx
+California Quail,LC,,californica,Callipepla
+Gambel's Quail,LC,,gambelii,Callipepla
+Northern Bobwhite,NT,,virginianus,Colinus
+Wild Turkey,LC,,gallopavo,Meleagris
+Ruffed Grouse,LC,,umbellus,Bonasa
+Common Pheasant,LC,,colchicus,Phasianus
+Mallard,LC,,platyrhynchos,Anas
+Ruddy Duck,LC,,jamaicensis,Oxyura
+Wedge-tailed Shearwater,LC,Hawaii,pacificus,Puffinus
+Townsend's Shearwater,CR,Hawaii,auricularis,Puffinus
+Band-rumped Storm Petrel,LC,Hawaii,castro,Oceanodrom
+Pied-billed Grebe,LC,,podiceps,Podilymbus
+Green Heron,LC,,virescens,Butorides
+Cattle Egret,LC,,ibis,Bubulcus
+Turkey Vulture,LC,,aura,Cathartes
+American Kestrel,LC,,sparverius,Falco
+Merlin,LC,,columbarius,Falco
+Peregrine Falcon,LC,,peregrinus,Falco
+Sharp-shinned Hawk,LC,,striatus,Accipiter
+Cooper's Hawk,LC,,cooperii,Accipiter
+Northern Goshawk,LC,,gentilis,Accipiter
+Red-shouldered Hawk,LC,,lineatus,Buteo
+Broad-winged Hawk,LC,,platypterus,Buteo
+Red-tailed Hawk,LC,,jamaicensis,Buteo
+Roughleg,LC,,lagopus,Buteo
+Black Rail,NT,,jamaicensis,Laterallus
+Virginia Rail,LC,,limicola,Rallus
+Sora,LC,,carolina,Porzana
+American Coot,LC,,americana,Fulica
+Killdeer,LC,,vociferus,Charadrius
+American Woodcock,LC,,minor,Scolopax
+Wilson's Snipe,LC,,delicata,Gallinago
+Ring-billed Gull,LC,,delawarensis,Larus
+Laughing Gull,LC,,atricilla,Larus
+Cassin's Auklet,LC,,aleuticus,Ptychoramphus
+Common Pigeon,LC,,livia,Columba
+Plain Pigeon,NT,P. R.,inornata,Patagioenas
+Spotted Dove,LC,Hawaii,chinensis,Streptopelia
+Barred Dove,LC,Hawaii,maugeus,Geopelia
+Mourning Dove,LC,,macroura,Zenaida
+White-winged Dove,LC,,asiatica,Zenaida
+Inca Dove,LC,,inca,Scardafella
+Common Ground Dove,LC,,passerina,Columbina
+Ruddy Quail-Dove,LC,,montana,Geotrygon
+Yellow-billed Cuckoo,LC,,americanus,Coccyzus
+Black-billed Cuckoo,LC,,erythrophthalmus,Coccyzus
+Barn Owl,LC,,alba,Tyto
+Eastern Screech Owl,LC,,asio,Megascops
+Western Screech Owl,LC,,kennicottii,Megascops
+Great Horned Owl,LC,,virginianus,Bubo
+Barred Owl,LC,,varia,Strix
+Northern Pygmy Owl,LC,,califoricum,Glaucidium
+Northern Saw-whet Owl,LC,,acadicus,Aegolius
+Long-eared Owl,LC,,otus,Asio
+Short-Eared Owl,LC,,flammeus,Asio
+Lesser Nighthawk,LC,,acutipennis,Chordeiles
+Common Nighthawk,LC,,minor,Chordeiles
+Common Poorwill,LC,,nuttallii,Phalaenoptilus
+Chuck-will's-widow,LC,,carolinensis,Caprimulgus
+Whip-poor-will,LC,,vociferus,Caprimulgus
+Chimney Swift,LC,,pelagica,Chaetura
+Puerto Rican Emerald,LC,P. R.,maugaeus,Chlorostilbon
+Buff-bellied Hummingbird,LC,,yucatanensis,Amazilia
+Ruby-throated Hummingbird,LC,,colubris,Archilochus
+Black-chinned Hummingbird,LC,,alexandri,Archilochus
+Anna's Hummingbird,LC,,anna,Calypte
+Costa's Hummingbird,LC,,costae,Calypte
+Broad-tailed Hummingbird,LC,,platycercus,Selasphorus
+Rufous Hummingbird,LC,,rufus,Selasphorus
+Allen's Hummingbird,LC,,sasin,Selasphorus
+Calliope Hummingbird,LC,,calliope,Stellula
+Belted Kingfisher,LC,,alcyon,Megaceryle
+Red-headed Woodpecker,NT,,erythrocephalus,Melanerpes
+Acorn Woodpecker,LC,,formicivorus,Melanerpes
+Gila Woodpecker,LC,,uropygialis,Melanerpes
+Red-bellied Woodpecker,LC,,carolinus,Melanerpes
+Williamson's Sapsucker,LC,,thyroideus,Sphyrapicus
+Yellow-bellied Sapsucker,LC,,varius,Sphyrapicus
+Red-naped Sapsucker,LC,,nuchalis,Sphyrapicus
+Ladder-backed Woodpecker,LC,,scalaris,Picoides
+Downy Woodpecker,LC,,pubescens,Picoides
+Hairy Woodpecker,LC,,villosus,Picoides
+Black-backed Woodpecker,LC,,arcticus,Picoides
+Northern Flicker,LC,,auratus,Colaptes
+Pileated Woodpecker,LC,,pileatus,Dryocopus
+Eastern Phoebe,LC,,phoebe,Sayornis
+Olive-sided Flycatcher,NT,,cooperii,Contopus
+Western Wood Pewee,LC,,sordidulus,Contopus
+Eastern Wood Pewee,LC,,virens,Contopus
+Yellow-bellied Flycatcher,LC,,flaviventris,Empidonax
+Acadian Flycatcher,LC,,virescens,Empidonax
+Willow Flycatcher,LC,,traillii,Empidonax
+Least Flycatcher,LC,,minimus,Empidonax
+Hammond's Flycatcher,LC,,hammondii,Empidonax
+Great Kiskadee,LC,,sulphuratus,Pitangus
+Couch's Kingbird,LC,,couchii,Tyrannus
+Western Kingbird,LC,,verticalis,Tyrannus
+Scissor-tailed Flycatcher,LC,,forficatus,Tyrannus
+Eastern Kingbird,LC,,tyrannus,Tyrannus
+Great Crested Flycatcher,LC,,crinitus,Myiarchus
+Loggerhead Shrike,LC,,ludovicianus,Lanius
+Great Grey Shrike,LC,,excubitor,Lanius
+White-eyed Vireo,LC,,griseus,Vireo
+Yellow-throated Vireo,LC,,flavifrons,Vireo
+Blue-headed Vireo,LC,,solitarius,Vireo
+Warbling Vireo,LC,,gilvus,Vireo
+Philadelphia Vireo,LC,,philadelphicus,Vireo
+Red-eyed Vireo,LC,,olivaceus,Vireo
+Blue Jay,LC,,cristata,Cyanocitta
+Steller's Jay,LC,,stelleri,Cyanocitta
+Western Scrub Jay,LC,,californica,Aphelocoma
+American Crow,LC,,brachyrhynchos,Corvus
+Bohemian Waxing,LC,,garrulus,Bombycilla
+Cedar Waxwing,LC,,cedrorum,Bombycilla
+Carolina Chickadee,LC,,carolinensis,Poecile
+Black-capped Chickadee,LC,,atricapillus,Poecile
+Mountain Chickadee,LC,,gambeli,Poecile
+Boreal Chickadee,LC,,hudsonica,Poecile
+Chestnut-backed Chickadee,LC,,rufescens,Poecile
+Oak Titmouse,LC,,inornatus,Baeolophus
+Tufted Titmouse,LC,,bicolor,Baeolophus
+Verdin,LC,,flaviceps,Auriparus
+Sand Martin,LC,,riparia,Riparia
+Tree Swallow,LC,,bicolor,Tachycineta
+Violet-green Swallow,LC,,thalassina,Tachycineta
+Purple Martin,LC,,subis,Progne
+Northern Rough-winged Swallow,LC,,serripennis,Stelgidopteryx
+Barn Swallow,LC,,rustica,Hirundo
+American Cliff Swallow,LC,,pyrrhonota,Petrochelidon
+Cave Swallow,LC,,fulva,Petrochelidon
+American Bushtit,LC,,minimus,Psaltriparus
+Japanese White-eye,LC,Hawaii,japonicus,Zosterops
+Golden-crowned Kinglet,LC,,satrapa,Regulus
+Ruby-crowned Kinglet,LC,,calendula,Regulus
+Sedge Wren,LC,,platensis,Cistothorus
+Long-Billed Marsh Wren,LC,,palustris,Cistothorus
+Bewick's Wren,LC,,bewickii,Thryomanes
+Carolina Wren,LC,,ludovicianus,Thryothorus
+Winter Wren,LC,,troglodytes,Troglodytes
+House Wren,LC,,aedon,Troglodytes
+Red-breasted Nuthatch,LC,,canadensis,Sitta
+White-breasted Nuthatch,LC,,carolinensis,Sitta
+Brown Creeper,LC,,americana,Certhia
+Gray Catbird,LC,,carolinensis,Dumetella
+Northern Mockingbird,LC,,polyglottos,Mimus
+Brown Thrasher,LC,,refum,Toxostoma
+Long-billed Thrasher,LC,,longirostre,Toxostoma
+Common Myna,LC,,tristis,Acridotheres
+Common Starling,LC,,vulgaris,Sturnus
+Varied Thrush,LC,,naevius,Ixoreus
+Eastern Bluebird,LC,,sialis,Sialia
+Western Bluebird,LC,,mexicana,Sialia
+Mountain Bluebird,LC,,currucoides,Sialia
+Townsend's Solitaire,LC,,townsendi,Myadestes
+Orange-billed Nightingale-Thrush,LC,,aurantiirostris,Catharus
+Veery,LC,,fuscescens,Catharus
+Grey-cheeked Thrush,LC,,minimus,Catharus
+Swainson's Thrush,LC,,ustulatus,Catharus
+Hermit Thrush,LC,,guttatus,Catharus
+Wood Thrush,LC,,mustelina,Hylocichla
+American Robin,LC,,migratorius,Turdus
+House Sparrow,LC,,domesticus,Passer
+Scaly-breasted Munia,LC,Hawaii,punctulata,Lonchura
+Black-headed Munia,LC,Hawaii,malacca,Lonchura
+Buff-bellied Pipit,LC,,rubescens,Anthus
+Pine Siskin,LC,,pinus,Carduelis
+American Goldfinch,LC,,tristis,Carduelis
+Lesser Goldfinch,LC,,psaltria,Carduelis
+Common Redpoll,LC,,flammea,Carduelis
+Purple Finch,LC,,purpureus,Carpodacus
+Cassin's Finch,NT,,cassinii,Carpodacus
+House Finch,LC,,mexicanus,Carpodacus
+Pine Grosbeak,LC,,enucleator,Pinicola
+Red Crossbill,LC,,curvirostra,Loxia
+Two-barred Crossbill,LC,,leucoptera,Loxia
+Evening Grosbeak,LC,,vespertina,Hesperiphona
+Golden-winged Warbler,NT,,chrysoptera,Vermivora
+Blue-winged Warbler,LC,,pinus,Vermivora
+Tennessee Warbler,LC,,peregrina,Vermivora
+Orange-crowned Warbler,LC,,celata,Vermivora
+Nashville Warbler,LC,,ruficapilla,Vermivora
+Virginia's Warbler,LC,,virginiae,Vermivora
+Northern Parula,LC,,americana,Parula
+Chestnut-sided Warbler,LC,,pensylvanica,Dendroica
+American Yellow Warbler,LC,,petechia,Dendroica
+Blackpoll Warbler,LC,,striata,Dendroica
+Bay-breasted Warbler,LC,,castanea,Dendroica
+Blackburnian Warbler,LC,,fusca,Dendroica
+Magnolia Warbler,LC,,magnolia,Dendroica
+Cape May Warbler,LC,,tigrina,Dendroica
+Black-throated Blue Warbler,LC,,caerulescens,Dendroica
+Yellow-rumped Warbler,LC,,coronata,Dendroica
+Black-throated Grey Warbler,LC,,nigrescens,Dendroica
+Black-throated Green Warbler,LC,,virens,Dendroica
+Townsend's Warbler,LC,,townsendi,Dendroica
+Yellow-throated Warbler,LC,,dominica,Dendroica
+Pine Warbler,LC,,pinus,Dendroica
+Kirtland's Warbler,NT,,kirtlandii,Dendroica
+Palm Warbler,LC,,palmarum,Dendroica
+Black-and-white Warbler,LC,,varia,Mniotilta
+American Redstart,LC,,ruticilla,Setophaga
+Prothonotary Warbler,LC,,citrea,Protonotaria
+Worm-eating Warbler,LC,,vermivorus,Helmitheros
+Ovenbird,LC,,aurocapillia,Seiurus
+Northern Waterthrush,LC,,noveboracensis,Seiurus
+Louisiana Waterthrush,LC,,motacilla,Seiurus
+Kentucky Warbler,LC,,formosus,Oporornis
+Connecticut Warbler,LC,,agilis,Oporornis
+Mourning Warbler,LC,,philadelphia,Oporornis
+MacGillivray's Warbler,LC,,tolmiei,Oporornis
+Common Yellowthroat,LC,,trichas,Geothlypis
+Hooded Warbler,LC,,citrina,Wilsonia
+Wilson's Warbler,LC,,pusilla,Wilsonia
+Canada Warbler,LC,,canadensis,Wilsonia
+Yellow-breasted Chat,LC,,virens,Icteria
+Orchard Oriole,LC,,spurius,Icterus
+Hooded Oriole,LC,,cucullatus,Icterus
+Baltimore Oriole,LC,,galbula,Icterus
+Bullock's Oriole,LC,,bullockii,Icterus
+Bronzed Cowbird,LC,,aeneus,Molothrus
+Brown-headed Cowbird,LC,,ater,Molothrus
+Red-winged Blackbird,LC,,phoenicus,Agelaius
+Rusty Blackbird,VU,,carolinus,Euphagus
+Brewer's Blackbird,LC,,cyanocephalus,Euphagus
+Common Grackle,LC,,quiscula,Quiscalus
+Great-tailed Grackle,LC,,mexicanus,Quiscalus
+Greater Antillean Grackle,LC,P. R.,niger,Quiscalus
+Eastern Meadowlark,LC,,magna,Sturnella
+Snow Bunting,LC,,nivalis,Plectrophenax
+Fox Sparrow,LC,,iliaca,Passerella
+Song Sparrow,LC,,melodia,Melospiza
+Lincoln's Sparrow,LC,,lincolnii,Melospiza
+Swamp Sparrow,LC,,georgiana,Melospiza
+Harris's Sparrow,LC,,querula,Zonotrichia
+White-crowned Sparrow,LC,,leucophrys,Zonotrichia
+White-throated Sparrow,LC,,albicollis,Zonotrichia
+Golden-crowned Sparrow,LC,,atricapilla,Zonotrichia
+Dark-eyed Junco,LC,,hyemalis,Junco
+Yellow-eyed Junco,LC,,phaeonotus,Junco
+Savannah Sparrow,LC,,sandwichensis,Passerculus
+Nelson's Sparrow,LC,,nelsoni,Ammodramus
+LeConte's Sparrow,LC,,leconteii,Ammodramus
+Grasshopper Sparrow,LC,,savannarum,Ammodramus
+American Tree Sparrow,LC,,arborea,Spizella
+Chipping Sparrow,LC,,passerina,Spizella
+Field Sparrow,LC,,pusilla,Spizella
+Black-chinned Sparrow,LC,,atrogularis,Spizella
+Clay-colored Sparrow,LC,,pallida,Spizella
+Brewer's Sparrow,NT,,breweri,Spizella
+Lark Sparrow,LC,,grammacus,Chondestes
+Black-throated Sparrow,LC,,bilineata,Amphispiza
+Cassin's Sparrow,LC,,cassinii,Aimophila
+Green-tailed Towhee,LC,,chlorurus,Pipilo
+Spotted Towhee,LC,,maculatus,Pipilo
+Eastern Towhee,LC,,erythrophthalmus,Pipilo
+Canyon Towhee,LC,,fuscus,Pipilo
+California Towhee,LC,,crissalis,Pipilo
+Red-crested Cardinal,LC,Hawaii,coronata,Paroaria
+Black-faced Grassquit,LC,P. R.,bicolor,Tiaris
+Summer Tanager,LC,,rubra,Piranga
+Scarlet Tanager,LC,,olivacea,Piranga
+Western Tanager,LC,,ludoviciana,Piranga
+Dickcissel,LC,,americana,Spiza
+Rose-breasted Grosbeak,LC,,ludovicianus,Pheucticus
+Black-headed Grosbeak,LC,,melanocephalus,Pheucticus
+Northern Cardinal,LC,,cardinalis,Cardinalis
+Pyrrhuloxia,LC,,sinuatus,Cardinalis
+Blue Grosbeak,LC,,caerulea,Passerina
+Indigo Bunting,LC,,cyanea,Passerina
+Lazuli Bunting,LC,,amoena,Passerina
+Painted Bunting,NT,,ciris,Passerina

@@ -1,0 +1,5 @@
+Source,Rows,Columns,Data Density,Density in Target Schema (8 cols)
+Mbrainz,4763,8,84.72%,84.72% (8/8 × 84.72%)
+Lastfm,9865,5,89.40%,55.87% (5/8 × 89.40%)
+Discogs,22627,8,98.43%,98.43% (8/8 × 98.43%)
+Total Input,37255,8 (target),90.85% avg,85.41% weighted avg

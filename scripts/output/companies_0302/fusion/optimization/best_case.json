@@ -1,0 +1,55 @@
+{
+  "best_case_key": "heuristic",
+  "best_case_name": "heuristic",
+  "best_validation_accuracy": 0.234375,
+  "best_test_accuracy": 0.7094017094017094,
+  "best_case_dir": "scripts/output/companies_0302/fusion/optimization/case_heuristic",
+  "rules": {
+    "assets": {
+      "resolver": "median",
+      "kwargs": {}
+    },
+    "city": {
+      "resolver": "union",
+      "kwargs": {
+        "separator": ","
+      }
+    },
+    "country": {
+      "resolver": "most_complete",
+      "kwargs": {}
+    },
+    "founded": {
+      "resolver": "prefer_higher_trust",
+      "kwargs": {
+        "trust_key": "trust_score"
+      }
+    },
+    "founders": {
+      "resolver": "union",
+      "kwargs": {
+        "separator": ","
+      }
+    },
+    "industry": {
+      "resolver": "most_complete",
+      "kwargs": {}
+    },
+    "keypeople_name": {
+      "resolver": "longest_string",
+      "kwargs": {}
+    },
+    "name": {
+      "resolver": "longest_string",
+      "kwargs": {}
+    },
+    "revenue": {
+      "resolver": "median",
+      "kwargs": {}
+    },
+    "website": {
+      "resolver": "most_complete",
+      "kwargs": {}
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "attribute_rules": {
+    "Attribute_6": {
+      "kwargs": {
+        "separator": ","
+      },
+      "resolver": "union"
+    },
+    "Attribute_7": {
+      "kwargs": {},
+      "resolver": "maximum"
+    },
+    "artist": {
+      "kwargs": {
+        "sources": [
+          "discogs"
+        ]
+      },
+      "resolver": "favour_sources"
+    },
+    "genre": {
+      "kwargs": {},
+      "resolver": "random_value"
+    },
+    "label": {
+      "kwargs": {},
+      "resolver": "most_complete"
+    },
+    "name": {
+      "kwargs": {
+        "sources": [
+          "musicbrainz"
+        ]
+      },
+      "resolver": "favour_sources"
+    },
+    "release-country": {
+      "kwargs": {},
+      "resolver": "voting"
+    },
+    "release-date": {
+      "kwargs": {},
+      "resolver": "minimum"
+    },
+    "tracks_track-name": {
+      "kwargs": {
+        "sources": [
+          "musicbrainz"
+        ]
+      },
+      "resolver": "favour_sources"
+    }
+  }
+}

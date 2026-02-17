@@ -1,0 +1,15 @@
+entity_id,source_ids,name,website,country,industry,assets,revenue,city,keypeople_name
+entity_0,"http://www.forbes.com/companies/israel-discount-bank/, http://dbpedia.org/resource/Israel_Discount_Bank, fullcontact_1537",LLM,LLM,forbes,LLM,LLM,LLM,,
+entity_1,"http://www.forbes.com/companies/abu-dhabi-commercial/, http://dbpedia.org/resource/Abu_Dhabi_Islamic_Bank",forbes,LLM,forbes,LLM,LLM,LLM,,
+entity_10,"http://www.forbes.com/companies/avago-technologies/, http://dbpedia.org/resource/VIA_Technologies",LLM,LLM,forbes,,LLM,LLM,,
+entity_11,"http://www.forbes.com/companies/cp-all/, http://dbpedia.org/resource/CP_ALL",LLM,LLM,forbes,LLM,LLM,LLM,,
+entity_12,"http://www.forbes.com/companies/hitachi/, http://dbpedia.org/resource/Hitachi_Cable_Manchester, fullcontact_382",LLM,LLM,forbes,LLM,LLM,LLM,,
+entity_13,"fullcontact_709, http://www.forbes.com/companies/swatch-group/, http://dbpedia.org/resource/The_Swatch_Group",LLM,,fullcontact,,,,dbpedia,LLM
+entity_14,"http://www.forbes.com/companies/vale/, http://dbpedia.org/resource/Vale_(mining_company), fullcontact_783",LLM,LLM,forbes,,LLM,LLM,,
+entity_15,"http://www.forbes.com/companies/level-3-communications/, http://dbpedia.org/resource/L-3_Communications",dbpedia,LLM,dbpedia,LLM,LLM,LLM,,
+entity_16,"http://www.forbes.com/companies/ppg-industries/, http://dbpedia.org/resource/PPG_Industries, fullcontact_7",LLM,LLM,forbes,LLM,LLM,LLM,,
+entity_2,"http://dbpedia.org/resource/Sistema, http://www.forbes.com/companies/sistema/, fullcontact_678",LLM,,,,,,,
+entity_4,"http://www.forbes.com/companies/china-communications-services/, http://dbpedia.org/resource/China_Communications_Services_Corporation",LLM,LLM,forbes,LLM,LLM,LLM,,
+entity_5,"http://dbpedia.org/resource/Sherwin-Williams, http://www.forbes.com/companies/sherwin-williams/, fullcontact_663",LLM,,,,,,,
+entity_6,"http://dbpedia.org/resource/GD_Power_Development_Company, http://www.forbes.com/companies/gd-power-development/",LLM,,,,,,,
+entity_8,"http://www.forbes.com/companies/china-shenhua-energy/, http://dbpedia.org/resource/China_Shenhua_Energy_Company, fullcontact_208",LLM,LLM,forbes,,LLM,LLM,,

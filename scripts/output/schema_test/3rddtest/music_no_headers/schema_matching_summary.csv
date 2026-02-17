@@ -1,0 +1,4 @@
+dataset,status,num_mappings,source_columns,mapped_columns
+discogs,matched,7,"['id', 'discogs_3', 'Fermats Theorem / Sight Beyond', 'John B', '1996-01-01', 'UK', 'New Identity Recordings', 'Electronic', ""['Fermats Theorem', 'Sight Beyond']""]","['id', 'name', 'artist', 'release-date', 'release-country', 'label', 'genre']"
+lastfm,matched,3,"['id', 'lastFM_1', 'John B -  Fermats Theorem / Sight Beyond', 'John B', ""['Fermats Theorem', 'Sight Beyond']""]","['id', 'name', 'artist']"
+musicbrainz,matched,5,"['id', 'mbrainz_1', 'Fermats Theorem / Sight Beyond', 'John B', '1996-01-01', 'United Kingdom of Great Britain and Northern Ireland', ""['Fermats Theorem', 'Sight Beyond']"", 'Unnamed: 6']","['id', 'name', 'artist', 'release-date', 'release-country']"

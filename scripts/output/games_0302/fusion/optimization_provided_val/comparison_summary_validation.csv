@@ -1,0 +1,2 @@
+case,optimization_mode,eval_mode,accuracy,correct,total,acc_developer,acc_publisher,acc_userScore,acc_releaseYear,acc_platform,acc_ESRB,acc_criticScore,acc_name
+llm_no_val,none,provided,0.9166666666666666,66,72,0.7,1.0,0.9,0.9,1.0,0.9,1.0,1.0

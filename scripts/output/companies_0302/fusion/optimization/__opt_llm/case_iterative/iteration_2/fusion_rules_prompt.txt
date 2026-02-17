@@ -1,0 +1,304 @@
+We are doing DATA FUSION: merge multiple records that refer to the same real-world entity.
+
+Task:
+1) Infer what the MAIN ENTITY is from dataset names and attribute names.
+2) For EACH attribute, choose EXACTLY ONE conflict resolution function (resolver) from the allowed list.
+3) Use the validation feedback to understand which sources tend to be correct for each attribute.
+
+Allowed resolvers (choose only from this list):
+['average', 'earliest', 'favour_sources', 'intersection', 'intersection_k_sources', 'longest_string', 'maximum', 'median', 'minimum', 'most_complete', 'most_recent', 'prefer_higher_trust', 'random_value', 'shortest_string', 'sum_values', 'union', 'voting', 'weighted_voting']
+
+Resolver guidance:
+- Lists/Sets: union, intersection, intersection_k_sources (if you choose union for string-lists, you may set kwargs.separator to ',', ';', or '|')
+- Strings: most_complete, longest_string, shortest_string
+- Numerics: median, average, maximum, minimum, sum_values
+- Dates: most_recent, earliest
+- Source-aware: prefer_higher_trust (use kwargs.trust_key='trust_score'), voting, weighted_voting, favour_sources (use kwargs.sources=['source1']), random_value
+
+Starting point (heuristic plan you can override):
+{
+  "assets": {
+    "kwargs": {},
+    "resolver": "median"
+  },
+  "city": {
+    "kwargs": {
+      "separator": ","
+    },
+    "resolver": "union"
+  },
+  "country": {
+    "kwargs": {},
+    "resolver": "most_complete"
+  },
+  "founded": {
+    "kwargs": {
+      "trust_key": "trust_score"
+    },
+    "resolver": "prefer_higher_trust"
+  },
+  "founders": {
+    "kwargs": {
+      "separator": ","
+    },
+    "resolver": "union"
+  },
+  "industry": {
+    "kwargs": {},
+    "resolver": "most_complete"
+  },
+  "keypeople_name": {
+    "kwargs": {},
+    "resolver": "longest_string"
+  },
+  "name": {
+    "kwargs": {},
+    "resolver": "longest_string"
+  },
+  "revenue": {
+    "kwargs": {},
+    "resolver": "median"
+  },
+  "website": {
+    "kwargs": {},
+    "resolver": "most_complete"
+  }
+}
+
+Attribute diagnostics:
+     attribute  inferred_list inferred_separator  inferred_boolean  inferred_numeric  inferred_date  identifier_like                                                                                                                                                                                                                                                                                                                                                                                                       sample_values
+        assets          False               None             False              True          False            False                                                                                                                                                                                                                                                                                                                  [8.0, 240560000000.0, 607100000.0, 294970000.0, 76660000.0, 204740000.0, 462900000.0, 662870000.0]
+          city           True                  ,             False             False          False            False                                                                                                                                                                                                                                                                                                                                 [Castelnaudary, Lisbon, Mexico City, Istanbul, Istanbul, Istanbul, Istanbul, Paris]
+       country          False               None             False             False          False            False                                                                                                                                                                                                                                                                                                                                                  [France, Portugal, Mexico, Turkey, Turkey, Turkey, Turkey, France]
+       founded          False               None             False             False           True            False                                                                                                                                                                                                                                                                                                                    [1970-01-01, 1993-01-01, 2002-01-01, 1998-01-01, 1997-01-01, 1975-01-01, 1923-01-01, 1946-01-01]
+      founders           True                  ,             False             False          False            False                                                                                                                                                                          [Raphael Bemporad, John Pitcairn, Douglas Sun, ['Fernand Renault', 'Louis Renault', 'Marcel Renault'], ['Martine Clozel', 'Thomas Widmann', 'Walter Fischli'], Jim Gasper, ['Ron Wayne', 'Steve Jobs', 'Steve Wozniak'], Richard MAINDRON]
+      industry          False               None             False             False          False            False                                                                                                                                                                                                                      [Packaged Foods & Meats, Movies & Entertainment, Interactive Media & Services, Electric Utilities, Interactive Home Entertainment, Health Care Services, Industrial Conglomerates, Publishing]
+keypeople_name          False               None             False             False          False            False                                                                                                                                                                                                                                                                                              [Çalık Holding, Ahmet Çalık, Marcel Paul, Ahmet Özal, Aleksandar Ehrmann, Emil Škoda, Rupert Murdoch, Kelso & Company]
+          name          False               None             False             False          False            False                                                                                                                                                                                                                                                  [À la Table de Spanghero, �?guas de Portugal, �?nima Estudios, Çalık Enerji, Çalık Holding, Çukurova (construction firm), Çukurova Holding, Électricité de France]
+       revenue          False               None             False              True          False            False                                                                                                                                                                                                                                                                                                           [2.0, 65170000000.0, 358500000.0, 6000000000.0, 209760000000.0, 31690000.0, 10400000000.0, 12500000000.0]
+       website          False               None             False             False          False            False [http://www.forbes.com/companies/icbc/, http://www.forbes.com/companies/china-construction-bank/, http://www.forbes.com/companies/agricultural-bank-of-china/, http://www.forbes.com/companies/jpmorgan-chase/, http://www.forbes.com/companies/berkshire-hathaway/, http://www.forbes.com/companies/exxon-mobil/, http://www.forbes.com/companies/general-electric/, http://www.forbes.com/companies/wells-fargo/]
+
+Dataset overview:
+[
+  {
+    "dataset_name": "dbpedia",
+    "rows": 10085,
+    "columns": 9,
+    "trust_score": 1.0
+  },
+  {
+    "dataset_name": "forbes",
+    "rows": 2000,
+    "columns": 7,
+    "trust_score": 3.0
+  },
+  {
+    "dataset_name": "fullcontact",
+    "rows": 1931,
+    "columns": 6,
+    "trust_score": 1.0192534032990288
+  }
+]
+
+VALIDATION FEEDBACK:
+(Showing which source values were correct for sample entities)
+
+Attribute "assets":
+  - Sources: forbes=57800000000
+    → Correct: UNKNOWN
+  - Sources: forbes=49900000000
+    → Correct: UNKNOWN
+  - Sources: forbes=8000000000, dbpedia=9200000000.0
+    → Correct: 9200000000
+  - Sources: forbes=80400000000
+    → Correct: UNKNOWN
+  - Sources: forbes=3500000000
+    → Correct: UNKNOWN
+
+Attribute "city":
+  - Sources: fullcontact=Biel, dbpedia=Biel/Bienne
+    → Correct: Biel/Bienne, Switzerland
+
+Attribute "country":
+  - Sources: forbes=Israel, dbpedia=Israel, fullcontact=Israel
+    → Correct: Israel
+  - Sources: forbes=United Arab Emirates, dbpedia=United Arab Emirates
+    → Correct: United Arab Emirates
+  - Sources: forbes=China, dbpedia=China
+    → Correct: China
+  - Sources: forbes=China, dbpedia=China, fullcontact=China
+    → Correct: China
+  - Sources: forbes=Singapore, dbpedia=Taiwan
+    → Correct: United States
+
+Attribute "industry":
+  - Sources: dbpedia=Diversified Financial Services
+    → Correct: Banking (Commercial Bank / Financial Services)
+  - Sources: dbpedia=Diversified Banks
+    → Correct: Diversified Banks
+  - Sources: dbpedia=Integrated Telecommunication Services
+    → Correct: Telecommunications services (telecom infrastructure and network services)
+  - Sources: dbpedia=Food Retail
+    → Correct: Convenience store retail (convenience store operator)
+  - Sources: forbes=Electronic Equipment & Instruments, dbpedia=Industrial Conglomerates
+    → Correct: Industrial conglomerate (electronics, industrial systems & infrastructure)
+
+Attribute "keypeople_name":
+  - Sources: fullcontact=Nicolas G. Hayek, dbpedia=Nicolas Hayek
+    → Correct: Nick Hayek (Nicolas G. Hayek)
+
+Attribute "name":
+  - Sources: forbes=Israel Discount Bank, dbpedia=Israel Discount Bank, fullcontact=Mercantile Discount Bank Ltd.
+    → Correct: Israel Discount Bank
+  - Sources: forbes=Abu Dhabi Commercial Bank, dbpedia=Abu Dhabi Islamic Bank
+    → Correct: UNKNOWN
+  - Sources: dbpedia=Sistema, forbes=Sistema, fullcontact=Sistema
+    → Correct: Sistema
+  - Sources: forbes=China Communications Services, dbpedia=China Communications Services Corporation
+    → Correct: China Communications Services Corporation Limited
+  - Sources: dbpedia=Sherwin-Williams, forbes=Sherwin-Williams, fullcontact=Sherwin-Williams
+    → Correct: Sherwin-Williams
+
+Attribute "revenue":
+  - Sources: forbes=2700000000, dbpedia=4000000.0
+    → Correct: 2700000000
+  - Sources: forbes=2500000000
+    → Correct: 2500000000
+  - Sources: forbes=11100000000, dbpedia=13500000000.0
+    → Correct: 13500000000
+  - Sources: forbes=42800000000
+    → Correct: 48.6 billion USD (FY2023, approx.)
+  - Sources: forbes=2700000000
+    → Correct: UNKNOWN
+
+Attribute "website":
+  - Sources: forbes=http://www.forbes.com/companies/israel-discount-bank/
+    → Correct: https://www.idbgroup.co.il/
+  - Sources: forbes=http://www.forbes.com/companies/abu-dhabi-commercial/
+    → Correct: https://www.adcb.com/
+  - Sources: forbes=http://www.forbes.com/companies/china-communications-services/
+    → Correct: https://www.chinaccs.com/
+  - Sources: forbes=http://www.forbes.com/companies/china-shenhua-energy/
+    → Correct: https://www.shenhuachina.com/
+  - Sources: forbes=http://www.forbes.com/companies/avago-technologies/
+    → Correct: https://www.broadcom.com/
+
+
+
+SOURCE ACCURACY STATISTICS (from validation set):
+
+Attribute "assets":
+  - dbpedia: 100% correct (3/3 values)
+  - forbes: 100% correct (3/3 values)
+
+Attribute "city":
+  - dbpedia: 0% correct (0/1 values)
+  - fullcontact: 0% correct (0/1 values)
+
+Attribute "country":
+  - dbpedia: 73% correct (8/11 values)
+  - forbes: 82% correct (9/11 values)
+  - fullcontact: 100% correct (5/5 values)
+
+Attribute "industry":
+  - dbpedia: 14% correct (1/7 values)
+  - forbes: 0% correct (0/1 values)
+
+Attribute "keypeople_name":
+  - dbpedia: 0% correct (0/1 values)
+  - fullcontact: 0% correct (0/1 values)
+
+Attribute "name":
+  - dbpedia: 42% correct (5/12 values)
+  - forbes: 33% correct (4/12 values)
+  - fullcontact: 38% correct (3/8 values)
+
+Attribute "revenue":
+  - dbpedia: 40% correct (2/5 values)
+  - forbes: 67% correct (6/9 values)
+
+Attribute "website":
+  - forbes: 0% correct (0/10 values)
+
+RECOMMENDATION: For attributes where one source is significantly more accurate (>80%),
+consider using 'favour_sources' to prefer that source's values.
+
+PREVIOUS ITERATION RULES (you may keep, modify, or discard):
+{
+  "assets": {
+    "kwargs": {
+      "sources": [
+        "dbpedia",
+        "forbes"
+      ]
+    },
+    "resolver": "favour_sources"
+  },
+  "city": {
+    "kwargs": {},
+    "resolver": "most_complete"
+  },
+  "country": {
+    "kwargs": {
+      "sources": [
+        "fullcontact"
+      ]
+    },
+    "resolver": "favour_sources"
+  },
+  "founded": {
+    "kwargs": {
+      "trust_key": "trust_score"
+    },
+    "resolver": "prefer_higher_trust"
+  },
+  "founders": {
+    "kwargs": {
+      "separator": ","
+    },
+    "resolver": "union"
+  },
+  "industry": {
+    "kwargs": {},
+    "resolver": "most_complete"
+  },
+  "keypeople_name": {
+    "kwargs": {},
+    "resolver": "longest_string"
+  },
+  "name": {
+    "kwargs": {},
+    "resolver": "longest_string"
+  },
+  "revenue": {
+    "kwargs": {
+      "sources": [
+        "forbes"
+      ]
+    },
+    "resolver": "favour_sources"
+  },
+  "website": {
+    "kwargs": {
+      "sources": [
+        "dbpedia",
+        "fullcontact"
+      ]
+    },
+    "resolver": "favour_sources"
+  }
+}
+
+
+Return ONLY strict JSON in this schema:
+{
+  "main_entity": "<string>",
+  "attribute_rules": {
+    "<attribute>": {"resolver": "<resolver_name>", "kwargs": {...}},
+    ...
+  }
+}
+Notes:
+- Include every attribute listed in the heuristic plan.
+- Use kwargs only when needed. Do not invent new resolvers.
+- For attributes where validation shows one source is consistently correct, consider using favour_sources.

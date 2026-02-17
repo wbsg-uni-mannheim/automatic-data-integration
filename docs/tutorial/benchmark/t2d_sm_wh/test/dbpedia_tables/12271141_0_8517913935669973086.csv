@@ -1,0 +1,82 @@
+rdf-schema#label,keyPerson,symbol,tradedAs,industry,numberOfEmployees,logo
+3D Systems,Chuck Hull,DDD,", NYSE:DDD, S&P 600 component",Technology,2666.0,3
+3M,"CEO, President (corporate title), Chairman",MMM,", DJIA component, NYSE:MMM, S&P 100 component, S&P 500 component",Conglomerate (company),2021.0,3
+AT&T,,T,", S&P 100 component, S&P 500 component, NYSE:T","Telecommunications industry, Technology company",203000.0,AT&T logo 2016.svg
+AT&T Wireless Services,John D. Zeglis,,NYSE:AWE,Telecommunication,,File:AT&T Wireless logo.svg
+"Aaron's, Inc.",,AAN,,Furniture,9400.0,"Aaron's, Inc. logo.svg"
+Aflac,"Chief executive officer, Dan Amos, CFO",AFL,,"Insurance, Human resources",11729.0,Aflac.svg
+Alcoa,,AA,,Non-ferrous metal,12200.0,Alcoa logo .svg
+AllianceBernstein,"Chief executive officer, Chief financial officer, Chief operating officer",AB,NYSE:AB,Asset management,4118.0,Abglobal-logo.png
+American Express,Stephen Squeri,AXP,"S&P 100, S&P 500, DJIA, NYSE:AXP","Bank, Financial services",64000.0,American Express logo .svg
+AutoZone,"Chief financial officer, Entrepreneur, CEO, President (corporate title), Chairman, Pitt Hyde, William C. Rhodes (businessman)",AZO,,Retailing,87000.0,AutoZone_logo.svg
+BP,"Bernard Looney, Helge Lund",BP,", FTSE 100 component, FWB:BPE, LSE:BP., NYSE:BP",Petroleum industry,60000.0,BP Helios logo.svg
+Bank of America,"Brian Moynihan, Chief executive officer, Anne Finucane, Chairman",BAC,", S&P 100 component, S&P 500 component, NYSE:BAC",Financial services,200000.0,Bank of America logo.svg
+Berkshire Hathaway,"Warren Buffett, Chairman, Charlie Munger","BRK.A, BRK.B",,Conglomerate (company),372000.0,Berkshire Hathaway.svg
+Boeing,"Dave Calhoun, Chief executive officer, Larry Kellner",BA,"Dow Jones Industrial Average, , S&P 100 component, S&P 500 component, NYSE:BA","Arms industry, Aerospace manufacturer",141582.0,Boeing full logo.svg
+Canon Inc.,Fujio Mitarai,CAJ,", Nikkei 225 component, NYSE:CAJ, TOPIX Core30 component",Electronics,184034.0,Canon wordmark.svg
+Cardinal Health,,CAH,"S&P 500, , NYSE:CAH",Healthcare,48000.0,250
+Caterpillar Inc.,Jim Umpleby,CAT,,,107700.0,Caterpillar logo.svg
+Chipotle Mexican Grill,"Chief financial officer, Chief marketing officer, Chief technology officer",CMG,,Restaurant,97660.0,Chipotle Mexican Grill logo.svg
+Citigroup,"Jane Fraser (banking), John C. Dugan",C,", S&P 100 component, S&P 500 component, NYSE:C",Financial services,223400.0,100
+Clorox,,CLX,"NYSE:CLX, S&P 500 Component","Commercial cleaning, Household goods, Pet care",9000.0,"The Clorox Company logo, 2021.svg"
+Colgate-Palmolive,,CL,,Fast-moving consumer goods,33380.0,Colgate-Palmolive logo.svg
+DuPont,Edward D. Breen,DD,", S&P 100 component, S&P 500 component, NYSE:DD","Chemical industry, Chemical",2021.0,"DuPont logo.svg, DuPont.svg"
+Duke Energy,"Lynn J. Good, President (corporate title), Chairman, CFO",DUK,"Dow Jones Utility Average, S&P 100, S&P 500, , NYSE:DUK",Energy,27535.0,200
+Eastman Chemical Company,CEO,EMN,"S&P 500, NYSE:EMN",Manufacturing,14500.0,Eastman Chemical Company logo.svg
+ExxonMobil,Darren Woods,XOM,", S&P 100 component, S&P 500 component, NYSE:XOM, NYSE:XON",Energy industry,64000.0,Exxon Mobil Logo.svg
+Ford Motor Company,"William Clay Ford Jr., Jim Farley (businessman)",F,"S&P 100, S&P 500, , NYSE:F",Automotive industry,186000.0,"200, Go Further"
+Gap Inc.,,GPS,,Retail,117000.0,New_Gap_logo.svg
+General Dynamics,Phebe Novakovic,GD,"S&P 100, S&P 500, , NYSE:GD","Defense (military), Shipbuilding, Aerospace engineering",103100.0,General Dynamics logo.svg
+General Electric,,GE,,,,150
+General Mills,Jeffrey Harmening,GIS,"S&P 500 component, NYSE:GIS",Food processing,35000.0,General Mills logo.svg
+General Motors,"Mark Reuss, President (corporate title), Mary Barra, Chairperson",,", S&P 100 component, S&P 500 component, NYSE:GM",Automotive industry,157000.0,General motors logo with wordmark.svg
+Genesco,"http://dbpedia.org/resource/Mimi_E._Vaughn, http://dbpedia.org/resource/Scott_E._Becker",GCO,"S&P 600, NYSE:GCO","Apparel, Shoes",21000.0,Genesco logo.gif
+Goldman Sachs,"David M. Solomon, Chief operating officer, Lloyd Blankfein, CEO, President (corporate title)",GS,", DJIA component, S&P 100 component, S&P 500 component, NYSE:GS",Financial services,43900.0,Goldman Sachs.svg
+Hasbro,,HAS,", S&P 500 component, NASDAQ:HAS",Conglomerate (company),5600.0,Hasbro logo.svg
+Hewlett-Packard,,HPQ,NYSE:HPQ,"Information technology consulting, Computer hardware, Software, IT service management",,HP logo 2012.svg
+Hyatt,"Thomas Pritzker, Mark Hoplamazian",H,"Russell 1000 Index, FWB:1HTA, NYSE:H","Hospitality industry, Tourism, Travel",130000.0,Hyatt Logo.svg
+IBM,"Gary Cohn, Arvind Krishna",IBM,,Information technology,282100.0,IBM logo.svg
+ING Group,"Chief executive officer, Chief financial officer, Hans Wijers",ING,"AEX component, NYSE:ING",Financial services,55901.0,ING Group N.V. Logo.svg
+Intel,"Pat Gelsinger, Omar Ishrak",INTC,"Dow Jones Industrial Average, , S&P 100 component, S&P 500 component, Nasdaq-100 component, NASDAQ:INTC",,121100.0,Intel logo .svg
+International Flavors & Fragrances,Chief executive officer,IFF,"TA-125 Index, S&P 500 Component, NYSE:IFF","Research and development, Specialty chemicals",13600.0,IFF Company Logo.png
+JPMorgan Chase,"President (corporate title), Jamie Dimon, Chairperson",JPM,,Financial services,288474.0,J P Morgan Chase Logo 2008 1.svg
+John Deere,http://dbpedia.org/resource/John_C._May,DE,"S&P 500 Index, NYSE:DE","Agricultural machinery, Heavy equipment",69600.0,John Deere logo.svg
+Johnson & Johnson,,JNJ,"S&P 100, S&P 500, Dow Jones Industrial Average, , NYSE:JNJ",,,Johnson and Johnson Logo.svg
+Kimberly-Clark,,KMB,"S&P 500, NYSE:KMB",Personal care,40000.0,250
+Kraft Foods,,,,Food processing,,Kraft logo 2012.svg
+Kroger,"Rodney McMullen, Chief executive officer",KR,,Retail,465000.0,Kroger  logo.svg
+"Macy's, Inc.","CEO, Chairman",M,", S&P 400 component, NYSE:M",Retail,130000.0,"Macys,_Inc_Logo_2019.png"
+"McDonald's, McDonald's","Chris Kempczinski, Enrique Hernandez Jr., Chris Kempczinski, Enrique Hernandez Jr.","MCD, MCD",,"Real estate, Restaurant, Real estate, Restaurant",,"McDonald's Golden Arches.svg, McDonald's Golden Arches.svg"
+Merck & Co.,,,,,,200
+Microsoft,,MSFT,", DJIA component, S&P 100 component, S&P 500 component, Nasdaq-100 component, NASDAQ:MSFT",Information technology,221000.0,Microsoft logo and wordmark.svg
+Morgan Stanley,"Chief financial officer, James P. Gorman, Chairman, Chief Operating Officer, http://dbpedia.org/resource/Andy_Saperstein, http://dbpedia.org/resource/Jonathan_Pruzan, http://dbpedia.org/resource/Sharon_Yeshaya, http://dbpedia.org/resource/Ted_Pick",MS,,Financial services,75000.0,Morgan Stanley Logo 1.svg
+"Nike, Inc.","John Donahoe, Mark Parker",NKE,", DJIA component, S&P 100 component, S&P 500 component, NYSE:NKE","Sports equipment, Clothing industry, Fashion accessory",2022.0,Logo NIKE.svg
+Nordstrom,Brad D. Smith,JWN,", S&P 400 component, NYSE:JWN",Retail,62000.0,250
+PPG Industries,Chairman,PPG,"S&P 500, , NYSE:PPG",Chemical industry,47300.0,PPG Logo.svg
+Pfizer,Albert Bourla,PFE,,"Pharmaceutical industry, Biotechnology",,Pfizer .svg
+Principal Financial Group,,PFG,,Insurance,18600.0,Principal Financial Group logo.svg
+Procter & Gamble,,PG,", DJIA component, S&P 100 component, S&P 500 component, NYSE:PG",,,Procter & Gamble logo.svg
+Ralph Lauren Corporation,"David Lauren, Ralph Lauren, Patrice Louvet",RL,", S&P 500 component, NYSE:RL",Fashion industry,18250.0,Ralph Lauren logo.svg
+Red Hat,"Paul Cormier (engineer), CEO, http://dbpedia.org/resource/Matt_Hicks_(engineer)",RHT,,Computer software,19000.0,Red Hat Logo 2019-en.svg
+Resolute Forest Products,Chairman,RFP,NYSE:RFP,Pulp and paper industry,7100.0,Resolute Forest Products .svg
+Seagate Technology,"Michael R. Cannon, CEO",STX,,Computer data storage,40000.0,Seagate logo.svg
+T-Mobile US,"Timotheus Höttges, Mike Sievert",TMUS,,Telecommunication,75000.0,T-Mobile US Logo 2022 RGB Magenta on Transparent.svg
+TSMC,http://dbpedia.org/resource/Mark_Liu,TSM,", NYSE:TSM","GPU, Consumer electronics, Graphics card, Computer hardware, Semiconductor",65152.0,200
+The Coca-Cola Company,James Quincey,KO,", DJIA component, S&P 100 component, S&P 500 component, NYSE:KO",Drink industry,86200.0,The Coca-Cola Company .svg
+The Hershey Company,Michele Buck,HSY,", S&P 500 Component, NYSE:HSY",Food processing,16620.0,HersheyCo.svg
+The Home Depot,,HD,,Retail,490600.0,TheHomeDepot.svg
+The Travelers Companies,Alan D. Schnitzer,TRV,"S&P 500, Dow Jones Industrial Average, NYSE:TRV","Insurance, Financial services",30800.0,http://dbpedia.org/resource/File:The_Travelers_Companies.svg
+The Walt Disney Company,"Bob Iger, Susan Arnold",DIS,,,,The Walt Disney Company Logo.svg
+Thermo Fisher Scientific,,TMO,,"Pharmaceutical, Health care, Laboratory, Biotechnology",130000.0,http://dbpedia.org/resource/File:Thermo_Fisher_Scientific_logo.svg
+Tiffany & Co.,"Chief executive officer, Executive Vice President, Chairman",TIF,,Retail,14200.0,Tiffany & Co. wordmark 2003.svg
+Under Armour,"Kevin Plank, Colin Browne (businessman)","UA, UAA",,"Sports equipment, Textile industry",17500.0,Under armour logo.svg
+Unilever,"Chief financial officer, Chairperson",ULVR,", AEX component, FTSE 100 component, LSE:ULVR, NYSE:UL",Fast-moving consumer goods,149000.0,Unilever.svg
+UnitedHealth Group,"Andrew Witty, Stephen J. Hemsley",UNH,,"Insurance, Managed care",380000.0,UnitedHealth Group logo.svg
+United Technologies,"Chief executive officer, President (corporate title), Gregory J. Hayes",,NYSE:UTX,Conglomerate (company),,United technologies logo.svg
+United Technologies Corporation,,,,,,
+Valero Energy,,VLO,"S&P 500 component, NYSE:VLO",List of oil exploration and production companies,10015.0,Valero_Energy_logo.svg
+Verizon Communications,,VZ,", DJIA component, S&P 100 component, S&P 500 component, NYSE:VZ",,,Verizon 2015 logo -vector.svg
+Visa Inc.,Alfred F. Kelly Jr.,,,Financial services,2022.0,Visa 2021.svg
+Walmart,"CEO, Greg Penner, Doug McMillon",WMT,", DJIA component, S&P 100 component, S&P 500 component, NYSE:WMT",Retail,2300000.0,Walmart logo.svg
+Whirlpool Corporation,Marc Bitzer,WHR,"S&P 500 Index, NYSE:WHR",Home appliance,69000.0,Whirlpool Corporation Logo .svg
+Williams Companies,Chief executive officer,WMB,,Petroleum industry,5425.0,Williams Companies logo.svg

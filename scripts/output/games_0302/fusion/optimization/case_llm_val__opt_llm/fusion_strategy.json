@@ -1,0 +1,23 @@
+{
+  "id_column": "id",
+  "include_singletons": true,
+  "rules": {
+    "ESRB": "voting",
+    "criticScore": "median",
+    "developer": "most_complete",
+    "globalSales": "median",
+    "name": "favour_sources",
+    "platform": "most_complete",
+    "publisher": "most_complete",
+    "releaseYear": "prefer_higher_trust",
+    "series": "most_complete",
+    "userScore": "median"
+  },
+  "strategy_name": "llm_val_strategy",
+  "trust_key": "trust_score",
+  "trust_scores": {
+    "dbpedia": 1.0,
+    "metacritic": 2.8261224514497645,
+    "sales": 3.0
+  }
+}

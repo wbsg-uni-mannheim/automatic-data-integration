@@ -1,0 +1,580 @@
+rdf-schema#label,populationTotal,name,mayor,country,timezone,PopulatedPlace/areaTotal,politicalLeader,populationMetro
+Aalborg,119862,Aalborg,,Denmark,Central European Time,50.7,http://dbpedia.org/resource/Aalborg__PoliticalFunction__1,594323
+Abomey-Calavi,655965,Abomey-Calavi,,Benin,,650.0,,
+Adelaide,1387290,Adelaide,,Australia,Australian Central Standard Time,,,
+Adjohoun,60955,Adjohoun,,Benin,,308.0,,
+Algiers,4510000,Algiers,,Algeria,Central European Time,363.0,http://dbpedia.org/resource/Algiers__PoliticalFunction__1,
+"Alvarado, Tolima",8796,"Alvarado, Tolima",,Colombia,Colombia Standard Time,311.15,"http://dbpedia.org/resource/Alvarado,_Tolima__PoliticalFunction__1",
+Andalgalá,14068,Ciudad de Andalgalá,,Argentina,Time in Argentina,,,
+Angol,53262,,,Chile,Time in Chile,1194.4,http://dbpedia.org/resource/Angol__PoliticalFunction__1,
+Ankang,2656000,Ankang,,China,China Standard Time,23391.0,,
+Anqing,4165284,Anqing,,China,China Standard Time,13486.6,"http://dbpedia.org/resource/Anqing__PoliticalFunction__1, http://dbpedia.org/resource/Anqing__PoliticalFunction__2",804493
+Anqiu,962000,Anqiu,,China,China Standard Time,1760.0,,
+Anshan,3325372,Anshan,,China,Time in China,9270.0,"http://dbpedia.org/resource/Anshan__PoliticalFunction__1, http://dbpedia.org/resource/Anshan__PoliticalFunction__2",2712789
+Antwerp,,Antwerp,Bart De Wever,Belgium,,,,
+Anyang,5477614,Anyang,,,China Standard Time,7355.0,,2675523
+Araioses,46771,Araioses,,Brazil,Time in Brazil,1782.5,http://dbpedia.org/resource/Araioses__PoliticalFunction__1,
+Araçoiaba,20733,Araçoiaba,,Brazil,Time in Brazil,96.38,,
+Astravyets,10878,Astravyets,,Belarus,Eastern European Time,,,
+Athus,7227,Athus,,Belgium,,,,
+"Ati, Chad",35311,,,Chad,Central Africa Time,,,
+Baku,2293100,,,Azerbaijan,Azerbaijan Time,2140.0,http://dbpedia.org/resource/Baku__PoliticalFunction__1,5105200
+Baldim,7803,,,Brazil,Time in Brazil,554029.0,http://dbpedia.org/resource/Baldim__PoliticalFunction__1,
+Bangui,889231,,,Central African Republic,,67.0,http://dbpedia.org/resource/Bangui__PoliticalFunction__1,
+Banikoara,248621,Banikoara,,Benin,West Africa Time,4383.0,,28402
+Baoding,11194382,Baoding,,China,China Standard Time,22185.0,,2176857
+"Baoshan, Yunnan",2506491,Baoshan,,,China Standard Time,19064.6,,
+Baotou,2709378,Baotou,,China,China Standard Time,27768.0,,2261089
+Barisal,328278,Barisal,,Bangladesh,Bangladesh Standard Time,,"http://dbpedia.org/resource/Barisal__PoliticalFunction__1, http://dbpedia.org/resource/Barisal__PoliticalFunction__2",385093
+Barranquilla,1206319,Barranquilla,,Colombia,,,http://dbpedia.org/resource/Barranquilla__PoliticalFunction__1,2370753
+Barrie,147829,Barrie,,Canada,North American Eastern Time Zone,99.01,"http://dbpedia.org/resource/Barrie__PoliticalFunction__1, http://dbpedia.org/resource/Barrie__PoliticalFunction__2, http://dbpedia.org/resource/Barrie__PoliticalFunction__3, http://dbpedia.org/resource/Barrie__PoliticalFunction__4",212667
+Bashtanka,12327,,,"Bashtanka Raion, Ukraine, Mykolaiv Oblast",,7.14,http://dbpedia.org/resource/Bashtanka__PoliticalFunction__1,
+"Batán, Argentina",10152,Batán,,Argentina,Time in Argentina,542.0,"http://dbpedia.org/resource/Batán,_Argentina__PoliticalFunction__1",
+Bazhong,2712894,Bazhong,,China,China Standard Time,12301.0,,1064766
+"Bedford, Quebec (town)",2684,Bedford,,Canada,Eastern Time Zone,4.4,"http://dbpedia.org/resource/Bedford,_Quebec_(town)__PoliticalFunction__1, http://dbpedia.org/resource/Bedford,_Quebec_(town)__PoliticalFunction__2, http://dbpedia.org/resource/Bedford,_Quebec_(town)__PoliticalFunction__3",
+Beihai,1539300,Beihai,,China,China Standard Time,3337.0,,405600
+Beijing,21893095,Beijing,,,China Standard Time,16410.5,"http://dbpedia.org/resource/Beijing__PoliticalFunction__1, http://dbpedia.org/resource/Beijing__PoliticalFunction__2, http://dbpedia.org/resource/Beijing__PoliticalFunction__3, http://dbpedia.org/resource/Beijing__PoliticalFunction__4, http://dbpedia.org/resource/Beijing__PoliticalFunction__5",22366547
+Beiliu,,Beiliu,,China,China Standard Time,2457.0,,
+Beinamar,100000271,,,Chad,+1,,,
+Belize City,61461,Belize City,,Belize,Greenwich mean time,35.66413627932672,"http://dbpedia.org/resource/Belize_City__PoliticalFunction__1, http://dbpedia.org/resource/Belize_City__PoliticalFunction__2",
+"Bello, Antioquia",533973,Bello,,Colombia,Colombia Standard Time,149.0,"http://dbpedia.org/resource/Bello,_Antioquia__PoliticalFunction__1",3312165
+Belo Horizonte,2721564,Belo Horizonte,,Brazil,Time in Brazil,330.9,http://dbpedia.org/resource/Belo_Horizonte__PoliticalFunction__1,6006887
+Belém,1499641,Belém,,Brazil,Time in Brazil,1059.4,"http://dbpedia.org/resource/Belém__PoliticalFunction__1, http://dbpedia.org/resource/Belém__PoliticalFunction__2",2249405
+Bengbu,3296408,Bengbu,,People's Republic of China,China Standard Time,5952.14,"http://dbpedia.org/resource/Bengbu__PoliticalFunction__1, http://dbpedia.org/resource/Bengbu__PoliticalFunction__2, http://dbpedia.org/resource/Bengbu__PoliticalFunction__3",1968027
+Benxi,1326018,Benxi,,,China Standard Time,8429.0,"http://dbpedia.org/resource/Benxi__PoliticalFunction__1, http://dbpedia.org/resource/Benxi__PoliticalFunction__2",809655
+Bijie,6536370,Bijie,,,Time in China,26853.0,,
+Biograd na Moru,5569,Biograd na Moru,,Croatia,Central European Time,,http://dbpedia.org/resource/Biograd_na_Moru__PoliticalFunction__1,
+Bitkine,18495,,,Chad,+1,,,
+Blida,182447,Blida,,Algeria,Central European Time,72.1,,1167882
+"Bogotá, Bogotá","8034649, 8034649","Bogotá, Bogotá",,"Colombia, Colombia",,"307.36, 307.36","http://dbpedia.org/resource/Bogotá__PoliticalFunction__1, http://dbpedia.org/resource/Bogotá__PoliticalFunction__1","12772828, 12772828"
+Bonou,29656,Bonou,,Benin,West Africa Time,275.0,,
+Borgloon,,Borgloon,Open Flemish Liberals and Democrats,Belgium,,,,
+Bragança Paulista,170533,,,Brazil,Time in Brazil,512.6,http://dbpedia.org/resource/Bragança_Paulista__PoliticalFunction__1,
+Brantford,104688,Brantford,,Canadian Indian residential school system,Eastern,,"http://dbpedia.org/resource/Brantford__PoliticalFunction__1, http://dbpedia.org/resource/Brantford__PoliticalFunction__2, http://dbpedia.org/resource/Brantford__PoliticalFunction__3, http://dbpedia.org/resource/Brantford__PoliticalFunction__4","30, 144162"
+Brasília,,Brasília,,Brazil,Time in Brazil,"5801.998125202735, 5802.0",http://dbpedia.org/resource/Brasília__PoliticalFunction__1,4291577
+Brazzaville,1696392,,,Republic of the Congo,,263.9,http://dbpedia.org/resource/Brazzaville__PoliticalFunction__1,
+"Brest, Belarus",362641,Brest,,Belarus,Moscow Time,145.0,"http://dbpedia.org/resource/Brest,_Belarus__PoliticalFunction__1, http://dbpedia.org/resource/Brest,_Belarus__PoliticalFunction__2",
+"Brevoort Park, Saskatoon",3424,"Brevoort Park, Brevoort Park School, École St. Matthew School",,Canada,UTC,1.22,"http://dbpedia.org/resource/Brevoort_Park,_Saskatoon__PoliticalFunction__1, http://dbpedia.org/resource/Brevoort_Park,_Saskatoon__PoliticalFunction__2",
+Bridgetown,110000,,,Barbados,Atlantic Standard Time,38.84982165504,,
+Brisbane,2582007,Brisbane,,Australia,AEST,,,
+Brno,379466,,,Czechia,Central European Time,230.18,http://dbpedia.org/resource/Brno__PoliticalFunction__1,696413
+Brockville,21854,Brockville,,Canada,Eastern Time Zone,,"http://dbpedia.org/resource/Brockville__PoliticalFunction__1, http://dbpedia.org/resource/Brockville__PoliticalFunction__2, http://dbpedia.org/resource/Brockville__PoliticalFunction__3",38553
+Bruges,,Bruges,Dirk De fauw,Belgium,,,,
+Brussels,1222637,Brussels,,Belgium,Central European Time,162.4,"http://dbpedia.org/resource/Brussels__PoliticalFunction__1, http://dbpedia.org/resource/Brussels__PoliticalFunction__2, http://dbpedia.org/resource/Brussels__PoliticalFunction__3, http://dbpedia.org/resource/Brussels__PoliticalFunction__4, http://dbpedia.org/resource/Brussels__PoliticalFunction__5",2500000
+Bucaramanga,681130,,,Colombia,Eastern Time Zone,165.0,http://dbpedia.org/resource/Bucaramanga__PoliticalFunction__1,1345671
+"Buena Vista, Saskatoon",3271,"Buena Vista, Buena Vista School",,Canada,UTC,1.26,"http://dbpedia.org/resource/Buena_Vista,_Saskatoon__PoliticalFunction__1, http://dbpedia.org/resource/Buena_Vista,_Saskatoon__PoliticalFunction__2",
+Buenos Aires,,Buenos Aires,,Argentina,Time in Argentina,203.0,"http://dbpedia.org/resource/Buenos_Aires__PoliticalFunction__1, http://dbpedia.org/resource/Buenos_Aires__PoliticalFunction__2, http://dbpedia.org/resource/Buenos_Aires__PoliticalFunction__3",15624000
+Burzaco,98859,,,Argentina,,,,
+"Buta, Democratic Republic of the Congo",55313,Buta,,DR Congo,Central Africa Time,,"http://dbpedia.org/resource/Buta,_Democratic_Republic_of_the_Congo__PoliticalFunction__1",
+"Bécancour, Quebec",12438,Bécancour,,Canada,Eastern Time Zone,494.6,"http://dbpedia.org/resource/Bécancour,_Quebec__PoliticalFunction__1, http://dbpedia.org/resource/Bécancour,_Quebec__PoliticalFunction__2, http://dbpedia.org/resource/Bécancour,_Quebec__PoliticalFunction__3",
+"Cabildo, Chile",19315,,,Chile,Time in Chile,1455.3,"http://dbpedia.org/resource/Cabildo,_Chile__PoliticalFunction__1",
+Cabinda (city),739182,Cabinda,,Angola,,2273.0,,
+Calgary,1306784,Calgary,,,Mountain Time Zone,,"http://dbpedia.org/resource/Calgary__PoliticalFunction__1, http://dbpedia.org/resource/Calgary__PoliticalFunction__2, http://dbpedia.org/resource/Calgary__PoliticalFunction__3, http://dbpedia.org/resource/Calgary__PoliticalFunction__4",1481806
+Cali,2227642,"Cali Tower, Cali",,Colombia,Colombia Time,619.0,http://dbpedia.org/resource/Cali__PoliticalFunction__1,3400000
+Camaragibe,158899,,,Brazil,,51.257,,
+"Camarones, Chile",606,Camarones,,Chile,Time in Chile,3927.0,"http://dbpedia.org/resource/Camarones,_Chile__PoliticalFunction__1",
+Campinas,1213792,Campinas,,Brazil,UTC-03,795.667,http://dbpedia.org/resource/Campinas__PoliticalFunction__1,3656363
+Cananéia,12541,,,Brazil,UTC-3,1242.01,http://dbpedia.org/resource/Cananéia__PoliticalFunction__1,
+Carahue,24377,,,Chile,Time in Chile,1340.5,http://dbpedia.org/resource/Carahue__PoliticalFunction__1,
+Carazinho,62265,Carazinho,,Brazil,Time in Brazil,676.0,http://dbpedia.org/resource/Carazinho__PoliticalFunction__1,58253
+"Carnot, Central African Republic",54551,,,Central African Republic,,,,
+"Cartagena, Colombia",914552,Cartagena,,Colombia,Colombia Time,572.0,"http://dbpedia.org/resource/Cartagena,_Colombia__PoliticalFunction__1",1028736
+"Cartago, Costa Rica",156600,,,Costa Rica,North American Central Time Zone,152.68,"http://dbpedia.org/resource/Cartago,_Costa_Rica__PoliticalFunction__1",413505
+Casinhas,14368,Casinhas,,Brazil,Time in Brazil,125.28,,
+Caxias do Sul,517451,Caxias do Sul,,Brazil,UTC-3,1643.913,http://dbpedia.org/resource/Caxias_do_Sul__PoliticalFunction__1,735276
+Ceará-Mirim,73886,,,Brazil,Time in Brazil,739.686,http://dbpedia.org/resource/Ceará-Mirim__PoliticalFunction__1,
+"Cerrillos, Chile",71906,Cerrillos,,Chile,Time in Chile,21.0,"http://dbpedia.org/resource/Cerrillos,_Chile__PoliticalFunction__1",
+Changchun,9066906,Changchun,,China,China Standard Time,24734.0,"http://dbpedia.org/resource/Changchun__PoliticalFunction__1, http://dbpedia.org/resource/Changchun__PoliticalFunction__2, http://dbpedia.org/resource/Changchun__PoliticalFunction__3, http://dbpedia.org/resource/Changchun__PoliticalFunction__4",5019477
+Changde,5279102,Changde,,,China Standard Time,18177.0,"http://dbpedia.org/resource/Changde__PoliticalFunction__1, http://dbpedia.org/resource/Changde__PoliticalFunction__2",1469055
+Changsha,10,Changsha,,China,Time in China,11819.0,"http://dbpedia.org/resource/Changsha__PoliticalFunction__1, http://dbpedia.org/resource/Changsha__PoliticalFunction__2, http://dbpedia.org/resource/Changsha__PoliticalFunction__3, http://dbpedia.org/resource/Changsha__PoliticalFunction__4",7355198
+Changshu,1515900,Changshu,,China,China Standard Time,1264.0,http://dbpedia.org/resource/Changshu__PoliticalFunction__1,
+Changzhou,4592431,Changzhou,,China,China Standard Time,4384.58,"http://dbpedia.org/resource/Changzhou__PoliticalFunction__1, http://dbpedia.org/resource/Changzhou__PoliticalFunction__2",12400000
+"Chaoyang, Liaoning",3044641,Chaoyang,,People's Republic of China,China Standard Time,19698.0,"http://dbpedia.org/resource/Chaoyang,_Liaoning__PoliticalFunction__1, http://dbpedia.org/resource/Chaoyang,_Liaoning__PoliticalFunction__2",
+Chapecó,224013,Chapecó,,Brazil,UTC-3,624.308,http://dbpedia.org/resource/Chapecó__PoliticalFunction__1,403458
+Charleroi,,"Charleroi, Belgium",Paul Magnette,Belgium,,,,
+Charlottetown,38809,Charlottetown,,Canada,Atlantic Time Zone,"44.2887966867456, 44.33","http://dbpedia.org/resource/Charlottetown__PoliticalFunction__1, http://dbpedia.org/resource/Charlottetown__PoliticalFunction__2",78858
+Chascomús,33607,,,Argentina,,,,
+Chengdu,20937757,Chengdu,,China,Time in China,14378.18,"http://dbpedia.org/resource/Chengdu__PoliticalFunction__1, http://dbpedia.org/resource/Chengdu__PoliticalFunction__2, http://dbpedia.org/resource/Chengdu__PoliticalFunction__3, http://dbpedia.org/resource/Chengdu__PoliticalFunction__4",16045577
+Chifeng,4035967,Chifeng,,China,China Standard Time,90275.0,,1175391
+Chimbas,87258,Chimbas,,Argentina,Time in Argentina,,http://dbpedia.org/resource/Chimbas__PoliticalFunction__1,
+Chittagong,2581643,Chittagong,,,Bangladesh Standard Time,168.07,"http://dbpedia.org/resource/Chittagong__PoliticalFunction__1, http://dbpedia.org/resource/Chittagong__PoliticalFunction__2",4627000
+Chongqing,32054159,Chongqing,,China,China Standard Time,82403.0,"http://dbpedia.org/resource/Chongqing__PoliticalFunction__1, http://dbpedia.org/resource/Chongqing__PoliticalFunction__2, http://dbpedia.org/resource/Chongqing__PoliticalFunction__3, http://dbpedia.org/resource/Chongqing__PoliticalFunction__4",
+Chuadanga,224576,,,Bangladesh,Bangladesh Standard Time,38.0,http://dbpedia.org/resource/Chuadanga__PoliticalFunction__1,276000
+Chuzhou,3937868,Chuzhou,,China,China Standard Time,13523.21,"http://dbpedia.org/resource/Chuzhou__PoliticalFunction__1, http://dbpedia.org/resource/Chuzhou__PoliticalFunction__2",1198719
+Cianorte,83816,,,Brazil,UTC-3,811.7,,134426
+Ciego de Ávila,497329,City of Ciego de Avila,,Cuba,Eastern Time Zone,445.0,,756373
+City of Clarence,56945,Clarence City Council,,Australia,,,,
+City of Penrith,196066,City of Penrith,,Australia,Australian Eastern Standard Time,,,
+Ciudad Evita,68650,,,Argentina,,22.3,,
+"Cixi, Zhejiang",1462383,Cixi,,China,China Standard Time,1360.63,,3083520
+Cixi City,,,,,,,,
+Cochabamba,,,,Bolivia,BOT,170.0,http://dbpedia.org/resource/Cochabamba__PoliticalFunction__1,1370104
+Coihueco,25159,Coihueco,,Chile,Time in Chile,1776.6,http://dbpedia.org/resource/Coihueco__PoliticalFunction__1,
+"Colares, Pará",12131,,,Brazil,Time in Brazil,609.776,"http://dbpedia.org/resource/Colares,_Pará__PoliticalFunction__1",
+"College Park, Saskatoon",5470,"College Park, École Cardinal Leger School, École College Park School",,Canada,UTC,1.78,"http://dbpedia.org/resource/College_Park,_Saskatoon__PoliticalFunction__1, http://dbpedia.org/resource/College_Park,_Saskatoon__PoliticalFunction__2",
+Colombo,752993,Colombo,,Sri Lanka,Sri Lanka Standard Time,"37.31, 37.32172866994176","http://dbpedia.org/resource/Colombo__PoliticalFunction__1, http://dbpedia.org/resource/Colombo__PoliticalFunction__2, http://dbpedia.org/resource/Colombo__PoliticalFunction__3",5648000
+"Concepción, Chile, Concepción, Chile","223574, 223574","Concepción, Concepción",,"Chile, Chile","Time in Chile, Time in Chile","222.0, 222.0","http://dbpedia.org/resource/Concepción,_Chile__PoliticalFunction__1, http://dbpedia.org/resource/Concepción,_Chile__PoliticalFunction__1","971285, 971285"
+Copenhagen,1366301,Copenhagen,,Denmark,Central European Time,183.2,,2135634
+"Cornwall, Ontario",46589,Cornwall,,Canada,Eastern Time Zone,,"http://dbpedia.org/resource/Cornwall,_Ontario__PoliticalFunction__1, http://dbpedia.org/resource/Cornwall,_Ontario__PoliticalFunction__2, http://dbpedia.org/resource/Cornwall,_Ontario__PoliticalFunction__3, http://dbpedia.org/resource/Cornwall,_Ontario__PoliticalFunction__4",59699
+Cornélio Procópio,47842,,,Brazil,UTC −3,635100.0,http://dbpedia.org/resource/Cornélio_Procópio__PoliticalFunction__1,
+Coronel Du Graty,9015,,,Argentina,,,http://dbpedia.org/resource/Coronel_Du_Graty__PoliticalFunction__1,
+Cowansville,15234,Cowansville,,Canada,Eastern Time Zone,48.7,"http://dbpedia.org/resource/Cowansville__PoliticalFunction__1, http://dbpedia.org/resource/Cowansville__PoliticalFunction__2, http://dbpedia.org/resource/Cowansville__PoliticalFunction__3",15234
+Criciúma,217311,Criciúma,,Brazil,UTC-3,235.628,http://dbpedia.org/resource/Criciúma__PoliticalFunction__1,
+"Cruz, Ceará",24977,,,Brazil,Time in Brazil,334121.0,"http://dbpedia.org/resource/Cruz,_Ceará__PoliticalFunction__1",
+Cuiabá,618124,Cuiabá,,Brazil,UTC,3291.0,http://dbpedia.org/resource/Cuiabá__PoliticalFunction__1,927362
+Curanilahue,32000,Curanilahue,,Chile,Time in Chile,994.3,http://dbpedia.org/resource/Curanilahue__PoliticalFunction__1,
+Curitiba,1948626,Curitiba,,Brazil,UTC-3,"430.9, 430.9740215599104",http://dbpedia.org/resource/Curitiba__PoliticalFunction__1,3400100
+Curuzú Cuatiá,34470,Curuzú Cuatiá,,Argentina,Time in Argentina,,http://dbpedia.org/resource/Curuzú_Cuatiá__PoliticalFunction__1,
+"Córdoba, Argentina",,Córdoba,,Argentina,Time in Argentina,,"http://dbpedia.org/resource/Córdoba,_Argentina__PoliticalFunction__1",1528000
+Cúcuta,777106,,,Colombia,Time in Colombia,1119.0,http://dbpedia.org/resource/Cúcuta__PoliticalFunction__1,1046347
+Dalian,7450785,Dalian,,China,Time in China,13743.0,"http://dbpedia.org/resource/Dalian__PoliticalFunction__1, http://dbpedia.org/resource/Dalian__PoliticalFunction__2, http://dbpedia.org/resource/Dalian__PoliticalFunction__3, http://dbpedia.org/resource/Dalian__PoliticalFunction__4",5106719
+"Danyang, Jiangsu",806300,Danyang,,,China Standard Time,1047.0,,
+Daqing,2781562,Daqing,,People's Republic of China,China Standard Time,22161.0,"http://dbpedia.org/resource/Daqing__PoliticalFunction__1, http://dbpedia.org/resource/Daqing__PoliticalFunction__2",1574389
+Datong,3105591,Datong,,People's Republic of China,China Standard Time,14068.0,"http://dbpedia.org/resource/Datong__PoliticalFunction__1, http://dbpedia.org/resource/Datong__PoliticalFunction__2",1790452
+Davyd-Haradok,5919,Davyd-Haradok,,Belarus,Eastern European Time,,,
+Dazhou,5385422,Dazhou,,China,China Standard Time,16591.0,,1850869
+Deinze,,Deinze,Christian Democratic and Flemish,Belgium,,,,
+Desamparados,33866,Desamparados,,Costa Rica,360.0,3.31,,
+Dhaka,,Dhaka,,Bangladesh,Bangladesh Standard Time,,"http://dbpedia.org/resource/Dhaka__PoliticalFunction__1, http://dbpedia.org/resource/Dhaka__PoliticalFunction__2, http://dbpedia.org/resource/Dhaka__PoliticalFunction__3",21741090
+Dongguan,10466625,Dongguan,,China,China Standard Time,2465.0,"http://dbpedia.org/resource/Dongguan__PoliticalFunction__1, http://dbpedia.org/resource/Dongguan__PoliticalFunction__2, http://dbpedia.org/resource/Dongguan__PoliticalFunction__3, http://dbpedia.org/resource/Dongguan__PoliticalFunction__4",65655622
+Dongtai,1098100,Dongtai,,,China Standard Time,3175.67,,
+Dongying,2193518,Dongying,,People's Republic of China,China Standard Time,7923.26,"http://dbpedia.org/resource/Dongying__PoliticalFunction__1, http://dbpedia.org/resource/Dongying__PoliticalFunction__2",1188656
+Douala,5768400,,,Cameroon,West Africa Time,210.0,http://dbpedia.org/resource/Douala__PoliticalFunction__1,
+Drummondville,68601,Drummondville,,Canada,Eastern Time Zone,260.1,"http://dbpedia.org/resource/Drummondville__PoliticalFunction__1, http://dbpedia.org/resource/Drummondville__PoliticalFunction__2, http://dbpedia.org/resource/Drummondville__PoliticalFunction__3",96118
+Dubrovnik,42615,"Dubrovnik, Old City of Dubrovnik",,Croatia,Central European Time,21.35,"http://dbpedia.org/resource/Dubrovnik__PoliticalFunction__1, http://dbpedia.org/resource/Dubrovnik__PoliticalFunction__2",65808
+Duque de Caxias,,,,,,,,
+Dédougou,63617,Dédougou,,Burkina Faso,Greenwich Mean Time,,,
+"East District, Chiayi",120598,East District,,"Chiayi, Taiwan",National Standard Time,29.1195,"http://dbpedia.org/resource/East_District,_Chiayi__PoliticalFunction__1",
+Edmonton,1010899,Edmonton,,,Mountain Time Zone,,"http://dbpedia.org/resource/Edmonton__PoliticalFunction__1, http://dbpedia.org/resource/Edmonton__PoliticalFunction__2, http://dbpedia.org/resource/Edmonton__PoliticalFunction__3, http://dbpedia.org/resource/Edmonton__PoliticalFunction__4, http://dbpedia.org/resource/Edmonton__PoliticalFunction__5",1418118
+El Quisco,11329,El Quisco,,Chile,Time in Chile,50.7,http://dbpedia.org/resource/El_Quisco__PoliticalFunction__1,
+Envigado,232854,Envigado,,Colombia,Colombia Standard Time,78.78,http://dbpedia.org/resource/Envigado__PoliticalFunction__1,225266
+Ezhou,1079353,Ezhou,,,China Standard Time,1593.54,,1152559
+"Farah, Afghanistan",1000000,,,Afghanistan,270.0,,"http://dbpedia.org/resource/Farah,_Afghanistan__PoliticalFunction__1",
+"Federación, Entre Ríos",16658,Federación,,Argentina,Time in Argentina,,,
+Feicheng,968100,Feicheng city,,China,China Standard Time,1277.0,,
+"Fengcheng, Liaoning",580000,Fengcheng,,People's Republic of China,China Standard Time,5515.0,,
+"Fernie, British Columbia",5249,Fernie,,Canada,Mountain Standard Time Zone,13.5,"http://dbpedia.org/resource/Fernie,_British_Columbia__PoliticalFunction__1, http://dbpedia.org/resource/Fernie,_British_Columbia__PoliticalFunction__2, http://dbpedia.org/resource/Fernie,_British_Columbia__PoliticalFunction__3, http://dbpedia.org/resource/Fernie,_British_Columbia__PoliticalFunction__4",7192
+"Ferreiros, Pernambuco",12170,Ferreiros,,Brazil,Time in Brazil,92.1,,
+Florianópolis,508826,Florianópolis,,Brazil,UTC-3,675.409,http://dbpedia.org/resource/Florianópolis__PoliticalFunction__1,1111702
+Fortaleza,2703391,Fortaleza,,Brazil,Time in Brazil,312.353,"http://dbpedia.org/resource/Fortaleza__PoliticalFunction__1, http://dbpedia.org/resource/Fortaleza__PoliticalFunction__2",4167996
+Foshan,9498863,Foshan,,China,China Standard Time,3848.0,"http://dbpedia.org/resource/Foshan__PoliticalFunction__1, http://dbpedia.org/resource/Foshan__PoliticalFunction__2",65594622
+Franca,359,,,Brazil,Time in Brazil,606.0,http://dbpedia.org/resource/Franca__PoliticalFunction__1,483383
+Francistown,103417,,,Botswana,Central Africa Time,79.0,http://dbpedia.org/resource/Francistown__PoliticalFunction__1,147122
+Fredericton,63116,Fredericton,,Canada,Atlantic Time Zone,132.57,"http://dbpedia.org/resource/Fredericton__PoliticalFunction__1, http://dbpedia.org/resource/Fredericton__PoliticalFunction__2, http://dbpedia.org/resource/Fredericton__PoliticalFunction__3",108610
+Frutillar,19400,Frutillar,,Chile,Time in Chile,831.4,http://dbpedia.org/resource/Frutillar__PoliticalFunction__1,
+Fuqing,1381000,Fuqing,,,China Standard Time,,,
+Fushun,1854372,Fushun,,,China Standard Time,11272.0,"http://dbpedia.org/resource/Fushun__PoliticalFunction__1, http://dbpedia.org/resource/Fushun__PoliticalFunction__2",8192848
+Fuxin,1647280,Fuxin,,People's Republic of China,China Standard Time,10316.85,"http://dbpedia.org/resource/Fuxin__PoliticalFunction__1, http://dbpedia.org/resource/Fuxin__PoliticalFunction__2",716494
+Fuyang,8200264,Fuyang,,,China Standard Time,9775.0,"http://dbpedia.org/resource/Fuyang__PoliticalFunction__1, http://dbpedia.org/resource/Fuyang__PoliticalFunction__2",2128538
+Fuzhou,8291268,Fuzhou,,China,China Standard Time,12231.9,"http://dbpedia.org/resource/Fuzhou__PoliticalFunction__1, http://dbpedia.org/resource/Fuzhou__PoliticalFunction__2, http://dbpedia.org/resource/Fuzhou__PoliticalFunction__3, http://dbpedia.org/resource/Fuzhou__PoliticalFunction__4",
+"Fuzhou, Jiangxi",,Fuzhou,,,China Standard Time,,,
+Gaborone,246325,,,Botswana,Central Africa Time,169.0,"http://dbpedia.org/resource/Gaborone__PoliticalFunction__1, http://dbpedia.org/resource/Gaborone__PoliticalFunction__2",421907
+Ganzhou,8970014,Ganzhou,,China,Time in China,39379.64,"http://dbpedia.org/resource/Ganzhou__PoliticalFunction__1, http://dbpedia.org/resource/Ganzhou__PoliticalFunction__2",2588060
+Gaozhou,1328658,Gaozhou,,People's Republic of China,China Standard Time,3270.8,,
+Gatineau,291041,Gatineau,,Canada,Eastern Time Zone,381.3,"http://dbpedia.org/resource/Gatineau__PoliticalFunction__1, http://dbpedia.org/resource/Gatineau__PoliticalFunction__2, http://dbpedia.org/resource/Gatineau__PoliticalFunction__3",1488307
+Gavião Peixoto,4815,,,Brazil,Time in Brazil,244.0,http://dbpedia.org/resource/Gavião_Peixoto__PoliticalFunction__1,
+"General Alvear, Buenos Aires",9812,,,Argentina,,,,
+General Cabrera,11734,General Cabrera,,Argentina,Time in Argentina,,,
+General Deheza,11061,General Deheza,,Argentina,Time in Argentina,,,
+General Pacheco,43287,,,Argentina,,,,
+General Pico,56795,General Pico,,Argentina,Time in Argentina,,http://dbpedia.org/resource/General_Pico__PoliticalFunction__1,
+Ghent,,Ghent,Mathias De Clercq,Belgium,,,,
+Goiana,80055,Goiana,,Brazil,Time in Brazil,501.17,http://dbpedia.org/resource/Goiana__PoliticalFunction__1,
+Goiânia,1536097,Goiânia,,Brazil,UTC,789.0,http://dbpedia.org/resource/Goiânia__PoliticalFunction__1,2654860
+Gongzhuling,1073000,Gongzhuling,,People's Republic of China,China Standard Time,4172.6,,
+González Catán,163815,,,Argentina,,,,
+"Gornji Grad, Osijek",16520,Gornji Grad,,Croatia,,,"http://dbpedia.org/resource/Gornji_Grad,_Osijek__PoliticalFunction__1",
+Granadero Baigorria,43000,Granadero Baigorria,,Argentina,Time in Argentina,12.0,http://dbpedia.org/resource/Granadero_Baigorria__PoliticalFunction__1,
+"Greystone Heights, Saskatoon",2525,"Greystone Heights, Greystone Heights School, St. Frances Cree Bilingual School - Bateman",,Canada,UTC,0.98,"http://dbpedia.org/resource/Greystone_Heights,_Saskatoon__PoliticalFunction__1, http://dbpedia.org/resource/Greystone_Heights,_Saskatoon__PoliticalFunction__2",
+"Grosvenor Park, Saskatoon",1697,"Grosvenor Park, Saskatoon Misbah School",,Canada,UTC,0.65,"http://dbpedia.org/resource/Grosvenor_Park,_Saskatoon__PoliticalFunction__1, http://dbpedia.org/resource/Grosvenor_Park,_Saskatoon__PoliticalFunction__2",
+Guangyuan,2305657,Guangyuan,,China,China Standard Time,16313.78,,
+Guangzhou,18676605,Guangzhou,,,Time in China,7434.4,"http://dbpedia.org/resource/Guangzhou__PoliticalFunction__1, http://dbpedia.org/resource/Guangzhou__PoliticalFunction__2, http://dbpedia.org/resource/Guangzhou__PoliticalFunction__3, http://dbpedia.org/resource/Guangzhou__PoliticalFunction__4",65594622
+Guantánamo,210407,,,Cuba,Eastern Time Zone,741.4,,216734
+Guarulhos,1392121,Guarulhos,,,Time in Brazil,318.68,http://dbpedia.org/resource/Guarulhos__PoliticalFunction__1,
+Guigang,4316262,Guigang,,People's Republic of China,China Standard Time,10601.0,,1277231
+Guilin,4931137,Guilin,,People's Republic of China,Time in China,27797.0,,2148641
+Guiping,1700000,Guiping,,,Time in China,4074.0,,
+Guiyang,5987018,Guiyang,,China,China Standard Time,8034.0,"http://dbpedia.org/resource/Guiyang__PoliticalFunction__1, http://dbpedia.org/resource/Guiyang__PoliticalFunction__2, http://dbpedia.org/resource/Guiyang__PoliticalFunction__3, http://dbpedia.org/resource/Guiyang__PoliticalFunction__4",4506134
+Hadsund,5414,Hadsund,,Denmark,Central Europe Time,,http://dbpedia.org/resource/Hadsund__PoliticalFunction__1,
+Hai'an,863000,Hai'an,,China,Time in China,1180.0,,
+"Haicheng, Liaoning",1067905,Haicheng,,People's Republic of China,China Standard Time,2576.0,,
+Haikou,2046189,Haikou,,China,China Standard Time,2237.0,"http://dbpedia.org/resource/Haikou__PoliticalFunction__1, http://dbpedia.org/resource/Haikou__PoliticalFunction__2, http://dbpedia.org/resource/Haikou__PoliticalFunction__3, http://dbpedia.org/resource/Haikou__PoliticalFunction__4",2046189
+Haimen,,,,,,,,
+Haining,1076199,Haining,,China,China Standard Time,700.5,,1076199
+Handan,9433000,Handan,,,China Standard Time,12068.0,,
+Hangzhou,11936010,Hangzhou,,China,China Standard Time,16821.1,"http://dbpedia.org/resource/Hangzhou__PoliticalFunction__1, http://dbpedia.org/resource/Hangzhou__PoliticalFunction__2, http://dbpedia.org/resource/Hangzhou__PoliticalFunction__3, http://dbpedia.org/resource/Hangzhou__PoliticalFunction__4",13035329
+Hanzhong,3211462,Hanzhong,,China,China Standard Time,27246.0,"http://dbpedia.org/resource/Hanzhong__PoliticalFunction__1, http://dbpedia.org/resource/Hanzhong__PoliticalFunction__2",1084448
+Harbin,10009854,Harbin,,China men's national basketball team,China Standard Time,53068.0,"http://dbpedia.org/resource/Harbin__PoliticalFunction__1, http://dbpedia.org/resource/Harbin__PoliticalFunction__2, http://dbpedia.org/resource/Harbin__PoliticalFunction__3, http://dbpedia.org/resource/Harbin__PoliticalFunction__4",5841929
+Havana,2383517,Havana,,Cuba,300.0,728.26,http://dbpedia.org/resource/Havana__PoliticalFunction__1,3929028
+Hechuan District,1530000,Hechuan,,China,China Standard Time,2356.21,,
+Hefei,9465881,Hefei,,China,China Standard Time,11434.25,"http://dbpedia.org/resource/Hefei__PoliticalFunction__1, http://dbpedia.org/resource/Hefei__PoliticalFunction__2, http://dbpedia.org/resource/Hefei__PoliticalFunction__3, http://dbpedia.org/resource/Hefei__PoliticalFunction__4",7754481
+Heihe,1286401,Heihe,,China,China Standard Time,54390.0,"http://dbpedia.org/resource/Heihe__PoliticalFunction__1, http://dbpedia.org/resource/Heihe__PoliticalFunction__2",223832
+Hengyang,6645243,Hengyang,,,China Standard Time,15279.0,,1290715
+Heze,8287693,Heze,,China,China Standard Time,12256.0,"http://dbpedia.org/resource/Heze__PoliticalFunction__1, http://dbpedia.org/resource/Heze__PoliticalFunction__2",1346717
+Hijuelas,15876,Hijuelas,,Chile,Time in Chile,267.2,http://dbpedia.org/resource/Hijuelas__PoliticalFunction__1,
+Hohhot,3446100,Hohhot,,China,China Standard Time,17186.1,"http://dbpedia.org/resource/Hohhot__PoliticalFunction__1, http://dbpedia.org/resource/Hohhot__PoliticalFunction__2, http://dbpedia.org/resource/Hohhot__PoliticalFunction__3, http://dbpedia.org/resource/Hohhot__PoliticalFunction__4",2944889
+"Holliston, Saskatoon",3412,"Holliston, Holliston School, Sion Middle School",,Canada,UTC,1.22,"http://dbpedia.org/resource/Holliston,_Saskatoon__PoliticalFunction__1, http://dbpedia.org/resource/Holliston,_Saskatoon__PoliticalFunction__2",
+Hong Kong,,Hong Kong,,,Hong Kong Time,,,
+Honghu,819446,Honghu,,,China Standard Time,,,
+Huai'an,4556230,Huai'an,,China,China Standard Time,9950.0,http://dbpedia.org/resource/Huai'an__PoliticalFunction__1,2544767
+Huaibei,1970265,Huaibei,,China,China Standard Time,2740.9,"http://dbpedia.org/resource/Huaibei__PoliticalFunction__1, http://dbpedia.org/resource/Huaibei__PoliticalFunction__2",1970265
+Huainan,3033528,Huainan,,China,China Standard Time,5530.0,"http://dbpedia.org/resource/Huainan__PoliticalFunction__1, http://dbpedia.org/resource/Huainan__PoliticalFunction__2",1868944
+Huangshan City,1470000,Huangshan,,China,China Standard Time,9807.4,"http://dbpedia.org/resource/Huangshan_City__PoliticalFunction__1, http://dbpedia.org/resource/Huangshan_City__PoliticalFunction__2",410973
+Huangshi,2469079,Huangshi,,,China Standard Time,4582.85,,1567108
+"Huazhou, Guangdong",1178809,Huazhou,,,China Standard Time,2354.0,,
+"Hudson, Quebec",5157,Hudson,,Canada,Eastern Time Zone,36.5,"http://dbpedia.org/resource/Hudson,_Quebec__PoliticalFunction__1, http://dbpedia.org/resource/Hudson,_Quebec__PoliticalFunction__2, http://dbpedia.org/resource/Hudson,_Quebec__PoliticalFunction__3",
+Huludao,2434194,Huludao,,People's Republic of China,China Standard Time,10582.0,"http://dbpedia.org/resource/Huludao__PoliticalFunction__1, http://dbpedia.org/resource/Huludao__PoliticalFunction__2",1252660
+"Humboldt, Saskatchewan",5869,"Humboldt, St. Augustine School, Humboldt Collegiate, Humboldt Public School, St. Dominic School",,Canada,North American Central Time Zone,11.66,"http://dbpedia.org/resource/Humboldt,_Saskatchewan__PoliticalFunction__1, http://dbpedia.org/resource/Humboldt,_Saskatchewan__PoliticalFunction__2, http://dbpedia.org/resource/Humboldt,_Saskatchewan__PoliticalFunction__3, http://dbpedia.org/resource/Humboldt,_Saskatchewan__PoliticalFunction__4",
+Huzhou,3367579,Huzhou,,China,China Standard Time,5818.43,"http://dbpedia.org/resource/Huzhou__PoliticalFunction__1, http://dbpedia.org/resource/Huzhou__PoliticalFunction__2",1015937
+"Igarassu, Pernambuco",118370,Igarassu,,Brazil,Time in Brazil,305.56,"http://dbpedia.org/resource/Igarassu,_Pernambuco__PoliticalFunction__1",
+Industrijska četvrt,6920,Industrijska četvrt,,Croatia,,,http://dbpedia.org/resource/Industrijska_četvrt__PoliticalFunction__1,
+Inhapim,24079,,,Brazil,Time in Brazil,858.0,http://dbpedia.org/resource/Inhapim__PoliticalFunction__1,
+Integrated urban water management in Medellín,2223078,Medellín,,Colombia,,382.0,,3312165
+"Itambé, Pernambuco",36126,Itambé,,Brazil,,304.38,,
+Itapipoca,130539,,,Brazil,Time in Brazil,1614.682,http://dbpedia.org/resource/Itapipoca__PoliticalFunction__1,
+"Ituzaingó, Buenos Aires",168419,,,Argentina,,,,
+"Jamalpur, Bangladesh",142764,,,Bangladesh,Bangladesh Standard Time,55.2,"http://dbpedia.org/resource/Jamalpur,_Bangladesh__PoliticalFunction__1",
+Jiangdu District,926577,Jiangdu,,,China Standard Time,1518.7798,,
+"Jianyang, Fujian",,,,,,,,
+Jiaxing,5400868,Jiaxing,,China,China Standard Time,4008.76,"http://dbpedia.org/resource/Jiaxing__PoliticalFunction__1, http://dbpedia.org/resource/Jiaxing__PoliticalFunction__2",1518654
+Jihlava,50108,Jihlava,,Czechia,Central European Time,87.86,http://dbpedia.org/resource/Jihlava__PoliticalFunction__1,
+Jimo,,,,,,,,
+Jinan,9202432,Jinan,,China,China Standard Time,10247.0,"http://dbpedia.org/resource/Jinan__PoliticalFunction__1, http://dbpedia.org/resource/Jinan__PoliticalFunction__2, http://dbpedia.org/resource/Jinan__PoliticalFunction__3, http://dbpedia.org/resource/Jinan__PoliticalFunction__4",5452335
+Jingzhou,5231180,Jingzhou,,China,China Standard Time,14068.68,,1068291
+Jinhua,7050683,Jinhua,,China,China Standard Time,10926.16,"http://dbpedia.org/resource/Jinhua__PoliticalFunction__1, http://dbpedia.org/resource/Jinhua__PoliticalFunction__2",1463990
+Jining,8081905,Jining,,,China Standard Time,11186.97,"http://dbpedia.org/resource/Jining__PoliticalFunction__1, http://dbpedia.org/resource/Jining__PoliticalFunction__2",1518000
+"Jinjiang, Fujian",1986447,Jinjiang,,,Time in China,721.7,,
+Jinzhou,2703853,Jinzhou,,People's Republic of China,China Standard Time,9988.6,"http://dbpedia.org/resource/Jinzhou__PoliticalFunction__1, http://dbpedia.org/resource/Jinzhou__PoliticalFunction__2",1524362
+Jixi,1502060,Jixi,,People's Republic of China,China Standard Time,22488.47,"http://dbpedia.org/resource/Jixi__PoliticalFunction__1, http://dbpedia.org/resource/Jixi__PoliticalFunction__2",560118
+Joliette,20484,Joliette,,Canada,Eastern Time Zone,23.6,"http://dbpedia.org/resource/Joliette__PoliticalFunction__1, http://dbpedia.org/resource/Joliette__PoliticalFunction__2, http://dbpedia.org/resource/Joliette__PoliticalFunction__3",49439
+"João Pessoa, Paraíba",817511,João Pessoa,,Brazil,UTC−3,211.475,"http://dbpedia.org/resource/João_Pessoa,_Paraíba__PoliticalFunction__1",1290223
+Kabinda,219154,Kabinda,,Democratic Republic of the Congo,Central Africa Time,27.0,http://dbpedia.org/resource/Kabinda__PoliticalFunction__1,
+Kabul,4601789,Kabul / Cabul,,Afghanistan,Afghanistan Standard Time,1028.24,"http://dbpedia.org/resource/Kabul__PoliticalFunction__1, http://dbpedia.org/resource/Kabul__PoliticalFunction__2",
+Kaifeng,4824016,Kaifeng,,China,China Standard Time,6247.0,,1652000
+"Kaiyuan, Yunnan",299000,Kaiyuan,,China,,1946.51,,
+Kamloops,97902,Kamloops,,Canada,Pacific Time Zone,,"http://dbpedia.org/resource/Kamloops__PoliticalFunction__1, http://dbpedia.org/resource/Kamloops__PoliticalFunction__2, http://dbpedia.org/resource/Kamloops__PoliticalFunction__3, http://dbpedia.org/resource/Kamloops__PoliticalFunction__4",114142
+Kampong Chhnang (city),41080,Kampong Chhnang,,Cambodia,Time in Cambodia,,,
+Kelowna,144576,Kelowna,,Canada,Pacific Time Zone,211.85,"http://dbpedia.org/resource/Kelowna__PoliticalFunction__1, http://dbpedia.org/resource/Kelowna__PoliticalFunction__2, http://dbpedia.org/resource/Kelowna__PoliticalFunction__3",222162
+Khemis Miliana,84574,,,Algeria,West Africa Time,,,80512
+Khulna,,,,Bangladesh,Bangladesh Standard Time,150.3,"http://dbpedia.org/resource/Khulna__PoliticalFunction__1, http://dbpedia.org/resource/Khulna__PoliticalFunction__2",1500689
+Kinshasa,17071000,Kinshasa,,Democratic Republic of the Congo,West Africa Time,9965.0,"http://dbpedia.org/resource/Kinshasa__PoliticalFunction__1, http://dbpedia.org/resource/Kinshasa__PoliticalFunction__2",17239463
+Kisangani,1602144,Kisangani,,DR Congo,Central Africa Time,1910.0,http://dbpedia.org/resource/Kisangani__PoliticalFunction__1,
+"Kitchener, Ontario",256885,Kitchener,,Canada,North American Eastern Time Zone,136.81,"http://dbpedia.org/resource/Kitchener,_Ontario__PoliticalFunction__1, http://dbpedia.org/resource/Kitchener,_Ontario__PoliticalFunction__2",575847
+Klouékanmè,128537,Klouékanmè,,Benin,West Africa Time,250.0,,
+Kolwezi,572942,Kolwezi,,DR Congo,Central Africa Time,213.0,http://dbpedia.org/resource/Kolwezi__PoliticalFunction__1,
+Kowloon,2108419,,,,Hong Kong Time,,,
+Kunming,8460088,Kunming,,China,China Standard Time,21473.0,"http://dbpedia.org/resource/Kunming__PoliticalFunction__1, http://dbpedia.org/resource/Kunming__PoliticalFunction__2, http://dbpedia.org/resource/Kunming__PoliticalFunction__3, http://dbpedia.org/resource/Kunming__PoliticalFunction__4",5604310
+Kushtia,,,,Bangladesh,Bangladesh Standard Time,,http://dbpedia.org/resource/Kushtia__PoliticalFunction__1,550000
+L'Île-Cadieux,126,L'Île-Cadieux,,Canada,Eastern Time Zone,8.9,"http://dbpedia.org/resource/L'Île-Cadieux__PoliticalFunction__1, http://dbpedia.org/resource/L'Île-Cadieux__PoliticalFunction__2, http://dbpedia.org/resource/L'Île-Cadieux__PoliticalFunction__3",
+La Matanza Partido,1775272,La Matanza,,Argentina,,325.71,http://dbpedia.org/resource/La_Matanza_Partido__PoliticalFunction__1,
+La Paz,766468,La Paz,,Bolivia,UTC−4,472.0,http://dbpedia.org/resource/La_Paz__PoliticalFunction__1,2187223
+La Plata,,La Plata,,,Time in Argentina,,,
+"La Prairie, Quebec",23357,La Prairie,,Canada,Eastern Time Zone,54.8,"http://dbpedia.org/resource/La_Prairie,_Quebec__PoliticalFunction__1, http://dbpedia.org/resource/La_Prairie,_Quebec__PoliticalFunction__2, http://dbpedia.org/resource/La_Prairie,_Quebec__PoliticalFunction__3",
+"La Romana, Dominican Republic",130426,La Romana,,Dominican Republic,,185.52,,250000
+Laiwu,,,,,,,,
+Laizhou,843600,Laizhou,,China,China Standard Time,1928.0,"http://dbpedia.org/resource/Laizhou__PoliticalFunction__1, http://dbpedia.org/resource/Laizhou__PoliticalFunction__2",
+"Lakeridge, Saskatoon",4051,"Lakeridge, Lakeridge School, St. Luke School",,Canada,UTC,1.2,"http://dbpedia.org/resource/Lakeridge,_Saskatoon__PoliticalFunction__1, http://dbpedia.org/resource/Lakeridge,_Saskatoon__PoliticalFunction__2",
+"Lakeview, Saskatoon",7732,"Lakeview, St. Bernard School, École Lakeview School",,Canada,UTC,1.99,"http://dbpedia.org/resource/Lakeview,_Saskatoon__PoliticalFunction__1, http://dbpedia.org/resource/Lakeview,_Saskatoon__PoliticalFunction__2",
+Langfang,5464087,Langfang,,China,China Standard Time,6417.28,,1147591
+Lanzhou,4359446,Lanzhou,,China,China Standard Time,13086.9,"http://dbpedia.org/resource/Lanzhou__PoliticalFunction__1, http://dbpedia.org/resource/Lanzhou__PoliticalFunction__2, http://dbpedia.org/resource/Lanzhou__PoliticalFunction__3, http://dbpedia.org/resource/Lanzhou__PoliticalFunction__4",3042863
+Larnaca,51468,Larnaca,,Cyprus,Eastern European Time,,http://dbpedia.org/resource/Larnaca__PoliticalFunction__1,144200
+"Las Rosas, Santa Fe",13689,Las Rosas,,Argentina,Time in Argentina,697.0,"http://dbpedia.org/resource/Las_Rosas,_Santa_Fe__PoliticalFunction__1",
+Leshan,3160168,Leshan,,China,China Standard Time,12827.49,,1236188
+"Lianjiang, Guangdong",,Lianjiang,,,China Standard Time,2835.0,,
+Liaocheng,5952128,Liaocheng,,,China Standard Time,8721.0,"http://dbpedia.org/resource/Liaocheng__PoliticalFunction__1, http://dbpedia.org/resource/Liaocheng__PoliticalFunction__2",1229768
+Lida,102700,Lida,,"Belarus, Grodno Region",Further-eastern European Time,45.8,http://dbpedia.org/resource/Lida__PoliticalFunction__1,
+Limassol,101000,Limassol,,Cyprus,Eastern European Time,56.87,http://dbpedia.org/resource/Limassol__PoliticalFunction__1,240842
+"Limbe, Cameroon",84223,,,Cameroon,,,,
+"Lincoln, Buenos Aires",28051,,,Argentina,,,,
+Linhai,1114146,Linhai,,China,China Standard Time,2171.0,,1114146
+Linqing,759100,Linqing,,China,China Standard Time,950.0,,
+Linxia City,291900,Linxia,,China,China Standard Time,88.6,"http://dbpedia.org/resource/Linxia_City__PoliticalFunction__1, http://dbpedia.org/resource/Linxia_City__PoliticalFunction__2",
+Linyi,11018365,Linyi,,China,China Standard Time,17192.0,"http://dbpedia.org/resource/Linyi__PoliticalFunction__1, http://dbpedia.org/resource/Linyi__PoliticalFunction__2",3651868
+Liuyang,1278928,Liuyang,,People's Republic of China,China Standard Time,5008.0,,
+Liuzhou,3758700,Liuzhou,,People's Republic of China,China Standard Time,18677.0,,2153419
+Liège,,Liège,Willy Demeyer,Belgium,,,,
+Lokossa,106081,Lokossa,,Benin,West Africa Time,260.0,,
+"London, Ontario",422324,London,,Canada,Eastern Time Zone,,"http://dbpedia.org/resource/London,_Ontario__PoliticalFunction__1, http://dbpedia.org/resource/London,_Ontario__PoliticalFunction__2, http://dbpedia.org/resource/London,_Ontario__PoliticalFunction__3, http://dbpedia.org/resource/London,_Ontario__PoliticalFunction__4",543551
+Los Vilos,18275,,,Chile,Time in Chile,1860.6,http://dbpedia.org/resource/Los_Vilos__PoliticalFunction__1,
+Lu'an,4393699,Lu'an,,,China Standard Time,15436.0,"http://dbpedia.org/resource/Lu'an__PoliticalFunction__1, http://dbpedia.org/resource/Lu'an__PoliticalFunction__2",1752537
+Luanda,2571861,Luanda,,Angola,+1,116.0,,8330000
+Lubumbashi,,Lubumbashi,,Democratic Republic of the Congo,Central Africa Time,,http://dbpedia.org/resource/Lubumbashi__PoliticalFunction__1,
+"Lufeng, Guangdong",,Lufeng,,,China Standard Time,1681.0,,
+Luoyang,7056699,Luoyang,,People's Republic of China,China Standard Time,15229.15,"http://dbpedia.org/resource/Luoyang__PoliticalFunction__1, http://dbpedia.org/resource/Luoyang__PoliticalFunction__2",2751400
+"Léry, Quebec",2307,Léry,,Canada,Eastern Time Zone,10.2,"http://dbpedia.org/resource/Léry,_Quebec__PoliticalFunction__1, http://dbpedia.org/resource/Léry,_Quebec__PoliticalFunction__2, http://dbpedia.org/resource/Léry,_Quebec__PoliticalFunction__3",
+Ma'anshan,2159930,Ma'anshan,,China,China Standard Time,4053.0,"http://dbpedia.org/resource/Ma'anshan__PoliticalFunction__1, http://dbpedia.org/resource/Ma'anshan__PoliticalFunction__2",1253960
+Macamic,2734,Macamic,,Canada,Eastern Time Zone,238.4,"http://dbpedia.org/resource/Macamic__PoliticalFunction__1, http://dbpedia.org/resource/Macamic__PoliticalFunction__2, http://dbpedia.org/resource/Macamic__PoliticalFunction__3",
+Maceió,1031597,Maceió,,Brazil,Brasilia Time,511.0,http://dbpedia.org/resource/Maceió__PoliticalFunction__1,
+Macheng,849092,Macheng,,,China Standard Time,3600.0,,
+Manaus,2219580,Manaus,,Brazil,Time in Brazil,"11401.04996205576, 11401.092",http://dbpedia.org/resource/Manaus__PoliticalFunction__1,2676936
+Manizales,434403,,,Colombia,Eastern Time Zone,571.84,http://dbpedia.org/resource/Manizales__PoliticalFunction__1,552155
+Mar de Ajó,25520,,,Argentina,,,,
+"Masty, Belarus",15770,Masty,,Belarus,Eastern European Time,,,
+Mazyr,112348,Mazyr,,Belarus,Further-eastern European Time,44.1381,,
+Mbuji-Mayi,,Mbuji-Mayi,,Congo - Kinshasa,Central Africa Time,,http://dbpedia.org/resource/Mbuji-Mayi__PoliticalFunction__1,
+"Medellín, Medellín","2569007, 2569007","Medellín, Medellín",,"Colombia, Colombia","COT, COT","380.64, 380.64","http://dbpedia.org/resource/Medellín__PoliticalFunction__1, http://dbpedia.org/resource/Medellín__PoliticalFunction__1","3731447, 3731447"
+Meizhou,3873239,Meizhou,,China,China Standard Time,15864.51,"http://dbpedia.org/resource/Meizhou__PoliticalFunction__1, http://dbpedia.org/resource/Meizhou__PoliticalFunction__2",992351
+Melbourne,4917750,Melbourne,,Australia,Australian Eastern Standard Time,,,
+Melipilla,108540,,,Chile,Time in Chile,1344.8,http://dbpedia.org/resource/Melipilla__PoliticalFunction__1,
+"Mendoza, Argentina",,Mendoza,,Argentina,Time in Argentina,54.0,"http://dbpedia.org/resource/Mendoza,_Argentina__PoliticalFunction__1",1033000
+Mianyang,4868243,Mianyang,,China,China Standard Time,20267.46,"http://dbpedia.org/resource/Mianyang__PoliticalFunction__1, http://dbpedia.org/resource/Mianyang__PoliticalFunction__2",2232865
+Minsk,,,,Belarus,Moscow Time,409.53,http://dbpedia.org/resource/Minsk__PoliticalFunction__1,2256263
+"Miramichi, New Brunswick",17537,Miramichi,,Canada,Atlantic Standard Time Zone,,"http://dbpedia.org/resource/Miramichi,_New_Brunswick__PoliticalFunction__1, http://dbpedia.org/resource/Miramichi,_New_Brunswick__PoliticalFunction__2, http://dbpedia.org/resource/Miramichi,_New_Brunswick__PoliticalFunction__3, http://dbpedia.org/resource/Miramichi,_New_Brunswick__PoliticalFunction__4",27523
+"Montana, Bulgaria",36455,,,Bulgaria,Eastern European Time,69.235,"http://dbpedia.org/resource/Montana,_Bulgaria__PoliticalFunction__1",
+Montreal,1762949,Montreal,,,Eastern Time Zone,431.5,"http://dbpedia.org/resource/Montreal__PoliticalFunction__1, http://dbpedia.org/resource/Montreal__PoliticalFunction__2, http://dbpedia.org/resource/Montreal__PoliticalFunction__3, http://dbpedia.org/resource/Montreal__PoliticalFunction__4",4291732
+"Montreal West, Quebec",5115,Montreal West,,Canada,Eastern Time Zone,1.42,"http://dbpedia.org/resource/Montreal_West,_Quebec__PoliticalFunction__1, http://dbpedia.org/resource/Montreal_West,_Quebec__PoliticalFunction__2, http://dbpedia.org/resource/Montreal_West,_Quebec__PoliticalFunction__3",
+Mudanjiang,2290208,Mudanjiang,,China,China Standard Time,40233.0,"http://dbpedia.org/resource/Mudanjiang__PoliticalFunction__1, http://dbpedia.org/resource/Mudanjiang__PoliticalFunction__2",930105
+Muyinga,100715,,,Burundi,,,,
+N'Dali,113604,N’Dali,,Benin,West Africa Time,3748.0,,
+"Nan'an, Fujian",1500000,Nan'an,,,China Standard Time,2036.0,,
+Nanaimo,99863,Nanaimo,,Canada,Pacific Standard Time Zone,91.3,"http://dbpedia.org/resource/Nanaimo__PoliticalFunction__1, http://dbpedia.org/resource/Nanaimo__PoliticalFunction__2, http://dbpedia.org/resource/Nanaimo__PoliticalFunction__3, http://dbpedia.org/resource/Nanaimo__PoliticalFunction__4",115459
+Nancagua,15409,Nancagua,,Chile,Time in Chile,111.3,http://dbpedia.org/resource/Nancagua__PoliticalFunction__1,
+Nanchang,6255007,Nanchang,,China,China Standard Time,7194.0,"http://dbpedia.org/resource/Nanchang__PoliticalFunction__1, http://dbpedia.org/resource/Nanchang__PoliticalFunction__2, http://dbpedia.org/resource/Nanchang__PoliticalFunction__3, http://dbpedia.org/resource/Nanchang__PoliticalFunction__4",5382162
+Nanchong,5607565,Nanchong,,,China Standard Time,12479.96,http://dbpedia.org/resource/Nanchong__PoliticalFunction__1,1936534
+Nanjing,9314685,Nanjing,,,China Standard Time,6587.0,"http://dbpedia.org/resource/Nanjing__PoliticalFunction__1, http://dbpedia.org/resource/Nanjing__PoliticalFunction__2, http://dbpedia.org/resource/Nanjing__PoliticalFunction__3, http://dbpedia.org/resource/Nanjing__PoliticalFunction__4",9648136
+Nanning,8741584,Nanning,,China,China Standard Time,22189.0,"http://dbpedia.org/resource/Nanning__PoliticalFunction__1, http://dbpedia.org/resource/Nanning__PoliticalFunction__2, http://dbpedia.org/resource/Nanning__PoliticalFunction__3, http://dbpedia.org/resource/Nanning__PoliticalFunction__4",5293359
+Nanping,2680645,Nanping,,China,China Standard Time,26278.0,"http://dbpedia.org/resource/Nanping__PoliticalFunction__1, http://dbpedia.org/resource/Nanping__PoliticalFunction__2",795448
+Nantong,7726635,Nantong,,China,China Standard Time,8544.1,"http://dbpedia.org/resource/Nantong__PoliticalFunction__1, http://dbpedia.org/resource/Nantong__PoliticalFunction__2",3766534
+"Nanyang, Henan",9713112,Nanyang,,China,China Standard Time,26591.0,"http://dbpedia.org/resource/Nanyang,_Henan__PoliticalFunction__1",2085680
+Narayanganj,1572386,,,Bangladesh,Bangladesh Standard Time,33.57,http://dbpedia.org/resource/Narayanganj__PoliticalFunction__1,2200000
+"Natal, Rio Grande do Norte",896708,Natal,,Brazil,UTC-3,"169.2557230104576, 167.3","http://dbpedia.org/resource/Natal,_Rio_Grande_do_Norte__PoliticalFunction__1",1631016
+Neijiang,3140678,Neijiang,,,China Standard Time,5385.33,,1179140
+Nesebar,13347,,,Bulgaria,Eastern European Time,31.852,http://dbpedia.org/resource/Nesebar__PoliticalFunction__1,28957
+"New London, Connecticut",27367,,,Connecticut,EST,"27.47, 27.47977385066496","http://dbpedia.org/resource/New_London,_Connecticut__PoliticalFunction__1",274055
+Ningbo,9404283,Ningbo,,China,China Standard Time,9816.23,"http://dbpedia.org/resource/Ningbo__PoliticalFunction__1, http://dbpedia.org/resource/Ningbo__PoliticalFunction__2, http://dbpedia.org/resource/Ningbo__PoliticalFunction__3, http://dbpedia.org/resource/Ningbo__PoliticalFunction__4",4479635
+Ningguo,399000,Ningguo,,China,China Standard Time,2487.0,,
+Nogoyá,22824,Nogoyá,,Argentina,Time in Argentina,7.1,,
+Nova Iguaçu,,Nova Iguaçu,,,Time in Brazil,,,
+Nueva Gerona,59049,,,Cuba,Eastern Time Zone,,,
+"Nutana, Saskatoon",6261,"Nutana, École Victoria School, Oskāyak High School",,Canada,UTC,1.82,"http://dbpedia.org/resource/Nutana,_Saskatoon__PoliticalFunction__1, http://dbpedia.org/resource/Nutana,_Saskatoon__PoliticalFunction__2, http://dbpedia.org/resource/Nutana,_Saskatoon__PoliticalFunction__3, http://dbpedia.org/resource/Nutana,_Saskatoon__PoliticalFunction__4",
+Nyunzu,42589,,,DR Congo,Central Africa Time,,,
+Odense,180863,Odense,,Denmark,Central European Time,79.3,,504066
+Olinda,393115,Olinda,,Brazil,Time in Brazil,"43.55, 70.1886777901056",http://dbpedia.org/resource/Olinda__PoliticalFunction__1,3768902
+Opaka,2833,Opaka,,Bulgaria,Eastern European Time,,http://dbpedia.org/resource/Opaka__PoliticalFunction__1,
+Opava,54840,Opava,,Czechia,Central European Time,90.57,http://dbpedia.org/resource/Opava__PoliticalFunction__1,
+Oran,4130039,,,Algeria,Central European Time,2121.0,http://dbpedia.org/resource/Oran__PoliticalFunction__1,6089731
+Ordos City,2153638,Ordos,,China,China Standard Time,86752.0,,366779
+"Ostende, Buenos Aires",6073,,,Argentina,,,"http://dbpedia.org/resource/Ostende,_Buenos_Aires__PoliticalFunction__1",
+Ostrava,279791,Ostrava,,Czechia,Central European Time,214.23,http://dbpedia.org/resource/Ostrava__PoliticalFunction__1,982000
+Ottawa,1017449,Ottawa,,Canada,Eastern Time Zone,2790.3,"http://dbpedia.org/resource/Ottawa__PoliticalFunction__1, http://dbpedia.org/resource/Ottawa__PoliticalFunction__2, http://dbpedia.org/resource/Ottawa__PoliticalFunction__3, http://dbpedia.org/resource/Ottawa__PoliticalFunction__4",1488307
+Ouagadougou,2415266,,,Burkina Faso,UTC,520.0,http://dbpedia.org/resource/Ouagadougou__PoliticalFunction__1,3030384
+Ourinhos,114352,,,Brazil,Time in Brazil,295.82,http://dbpedia.org/resource/Ourinhos__PoliticalFunction__1,
+Panzhihua,1212203,Panzhihua,,People's Republic of China,China Standard Time,7423.42,,806395
+Paphos,35961,Paphos,,Cyprus,Eastern European Time,,http://dbpedia.org/resource/Paphos__PoliticalFunction__1,90200
+Paranaguá,156174,Paranaguá,,Brazil,Time in Brazil,826.674,http://dbpedia.org/resource/Paranaguá__PoliticalFunction__1,
+"Parral, Chile",38922,Parral,,Chile,Time in Chile,1638.4,"http://dbpedia.org/resource/Parral,_Chile__PoliticalFunction__1",
+Pastavy,19800,Pastavy,,Belarus,Eastern European Time,,,
+Paudalho,56933,,,Brazil,Time in Brazil,277.796,http://dbpedia.org/resource/Paudalho__PoliticalFunction__1,
+Pelotas,343132,,,Brazil,Time in Brazil,1609.0,http://dbpedia.org/resource/Pelotas__PoliticalFunction__1,
+"Pereira, Colombia",467269,,,Colombia,Eastern Time Zone,702.0,"http://dbpedia.org/resource/Pereira,_Colombia__PoliticalFunction__1",709322
+Perth,2192229,Perth,,Australia,Time in Australia,,,
+Peterborough,215700,,,"Cambridgeshire, United Kingdom",,43.77,,
+Philippeville,,Philippeville,Socialist Party (Belgium),Belgium,,,,
+Phnom Penh,2281951,Phnom Penh,,Cambodia,Time in Cambodia,679.0,"http://dbpedia.org/resource/Phnom_Penh__PoliticalFunction__1, http://dbpedia.org/resource/Phnom_Penh__PoliticalFunction__2",
+Piedra del Águila,3689,,,Argentina,,,http://dbpedia.org/resource/Piedra_del_Águila__PoliticalFunction__1,
+"Pimentel, Dominican Republic",35989,Pimentel,,Dominican Republic,,124.67,,
+Pinar del Río,190532,,,Cuba,Eastern Time Zone (North America),691.12,,
+Pingdingshan,4987137,Pingdingshan,,China,China Standard Time,7874.0,"http://dbpedia.org/resource/Pingdingshan__PoliticalFunction__1, http://dbpedia.org/resource/Pingdingshan__PoliticalFunction__2, http://dbpedia.org/resource/Pingdingshan__PoliticalFunction__3",1756333
+Pingdu,1377900,Pingdu,,China,China Standard Time,3166.54,,
+Pingliang,1848607,Pingliang,,China,China Standard Time,11196.71,,871600
+Pitt Meadows,19146,Pitt Meadows,,Canada,Pacific Time Zone,,"http://dbpedia.org/resource/Pitt_Meadows__PoliticalFunction__1, http://dbpedia.org/resource/Pitt_Meadows__PoliticalFunction__2",
+Pocora,6432,Pocora,,Costa Rica,360.0,72.7,,
+Pointe-Claire,33488,Pointe-Claire,,Canada,Eastern Time Zone,34.66,"http://dbpedia.org/resource/Pointe-Claire__PoliticalFunction__1, http://dbpedia.org/resource/Pointe-Claire__PoliticalFunction__2, http://dbpedia.org/resource/Pointe-Claire__PoliticalFunction__3",
+Pointe-Noire,715334,,,Republic of the Congo,,43.7,http://dbpedia.org/resource/Pointe-Noire__PoliticalFunction__1,
+"Pontevedra, Buenos Aires",33515,,,Argentina,,,,
+"Portneuf, Quebec",3187,Portneuf,,Canada,Eastern Time Zone,117.1,"http://dbpedia.org/resource/Portneuf,_Quebec__PoliticalFunction__1, http://dbpedia.org/resource/Portneuf,_Quebec__PoliticalFunction__2, http://dbpedia.org/resource/Portneuf,_Quebec__PoliticalFunction__3",
+Porto Alegre,,Porto Alegre,,,UTC,,,
+Prague,1275406,Prague,,Czechia,Central European Time,496.0,http://dbpedia.org/resource/Prague__PoliticalFunction__1,2709418
+Pu'er City,2542898,Pu'er,,China,Time in China,44264.79,,
+Puerto Williams,2874,Puerto Williams,,Chile,Time in Chile,,http://dbpedia.org/resource/Puerto_Williams__PoliticalFunction__1,
+Pula,52411,Pula,,Croatia,Central European Time,51.65,http://dbpedia.org/resource/Pula__PoliticalFunction__1,105000
+Puli Khumri,221274,,,Afghanistan,Afghanistan Time,37.52,,
+Punta Lara,8410,,,Argentina,,,,
+Purranque,20705,Purranque,,Chile,Time in Chile,1458.8,http://dbpedia.org/resource/Purranque__PoliticalFunction__1,
+Qabala,12808,Qabala,,Azerbaijan,Azerbaijan Time,1548.0,,
+"Qianjiang, Hubei",946277,Qianjiang,,China,Time in China,2004.0,,
+"Qidong, Jiangsu",,Qidong,,,China Standard Time,,,
+Qingdao,10071722,Qingdao,,China,China standard time,11228.4,"http://dbpedia.org/resource/Qingdao__PoliticalFunction__1, http://dbpedia.org/resource/Qingdao__PoliticalFunction__2, http://dbpedia.org/resource/Qingdao__PoliticalFunction__3, http://dbpedia.org/resource/Qingdao__PoliticalFunction__4",7172451
+Qinhuangdao,3136879,Qinhuangdao,,China,China Standard Time,7791.57,"http://dbpedia.org/resource/Qinhuangdao__PoliticalFunction__1, http://dbpedia.org/resource/Qinhuangdao__PoliticalFunction__2",1881047
+Qiqihar,4067489,Qiqihar,,China,China Standard Time,42205.82,"http://dbpedia.org/resource/Qiqihar__PoliticalFunction__1, http://dbpedia.org/resource/Qiqihar__PoliticalFunction__2",959787
+Quanzhou,8782285,Quanzhou,,People's Republic of China,China Standard Time,11218.91,"http://dbpedia.org/resource/Quanzhou__PoliticalFunction__1, http://dbpedia.org/resource/Quanzhou__PoliticalFunction__2",6669711
+Quebec,,Quebec,,,Eastern Time Zone for most of the province,,,
+Quibdó,129237,Quibdó,,Colombia,Colombia Standard Time,3337.5,http://dbpedia.org/resource/Quibdó__PoliticalFunction__1,
+Quilpué,151708,Quilpué,,Chile,Time in Chile,536.9,http://dbpedia.org/resource/Quilpué__PoliticalFunction__1,
+Quintero,25299,,,Chile,Time in Chile,147.5,http://dbpedia.org/resource/Quintero__PoliticalFunction__1,
+Quitilipi,32083,,,Argentina,,,,
+Recife,1653461,Recife,,Brazil,Time in Brazil,"218.0, 217.9992992469811","http://dbpedia.org/resource/Recife__PoliticalFunction__1, http://dbpedia.org/resource/Recife__PoliticalFunction__2",3743854
+"Recoleta, Chile",148220,Recoleta,,Chile,Time in Chile,16.2,"http://dbpedia.org/resource/Recoleta,_Chile__PoliticalFunction__1",
+Rengo,55757,Rengo,,Chile,Time in Chile,591.5,http://dbpedia.org/resource/Rengo__PoliticalFunction__1,
+Ribeirão Preto,711825,Ribeirão Preto,,,,650.9,http://dbpedia.org/resource/Ribeirão_Preto__PoliticalFunction__1,
+Rijeka,108622,Rijeka,,Croatia,Central European Time,44.0,"http://dbpedia.org/resource/Rijeka__PoliticalFunction__1, http://dbpedia.org/resource/Rijeka__PoliticalFunction__2",219325
+Rimouski,48664,Rimouski,,Canada,Eastern Time Zone,529.5,"http://dbpedia.org/resource/Rimouski__PoliticalFunction__1, http://dbpedia.org/resource/Rimouski__PoliticalFunction__2, http://dbpedia.org/resource/Rimouski__PoliticalFunction__3",55349
+Rinconada,9354,Rinconada,,Chile,Time in Chile,122.5,http://dbpedia.org/resource/Rinconada__PoliticalFunction__1,
+Rio de Janeiro,6747815,Rio de Janeiro,,Brazil,Time in Brazil,"1221.0, 1260.029215678464","http://dbpedia.org/resource/Rio_de_Janeiro__PoliticalFunction__1, http://dbpedia.org/resource/Rio_de_Janeiro__PoliticalFunction__2",12280702
+Rivière-du-Loup,20118,Rivière-du-Loup,,Canada,Eastern Time Zone,138.4,"http://dbpedia.org/resource/Rivière-du-Loup__PoliticalFunction__1, http://dbpedia.org/resource/Rivière-du-Loup__PoliticalFunction__2, http://dbpedia.org/resource/Rivière-du-Loup__PoliticalFunction__3",30025
+Rizhao,2968365,Rizhao,,China,China Standard Time,5359.0,"http://dbpedia.org/resource/Rizhao__PoliticalFunction__1, http://dbpedia.org/resource/Rizhao__PoliticalFunction__2",1172205
+"Rosario, Santa Fe",,"Rosario, tuc",,Argentina,Time in Argentina,,"http://dbpedia.org/resource/Rosario,_Santa_Fe__PoliticalFunction__1, http://dbpedia.org/resource/Rosario,_Santa_Fe__PoliticalFunction__2",
+Rugao,1241700,Rugao,,People's Republic of China,China Standard Time,1576.47,,
+Rui'an,1125000,Rui'an,,China,China Standard Time,1271.0,,
+"Rushan, Shandong",494000,Rushan,,China,China Standard Time,1665.0,,280000
+"Saint-Georges, Quebec",32935,Saint-Georges,,Canada,Eastern Time Zone,202.4,"http://dbpedia.org/resource/Saint-Georges,_Quebec__PoliticalFunction__1, http://dbpedia.org/resource/Saint-Georges,_Quebec__PoliticalFunction__2, http://dbpedia.org/resource/Saint-Georges,_Quebec__PoliticalFunction__3, http://dbpedia.org/resource/Saint-Georges,_Quebec__PoliticalFunction__4",34833
+"Saint-Lambert, Quebec",21861,Saint-Lambert,,Canada,Eastern Time Zone,10.1,"http://dbpedia.org/resource/Saint-Lambert,_Quebec__PoliticalFunction__1, http://dbpedia.org/resource/Saint-Lambert,_Quebec__PoliticalFunction__2, http://dbpedia.org/resource/Saint-Lambert,_Quebec__PoliticalFunction__3",
+Sainte-Anne-de-Beaupré,2854,Sainte-Anne-de-Beaupré,,Canada,Eastern Time Zone,68.1,"http://dbpedia.org/resource/Sainte-Anne-de-Beaupré__PoliticalFunction__1, http://dbpedia.org/resource/Sainte-Anne-de-Beaupré__PoliticalFunction__2, http://dbpedia.org/resource/Sainte-Anne-de-Beaupré__PoliticalFunction__3",
+Salaberry-de-Valleyfield,42410,Salaberry-de-Valleyfield,,Canada,Eastern Time Zone,125.5,"http://dbpedia.org/resource/Salaberry-de-Valleyfield__PoliticalFunction__1, http://dbpedia.org/resource/Salaberry-de-Valleyfield__PoliticalFunction__2, http://dbpedia.org/resource/Salaberry-de-Valleyfield__PoliticalFunction__3",67089
+"Salvador, Bahia",2886698,Salvador,,Brazil,Time in Brazil,693.0,"http://dbpedia.org/resource/Salvador,_Bahia__PoliticalFunction__1, http://dbpedia.org/resource/Salvador,_Bahia__PoliticalFunction__2",3919864
+San Bernardo del Tuyú,6966,,,Argentina,,,,
+San Carlos Centro,11055,San Carlos Centro,,Argentina,Time in Argentina,66.0,,
+"San Fernando, Chile",73973,San Fernando,,Chile,Time in Chile,2441.3,"http://dbpedia.org/resource/San_Fernando,_Chile__PoliticalFunction__1",
+"San José, Costa Rica, San José, Costa Rica","342188, 342188","San José, San José",,"Costa Rica, Costa Rica","Central Time Zone, Central Time Zone","44.62, 44.62","http://dbpedia.org/resource/San_José,_Costa_Rica__PoliticalFunction__1, http://dbpedia.org/resource/San_José,_Costa_Rica__PoliticalFunction__1","2158898, 2158898"
+"San Juan, Argentina",,,,Argentina,Time in Argentina,30.0,"http://dbpedia.org/resource/San_Juan,_Argentina__PoliticalFunction__1",453000
+"San Martín, Mendoza",79476,San Martín,,Argentina,Time in Argentina,1504.0,,
+San Miguel de Tucumán,,San Miguel de Tucumán,,Argentina,Time in Argentina,"90.0, 90.33878528851967",http://dbpedia.org/resource/San_Miguel_de_Tucumán__PoliticalFunction__1,830000
+San Pedro de Poás,7554,San Pedro,,Costa Rica,360.0,13.63,,
+"San Vicente, Moravia",30998,San Vicente,,Costa Rica,360.0,5.39,,
+Sanmenxia,2034872,Sanmenxia,,China,China Standard Time,10475.0,,927548
+Santa Cruz de la Sierra,,,,Bolivia,UTC−4,1345.0,http://dbpedia.org/resource/Santa_Cruz_de_la_Sierra__PoliticalFunction__1,2424120
+Santa Cruz do Capibaribe,109897,Santa Cruz do Capibaribe,,Brazil,Time in Brazil,335.309,http://dbpedia.org/resource/Santa_Cruz_do_Capibaribe__PoliticalFunction__1,
+Santa Rita do Passa Quatro,27600,,,Brazil,Time in Brazil,754.0,http://dbpedia.org/resource/Santa_Rita_do_Passa_Quatro__PoliticalFunction__1,
+"Santa Rosa, Mendoza",15818,Santa Rosa,,Argentina,Time in Argentina,,,
+Santa Rosa de Osos,37864,Santa Rosa de Osos,,Colombia,Colombia Standard Time,"812.0, 812.0130723525428",http://dbpedia.org/resource/Santa_Rosa_de_Osos__PoliticalFunction__1,
+Santiago,6269384,,,Chile,Time in Chile,641.2810561191936,,6903479
+Santiago de Cuba,612753,Santiago de Cuba,,Cuba,,,,1688358
+Santiago de los Caballeros,1343423,Santiago,,Dominican Republic,Atlantic Standard Time,524.01,http://dbpedia.org/resource/Santiago_de_los_Caballeros__PoliticalFunction__1,
+Santo Antônio do Amparo,18613,,,Brazil,Time in Brazil,488.89,http://dbpedia.org/resource/Santo_Antônio_do_Amparo__PoliticalFunction__1,
+Santo Domingo,1484789,Santo Domingo,,Dominican Republic,Atlantic Standard Time,104.44,http://dbpedia.org/resource/Santo_Domingo__PoliticalFunction__1,2995211
+"Santos, São Paulo",433656,Santos,,Brazil,Time in Brazil,280.67,"http://dbpedia.org/resource/Santos,_São_Paulo__PoliticalFunction__1",
+Sanya,1031396,Sanya,,China,China Standard Time,1905.0,http://dbpedia.org/resource/Sanya__PoliticalFunction__1,801020
+Sarajevo,275524,Sarajevo,,Bosnia & Herzegovina,Central European Time,141.5,http://dbpedia.org/resource/Sarajevo__PoliticalFunction__1,555210
+Savalou,35433,Savalou,,Benin,West Africa Time,2674.0,,
+Shailkupa Upazila,361648,,,Bangladesh,Bangladesh Standard Time,373.42,,
+Shanghai,24870895,Shanghai,,,China Standard Time,6341.0,"http://dbpedia.org/resource/Shanghai__PoliticalFunction__1, http://dbpedia.org/resource/Shanghai__PoliticalFunction__2, http://dbpedia.org/resource/Shanghai__PoliticalFunction__3, http://dbpedia.org/resource/Shanghai__PoliticalFunction__4, http://dbpedia.org/resource/Shanghai__PoliticalFunction__5",41354149
+Shangqiu,7816831,Shangqiu,,China,China Standard Time,10658.0,,2831814
+Shangrao,6491088,Shangrao,,China,China Standard Time,22791.0,http://dbpedia.org/resource/Shangrao__PoliticalFunction__1,1293399
+Shantou,5502031,Shantou,,China,China Standard Time,2248.39,"http://dbpedia.org/resource/Shantou__PoliticalFunction__1, http://dbpedia.org/resource/Shantou__PoliticalFunction__2",12543024
+Shaoxing,5270977,Shaoxing,,China,China Standard Time,8279.1,http://dbpedia.org/resource/Shaoxing__PoliticalFunction__2,13035326
+Sharana,5929,,,Afghanistan,270.0,,,
+Shengzhou,675226,Shengzhou,,China,China Standard Time,1789.07,,1094262
+Shenyang,9070093,Shenyang,,China,China Standard Time,12869.0,"http://dbpedia.org/resource/Shenyang__PoliticalFunction__1, http://dbpedia.org/resource/Shenyang__PoliticalFunction__2, http://dbpedia.org/resource/Shenyang__PoliticalFunction__3, http://dbpedia.org/resource/Shenyang__PoliticalFunction__4",8192848
+Shenzhen,17560000,Shenzhen,,China,China Standard Time,2050.0,"http://dbpedia.org/resource/Shenzhen__PoliticalFunction__1, http://dbpedia.org/resource/Shenzhen__PoliticalFunction__2, http://dbpedia.org/resource/Shenzhen__PoliticalFunction__3, http://dbpedia.org/resource/Shenzhen__PoliticalFunction__4",23300000
+Sherbrooke,172950,Sherbrooke,,Canada,Eastern Time Zone,367.1,"http://dbpedia.org/resource/Sherbrooke__PoliticalFunction__1, http://dbpedia.org/resource/Sherbrooke__PoliticalFunction__2, http://dbpedia.org/resource/Sherbrooke__PoliticalFunction__3",227398
+Shijiazhuang,11235086,Shijiazhuang,,,Time in China,14072.0,"http://dbpedia.org/resource/Shijiazhuang__PoliticalFunction__1, http://dbpedia.org/resource/Shijiazhuang__PoliticalFunction__2, http://dbpedia.org/resource/Shijiazhuang__PoliticalFunction__3, http://dbpedia.org/resource/Shijiazhuang__PoliticalFunction__4",6230709
+Shouguang,1103110,Shouguang,,China,China Standard Time,2200.0,"http://dbpedia.org/resource/Shouguang__PoliticalFunction__1, http://dbpedia.org/resource/Shouguang__PoliticalFunction__2",
+"Siping, Jilin",1814733,Siping,,China,China Standard Time,14323.0,"http://dbpedia.org/resource/Siping,_Jilin__PoliticalFunction__1, http://dbpedia.org/resource/Siping,_Jilin__PoliticalFunction__2",627957
+Sofia,1248452,Sofia,,Bulgaria,Eastern European Time,492.0,http://dbpedia.org/resource/Sofia__PoliticalFunction__1,1667314
+Songzi,839000,Songzi,,,China Standard Time,2176.9,,
+Sorel-Tracy,34755,Sorel-Tracy,,Canada,Eastern Time Zone,,"http://dbpedia.org/resource/Sorel-Tracy__PoliticalFunction__1, http://dbpedia.org/resource/Sorel-Tracy__PoliticalFunction__2, http://dbpedia.org/resource/Sorel-Tracy__PoliticalFunction__3",47772
+"Split, Croatia",161312,Split,,Croatia,Central European Time,79.38,"http://dbpedia.org/resource/Split,_Croatia__PoliticalFunction__1",342729
+St. Catharines,136803,St. Catharines,,Canada,Eastern,,"http://dbpedia.org/resource/St._Catharines__PoliticalFunction__1, http://dbpedia.org/resource/St._Catharines__PoliticalFunction__2, http://dbpedia.org/resource/St._Catharines__PoliticalFunction__3, http://dbpedia.org/resource/St._Catharines__PoliticalFunction__4",406074
+Sucre,360544,Sucre,,Bolivia,UTC−04:00,1768.0,http://dbpedia.org/resource/Sucre__PoliticalFunction__1,390000
+Suining,3252551,Suining,,China,China Standard Time,5326.0,"http://dbpedia.org/resource/Suining__PoliticalFunction__1, http://dbpedia.org/resource/Suining__PoliticalFunction__2",
+Suizhou,2580000,Suizhou,,China,China Standard Time,9636.0,"http://dbpedia.org/resource/Suizhou__PoliticalFunction__1, http://dbpedia.org/resource/Suizhou__PoliticalFunction__2",
+Suzhou,12748252,Suzhou,,China,Beijing Time,8488.42,"http://dbpedia.org/resource/Suzhou__PoliticalFunction__1, http://dbpedia.org/resource/Suzhou__PoliticalFunction__2",
+"Suzhou, Anhui",5324476,Suzhou,,,China Standard Time,9939.8,"http://dbpedia.org/resource/Suzhou,_Anhui__PoliticalFunction__1, http://dbpedia.org/resource/Suzhou,_Anhui__PoliticalFunction__2",1766285
+Sydney,5231147,Sydney,,Australia,Australian Eastern Standard Time,,,
+São Bernardo do Campo,844483,São Bernardo do Campo,,Brazil,Time in Brazil,409.51,http://dbpedia.org/resource/São_Bernardo_do_Campo__PoliticalFunction__1,
+"São Gonçalo, Rio de Janeiro",1091737,São Gonçalo,,Brazil,Time in Brazil,249.142,"http://dbpedia.org/resource/São_Gonçalo,_Rio_de_Janeiro__PoliticalFunction__1",
+"São José, Santa Catarina",250181,,,Brazil,UTC-3,113.171,"http://dbpedia.org/resource/São_José,_Santa_Catarina__PoliticalFunction__1",877706
+"São José dos Campos, São José dos Campos","729737, 729737","São José dos Campos, São José dos Campos",,"Brazil, Brazil","Time in Brazil, Time in Brazil","1099.409, 1099.409","http://dbpedia.org/resource/São_José_dos_Campos__PoliticalFunction__1, http://dbpedia.org/resource/São_José_dos_Campos__PoliticalFunction__1","2528354, 2528354"
+"São Luís, Maranhão",1108975,São Luís,,Brazil,UTC-3,"827.1386029169049, 827.141","http://dbpedia.org/resource/São_Luís,_Maranhão__PoliticalFunction__1",1227659
+São Paulo,,São Paulo,,Brazil,Time in Brazil,"1521.11, 1521.110118153963","http://dbpedia.org/resource/São_Paulo__PoliticalFunction__1, http://dbpedia.org/resource/São_Paulo__PoliticalFunction__2",22001281
+Tai'an,5635000,Tai'an,,China,China Standard Time,7762.0,"http://dbpedia.org/resource/Tai'an__PoliticalFunction__1, http://dbpedia.org/resource/Tai'an__PoliticalFunction__2",1735425
+Taishan,,,,,,,,
+Taixing,1185600,Taixing,,,China Standard Time,1172.0,,
+Taiyuan,5305061,Taiyuan,,China,Time in China,6959.0,"http://dbpedia.org/resource/Taiyuan__PoliticalFunction__1, http://dbpedia.org/resource/Taiyuan__PoliticalFunction__2, http://dbpedia.org/resource/Taiyuan__PoliticalFunction__3, http://dbpedia.org/resource/Taiyuan__PoliticalFunction__4",5433659
+"Taizhou, Zhejiang",6662888,Taizhou,,People's Republic of China,China Standard Time,9411.0,"http://dbpedia.org/resource/Taizhou,_Zhejiang__PoliticalFunction__1, http://dbpedia.org/resource/Taizhou,_Zhejiang__PoliticalFunction__2",3578660
+Talcahuano,150499,Talcahuano,,Chile,Time in Chile,92.3,http://dbpedia.org/resource/Talcahuano__PoliticalFunction__1,250348
+Tamlouka,7791,Tamlouka,,Algeria,Central European Time,,http://dbpedia.org/resource/Tamlouka__PoliticalFunction__1,
+Tangshan,7717983,Tangshan,,China,China Standard Time,13472.0,"http://dbpedia.org/resource/Tangshan__PoliticalFunction__1, http://dbpedia.org/resource/Tangshan__PoliticalFunction__2",3687607
+Tartar (city),19419,,,Azerbaijan,Azerbaijan Time,1301.4,,
+Tengzhou,1756300,Tengzhou,,China,China Standard Time,1485.0,"http://dbpedia.org/resource/Tengzhou__PoliticalFunction__2, http://dbpedia.org/resource/Tengzhou__PoliticalFunction__3",
+Teresina,871126,Teresina,,Brazil,Time in Brazil,1167.25,http://dbpedia.org/resource/Teresina__PoliticalFunction__1,1226578
+Thetford Mines,26072,Thetford Mines,,Canada,Eastern Time Zone,227.7,"http://dbpedia.org/resource/Thetford_Mines__PoliticalFunction__1, http://dbpedia.org/resource/Thetford_Mines__PoliticalFunction__2, http://dbpedia.org/resource/Thetford_Mines__PoliticalFunction__3",28287
+Tianjin,13866009,Tianjin,,China,,11946.0,"http://dbpedia.org/resource/Tianjin__PoliticalFunction__1, http://dbpedia.org/resource/Tianjin__PoliticalFunction__2, http://dbpedia.org/resource/Tianjin__PoliticalFunction__3, http://dbpedia.org/resource/Tianjin__PoliticalFunction__4",11165706
+Tianmen,1731482,Tianmen,,People's Republic of China,China Standard Time,2622.0,,
+Tianshui,2984659,Tianshui,,,China Standard Time,14280.0,,1212791
+Tilcara,6249,San Francisco de Tilcara,,Argentina,Time in Argentina,1.2,http://dbpedia.org/resource/Tilcara__PoliticalFunction__1,
+Timbaúba,52802,Timbauba,,Brazil,Time in Brazil,292.28,,55213
+Tocaima,13649,Tocaima,,Colombia,Western Caribbean,,,
+Tongliao,2873168,Tongliao,,China,China Standard Time,58863.0,,921808
+Tongling,1311726,Tongling,,China,China Standard Time,2982.0,"http://dbpedia.org/resource/Tongling__PoliticalFunction__1, http://dbpedia.org/resource/Tongling__PoliticalFunction__2",842675
+Tongxiang,1029754,Tongxiang,,China,China Standard Time,727.49,,1029754
+"Tongzhou District, Beijing",1184000,Tongzhou,,People's Republic of China,China Standard Time,906.0,,
+Toronto,2794356,Toronto,,,Eastern Time Zone,630.2,"http://dbpedia.org/resource/Toronto__PoliticalFunction__1, http://dbpedia.org/resource/Toronto__PoliticalFunction__2, http://dbpedia.org/resource/Toronto__PoliticalFunction__3, http://dbpedia.org/resource/Toronto__PoliticalFunction__4, http://dbpedia.org/resource/Toronto__PoliticalFunction__5",
+"Torres, Rio Grande do Sul",39064,,,Brazil,Time in Brazil,264.5,"http://dbpedia.org/resource/Torres,_Rio_Grande_do_Sul__PoliticalFunction__1",
+Tortuguitas,41390,,,Argentina,,,,
+Tournai,,Tournai,Socialist Party (francophone Belgium),Belgium,,,,
+Tunja,172548,,,Colombia,,121.49,http://dbpedia.org/resource/Tunja__PoliticalFunction__1,243330
+Ulanqab,1706328,Ulanqab,,China,China Standard Time,54473.6,,550231
+Urban water management in Bogotá,7,"Bogotá, Bogotá River",,Colombia,,,,8566926
+"Valença, Bahia",97873,Velença,,Brazil,Time in Brazil,,,
+"Valparaíso, Valparaíso","284630, 284630","Valparaíso, Valparaíso",,"Chile, Chile","Time in Chile, Time in Chile","401.6, 401.6","http://dbpedia.org/resource/Valparaíso__PoliticalFunction__1, http://dbpedia.org/resource/Valparaíso__PoliticalFunction__1","930220, 930220"
+Vancouver,662248,Vancouver,,,Pacific Time Zone,,"http://dbpedia.org/resource/Vancouver__PoliticalFunction__1, http://dbpedia.org/resource/Vancouver__PoliticalFunction__2, http://dbpedia.org/resource/Vancouver__PoliticalFunction__3, http://dbpedia.org/resource/Vancouver__PoliticalFunction__4",2642825
+"Varsity View, Saskatoon",3611,"Brunskill School, Bishop Murray High School, Varsity View",,Canada,UTC,1.27,"http://dbpedia.org/resource/Varsity_View,_Saskatoon__PoliticalFunction__1, http://dbpedia.org/resource/Varsity_View,_Saskatoon__PoliticalFunction__2, http://dbpedia.org/resource/Varsity_View,_Saskatoon__PoliticalFunction__3, http://dbpedia.org/resource/Varsity_View,_Saskatoon__PoliticalFunction__4",
+Verkhnyadzvinsk,7600,Vierchniadzvinsk,,Belarus,,,,
+Verviers,,Verviers,Socialist Party (Belgium),Belgium,,,,
+Victoriaville,45309,Victoriaville,,Canada,Eastern Time Zone,86.2,"http://dbpedia.org/resource/Victoriaville__PoliticalFunction__1, http://dbpedia.org/resource/Victoriaville__PoliticalFunction__2, http://dbpedia.org/resource/Victoriaville__PoliticalFunction__3",46354
+Vienna,,Vienna,,Austria,Central European Time,,http://dbpedia.org/resource/Vienna__PoliticalFunction__1,2890577
+Villa Ballester,35301,,,Argentina,,,,
+Villa Regina,33089,,,Argentina,,,http://dbpedia.org/resource/Villa_Regina__PoliticalFunction__1,
+Villavicencio,531275,,,Colombia,Eastern Time Zone,1328.0,http://dbpedia.org/resource/Villavicencio__PoliticalFunction__1,
+"Vitória, Espírito Santo",365855,Vitória,,Brazil,Time in Brazil,93.381,"http://dbpedia.org/resource/Vitória,_Espírito_Santo__PoliticalFunction__1",1857616
+Viña del Mar,324836,,,Chile,Time in Chile,121.6,http://dbpedia.org/resource/Viña_del_Mar__PoliticalFunction__1,930220
+Vlašim,11357,Vlašim,,Czechia,Central European Time,41.42,http://dbpedia.org/resource/Vlašim__PoliticalFunction__1,
+Wafangdian,942197,Wafangdian,,China,China Standard Time,3576.4,,
+Waukivory,94,Waukivory,,Australia,,,,
+Weifang,9386705,Weifang,,People's Republic of China,China Standard Time,16143.14,"http://dbpedia.org/resource/Weifang__PoliticalFunction__1, http://dbpedia.org/resource/Weifang__PoliticalFunction__2",3095520
+Weihai,2906548,Weihai,,China,China Standard Time,5956.0,"http://dbpedia.org/resource/Weihai__PoliticalFunction__1, http://dbpedia.org/resource/Weihai__PoliticalFunction__2",1164730
+Weinan,5520772,Weinan,,China,Time in China,,"http://dbpedia.org/resource/Weinan__PoliticalFunction__1, http://dbpedia.org/resource/Weinan__PoliticalFunction__2",
+Wenchang,537428,Wenchang,,China,China standard time,2403.0,,115000
+Wenzhou,9572903,Wenzhou,,China,China Standard Time,,"http://dbpedia.org/resource/Wenzhou__PoliticalFunction__1, http://dbpedia.org/resource/Wenzhou__PoliticalFunction__2",6642592
+"Wildwood, Saskatoon",7645,"Wildwood, Bishop Pocock School, Wildwood School",,Canada,UTC,2.8,"http://dbpedia.org/resource/Wildwood,_Saskatoon__PoliticalFunction__1, http://dbpedia.org/resource/Wildwood,_Saskatoon__PoliticalFunction__2",
+"Winkler, Manitoba",13745,Winkler,,Canada,Central Time Zone,20.73,"http://dbpedia.org/resource/Winkler,_Manitoba__PoliticalFunction__1, http://dbpedia.org/resource/Winkler,_Manitoba__PoliticalFunction__2, http://dbpedia.org/resource/Winkler,_Manitoba__PoliticalFunction__3, http://dbpedia.org/resource/Winkler,_Manitoba__PoliticalFunction__4, http://dbpedia.org/resource/Winkler,_Manitoba__PoliticalFunction__5",32655
+Wuhan,12326500,Wuhan,,China,China Standard Time,8494.41,"http://dbpedia.org/resource/Wuhan__PoliticalFunction__1, http://dbpedia.org/resource/Wuhan__PoliticalFunction__2, http://dbpedia.org/resource/Wuhan__PoliticalFunction__3, http://dbpedia.org/resource/Wuhan__PoliticalFunction__4",
+Wuhu,3644420,Wuhu,,China,China Standard Time,6010.9,"http://dbpedia.org/resource/Wuhu__PoliticalFunction__1, http://dbpedia.org/resource/Wuhu__PoliticalFunction__2",1622799
+"Wujiang District, Suzhou",832700,Wujiang,,,China Standard Time,"1176.68, 1190.462135034839",,
+Wusu,210000,Usu,,China,,14394.0,,
+"Wuwei, Anhui",1214000,Wuwei,,China,China Standard Time,2022.0,,
+Wuxi,7462135,Wuxi,,China,China Standard Time,4628.0,"http://dbpedia.org/resource/Wuxi__PoliticalFunction__1, http://dbpedia.org/resource/Wuxi__PoliticalFunction__2",4396835
+Xi'an,12952907,Xi'an,,,Time in China,10762.0,"http://dbpedia.org/resource/Xi'an__PoliticalFunction__1, http://dbpedia.org/resource/Xi'an__PoliticalFunction__2, http://dbpedia.org/resource/Xi'an__PoliticalFunction__3, http://dbpedia.org/resource/Xi'an__PoliticalFunction__4",12283922
+Xiamen,5163970,Xiamen,,China,China Standard Time,1700.61,"http://dbpedia.org/resource/Xiamen__PoliticalFunction__1, http://dbpedia.org/resource/Xiamen__PoliticalFunction__2, http://dbpedia.org/resource/Xiamen__PoliticalFunction__3, http://dbpedia.org/resource/Xiamen__PoliticalFunction__4",7284148
+Xiangyang,5260951,Xiangyang,,China,China Standard Time,19724.41,http://dbpedia.org/resource/Xiangyang__PoliticalFunction__1,2319640
+Xichang,481796,Xichang,,China,China Standard Time,2655.0,,
+Xining,2467965,Xining,,China,China Standard Time,7596.0,"http://dbpedia.org/resource/Xining__PoliticalFunction__1, http://dbpedia.org/resource/Xining__PoliticalFunction__2, http://dbpedia.org/resource/Xining__PoliticalFunction__3, http://dbpedia.org/resource/Xining__PoliticalFunction__4",1954795
+Xinyang,6234401,Xinyang,,People's Republic of China,China Standard Time,18819.0,,1416800
+Xuchang,4379998,Xuchang,,China,China Standard Time,4978.36,,1952666
+"Xunyang, Shaanxi",450122,Xunyang,,China,China standard time,3540.8,,
+Xuzhou,9083790,Xuzhou,,China,China Standard Time,11259.0,"http://dbpedia.org/resource/Xuzhou__PoliticalFunction__1, http://dbpedia.org/resource/Xuzhou__PoliticalFunction__2",3135660
+Yangzhou,4459760,Yangzhou,,China,Beijing Time,6678.0,"http://dbpedia.org/resource/Yangzhou__PoliticalFunction__1, http://dbpedia.org/resource/Yangzhou__PoliticalFunction__2",2146980
+Yantai,6968202,Yantai,,China,China Standard Time,13739.9,"http://dbpedia.org/resource/Yantai__PoliticalFunction__1, http://dbpedia.org/resource/Yantai__PoliticalFunction__2",2227733
+Yaoundé,2765600,,,Cameroon,Central European Time,180.0,,
+Yerevan,1060138,Yerevan,,Armenia,Armenia Time,223.0,http://dbpedia.org/resource/Yerevan__PoliticalFunction__1,1420000
+Yichang,4017607,Yichang,,China,China Standard Time,21338.0,"http://dbpedia.org/resource/Yichang__PoliticalFunction__2, http://dbpedia.org/resource/Yichang__PoliticalFunction__3",1536012
+"Yichun, Jiangxi",,Yichun,,,China Standard Time,,,
+"Yima, Henan",147800,Yima,,China,China Standard Time,100.5,,498500
+Yinchuan,2859074,Yinchuan,,China,China Standard Time,8874.61,"http://dbpedia.org/resource/Yinchuan__PoliticalFunction__1, http://dbpedia.org/resource/Yinchuan__PoliticalFunction__2, http://dbpedia.org/resource/Yinchuan__PoliticalFunction__3, http://dbpedia.org/resource/Yinchuan__PoliticalFunction__4",1901793
+Yiyang,4313084,Yiyang,,,China Standard Time,12144.0,,
+Yongcheng,1241500,Yongcheng,,China,China Standard Time,2068.0,,
+Yueqing,488980,Yueqing,,China,China Standard Time,,,
+"Yulin, Guangxi",5796766,Yulin,,China,China Standard Time,12828.0,,2438467
+Yuyao,1254032,Yuyao,,China,China Standard Time,1500.8,,3083520
+"Yuzhou, Henan",1167000,Yuzhou,,China,China Standard Time,1472.0,"http://dbpedia.org/resource/Yuzhou,_Henan__PoliticalFunction__1, http://dbpedia.org/resource/Yuzhou,_Henan__PoliticalFunction__2",
+Za-Kpota,132818,Za-Kpota,,Benin,West Africa Time,600.0,,
+Zagreb,767131,Zagreb,,Croatia,Central European Time,641.0,"http://dbpedia.org/resource/Zagreb__PoliticalFunction__1, http://dbpedia.org/resource/Zagreb__PoliticalFunction__2",1107150
+Zagvozd,767,Zagvozd,,Croatia,,,,
+Zaprešić,25223,Zaprešić,,Croatia,Central European Time,52.6,"http://dbpedia.org/resource/Zaprešić__PoliticalFunction__1, http://dbpedia.org/resource/Zaprešić__PoliticalFunction__2",54640
+Zhangjiakou,4650000,Zhangjiakou,,China,China Standard Time,36861.56,"http://dbpedia.org/resource/Zhangjiakou__PoliticalFunction__1, http://dbpedia.org/resource/Zhangjiakou__PoliticalFunction__2",
+Zhangye,1199515,Zhangye,,China,China Standard Time,42000.0,,
+Zhanjiang,6981236,Zhanjiang,,China,China Standard Time,13225.0,"http://dbpedia.org/resource/Zhanjiang__PoliticalFunction__1, http://dbpedia.org/resource/Zhanjiang__PoliticalFunction__2",1931455
+Zhengzhou,12600574,Zhengzhou,,China,China Standard Time,7532.56,"http://dbpedia.org/resource/Zhengzhou__PoliticalFunction__1, http://dbpedia.org/resource/Zhengzhou__PoliticalFunction__2, http://dbpedia.org/resource/Zhengzhou__PoliticalFunction__3, http://dbpedia.org/resource/Zhengzhou__PoliticalFunction__4",10260667
+Zhenjiang,3210418,Zhenjiang,,China,China Standard Time,3837.259,http://dbpedia.org/resource/Zhenjiang__PoliticalFunction__1,1266790
+Zhongshan,4418060,Zhongshan,,China,China Standard Time,1783.67,"http://dbpedia.org/resource/Zhongshan__PoliticalFunction__1, http://dbpedia.org/resource/Zhongshan__PoliticalFunction__2",65565622
+Zhuhai,2439585,Zhuhai,,China,China Standard Time,1724.32,"http://dbpedia.org/resource/Zhuhai__PoliticalFunction__1, http://dbpedia.org/resource/Zhuhai__PoliticalFunction__2",65565622
+Zhuji,1218072,Zhuji,,China,China Standard Time,2311.41,,1218072
+Zibo,4530597,Zibo,,,China Standard Time,5965.0,http://dbpedia.org/resource/Zibo__PoliticalFunction__1,4412016
+Ziyang,2308631,Ziyang,,China,China Standard Time,5748.0,,867119
+Zolotonosha,27458,,,"Ukraine, Zolotonosha Raion, Cherkasy Oblast",,21.65,http://dbpedia.org/resource/Zolotonosha__PoliticalFunction__1,28768
+Zoucheng,1155400,Zoucheng,,China,China Standard Time,1619.0,,1116692
+Ürümqi,4054000,Ürümqi,,,"De facto: Both China Standard  and Ürümqi Time, De jure: China Standard",14577.0,"http://dbpedia.org/resource/Ürümqi__PoliticalFunction__1, http://dbpedia.org/resource/Ürümqi__PoliticalFunction__2, http://dbpedia.org/resource/Ürümqi__PoliticalFunction__3, http://dbpedia.org/resource/Ürümqi__PoliticalFunction__4",
+Čakovec,27104,Čakovec,,Croatia,Central European Time,72.8,http://dbpedia.org/resource/Čakovec__PoliticalFunction__1,
+Šibenik,34302,"Šibenik, Cathedral of St. James, St. Nicholas Fortress",,Croatia,Central European Time,,"http://dbpedia.org/resource/Šibenik__PoliticalFunction__1, http://dbpedia.org/resource/Šibenik__PoliticalFunction__2",46332
+Živinice,57765,Živinice,,Bosnia & Herzegovina,Central European Time,291.0,http://dbpedia.org/resource/Živinice__PoliticalFunction__1,

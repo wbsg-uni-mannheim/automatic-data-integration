@@ -1,0 +1,39 @@
+{
+  "overall_accuracy": 0.171875,
+  "total_comparisons": 64,
+  "correct_comparisons": 11,
+  "per_attribute_accuracy": {
+    "city": {
+      "accuracy": 0.0,
+      "total": 1
+    },
+    "keypeople_name": {
+      "accuracy": 0.0,
+      "total": 1
+    },
+    "name": {
+      "accuracy": 0.07142857142857142,
+      "total": 14
+    },
+    "revenue": {
+      "accuracy": 0.1,
+      "total": 10
+    },
+    "website": {
+      "accuracy": 0.0,
+      "total": 10
+    },
+    "industry": {
+      "accuracy": 0.0,
+      "total": 7
+    },
+    "assets": {
+      "accuracy": 0.1,
+      "total": 10
+    },
+    "country": {
+      "accuracy": 0.7272727272727273,
+      "total": 11
+    }
+  }
+}

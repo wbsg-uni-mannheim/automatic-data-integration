@@ -1,0 +1,282 @@
+We are doing DATA FUSION: merge multiple records that refer to the same real-world entity.
+
+Task:
+1) Infer what the MAIN ENTITY is from dataset names and attribute names.
+2) For EACH attribute, choose EXACTLY ONE conflict resolution function (resolver) from the allowed list.
+3) Use the validation feedback to understand which sources tend to be correct for each attribute.
+
+Allowed resolvers (choose only from this list):
+['average', 'earliest', 'favour_sources', 'intersection', 'intersection_k_sources', 'longest_string', 'maximum', 'median', 'minimum', 'most_complete', 'most_recent', 'prefer_higher_trust', 'random_value', 'shortest_string', 'sum_values', 'union', 'voting', 'weighted_voting']
+
+Resolver guidance:
+- Lists/Sets: union, intersection, intersection_k_sources (if you choose union for string-lists, you may set kwargs.separator to ',', ';', or '|')
+- Strings: most_complete, longest_string, shortest_string
+- Numerics: median, average, maximum, minimum, sum_values
+- Dates: most_recent, earliest
+- Source-aware: prefer_higher_trust (use kwargs.trust_key='trust_score'), voting, weighted_voting, favour_sources (use kwargs.sources=['source1']), random_value
+
+Starting point (heuristic plan you can override):
+{
+  "artist": {
+    "kwargs": {
+      "separator": ","
+    },
+    "resolver": "union"
+  },
+  "duration": {
+    "kwargs": {},
+    "resolver": "most_complete"
+  },
+  "genre": {
+    "kwargs": {},
+    "resolver": "most_complete"
+  },
+  "label": {
+    "kwargs": {},
+    "resolver": "most_complete"
+  },
+  "name": {
+    "kwargs": {},
+    "resolver": "longest_string"
+  },
+  "release-country": {
+    "kwargs": {},
+    "resolver": "most_complete"
+  },
+  "release-date": {
+    "kwargs": {
+      "trust_key": "trust_score"
+    },
+    "resolver": "prefer_higher_trust"
+  },
+  "tracks_track-name": {
+    "kwargs": {
+      "separator": ","
+    },
+    "resolver": "union"
+  }
+}
+
+Attribute diagnostics:
+        attribute  inferred_list inferred_separator  inferred_boolean  inferred_numeric  inferred_date  identifier_like                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  sample_values
+           artist           True                  ,             False             False          False            False                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                [John B, Psychosis, Lypid, Petalpusher, Garnier, Laurent, Trent, Ron, Gallery Collective, The, St. Vitus Dance]
+         duration          False               None             False             False          False            False                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             [1671, 825, 637, 0, 0, 0, 0, 1444]
+            genre          False               None             False             False          False            False                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     [Funk, Funk, Funk, Funk, Reggae, Pop, Latin Hip Hop, Funk]
+            label          False               None             False             False          False            False                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              [New Identity Recordings, Renegade Hardware, Statra Recordings, Naked Music Recordings, F Communications, Peacefrog Records, Prescription, Suburban Base Records]
+             name          False               None             False             False          False            False                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            [Fermats Theorem / Sight Beyond, Tempest / Inner Sense, The Sign's Alive, Surrender, Unreasonable Behaviour, In the Spirit, The Dance, Come of Age]
+  release-country          False               None             False             False          False            False                                                                                                                                                                                                                                                                                                                                                                                                                 [United Kingdom of Great Britain and Northern Ireland, United Kingdom of Great Britain and Northern Ireland, United States of America, United States of America, France, United Kingdom of Great Britain and Northern Ireland, United States of America, United Kingdom of Great Britain and Northern Ireland]
+     release-date          False               None             False             False           True            False                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               [1996-01-01, 1998-12-14, 2000-09-05, 1999-04-27, 2000-07-24, 1999-01-01, 1996-01-01, 1994-01-01]
+tracks_track-name           True                  ,             False             False          False            False [['Fermats Theorem', 'Sight Beyond'], ['Tempest', 'Inner Sense'], ["The Sign's Alive (original mix)", "The Sign's Alive (radio edit)", "The Sign's Alive (File Brazillia dub)", "The Sign', ['Surrender (Petalpusher original)', "Surrender (Mig's Naked Seduction dub)", 'Surrender (Attaboy remix)', "Surrender (M, ['The Warning', 'City Sphere', 'Forgotten Thoughts', 'The Sound of the Big Babou', 'Unreasonable Behaviour', "Cycles d'o, ['In the Spirit (The Full Experience)', 'In the Spirit (Kada)', 'In the Spirit (Guitar Alchemy)'], ['The Dance (The Full Gallery mix)', 'The Dance (Saxxy instrumental mix)', 'The Dance (Sleezy dub mix)'], ['Bliss', 'Tunnel Vision', 'Catch the Sun', 'Mystic Vibrations']]
+
+Dataset overview:
+[
+  {
+    "dataset_name": "musicbrainz",
+    "rows": 4763,
+    "columns": 7,
+    "trust_score": 1.0
+  },
+  {
+    "dataset_name": "lastfm",
+    "rows": 9865,
+    "columns": 4,
+    "trust_score": 1.5684281634312742
+  },
+  {
+    "dataset_name": "discogs",
+    "rows": 22627,
+    "columns": 8,
+    "trust_score": 3.0
+  }
+]
+
+VALIDATION FEEDBACK:
+(Showing which source values were correct for sample entities)
+
+Attribute "artist":
+  - Sources: musicbrainz=Duc, Catherine, lastfm=Catherine Duc, discogs=Catherine Duc
+    → Correct: Catherine Duc
+  - Sources: musicbrainz=Cans, discogs=Cans
+    → Correct: Cans
+  - Sources: musicbrainz=Purple Schulz, lastfm=P. Schulz, discogs=Purple Schulz
+    → Correct: Purple Schulz
+  - Sources: musicbrainz=65daysofstatic, lastfm=65daysofstatic
+    → Correct: 65daysofstatic
+  - Sources: musicbrainz=Bartz, Richard, discogs=Richard Bartz
+    → Correct: Richard Bartz
+
+Attribute "genre":
+  - Sources: discogs=Pop
+    → Correct: Pop
+  - Sources: discogs=Pop
+    → Correct: Rock
+
+Attribute "label":
+  - Sources: discogs=The Orchard
+    → Correct: UNKNOWN
+  - Sources: discogs=Noise International
+    → Correct: Noise International
+  - Sources: discogs=EMI Electrola GmbH
+    → Correct: EMI Electrola
+  - Sources: discogs=Kurbel
+    → Correct: Kurbel
+  - Sources: discogs=Elbo
+    → Correct: Columbia
+
+Attribute "name":
+  - Sources: musicbrainz=Visions and Dreams, lastfm=*popular* Visions and Dreams, discogs=Visions And Dreams
+    → Correct: Visions and Dreams
+  - Sources: musicbrainz=Beyond the Gates, discogs=Beyond The Gates
+    → Correct: Beyond the Gates
+  - Sources: musicbrainz=Purple Schulz, lastfm=Purple Schulz, discogs=Purple Schulz
+    → Correct: Purple Schulz
+  - Sources: musicbrainz=The Fall of Math, lastfm=The Fall of Math
+    → Correct: The Fall of Math
+  - Sources: musicbrainz=The Traveller, discogs=The Traveller
+    → Correct: The Traveller
+
+Attribute "release-country":
+  - Sources: musicbrainz=Australia, discogs=United States of America
+    → Correct: Australia
+  - Sources: musicbrainz=Finland, discogs=UK
+    → Correct: UK
+  - Sources: musicbrainz=Germany, discogs=Germany
+    → Correct: Germany
+  - Sources: musicbrainz=United Kingdom of Great Britain and Northern Ireland
+    → Correct: United Kingdom
+  - Sources: musicbrainz=Germany, discogs=Germany
+    → Correct: Germany
+
+Attribute "release-date":
+  - Sources: musicbrainz=2005-01-01, discogs=2005-01-01
+    → Correct: 2005-01-01
+  - Sources: musicbrainz=2004-04-26, discogs=2004-01-01
+    → Correct: UNKNOWN
+  - Sources: musicbrainz=1990-01-01, discogs=1990-01-01
+    → Correct: 1990
+  - Sources: musicbrainz=2004-10-04
+    → Correct: 2004-10-04
+  - Sources: musicbrainz=1998-11-01, discogs=1998-11-01
+    → Correct: 1998-11-01
+
+Attribute "tracks_track-name":
+  - Sources: musicbrainz=['Essence of Dreams', 'Dancing in the Mist', 'Evocation', 'One Autumn Day', 'Secret Sanctuary', 'Heart of Andalucia', 'Midsummer Twilight', 'Incense', 'Rivulet', 'In the Light of Day'], lastfm=['Essence of Dreams', 'Dancing in The Mist', 'Evocation', 'One Autumn Day', 'Secret Sanctuary', 'Heart of Andalucia', 'Midsummer Twilight', 'Incense', 'Rivulet', 'In The Light of Day'], discogs=['Essence Of Dreams', 'Dancing In The Mist', 'Evocation', 'One Autumn Day', 'Secret Sanctuary', 'Heart Of Andalucia', 'Midsummer Twilight', 'Incense', 'Rivulet', 'In The Light Of Day']
+    → Correct: ['Essence of Dreams', 'Dancing in the Mist', 'Evocation', 'One Autumn Day', 'Secret Sanctuary', 'Heart of Andalucia', 'Midsummer Twilight', 'Incense', 'Rivulet', 'In the Light of Day']
+  - Sources: musicbrainz=['Fields of Yesterday', 'Soul Collector', 'Red Light', 'Back to Hell', 'Beyond the Gates', 'The Key', 'Garden of Evil', 'Merciless', 'Silent Cries', 'Dreams', 'Signs', 'Forever Ends'], discogs=['Fields Of Yesterday', 'Soul Collector', 'Red Light', 'Back To Hell', 'Beyond The Gates', 'The Key', 'Garden Of Evil', 'Merciless', 'Silent Cries', 'Dreams', 'Signs', 'Forever Ends']
+    → Correct: ['Fields of Yesterday', 'Soul Collector', 'Red Light', 'Back to Hell', 'Beyond the Gates', 'The Key', 'Garden of Evil', 'Merciless', 'Silent Cries', 'Dreams', 'Signs', 'Forever Ends']
+  - Sources: musicbrainz=['Ich bin schlecht', 'Ich such Dich', 'SchÃ¶ne Leute', 'Der Kanal', 'Unter der Haut', 'Du hast mir gerade noch gefehlt', 'Ganz normale Leute', 'Wann und Wie', 'Nachbarn', 'Immer nur leben'], lastfm=['Ich Bin Schlecht', 'SchÃƒÂ¶ne Leute', 'Der Kanal', 'Ganz Normale Leute', 'Wann & Wie', 'Nachbarn', 'Immer Nur Leben'], discogs=['Ich Bin Schlecht', 'Ich Such Dich', 'Schöne Leute', 'Der Kanal', 'Unter Der Haut', 'Gerade Noch Gefehlt', 'Ganz Normale Leute', 'Wann & Wie', 'Nachbarn', 'Immer Nur Leben']
+    → Correct: ['Ich bin schlecht', 'Ich such Dich', 'Schöne Leute', 'Der Kanal', 'Unter der Haut', 'Du hast mir gerade noch gefehlt', 'Ganz normale Leute', 'Wann & Wie', 'Nachbarn', 'Immer nur leben']
+  - Sources: musicbrainz=['Another Code Against the Gone', 'Install a Beak in the Heart That Clucks Time in Arabic', 'Retreat! Retreat!', 'Default This', 'I Swallowed Hard, Like I Understood', 'The Fall of Math', 'This Cat Is a Landmine', 'The Last Home Recording', 'Hole', 'Fix the Sky a Little', 'Arenâ€™t We All Running?'], lastfm=['Another Code Against the Gone', 'Install a Beak in the Heart That Clucks Time in Arabic', 'Retreat! Retreat!', 'Default This', 'I Swallowed Hard, Like I Understood', 'The Fall of Math', 'This Cat Is a Landmine', 'The Last Home Recording', 'Hole', 'Fix the Sky a Little', "Aren't We All Running?"]
+    → Correct: ['Another Code Against the Gone', 'Install a Beak in the Heart That Clucks Time in Arabic', 'Retreat! Retreat!', 'Default This', 'I Swallowed Hard, Like I Understood', 'The Fall of Math', 'This Cat Is a Landmine', 'The Last Home Recording', 'Hole', 'Fix the Sky a Little', "Aren't We All Running?"]
+  - Sources: musicbrainz=['The Traveller 1', 'The Traveller 2', 'The Traveller 3', 'The Traveller 4'], discogs=['The Traveller 1', 'The Traveller 2', 'The Traveller 3', 'The Traveller 4']
+    → Correct: ['The Traveller 1', 'The Traveller 2', 'The Traveller 3', 'The Traveller 4']
+
+
+
+SOURCE ACCURACY STATISTICS (from validation set):
+
+Attribute "artist":
+  - discogs: 100% correct (17/17 values)
+  - lastfm: 62% correct (8/13 values)
+  - musicbrainz: 96% correct (22/23 values)
+
+Attribute "genre":
+  - discogs: 50% correct (1/2 values)
+
+Attribute "label":
+  - discogs: 73% correct (11/15 values)
+
+Attribute "name":
+  - discogs: 94% correct (16/17 values)
+  - lastfm: 69% correct (9/13 values)
+  - musicbrainz: 96% correct (22/23 values)
+
+Attribute "release-country":
+  - discogs: 69% correct (11/16 values)
+  - musicbrainz: 67% correct (14/21 values)
+
+Attribute "release-date":
+  - discogs: 60% correct (9/15 values)
+  - musicbrainz: 65% correct (13/20 values)
+
+Attribute "tracks_track-name":
+  - discogs: 76% correct (13/17 values)
+  - lastfm: 64% correct (7/11 values)
+  - musicbrainz: 73% correct (16/22 values)
+
+RECOMMENDATION: For attributes where one source is significantly more accurate (>80%),
+consider using 'favour_sources' to prefer that source's values.
+
+PREVIOUS ITERATION RULES (you may keep, modify, or discard):
+{
+  "artist": {
+    "kwargs": {
+      "sources": [
+        "discogs"
+      ]
+    },
+    "resolver": "favour_sources"
+  },
+  "duration": {
+    "kwargs": {},
+    "resolver": "maximum"
+  },
+  "genre": {
+    "kwargs": {
+      "sources": [
+        "discogs"
+      ]
+    },
+    "resolver": "favour_sources"
+  },
+  "label": {
+    "kwargs": {
+      "sources": [
+        "discogs"
+      ]
+    },
+    "resolver": "favour_sources"
+  },
+  "name": {
+    "kwargs": {
+      "sources": [
+        "musicbrainz"
+      ]
+    },
+    "resolver": "favour_sources"
+  },
+  "release-country": {
+    "kwargs": {
+      "trust_key": "trust_score"
+    },
+    "resolver": "weighted_voting"
+  },
+  "release-date": {
+    "kwargs": {
+      "trust_key": "trust_score"
+    },
+    "resolver": "weighted_voting"
+  },
+  "tracks_track-name": {
+    "kwargs": {
+      "sources": [
+        "musicbrainz"
+      ]
+    },
+    "resolver": "favour_sources"
+  }
+}
+
+
+Return ONLY strict JSON in this schema:
+{
+  "main_entity": "<string>",
+  "attribute_rules": {
+    "<attribute>": {"resolver": "<resolver_name>", "kwargs": {...}},
+    ...
+  }
+}
+Notes:
+- Include every attribute listed in the heuristic plan.
+- Use kwargs only when needed. Do not invent new resolvers.
+- For attributes where validation shows one source is consistently correct, consider using favour_sources.

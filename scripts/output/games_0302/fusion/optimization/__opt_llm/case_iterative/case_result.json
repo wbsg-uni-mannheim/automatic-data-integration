@@ -1,0 +1,89 @@
+{
+  "case_name": "iterative",
+  "rules": {
+    "ESRB": {
+      "resolver": "voting",
+      "kwargs": {}
+    },
+    "criticScore": {
+      "resolver": "median",
+      "kwargs": {}
+    },
+    "developer": {
+      "resolver": "prefer_higher_trust",
+      "kwargs": {
+        "trust_key": "trust_score"
+      }
+    },
+    "globalSales": {
+      "resolver": "prefer_higher_trust",
+      "kwargs": {
+        "trust_key": "trust_score"
+      }
+    },
+    "name": {
+      "resolver": "favour_sources",
+      "kwargs": {
+        "sources": [
+          "sales"
+        ]
+      }
+    },
+    "platform": {
+      "resolver": "prefer_higher_trust",
+      "kwargs": {
+        "trust_key": "trust_score"
+      }
+    },
+    "publisher": {
+      "resolver": "prefer_higher_trust",
+      "kwargs": {
+        "trust_key": "trust_score"
+      }
+    },
+    "releaseYear": {
+      "resolver": "prefer_higher_trust",
+      "kwargs": {
+        "trust_key": "trust_score"
+      }
+    },
+    "series": {
+      "resolver": "prefer_higher_trust",
+      "kwargs": {
+        "trust_key": "trust_score"
+      }
+    },
+    "userScore": {
+      "resolver": "median",
+      "kwargs": {}
+    }
+  },
+  "accuracy_by_mode": {},
+  "source_stats": {
+    "name": {
+      "dbpedia": {
+        "source_name": "dbpedia",
+        "attribute": "name",
+        "correct": 14,
+        "total": 15,
+        "accuracy": 0.9333
+      },
+      "sales": {
+        "source_name": "sales",
+        "attribute": "name",
+        "correct": 13,
+        "total": 13,
+        "accuracy": 1.0
+      },
+      "metacritic": {
+        "source_name": "metacritic",
+        "attribute": "name",
+        "correct": 14,
+        "total": 15,
+        "accuracy": 0.9333
+      }
+    }
+  },
+  "iterations_used": 1,
+  "optimization_mode": "llm"
+}

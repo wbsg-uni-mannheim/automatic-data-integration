@@ -1,0 +1,65 @@
+{
+  "attribute_rules": {
+    "assets": {
+      "kwargs": {},
+      "resolver": "median"
+    },
+    "city": {
+      "kwargs": {
+        "sources": [
+          "dbpedia"
+        ]
+      },
+      "resolver": "favour_sources"
+    },
+    "country": {
+      "kwargs": {
+        "sources": [
+          "fullcontact"
+        ]
+      },
+      "resolver": "favour_sources"
+    },
+    "founded": {
+      "kwargs": {
+        "trust_key": "trust_score"
+      },
+      "resolver": "prefer_higher_trust"
+    },
+    "founders": {
+      "kwargs": {
+        "separator": ","
+      },
+      "resolver": "union"
+    },
+    "industry": {
+      "kwargs": {},
+      "resolver": "most_complete"
+    },
+    "keypeople_name": {
+      "kwargs": {
+        "sources": [
+          "fullcontact"
+        ]
+      },
+      "resolver": "favour_sources"
+    },
+    "name": {
+      "kwargs": {},
+      "resolver": "longest_string"
+    },
+    "revenue": {
+      "kwargs": {},
+      "resolver": "median"
+    },
+    "website": {
+      "kwargs": {
+        "sources": [
+          "fullcontact"
+        ]
+      },
+      "resolver": "favour_sources"
+    }
+  },
+  "main_entity": "Company / Organization"
+}

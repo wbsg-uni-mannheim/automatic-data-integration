@@ -1,0 +1,197 @@
+{
+  "case_name": "llm_val_stats",
+  "rules": {
+    "assets": {
+      "resolver": "median",
+      "kwargs": {}
+    },
+    "city": {
+      "resolver": "favour_sources",
+      "kwargs": {
+        "sources": [
+          "dbpedia"
+        ]
+      }
+    },
+    "country": {
+      "resolver": "favour_sources",
+      "kwargs": {
+        "sources": [
+          "forbes"
+        ]
+      }
+    },
+    "founded": {
+      "resolver": "earliest",
+      "kwargs": {}
+    },
+    "founders": {
+      "resolver": "union",
+      "kwargs": {
+        "separator": ","
+      }
+    },
+    "industry": {
+      "resolver": "most_complete",
+      "kwargs": {}
+    },
+    "keypeople_name": {
+      "resolver": "union",
+      "kwargs": {
+        "separator": ","
+      }
+    },
+    "name": {
+      "resolver": "most_complete",
+      "kwargs": {}
+    },
+    "revenue": {
+      "resolver": "median",
+      "kwargs": {}
+    },
+    "website": {
+      "resolver": "most_complete",
+      "kwargs": {}
+    }
+  },
+  "accuracy_by_mode": {},
+  "source_stats": {
+    "name": {
+      "forbes": {
+        "source_name": "forbes",
+        "attribute": "name",
+        "correct": 1,
+        "total": 14,
+        "accuracy": 0.0714
+      },
+      "dbpedia": {
+        "source_name": "dbpedia",
+        "attribute": "name",
+        "correct": 1,
+        "total": 14,
+        "accuracy": 0.0714
+      },
+      "fullcontact": {
+        "source_name": "fullcontact",
+        "attribute": "name",
+        "correct": 0,
+        "total": 8,
+        "accuracy": 0.0
+      }
+    },
+    "website": {
+      "forbes": {
+        "source_name": "forbes",
+        "attribute": "website",
+        "correct": 0,
+        "total": 10,
+        "accuracy": 0.0
+      }
+    },
+    "country": {
+      "forbes": {
+        "source_name": "forbes",
+        "attribute": "country",
+        "correct": 10,
+        "total": 11,
+        "accuracy": 0.9091
+      },
+      "dbpedia": {
+        "source_name": "dbpedia",
+        "attribute": "country",
+        "correct": 8,
+        "total": 11,
+        "accuracy": 0.7273
+      },
+      "fullcontact": {
+        "source_name": "fullcontact",
+        "attribute": "country",
+        "correct": 4,
+        "total": 5,
+        "accuracy": 0.8
+      }
+    },
+    "industry": {
+      "dbpedia": {
+        "source_name": "dbpedia",
+        "attribute": "industry",
+        "correct": 0,
+        "total": 7,
+        "accuracy": 0.0
+      },
+      "forbes": {
+        "source_name": "forbes",
+        "attribute": "industry",
+        "correct": 0,
+        "total": 1,
+        "accuracy": 0.0
+      }
+    },
+    "assets": {
+      "forbes": {
+        "source_name": "forbes",
+        "attribute": "assets",
+        "correct": 0,
+        "total": 10,
+        "accuracy": 0.0
+      },
+      "dbpedia": {
+        "source_name": "dbpedia",
+        "attribute": "assets",
+        "correct": 0,
+        "total": 3,
+        "accuracy": 0.0
+      }
+    },
+    "revenue": {
+      "forbes": {
+        "source_name": "forbes",
+        "attribute": "revenue",
+        "correct": 0,
+        "total": 10,
+        "accuracy": 0.0
+      },
+      "dbpedia": {
+        "source_name": "dbpedia",
+        "attribute": "revenue",
+        "correct": 0,
+        "total": 5,
+        "accuracy": 0.0
+      }
+    },
+    "city": {
+      "fullcontact": {
+        "source_name": "fullcontact",
+        "attribute": "city",
+        "correct": 0,
+        "total": 1,
+        "accuracy": 0.0
+      },
+      "dbpedia": {
+        "source_name": "dbpedia",
+        "attribute": "city",
+        "correct": 1,
+        "total": 1,
+        "accuracy": 1.0
+      }
+    },
+    "keypeople_name": {
+      "fullcontact": {
+        "source_name": "fullcontact",
+        "attribute": "keypeople_name",
+        "correct": 0,
+        "total": 1,
+        "accuracy": 0.0
+      },
+      "dbpedia": {
+        "source_name": "dbpedia",
+        "attribute": "keypeople_name",
+        "correct": 0,
+        "total": 1,
+        "accuracy": 0.0
+      }
+    }
+  },
+  "iterations_used": 1,
+  "optimization_mode": "web_omit"
+}

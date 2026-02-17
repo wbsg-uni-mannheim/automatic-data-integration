@@ -1,0 +1,5 @@
+Source,Rows,Columns,Data Density,Density in Target Schema (9 cols)
+Discogs,22627,8,98.43%,87.50% (8/9 × 98.43%)
+Lastfm,9865,5,78.73%,43.74% (5/9 × 78.73%)
+Musicbrainz,4763,7,83.32%,64.80% (7/9 × 83.32%)
+Total Input,37255,9 (target),86.83% avg,73.01% weighted avg

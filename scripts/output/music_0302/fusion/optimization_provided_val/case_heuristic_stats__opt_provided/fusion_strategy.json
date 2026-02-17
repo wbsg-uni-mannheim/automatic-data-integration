@@ -1,0 +1,21 @@
+{
+  "id_column": "id",
+  "include_singletons": true,
+  "rules": {
+    "artist": "favour_sources",
+    "duration": "median",
+    "genre": "favour_sources",
+    "label": "favour_sources",
+    "name": "favour_sources",
+    "release-country": "most_complete",
+    "release-date": "favour_sources",
+    "tracks": "union"
+  },
+  "strategy_name": "heuristic_stats_strategy",
+  "trust_key": "trust_score",
+  "trust_scores": {
+    "discogs": 3.0,
+    "lastfm": 1.0,
+    "musicbrainz": 1.5796202397752679
+  }
+}

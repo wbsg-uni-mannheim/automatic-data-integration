@@ -1,0 +1,93 @@
+rdf-schema#label,iataLocationIdentifier,metricRwy,stat3Data,location
+Adisutjipto Airport,JOG,,18145167,"Sleman Regency, Special Region of Yogyakarta, Indonesia"
+Almaty International Airport,ALA,Y,,Almaty
+Amsterdam Airport Schiphol,AMS,y,1667304,"Haarlemmermeer, Netherlands"
+Bandar Abbas International Airport,BND,y,12717,"Bandar Abbas, Iran"
+Barcelona–El Prat Airport,,,,
+Beijing Capital International Airport,PEK,yes,1401312,"Chaoyang District, Beijing, Shunyi District, Beijing"
+Belgrade Nikola Tesla Airport,BEG,Yes,,"Surčin, Serbia"
+Ben Gurion Airport,TLV,yes,785676,"Central District (Israel), Israel"
+Benito Juárez International Airport,,,,
+Bradley International Airport,BDL,,4619644,"Windsor Locks, Connecticut"
+Changi Airport,SIN,yes,109000,"Singapore, Changi, East Region"
+Changsha Huanghua International Airport,CSX,y,209074,"Hunan, Huanghua, Changsha County"
+Charles de Gaulle Airport,CDG,Y,,Roissy-en-France
+Charlotte Douglas International Airport,CLT,,,"Charlotte, North Carolina"
+Chennai International Airport,MAA,yes,349964,"Tirusulam, Tamil Nadu, Chennai, Tamil Nadu"
+Chhatrapati Shivaji International Airport,,,,
+Cork Airport,ORK,yes,21442,Cork (city)
+Dallas/Fort Worth International Airport,,,,
+Denver International Airport,DEN,,,"Denver, Colorado"
+Detroit Metropolitan Wayne County Airport,,,,
+Don Mueang International Airport,DMK,y,2.47793e+08,"Bangkok, Don Mueang District, Vibhavadi Rangsit Road"
+Dubai International Airport,DXB,Yes,2.51492e+07,
+Edmonton International Airport,YEG,,,"Leduc, Alberta, Leduc County, Alberta, Edmonton"
+El Tari International Airport,KOE,yes,5.224,"East Nusa Tenggara, Indonesia, Kupang"
+EuroAirport Basel Mulhouse Freiburg,"BSL, MLH, EAP",y,99313,"Saint-Louis, Haut-Rhin, France"
+Frankfurt Airport,FRA,yes,212334,"Frankfurt am Main, Hesse, Kelsterbach"
+Gatwick Airport,LGW,yes,52000,"Crawley, West Sussex"
+George Bush Intercontinental Airport,IAH,,,"Houston, Texas"
+Gimpo International Airport,GMP,yes,253395,"Gangseo District, Seoul"
+Greater Moncton Roméo LeBlanc International Airport,YQM,,,"Dieppe, New Brunswick, New Brunswick"
+Guangzhou Baiyun International Airport,CAN,yes,362470,"Huadu District, Baiyun District, Guangzhou, Guangzhou, Guangdong"
+Gwalior Airport,GWL,,—,"Madhya Pradesh, Gwalior, India"
+Haikou Meilan International Airport,HAK,y,138930,"Lingshan, Meilan District, Haikou"
+Halifax Stanfield International Airport,YHZ,,,"Goffs, Nova Scotia"
+Hamad International Airport,DOH,y,,"Qatar, Doha"
+Haneda Airport,HND,Y,,"Ōta, Tokyo"
+"Hartsfield–Jackson Atlanta International Airport, Hartsfield–Jackson Atlanta International Airport","ATL, ATL",,"730995, 730995","United States, College Park, Georgia, Clayton County, Georgia, Georgia (U.S. state), Hapeville, Georgia, Atlanta, Unincorporated area, United States, College Park, Georgia, Clayton County, Georgia, Georgia (U.S. state), Hapeville, Georgia, Atlanta, Unincorporated area"
+Heydar Aliyev International Airport,GYD,yes,,"Azerbaijan, Baku"
+Hong Kong International Airport,HKG,yes,4.55e+07,"Hong Kong, Chek Lap Kok, New Territories"
+Hunan,,,,
+Imam Khomeini International Airport,IKA,,16369911,"Ahmadabad, Tehran, Iran"
+Indira Gandhi International Airport,DEL,Yes,319571,"Delhi, Palam, India"
+Istanbul Atatürk Airport,,,,
+Jeju International Airport,CJU,Yes,258847,"Jeju City, Jeju Province"
+John F. Kennedy International Airport,JFK,,1461020,"Jamaica, Queens"
+Jorge Chávez International Airport,LIM,yes,178578,"Callao, Peru"
+Kuala Lumpur International Airport,KUL,Y,124529,"Malaysia, Sepang, Selangor"
+"Leonardo da Vinci–Fiumicino Airport, Leonardo da Vinci–Fiumicino Airport","FCO, FCO","yes, yes","113.972, 113.972","Fiumicino, Italy, Lazio, Fiumicino, Italy, Lazio"
+Logan International Airport,BOS,,575471964,"Winthrop, Massachusetts, East Boston"
+London Heathrow Airport,,,,
+London International Airport,YXU,,,"London, Ontario, Ontario"
+Los Angeles International Airport,LAX,,"1.49E10, ","Westchester, Los Angeles, California"
+Luis Muñoz Marín International Airport,SJU,,,"Carolina, Puerto Rico, Puerto Rico"
+Madrid–Barajas Airport,,,,
+McCarran International Airport,,,,
+Melbourne Airport,MEL,y,"6.8E9, ","Victoria (Australia), Melbourne Airport, Victoria, Australia"
+Mexico City International Airport,MEX,y,,"Venustiano Carranza, Mexico City"
+Miami International Airport,MIA,,2779338,"Miami-Dade County, Florida"
+Minneapolis–Saint Paul International Airport,MSP,,,"Fort Snelling Unorganized Territory, Minnesota"
+Montréal–Mirabel International Airport,YMX,,,"Mirabel, Quebec"
+Montréal–Trudeau International Airport,YUL,,,"Quebec, Dorval, Quebec"
+Moscow Domodedovo Airport,DME,y,234700,Domodedovo (town)
+Munich Airport,MUC,Y,338517,"Bavaria, Freising (district), Erding (district)"
+Narita International Airport,NRT,Y,136502,"Narita, Chiba"
+Newark Liberty International Airport,EWR,,780295,"Elizabeth, New Jersey, Newark, New Jersey"
+Niš Constantine the Great Airport,INI,Y,,"Medoševac (Niš), Popovac (Niš), Serbia"
+North Las Vegas Airport,VGT,,,"United States, North Las Vegas, Nevada"
+O'Hare International Airport,ORD,,2.53654e+06,"O'Hare, Chicago, Illinois"
+Orlando International Airport,MCO,,245147,"United States, Florida, Orlando, Florida"
+Orly Airport,ORY,yes,,"Val-de-Marne, Essonne, France"
+"Oslo Airport, Gardermoen",OSL,yes,5269549,"Viken (county), Gardermoen, Norway"
+Paris–Le Bourget Airport,LBG,Y,,Le Bourget
+Philadelphia International Airport,PHL,,643138,"Tinicum Township, Delaware County, Pennsylvania, Philadelphia"
+Phoenix Sky Harbor International Airport,,,441993,
+San Francisco International Airport,SFO,,528792,"San Mateo County, California"
+Seattle–Tacoma International Airport,SEA,,498741,"SeaTac, Washington"
+Shanghai Hongqiao International Airport,SHA,y,,"Changning District, Shanghai"
+Shanghai Pudong International Airport,PVG,y,3982616,"Pudong, Shanghai"
+Shenzhen Bao'an International Airport,SZX,yes,1568274,
+Shiraz Shahid Dastgheib International Airport,SYZ,,32982,"Shiraz, Iran"
+Singapore Changi Airport,,,,
+"Soekarno–Hatta International Airport, Soekarno–Hatta International Airport","CGK, CGK",,"9.53606e+07, 9.53606e+07","Banten, Tangerang, Banten, Tangerang"
+Stewart International Airport,SWF,,321000,"New Windsor, New York, New York (state)"
+Sultan Hasanuddin International Airport,UPG,Yes,,"Maros Regency, South Sulawesi, Indonesia"
+Suvarnabhumi Airport,BKK,y,1.19662e+08,"Samut Prakan province, Racha Thewa, Bang Phli District, Bangkok, Lat Krabang"
+Sydney Airport,SYD,y,444419,"Mascot, New South Wales, Australia, New South Wales"
+Tbilisi International Airport,TBS,Y,,"Georgia (country), Tbilisi"
+Toronto Pearson International Airport,YYZ,,,"Canada, Mississauga, Toronto, Ontario"
+Vancouver International Airport,YVR,,,"Canada, Richmond, British Columbia, British Columbia, Sea Island (British Columbia)"
+Wagga Wagga Airport,WGA,Y,,New South Wales
+William P. Hobby Airport,HOU,,,"Houston, United States, Texas"
+İzmir Adnan Menderes Airport,ADB,Y,89921,"Gaziemir, Izmir"

@@ -1,0 +1,4 @@
+source_dataset,source_column,target_dataset,target_column,score,notes
+discogs,id,Music Release,id,1.0,similarity_function=jaccard
+discogs,tracks_track-name,Music Release,name,0.3333333333333333,similarity_function=jaccard
+discogs,tracks_track-name,Music Release,tracks,0.3333333333333333,similarity_function=jaccard

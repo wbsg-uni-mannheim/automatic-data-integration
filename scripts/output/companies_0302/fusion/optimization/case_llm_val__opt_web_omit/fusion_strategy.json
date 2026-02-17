@@ -1,0 +1,23 @@
+{
+  "id_column": "id",
+  "include_singletons": true,
+  "rules": {
+    "assets": "favour_sources",
+    "city": "longest_string",
+    "country": "favour_sources",
+    "founded": "prefer_higher_trust",
+    "founders": "union",
+    "industry": "prefer_higher_trust",
+    "keypeople_name": "prefer_higher_trust",
+    "name": "favour_sources",
+    "revenue": "favour_sources",
+    "website": "prefer_higher_trust"
+  },
+  "strategy_name": "llm_val_strategy",
+  "trust_key": "trust_score",
+  "trust_scores": {
+    "dbpedia": 1.0,
+    "forbes": 3.0,
+    "fullcontact": 1.0192534032990288
+  }
+}
