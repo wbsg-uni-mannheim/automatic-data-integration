@@ -1,9 +1,0 @@
-\section{Related Work}
-\label{sec:related_work}
-
-There is intensive research on using LLMs for specific tasks along the integration pipeline~\cite{freire2025llmDataDiscoveryIntegration}, such as schema matching~\cite{narayan2022can, zhang2023schema,liu2025magneto}, value normalization~\cite{brinkmann2024productAttrNormLLMs}, and entity matching~\cite{peeters2024entity,wang2025matchcompare}. There is much less work investigating how LLMs can be employed to automate complete end-to-end data integration workflows. One such work is KGPipes~\cite{hofer2025kgpipes} which uses LLMs within integration pipelines for the construction of knowledge graphs. Besides relying on a different underlying data model, KGPipes employs LLMs for fewer tasks in the integration pipeline and uses the LLM to perform entity matching directly, which is more expensive and less scalable than the training data labeling approach used in this paper.
-
-There is ongoing research on data agents~\cite{zhu2025surveydataagents} which perform data discovery, data preparation, and data analysis. Examples include AutoPrep~\cite{fanAutoPrep2025} which uses a multi-agent approach to prepare data for question answering, and SEED~\cite{maddenCafarellaSEED2023} which generates hybrid data curation pipelines that combine LLM querying with cost-effective alternatives such as vector-based caching and LLM-generated code. Similar to our work, SEED employs LLMs to label training data for entity matching, but does not use an active learning workflow.
-Research on synthesizing data preparation pipelines that pre-dates the widespread adoption of LLMs includes AutoPipeline~\cite{AutoPipelineVLDB2021} which assembles string transformations and table-manipulation operators (e.g., Join, GroupBy, Pivot, etc.) into pipelines using search and reinforcement learning.
-
-
