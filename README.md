@@ -6,6 +6,8 @@ This repository contains the code, case study data, and pipeline outputs for the
 > Aaron Steiner, Christian Bizer
 > @ Web Science Group, University of Mannheim
 
+This work has been accepted for presentation at the [Beyond SQL Workshop 2026: AI for Complex Data Management](https://beyond-sql.github.io/), co-located with ICDE 2026.
+
 ## Abstract
 
 Designing data integration pipelines requires substantial manual effort from data engineers who must configure pipeline components and label training data for each integration task. This paper investigates the potential of LLMs to fully automate end-to-end data integration pipelines. We present three case studies covering the integration of heterogeneous data sources describing music releases, video games, and companies. For each pipeline step -- schema matching, value normalization, entity matching, and data fusion -- we compare the performance achieved using GPT-5.2 against the performance achieved by graduate-level data engineers who manually configured the pipeline and labeled training data.
